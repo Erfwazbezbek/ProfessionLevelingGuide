@@ -1,0 +1,5151 @@
+{
+   "template":"spell",
+   "id":"khaz-algar-patterns",
+   "name":"Khaz Algar Patterns",
+   "tabs":"tabsRelated",
+   "parent":"lkljbjkb574",
+   "note":"<a href=\"\/spells\/professions\/tailoring?filter=20;1;0\">Filter these results<\/a>",
+   "sort":[
+      "-skill",
+      "name"
+   ],
+   "hiddenCols":[
+      "slot"
+   ],
+   "visibleCols":[
+      "source"
+   ],
+   "data":[
+      {
+         "cat":11,
+         "colors":[
+            0,
+            30,
+            32,
+            35
+         ],
+         "creates":[
+            222798,
+            2,
+            2
+         ],
+         "displayName":"Duskweave Bolt",
+         "id":446927,
+         "learnedat":30,
+         "level":0,
+         "name":"Duskweave Bolt",
+         "nskillup":1,
+         "quality":4,
+         "reagents":[
+            [
+               222789,
+               8
+            ],
+            [
+               224832,
+               2
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            197
+         ],
+         "optionalReagents":[
+            {
+               "id":357,
+               "description":"Exquisite Weavercloth Bolt"
+            },
+            {
+               "id":370,
+               "description":"Embroidery Thread"
+            },
+            {
+               "id":327,
+               "description":"Spool of Duskthread"
+            },
+            {
+               "id":346,
+               "description":"Artisan's Authenticity"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            30,
+            32,
+            35
+         ],
+         "creates":[
+            222801,
+            2,
+            2
+         ],
+         "displayName":"Dawnweave Bolt",
+         "id":446928,
+         "learnedat":30,
+         "level":0,
+         "name":"Dawnweave Bolt",
+         "nskillup":1,
+         "quality":4,
+         "reagents":[
+            [
+               222792,
+               8
+            ],
+            [
+               224832,
+               2
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            197
+         ],
+         "optionalReagents":[
+            {
+               "id":357,
+               "description":"Exquisite Weavercloth Bolt"
+            },
+            {
+               "id":370,
+               "description":"Embroidery Thread"
+            },
+            {
+               "id":328,
+               "description":"Spool of Dawnthread"
+            },
+            {
+               "id":346,
+               "description":"Artisan's Authenticity"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            15,
+            20,
+            25
+         ],
+         "creates":[
+            222804,
+            1,
+            1
+         ],
+         "displayName":"Weavercloth Bolt",
+         "id":446929,
+         "learnedat":15,
+         "level":0,
+         "name":"Weavercloth Bolt",
+         "nskillup":1,
+         "quality":2,
+         "reagents":[
+            [
+               224764,
+               6
+            ],
+            [
+               222795,
+               10
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            197
+         ],
+         "source":[
+            6
+         ],
+         "trainingcost":640000,
+         "optionalReagents":[
+            {
+               "id":329,
+               "description":"Spool of Weaverthread"
+            },
+            {
+               "id":333,
+               "description":"Embroidery Thread"
+            },
+            {
+               "id":370,
+               "description":"Embroidery Thread"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            100,
+            100,
+            100
+         ],
+         "creates":[
+            222807,
+            1,
+            1
+         ],
+         "displayName":"Grips of the Woven Dawn",
+         "id":446930,
+         "learnedat":100,
+         "level":0,
+         "name":"Grips of the Woven Dawn",
+         "nskillup":3,
+         "quality":4,
+         "reagents":[
+            [
+               228930,
+               5
+            ],
+            [
+               219949,
+               6
+            ],
+            [
+               222792,
+               15
+            ],
+            [
+               222801,
+               8
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            197
+         ],
+         "optionalReagents":[
+            {
+               "id":331,
+               "description":"Dawncloth Bolt"
+            },
+            {
+               "id":302,
+               "description":"Gleaming Shard"
+            },
+            {
+               "id":375,
+               "description":"Embroidery Thread"
+            },
+            {
+               "id":256,
+               "description":"Spark"
+            },
+            {
+               "id":284,
+               "description":"Infuse with Power"
+            },
+            {
+               "id":346,
+               "description":"Artisan's Authenticity"
+            },
+            {
+               "id":328,
+               "description":"Spool of Dawnthread"
+            },
+            {
+               "id":384,
+               "description":"Augment Beyond"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            100,
+            100,
+            100
+         ],
+         "creates":[
+            222808,
+            1,
+            1
+         ],
+         "displayName":"Treads of the Woven Dawn",
+         "id":446931,
+         "learnedat":100,
+         "level":0,
+         "name":"Treads of the Woven Dawn",
+         "nskillup":3,
+         "quality":4,
+         "reagents":[
+            [
+               228930,
+               5
+            ],
+            [
+               219949,
+               6
+            ],
+            [
+               222792,
+               10
+            ],
+            [
+               222801,
+               10
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            197
+         ],
+         "optionalReagents":[
+            {
+               "id":331,
+               "description":"Dawncloth Bolt"
+            },
+            {
+               "id":302,
+               "description":"Gleaming Shard"
+            },
+            {
+               "id":375,
+               "description":"Embroidery Thread"
+            },
+            {
+               "id":256,
+               "description":"Spark"
+            },
+            {
+               "id":284,
+               "description":"Infuse with Power"
+            },
+            {
+               "id":346,
+               "description":"Artisan's Authenticity"
+            },
+            {
+               "id":328,
+               "description":"Spool of Dawnthread"
+            },
+            {
+               "id":384,
+               "description":"Augment Beyond"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            100,
+            100,
+            100
+         ],
+         "creates":[
+            222809,
+            1,
+            1
+         ],
+         "displayName":"Gloves of the Woven Dusk",
+         "id":446932,
+         "learnedat":100,
+         "level":0,
+         "name":"Gloves of the Woven Dusk",
+         "nskillup":3,
+         "quality":4,
+         "reagents":[
+            [
+               228930,
+               5
+            ],
+            [
+               219949,
+               6
+            ],
+            [
+               222789,
+               15
+            ],
+            [
+               222798,
+               8
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            197
+         ],
+         "optionalReagents":[
+            {
+               "id":330,
+               "description":"Duskcloth Bolt"
+            },
+            {
+               "id":302,
+               "description":"Gleaming Shard"
+            },
+            {
+               "id":375,
+               "description":"Embroidery Thread"
+            },
+            {
+               "id":256,
+               "description":"Spark"
+            },
+            {
+               "id":284,
+               "description":"Infuse with Power"
+            },
+            {
+               "id":346,
+               "description":"Artisan's Authenticity"
+            },
+            {
+               "id":327,
+               "description":"Spool of Duskthread"
+            },
+            {
+               "id":384,
+               "description":"Augment Beyond"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            100,
+            100,
+            100
+         ],
+         "creates":[
+            222810,
+            1,
+            1
+         ],
+         "displayName":"Slippers of the Woven Dusk",
+         "id":446933,
+         "learnedat":100,
+         "level":0,
+         "name":"Slippers of the Woven Dusk",
+         "nskillup":3,
+         "quality":4,
+         "reagents":[
+            [
+               228930,
+               5
+            ],
+            [
+               219949,
+               6
+            ],
+            [
+               222789,
+               10
+            ],
+            [
+               222798,
+               10
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            197
+         ],
+         "optionalReagents":[
+            {
+               "id":330,
+               "description":"Duskcloth Bolt"
+            },
+            {
+               "id":302,
+               "description":"Gleaming Shard"
+            },
+            {
+               "id":375,
+               "description":"Embroidery Thread"
+            },
+            {
+               "id":256,
+               "description":"Spark"
+            },
+            {
+               "id":284,
+               "description":"Infuse with Power"
+            },
+            {
+               "id":346,
+               "description":"Artisan's Authenticity"
+            },
+            {
+               "id":327,
+               "description":"Spool of Duskthread"
+            },
+            {
+               "id":384,
+               "description":"Augment Beyond"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            100,
+            100,
+            100
+         ],
+         "creates":[
+            222811,
+            1,
+            1
+         ],
+         "displayName":"Warm Sunrise Bracers",
+         "id":446934,
+         "learnedat":100,
+         "level":0,
+         "name":"Warm Sunrise Bracers",
+         "nskillup":3,
+         "quality":4,
+         "reagents":[
+            [
+               228930,
+               5
+            ],
+            [
+               219949,
+               4
+            ],
+            [
+               222792,
+               20
+            ],
+            [
+               222801,
+               6
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            197
+         ],
+         "optionalReagents":[
+            {
+               "id":331,
+               "description":"Dawncloth Bolt"
+            },
+            {
+               "id":302,
+               "description":"Gleaming Shard"
+            },
+            {
+               "id":375,
+               "description":"Embroidery Thread"
+            },
+            {
+               "id":256,
+               "description":"Spark"
+            },
+            {
+               "id":284,
+               "description":"Infuse with Power"
+            },
+            {
+               "id":346,
+               "description":"Artisan's Authenticity"
+            },
+            {
+               "id":328,
+               "description":"Spool of Dawnthread"
+            },
+            {
+               "id":363,
+               "description":"Socket"
+            },
+            {
+               "id":283,
+               "description":"Customize Secondary Stats"
+            },
+            {
+               "id":384,
+               "description":"Augment Beyond"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            100,
+            100,
+            100
+         ],
+         "creates":[
+            222812,
+            1,
+            1
+         ],
+         "displayName":"Cool Sunset Bracers",
+         "id":446935,
+         "learnedat":100,
+         "level":0,
+         "name":"Cool Sunset Bracers",
+         "nskillup":3,
+         "quality":4,
+         "reagents":[
+            [
+               228930,
+               5
+            ],
+            [
+               219949,
+               4
+            ],
+            [
+               222789,
+               20
+            ],
+            [
+               222798,
+               6
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            197
+         ],
+         "optionalReagents":[
+            {
+               "id":330,
+               "description":"Duskcloth Bolt"
+            },
+            {
+               "id":302,
+               "description":"Gleaming Shard"
+            },
+            {
+               "id":375,
+               "description":"Embroidery Thread"
+            },
+            {
+               "id":256,
+               "description":"Spark"
+            },
+            {
+               "id":284,
+               "description":"Infuse with Power"
+            },
+            {
+               "id":346,
+               "description":"Artisan's Authenticity"
+            },
+            {
+               "id":327,
+               "description":"Spool of Duskthread"
+            },
+            {
+               "id":363,
+               "description":"Socket"
+            },
+            {
+               "id":283,
+               "description":"Customize Secondary Stats"
+            },
+            {
+               "id":384,
+               "description":"Augment Beyond"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            100,
+            100,
+            100
+         ],
+         "creates":[
+            222814,
+            1,
+            1
+         ],
+         "displayName":"Consecrated Slippers",
+         "id":446937,
+         "learnedat":100,
+         "level":0,
+         "name":"Consecrated Slippers",
+         "nskillup":3,
+         "quality":4,
+         "reagents":[
+            [
+               228930,
+               5
+            ],
+            [
+               219949,
+               3
+            ],
+            [
+               224832,
+               15
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            197
+         ],
+         "optionalReagents":[
+            {
+               "id":357,
+               "description":"Exquisite Weavercloth Bolt"
+            },
+            {
+               "id":302,
+               "description":"Gleaming Shard"
+            },
+            {
+               "id":375,
+               "description":"Embroidery Thread"
+            },
+            {
+               "id":256,
+               "description":"Spark"
+            },
+            {
+               "id":312,
+               "description":"Add Embellishment"
+            },
+            {
+               "id":283,
+               "description":"Customize Secondary Stats"
+            },
+            {
+               "id":284,
+               "description":"Infuse with Power"
+            },
+            {
+               "id":346,
+               "description":"Artisan's Authenticity"
+            },
+            {
+               "id":384,
+               "description":"Augment Beyond"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            100,
+            100,
+            100
+         ],
+         "creates":[
+            222815,
+            1,
+            1
+         ],
+         "displayName":"Consecrated Cuffs",
+         "id":446938,
+         "learnedat":100,
+         "level":0,
+         "name":"Consecrated Cuffs",
+         "nskillup":3,
+         "quality":4,
+         "reagents":[
+            [
+               228930,
+               5
+            ],
+            [
+               219949,
+               2
+            ],
+            [
+               224832,
+               10
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            197
+         ],
+         "optionalReagents":[
+            {
+               "id":357,
+               "description":"Exquisite Weavercloth Bolt"
+            },
+            {
+               "id":302,
+               "description":"Gleaming Shard"
+            },
+            {
+               "id":375,
+               "description":"Embroidery Thread"
+            },
+            {
+               "id":256,
+               "description":"Spark"
+            },
+            {
+               "id":312,
+               "description":"Add Embellishment"
+            },
+            {
+               "id":283,
+               "description":"Customize Secondary Stats"
+            },
+            {
+               "id":284,
+               "description":"Infuse with Power"
+            },
+            {
+               "id":346,
+               "description":"Artisan's Authenticity"
+            },
+            {
+               "id":363,
+               "description":"Socket"
+            },
+            {
+               "id":384,
+               "description":"Augment Beyond"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            100,
+            100,
+            100
+         ],
+         "creates":[
+            222816,
+            1,
+            1
+         ],
+         "displayName":"Consecrated Cord",
+         "id":446939,
+         "learnedat":100,
+         "level":0,
+         "name":"Consecrated Cord",
+         "nskillup":3,
+         "quality":4,
+         "reagents":[
+            [
+               228930,
+               5
+            ],
+            [
+               219949,
+               3
+            ],
+            [
+               224832,
+               15
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            197
+         ],
+         "optionalReagents":[
+            {
+               "id":357,
+               "description":"Exquisite Weavercloth Bolt"
+            },
+            {
+               "id":302,
+               "description":"Gleaming Shard"
+            },
+            {
+               "id":375,
+               "description":"Embroidery Thread"
+            },
+            {
+               "id":256,
+               "description":"Spark"
+            },
+            {
+               "id":312,
+               "description":"Add Embellishment"
+            },
+            {
+               "id":283,
+               "description":"Customize Secondary Stats"
+            },
+            {
+               "id":284,
+               "description":"Infuse with Power"
+            },
+            {
+               "id":346,
+               "description":"Artisan's Authenticity"
+            },
+            {
+               "id":363,
+               "description":"Socket"
+            },
+            {
+               "id":384,
+               "description":"Augment Beyond"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            100,
+            100,
+            100
+         ],
+         "creates":[
+            222817,
+            1,
+            1
+         ],
+         "displayName":"Consecrated Cloak",
+         "id":446940,
+         "learnedat":100,
+         "level":0,
+         "name":"Consecrated Cloak",
+         "nskillup":3,
+         "quality":4,
+         "reagents":[
+            [
+               228930,
+               5
+            ],
+            [
+               219949,
+               2
+            ],
+            [
+               224832,
+               10
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            197
+         ],
+         "optionalReagents":[
+            {
+               "id":357,
+               "description":"Exquisite Weavercloth Bolt"
+            },
+            {
+               "id":302,
+               "description":"Gleaming Shard"
+            },
+            {
+               "id":375,
+               "description":"Embroidery Thread"
+            },
+            {
+               "id":256,
+               "description":"Spark"
+            },
+            {
+               "id":312,
+               "description":"Add Embellishment"
+            },
+            {
+               "id":283,
+               "description":"Customize Secondary Stats"
+            },
+            {
+               "id":284,
+               "description":"Infuse with Power"
+            },
+            {
+               "id":346,
+               "description":"Artisan's Authenticity"
+            },
+            {
+               "id":384,
+               "description":"Augment Beyond"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            100,
+            100,
+            100
+         ],
+         "creates":[
+            222818,
+            1,
+            1
+         ],
+         "displayName":"Consecrated Hood",
+         "id":446941,
+         "learnedat":100,
+         "level":0,
+         "name":"Consecrated Hood",
+         "nskillup":3,
+         "quality":4,
+         "reagents":[
+            [
+               228930,
+               5
+            ],
+            [
+               219949,
+               4
+            ],
+            [
+               224832,
+               20
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            197
+         ],
+         "optionalReagents":[
+            {
+               "id":357,
+               "description":"Exquisite Weavercloth Bolt"
+            },
+            {
+               "id":302,
+               "description":"Gleaming Shard"
+            },
+            {
+               "id":375,
+               "description":"Embroidery Thread"
+            },
+            {
+               "id":256,
+               "description":"Spark"
+            },
+            {
+               "id":312,
+               "description":"Add Embellishment"
+            },
+            {
+               "id":283,
+               "description":"Customize Secondary Stats"
+            },
+            {
+               "id":284,
+               "description":"Infuse with Power"
+            },
+            {
+               "id":346,
+               "description":"Artisan's Authenticity"
+            },
+            {
+               "id":363,
+               "description":"Socket"
+            },
+            {
+               "id":384,
+               "description":"Augment Beyond"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            100,
+            100,
+            100
+         ],
+         "creates":[
+            222819,
+            1,
+            1
+         ],
+         "displayName":"Consecrated Robe",
+         "id":446942,
+         "learnedat":100,
+         "level":0,
+         "name":"Consecrated Robe",
+         "nskillup":3,
+         "quality":4,
+         "reagents":[
+            [
+               228930,
+               5
+            ],
+            [
+               219949,
+               4
+            ],
+            [
+               224832,
+               20
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            197
+         ],
+         "optionalReagents":[
+            {
+               "id":357,
+               "description":"Exquisite Weavercloth Bolt"
+            },
+            {
+               "id":302,
+               "description":"Gleaming Shard"
+            },
+            {
+               "id":375,
+               "description":"Embroidery Thread"
+            },
+            {
+               "id":256,
+               "description":"Spark"
+            },
+            {
+               "id":312,
+               "description":"Add Embellishment"
+            },
+            {
+               "id":283,
+               "description":"Customize Secondary Stats"
+            },
+            {
+               "id":284,
+               "description":"Infuse with Power"
+            },
+            {
+               "id":346,
+               "description":"Artisan's Authenticity"
+            },
+            {
+               "id":384,
+               "description":"Augment Beyond"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            100,
+            100,
+            100
+         ],
+         "creates":[
+            222820,
+            1,
+            1
+         ],
+         "displayName":"Consecrated Leggings",
+         "id":446943,
+         "learnedat":100,
+         "level":0,
+         "name":"Consecrated Leggings",
+         "nskillup":3,
+         "quality":4,
+         "reagents":[
+            [
+               228930,
+               5
+            ],
+            [
+               219949,
+               4
+            ],
+            [
+               224832,
+               20
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            197
+         ],
+         "optionalReagents":[
+            {
+               "id":357,
+               "description":"Exquisite Weavercloth Bolt"
+            },
+            {
+               "id":302,
+               "description":"Gleaming Shard"
+            },
+            {
+               "id":375,
+               "description":"Embroidery Thread"
+            },
+            {
+               "id":256,
+               "description":"Spark"
+            },
+            {
+               "id":312,
+               "description":"Add Embellishment"
+            },
+            {
+               "id":283,
+               "description":"Customize Secondary Stats"
+            },
+            {
+               "id":284,
+               "description":"Infuse with Power"
+            },
+            {
+               "id":346,
+               "description":"Artisan's Authenticity"
+            },
+            {
+               "id":384,
+               "description":"Augment Beyond"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            100,
+            100,
+            100
+         ],
+         "creates":[
+            222821,
+            1,
+            1
+         ],
+         "displayName":"Consecrated Mantle",
+         "id":446944,
+         "learnedat":100,
+         "level":0,
+         "name":"Consecrated Mantle",
+         "nskillup":3,
+         "quality":4,
+         "reagents":[
+            [
+               228930,
+               5
+            ],
+            [
+               219949,
+               3
+            ],
+            [
+               224832,
+               15
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            197
+         ],
+         "optionalReagents":[
+            {
+               "id":357,
+               "description":"Exquisite Weavercloth Bolt"
+            },
+            {
+               "id":302,
+               "description":"Gleaming Shard"
+            },
+            {
+               "id":375,
+               "description":"Embroidery Thread"
+            },
+            {
+               "id":256,
+               "description":"Spark"
+            },
+            {
+               "id":312,
+               "description":"Add Embellishment"
+            },
+            {
+               "id":283,
+               "description":"Customize Secondary Stats"
+            },
+            {
+               "id":284,
+               "description":"Infuse with Power"
+            },
+            {
+               "id":346,
+               "description":"Artisan's Authenticity"
+            },
+            {
+               "id":384,
+               "description":"Augment Beyond"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            100,
+            100,
+            100
+         ],
+         "creates":[
+            222822,
+            1,
+            1
+         ],
+         "displayName":"Consecrated Gloves",
+         "id":446945,
+         "learnedat":100,
+         "level":0,
+         "name":"Consecrated Gloves",
+         "nskillup":3,
+         "quality":4,
+         "reagents":[
+            [
+               228930,
+               5
+            ],
+            [
+               219949,
+               3
+            ],
+            [
+               224832,
+               15
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            197
+         ],
+         "optionalReagents":[
+            {
+               "id":357,
+               "description":"Exquisite Weavercloth Bolt"
+            },
+            {
+               "id":302,
+               "description":"Gleaming Shard"
+            },
+            {
+               "id":375,
+               "description":"Embroidery Thread"
+            },
+            {
+               "id":256,
+               "description":"Spark"
+            },
+            {
+               "id":312,
+               "description":"Add Embellishment"
+            },
+            {
+               "id":283,
+               "description":"Customize Secondary Stats"
+            },
+            {
+               "id":284,
+               "description":"Infuse with Power"
+            },
+            {
+               "id":346,
+               "description":"Artisan's Authenticity"
+            },
+            {
+               "id":384,
+               "description":"Augment Beyond"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            60,
+            65,
+            70
+         ],
+         "creates":[
+            217119,
+            1,
+            1
+         ],
+         "displayName":"Algari Competitor's Cloth Treads",
+         "id":438891,
+         "learnedat":60,
+         "level":0,
+         "name":"Algari Competitor's Cloth Treads",
+         "nskillup":2,
+         "quality":2,
+         "reagents":[
+            [
+               222795,
+               2
+            ],
+            [
+               224832,
+               4
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            197
+         ],
+         "source":[
+            2,
+            5
+         ],
+         "optionalReagents":[
+            {
+               "id":255,
+               "description":"Competitor's Heraldry"
+            },
+            {
+               "id":281,
+               "description":"Add Embellishment"
+            },
+            {
+               "id":375,
+               "description":"Embroidery Thread"
+            },
+            {
+               "id":283,
+               "description":"Customize Secondary Stats"
+            },
+            {
+               "id":346,
+               "description":"Artisan's Authenticity"
+            },
+            {
+               "id":357,
+               "description":"Exquisite Weavercloth Bolt"
+            },
+            {
+               "id":329,
+               "description":"Spool of Weaverthread"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            60,
+            65,
+            70
+         ],
+         "creates":[
+            217124,
+            1,
+            1
+         ],
+         "displayName":"Algari Competitor's Cloth Sash",
+         "id":438896,
+         "learnedat":60,
+         "level":0,
+         "name":"Algari Competitor's Cloth Sash",
+         "nskillup":2,
+         "quality":2,
+         "reagents":[
+            [
+               222795,
+               2
+            ],
+            [
+               224832,
+               4
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            197
+         ],
+         "source":[
+            2,
+            5
+         ],
+         "optionalReagents":[
+            {
+               "id":255,
+               "description":"Competitor's Heraldry"
+            },
+            {
+               "id":281,
+               "description":"Add Embellishment"
+            },
+            {
+               "id":375,
+               "description":"Embroidery Thread"
+            },
+            {
+               "id":283,
+               "description":"Customize Secondary Stats"
+            },
+            {
+               "id":346,
+               "description":"Artisan's Authenticity"
+            },
+            {
+               "id":357,
+               "description":"Exquisite Weavercloth Bolt"
+            },
+            {
+               "id":329,
+               "description":"Spool of Weaverthread"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            60,
+            65,
+            70
+         ],
+         "creates":[
+            217120,
+            1,
+            1
+         ],
+         "displayName":"Algari Competitor's Cloth Bands",
+         "id":438892,
+         "learnedat":60,
+         "level":0,
+         "name":"Algari Competitor's Cloth Bands",
+         "nskillup":2,
+         "quality":2,
+         "reagents":[
+            [
+               222795,
+               2
+            ],
+            [
+               224832,
+               2
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            197
+         ],
+         "source":[
+            2,
+            5
+         ],
+         "optionalReagents":[
+            {
+               "id":255,
+               "description":"Competitor's Heraldry"
+            },
+            {
+               "id":281,
+               "description":"Add Embellishment"
+            },
+            {
+               "id":375,
+               "description":"Embroidery Thread"
+            },
+            {
+               "id":283,
+               "description":"Customize Secondary Stats"
+            },
+            {
+               "id":346,
+               "description":"Artisan's Authenticity"
+            },
+            {
+               "id":357,
+               "description":"Exquisite Weavercloth Bolt"
+            },
+            {
+               "id":329,
+               "description":"Spool of Weaverthread"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            60,
+            65,
+            70
+         ],
+         "creates":[
+            217125,
+            1,
+            1
+         ],
+         "displayName":"Algari Competitor's Cloth Cloak",
+         "id":438897,
+         "learnedat":60,
+         "level":0,
+         "name":"Algari Competitor's Cloth Cloak",
+         "nskillup":2,
+         "quality":2,
+         "reagents":[
+            [
+               222795,
+               2
+            ],
+            [
+               224832,
+               2
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            197
+         ],
+         "source":[
+            2,
+            5
+         ],
+         "optionalReagents":[
+            {
+               "id":255,
+               "description":"Competitor's Heraldry"
+            },
+            {
+               "id":281,
+               "description":"Add Embellishment"
+            },
+            {
+               "id":375,
+               "description":"Embroidery Thread"
+            },
+            {
+               "id":283,
+               "description":"Customize Secondary Stats"
+            },
+            {
+               "id":346,
+               "description":"Artisan's Authenticity"
+            },
+            {
+               "id":357,
+               "description":"Exquisite Weavercloth Bolt"
+            },
+            {
+               "id":329,
+               "description":"Spool of Weaverthread"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            60,
+            65,
+            70
+         ],
+         "creates":[
+            217121,
+            1,
+            1
+         ],
+         "displayName":"Algari Competitor's Cloth Hood",
+         "id":438893,
+         "learnedat":60,
+         "level":0,
+         "name":"Algari Competitor's Cloth Hood",
+         "nskillup":2,
+         "quality":2,
+         "reagents":[
+            [
+               222795,
+               2
+            ],
+            [
+               224832,
+               6
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            197
+         ],
+         "source":[
+            2,
+            5
+         ],
+         "optionalReagents":[
+            {
+               "id":255,
+               "description":"Competitor's Heraldry"
+            },
+            {
+               "id":281,
+               "description":"Add Embellishment"
+            },
+            {
+               "id":375,
+               "description":"Embroidery Thread"
+            },
+            {
+               "id":283,
+               "description":"Customize Secondary Stats"
+            },
+            {
+               "id":346,
+               "description":"Artisan's Authenticity"
+            },
+            {
+               "id":357,
+               "description":"Exquisite Weavercloth Bolt"
+            },
+            {
+               "id":329,
+               "description":"Spool of Weaverthread"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            60,
+            65,
+            70
+         ],
+         "creates":[
+            217123,
+            1,
+            1
+         ],
+         "displayName":"Algari Competitor's Cloth Tunic",
+         "id":438895,
+         "learnedat":60,
+         "level":0,
+         "name":"Algari Competitor's Cloth Tunic",
+         "nskillup":2,
+         "quality":2,
+         "reagents":[
+            [
+               222795,
+               2
+            ],
+            [
+               224832,
+               6
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            197
+         ],
+         "source":[
+            2,
+            5
+         ],
+         "optionalReagents":[
+            {
+               "id":255,
+               "description":"Competitor's Heraldry"
+            },
+            {
+               "id":281,
+               "description":"Add Embellishment"
+            },
+            {
+               "id":375,
+               "description":"Embroidery Thread"
+            },
+            {
+               "id":283,
+               "description":"Customize Secondary Stats"
+            },
+            {
+               "id":346,
+               "description":"Artisan's Authenticity"
+            },
+            {
+               "id":357,
+               "description":"Exquisite Weavercloth Bolt"
+            },
+            {
+               "id":329,
+               "description":"Spool of Weaverthread"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            60,
+            65,
+            70
+         ],
+         "creates":[
+            217117,
+            1,
+            1
+         ],
+         "displayName":"Algari Competitor's Cloth Leggings",
+         "id":438889,
+         "learnedat":60,
+         "level":0,
+         "name":"Algari Competitor's Cloth Leggings",
+         "nskillup":2,
+         "quality":2,
+         "reagents":[
+            [
+               222795,
+               2
+            ],
+            [
+               224832,
+               6
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            197
+         ],
+         "source":[
+            2,
+            5
+         ],
+         "optionalReagents":[
+            {
+               "id":255,
+               "description":"Competitor's Heraldry"
+            },
+            {
+               "id":281,
+               "description":"Add Embellishment"
+            },
+            {
+               "id":375,
+               "description":"Embroidery Thread"
+            },
+            {
+               "id":283,
+               "description":"Customize Secondary Stats"
+            },
+            {
+               "id":346,
+               "description":"Artisan's Authenticity"
+            },
+            {
+               "id":357,
+               "description":"Exquisite Weavercloth Bolt"
+            },
+            {
+               "id":329,
+               "description":"Spool of Weaverthread"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            60,
+            65,
+            70
+         ],
+         "creates":[
+            217118,
+            1,
+            1
+         ],
+         "displayName":"Algari Competitor's Cloth Shoulderpads",
+         "id":438890,
+         "learnedat":60,
+         "level":0,
+         "name":"Algari Competitor's Cloth Shoulderpads",
+         "nskillup":2,
+         "quality":2,
+         "reagents":[
+            [
+               222795,
+               2
+            ],
+            [
+               224832,
+               4
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            197
+         ],
+         "source":[
+            2,
+            5
+         ],
+         "optionalReagents":[
+            {
+               "id":255,
+               "description":"Competitor's Heraldry"
+            },
+            {
+               "id":281,
+               "description":"Add Embellishment"
+            },
+            {
+               "id":375,
+               "description":"Embroidery Thread"
+            },
+            {
+               "id":283,
+               "description":"Customize Secondary Stats"
+            },
+            {
+               "id":346,
+               "description":"Artisan's Authenticity"
+            },
+            {
+               "id":357,
+               "description":"Exquisite Weavercloth Bolt"
+            },
+            {
+               "id":329,
+               "description":"Spool of Weaverthread"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            60,
+            65,
+            70
+         ],
+         "creates":[
+            217122,
+            1,
+            1
+         ],
+         "displayName":"Algari Competitor's Cloth Gloves",
+         "id":438894,
+         "learnedat":60,
+         "level":0,
+         "name":"Algari Competitor's Cloth Gloves",
+         "nskillup":2,
+         "quality":2,
+         "reagents":[
+            [
+               222795,
+               2
+            ],
+            [
+               224832,
+               4
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            197
+         ],
+         "source":[
+            2,
+            5
+         ],
+         "optionalReagents":[
+            {
+               "id":255,
+               "description":"Competitor's Heraldry"
+            },
+            {
+               "id":281,
+               "description":"Add Embellishment"
+            },
+            {
+               "id":375,
+               "description":"Embroidery Thread"
+            },
+            {
+               "id":283,
+               "description":"Customize Secondary Stats"
+            },
+            {
+               "id":346,
+               "description":"Artisan's Authenticity"
+            },
+            {
+               "id":357,
+               "description":"Exquisite Weavercloth Bolt"
+            },
+            {
+               "id":329,
+               "description":"Spool of Weaverthread"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            20,
+            25,
+            30
+         ],
+         "creates":[
+            222832,
+            1,
+            1
+         ],
+         "displayName":"Pioneer's Cloth Slippers",
+         "id":446955,
+         "learnedat":20,
+         "level":0,
+         "name":"Pioneer's Cloth Slippers",
+         "nskillup":2,
+         "quality":3,
+         "reagents":[
+            [
+               224764,
+               3
+            ],
+            [
+               222804,
+               2
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            197
+         ],
+         "source":[
+            6
+         ],
+         "trainingcost":880000,
+         "optionalReagents":[
+            {
+               "id":332,
+               "description":"Weavercloth Bolt"
+            },
+            {
+               "id":375,
+               "description":"Embroidery Thread"
+            },
+            {
+               "id":368,
+               "description":"Empower"
+            },
+            {
+               "id":312,
+               "description":"Add Embellishment"
+            },
+            {
+               "id":283,
+               "description":"Customize Secondary Stats"
+            },
+            {
+               "id":346,
+               "description":"Artisan's Authenticity"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            15,
+            20,
+            25
+         ],
+         "creates":[
+            222833,
+            1,
+            1
+         ],
+         "displayName":"Pioneer's Cloth Cuffs",
+         "id":446956,
+         "learnedat":15,
+         "level":0,
+         "name":"Pioneer's Cloth Cuffs",
+         "nskillup":2,
+         "quality":3,
+         "reagents":[
+            [
+               224764,
+               2
+            ],
+            [
+               222804,
+               2
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            197
+         ],
+         "source":[
+            6
+         ],
+         "trainingcost":640000,
+         "optionalReagents":[
+            {
+               "id":332,
+               "description":"Weavercloth Bolt"
+            },
+            {
+               "id":375,
+               "description":"Embroidery Thread"
+            },
+            {
+               "id":368,
+               "description":"Empower"
+            },
+            {
+               "id":312,
+               "description":"Add Embellishment"
+            },
+            {
+               "id":283,
+               "description":"Customize Secondary Stats"
+            },
+            {
+               "id":346,
+               "description":"Artisan's Authenticity"
+            },
+            {
+               "id":364,
+               "description":"Socket"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            30,
+            35,
+            40
+         ],
+         "creates":[
+            222834,
+            1,
+            1
+         ],
+         "displayName":"Pioneer's Perfected Cord",
+         "id":446957,
+         "learnedat":30,
+         "level":0,
+         "name":"Pioneer's Perfected Cord",
+         "nskillup":2,
+         "quality":3,
+         "reagents":[
+            [
+               224764,
+               3
+            ],
+            [
+               228930,
+               2
+            ],
+            [
+               222804,
+               2
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            197
+         ],
+         "source":[
+            6
+         ],
+         "trainingcost":1200000,
+         "optionalReagents":[
+            {
+               "id":332,
+               "description":"Weavercloth Bolt"
+            },
+            {
+               "id":375,
+               "description":"Embroidery Thread"
+            },
+            {
+               "id":342,
+               "description":"Empower"
+            },
+            {
+               "id":312,
+               "description":"Add Embellishment"
+            },
+            {
+               "id":283,
+               "description":"Customize Secondary Stats"
+            },
+            {
+               "id":346,
+               "description":"Artisan's Authenticity"
+            },
+            {
+               "id":364,
+               "description":"Socket"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            35,
+            40,
+            45
+         ],
+         "creates":[
+            222835,
+            1,
+            1
+         ],
+         "displayName":"Pioneer's Perfected Cloak",
+         "id":446958,
+         "learnedat":35,
+         "level":0,
+         "name":"Pioneer's Perfected Cloak",
+         "nskillup":2,
+         "quality":3,
+         "reagents":[
+            [
+               224764,
+               2
+            ],
+            [
+               228930,
+               1
+            ],
+            [
+               222804,
+               2
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            197
+         ],
+         "source":[
+            6
+         ],
+         "trainingcost":1280000,
+         "optionalReagents":[
+            {
+               "id":332,
+               "description":"Weavercloth Bolt"
+            },
+            {
+               "id":375,
+               "description":"Embroidery Thread"
+            },
+            {
+               "id":342,
+               "description":"Empower"
+            },
+            {
+               "id":312,
+               "description":"Add Embellishment"
+            },
+            {
+               "id":283,
+               "description":"Customize Secondary Stats"
+            },
+            {
+               "id":346,
+               "description":"Artisan's Authenticity"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            40,
+            45,
+            50
+         ],
+         "creates":[
+            222836,
+            1,
+            1
+         ],
+         "displayName":"Pioneer's Perfected Hood",
+         "id":446959,
+         "learnedat":40,
+         "level":0,
+         "name":"Pioneer's Perfected Hood",
+         "nskillup":2,
+         "quality":3,
+         "reagents":[
+            [
+               224764,
+               4
+            ],
+            [
+               228930,
+               3
+            ],
+            [
+               222804,
+               3
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            197
+         ],
+         "source":[
+            6
+         ],
+         "trainingcost":1360000,
+         "optionalReagents":[
+            {
+               "id":332,
+               "description":"Weavercloth Bolt"
+            },
+            {
+               "id":375,
+               "description":"Embroidery Thread"
+            },
+            {
+               "id":342,
+               "description":"Empower"
+            },
+            {
+               "id":312,
+               "description":"Add Embellishment"
+            },
+            {
+               "id":283,
+               "description":"Customize Secondary Stats"
+            },
+            {
+               "id":346,
+               "description":"Artisan's Authenticity"
+            },
+            {
+               "id":364,
+               "description":"Socket"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            25,
+            30,
+            35
+         ],
+         "creates":[
+            222837,
+            1,
+            1
+         ],
+         "displayName":"Pioneer's Cloth Robe",
+         "id":446960,
+         "learnedat":25,
+         "level":0,
+         "name":"Pioneer's Cloth Robe",
+         "nskillup":2,
+         "quality":3,
+         "reagents":[
+            [
+               224764,
+               3
+            ],
+            [
+               222804,
+               3
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            197
+         ],
+         "source":[
+            6
+         ],
+         "trainingcost":1120000,
+         "optionalReagents":[
+            {
+               "id":332,
+               "description":"Weavercloth Bolt"
+            },
+            {
+               "id":375,
+               "description":"Embroidery Thread"
+            },
+            {
+               "id":368,
+               "description":"Empower"
+            },
+            {
+               "id":312,
+               "description":"Add Embellishment"
+            },
+            {
+               "id":283,
+               "description":"Customize Secondary Stats"
+            },
+            {
+               "id":346,
+               "description":"Artisan's Authenticity"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            35,
+            40,
+            45
+         ],
+         "creates":[
+            222838,
+            1,
+            1
+         ],
+         "displayName":"Pioneer's Perfected Leggings",
+         "id":446961,
+         "learnedat":35,
+         "level":0,
+         "name":"Pioneer's Perfected Leggings",
+         "nskillup":2,
+         "quality":3,
+         "reagents":[
+            [
+               224764,
+               4
+            ],
+            [
+               228930,
+               3
+            ],
+            [
+               222804,
+               3
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            197
+         ],
+         "source":[
+            6
+         ],
+         "trainingcost":1280000,
+         "optionalReagents":[
+            {
+               "id":332,
+               "description":"Weavercloth Bolt"
+            },
+            {
+               "id":375,
+               "description":"Embroidery Thread"
+            },
+            {
+               "id":342,
+               "description":"Empower"
+            },
+            {
+               "id":312,
+               "description":"Add Embellishment"
+            },
+            {
+               "id":283,
+               "description":"Customize Secondary Stats"
+            },
+            {
+               "id":346,
+               "description":"Artisan's Authenticity"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            45,
+            50,
+            55
+         ],
+         "creates":[
+            222839,
+            1,
+            1
+         ],
+         "displayName":"Pioneer's Perfected Mantle",
+         "id":446962,
+         "learnedat":45,
+         "level":0,
+         "name":"Pioneer's Perfected Mantle",
+         "nskillup":2,
+         "quality":3,
+         "reagents":[
+            [
+               224764,
+               3
+            ],
+            [
+               228930,
+               1
+            ],
+            [
+               222804,
+               2
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            197
+         ],
+         "source":[
+            6
+         ],
+         "trainingcost":1600000,
+         "optionalReagents":[
+            {
+               "id":332,
+               "description":"Weavercloth Bolt"
+            },
+            {
+               "id":375,
+               "description":"Embroidery Thread"
+            },
+            {
+               "id":342,
+               "description":"Empower"
+            },
+            {
+               "id":312,
+               "description":"Add Embellishment"
+            },
+            {
+               "id":283,
+               "description":"Customize Secondary Stats"
+            },
+            {
+               "id":346,
+               "description":"Artisan's Authenticity"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            45,
+            50,
+            55
+         ],
+         "creates":[
+            222840,
+            1,
+            1
+         ],
+         "displayName":"Pioneer's Perfected Gloves",
+         "id":446963,
+         "learnedat":45,
+         "level":0,
+         "name":"Pioneer's Perfected Gloves",
+         "nskillup":2,
+         "quality":3,
+         "reagents":[
+            [
+               224764,
+               3
+            ],
+            [
+               228930,
+               1
+            ],
+            [
+               222804,
+               2
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            197
+         ],
+         "source":[
+            6
+         ],
+         "trainingcost":1600000,
+         "optionalReagents":[
+            {
+               "id":332,
+               "description":"Weavercloth Bolt"
+            },
+            {
+               "id":375,
+               "description":"Embroidery Thread"
+            },
+            {
+               "id":342,
+               "description":"Empower"
+            },
+            {
+               "id":312,
+               "description":"Add Embellishment"
+            },
+            {
+               "id":283,
+               "description":"Customize Secondary Stats"
+            },
+            {
+               "id":346,
+               "description":"Artisan's Authenticity"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            35,
+            40,
+            45
+         ],
+         "creates":[
+            222841,
+            1,
+            1
+         ],
+         "displayName":"Weavercloth Gardening Hat",
+         "id":446964,
+         "learnedat":35,
+         "level":0,
+         "name":"Weavercloth Gardening Hat",
+         "nskillup":2,
+         "quality":2,
+         "reagents":[
+            [
+               224764,
+               3
+            ],
+            [
+               219946,
+               2
+            ],
+            [
+               224832,
+               1
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            197
+         ],
+         "source":[
+            6
+         ],
+         "trainingcost":1280000,
+         "optionalReagents":[
+            {
+               "id":357,
+               "description":"Exquisite Weavercloth Bolt"
+            },
+            {
+               "id":301,
+               "description":"Storm Dust"
+            },
+            {
+               "id":375,
+               "description":"Embroidery Thread"
+            },
+            {
+               "id":346,
+               "description":"Artisan's Authenticity"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            35,
+            40,
+            45
+         ],
+         "creates":[
+            222842,
+            1,
+            1
+         ],
+         "displayName":"Weavercloth Fishing Cap",
+         "id":446965,
+         "learnedat":35,
+         "level":0,
+         "name":"Weavercloth Fishing Cap",
+         "nskillup":2,
+         "quality":2,
+         "reagents":[
+            [
+               224764,
+               3
+            ],
+            [
+               219946,
+               2
+            ],
+            [
+               224832,
+               1
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            197
+         ],
+         "source":[
+            6
+         ],
+         "trainingcost":1280000,
+         "optionalReagents":[
+            {
+               "id":357,
+               "description":"Exquisite Weavercloth Bolt"
+            },
+            {
+               "id":301,
+               "description":"Storm Dust"
+            },
+            {
+               "id":375,
+               "description":"Embroidery Thread"
+            },
+            {
+               "id":346,
+               "description":"Artisan's Authenticity"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            35,
+            40,
+            45
+         ],
+         "creates":[
+            222843,
+            1,
+            1
+         ],
+         "displayName":"Weavercloth Enchanter's Hat",
+         "id":446966,
+         "learnedat":35,
+         "level":0,
+         "name":"Weavercloth Enchanter's Hat",
+         "nskillup":2,
+         "quality":2,
+         "reagents":[
+            [
+               224764,
+               3
+            ],
+            [
+               219946,
+               2
+            ],
+            [
+               224832,
+               1
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            197
+         ],
+         "source":[
+            6
+         ],
+         "trainingcost":1280000,
+         "optionalReagents":[
+            {
+               "id":357,
+               "description":"Exquisite Weavercloth Bolt"
+            },
+            {
+               "id":301,
+               "description":"Storm Dust"
+            },
+            {
+               "id":375,
+               "description":"Embroidery Thread"
+            },
+            {
+               "id":346,
+               "description":"Artisan's Authenticity"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            35,
+            40,
+            45
+         ],
+         "creates":[
+            222844,
+            1,
+            1
+         ],
+         "displayName":"Weavercloth Tailor's Coat",
+         "id":446967,
+         "learnedat":35,
+         "level":0,
+         "name":"Weavercloth Tailor's Coat",
+         "nskillup":2,
+         "quality":2,
+         "reagents":[
+            [
+               224764,
+               5
+            ],
+            [
+               219946,
+               2
+            ],
+            [
+               224832,
+               1
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            197
+         ],
+         "source":[
+            6
+         ],
+         "trainingcost":1280000,
+         "optionalReagents":[
+            {
+               "id":357,
+               "description":"Exquisite Weavercloth Bolt"
+            },
+            {
+               "id":301,
+               "description":"Storm Dust"
+            },
+            {
+               "id":375,
+               "description":"Embroidery Thread"
+            },
+            {
+               "id":346,
+               "description":"Artisan's Authenticity"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            35,
+            40,
+            45
+         ],
+         "creates":[
+            222845,
+            1,
+            1
+         ],
+         "displayName":"Weavercloth Alchemist's Robe",
+         "id":446968,
+         "learnedat":35,
+         "level":0,
+         "name":"Weavercloth Alchemist's Robe",
+         "nskillup":2,
+         "quality":2,
+         "reagents":[
+            [
+               224764,
+               5
+            ],
+            [
+               219946,
+               2
+            ],
+            [
+               224832,
+               1
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            197
+         ],
+         "source":[
+            6
+         ],
+         "trainingcost":1280000,
+         "optionalReagents":[
+            {
+               "id":357,
+               "description":"Exquisite Weavercloth Bolt"
+            },
+            {
+               "id":301,
+               "description":"Storm Dust"
+            },
+            {
+               "id":375,
+               "description":"Embroidery Thread"
+            },
+            {
+               "id":346,
+               "description":"Artisan's Authenticity"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            35,
+            40,
+            45
+         ],
+         "creates":[
+            222846,
+            1,
+            1
+         ],
+         "displayName":"Weavercloth Chef's Hat",
+         "id":446969,
+         "learnedat":35,
+         "level":0,
+         "name":"Weavercloth Chef's Hat",
+         "nskillup":2,
+         "quality":2,
+         "reagents":[
+            [
+               224764,
+               3
+            ],
+            [
+               219946,
+               2
+            ],
+            [
+               224832,
+               1
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            197
+         ],
+         "source":[
+            6
+         ],
+         "trainingcost":1280000,
+         "optionalReagents":[
+            {
+               "id":357,
+               "description":"Exquisite Weavercloth Bolt"
+            },
+            {
+               "id":301,
+               "description":"Storm Dust"
+            },
+            {
+               "id":375,
+               "description":"Embroidery Thread"
+            },
+            {
+               "id":346,
+               "description":"Artisan's Authenticity"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            90,
+            100,
+            110
+         ],
+         "creates":[
+            222847,
+            1,
+            1
+         ],
+         "displayName":"Artisan Gardening Hat",
+         "id":446970,
+         "learnedat":90,
+         "level":0,
+         "name":"Artisan Gardening Hat",
+         "nskillup":2,
+         "quality":3,
+         "reagents":[
+            [
+               210814,
+               300
+            ],
+            [
+               228930,
+               1
+            ],
+            [
+               213613,
+               5
+            ],
+            [
+               219949,
+               3
+            ],
+            [
+               224832,
+               12
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            197
+         ],
+         "source":[
+            5
+         ],
+         "optionalReagents":[
+            {
+               "id":357,
+               "description":"Exquisite Weavercloth Bolt"
+            },
+            {
+               "id":302,
+               "description":"Gleaming Shard"
+            },
+            {
+               "id":375,
+               "description":"Embroidery Thread"
+            },
+            {
+               "id":346,
+               "description":"Artisan's Authenticity"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            90,
+            100,
+            110
+         ],
+         "creates":[
+            222848,
+            1,
+            1
+         ],
+         "displayName":"Artisan Fishing Cap",
+         "id":446971,
+         "learnedat":90,
+         "level":0,
+         "name":"Artisan Fishing Cap",
+         "nskillup":2,
+         "quality":3,
+         "reagents":[
+            [
+               210814,
+               300
+            ],
+            [
+               228930,
+               1
+            ],
+            [
+               213613,
+               5
+            ],
+            [
+               219949,
+               3
+            ],
+            [
+               224832,
+               12
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            197
+         ],
+         "source":[
+            5
+         ],
+         "optionalReagents":[
+            {
+               "id":357,
+               "description":"Exquisite Weavercloth Bolt"
+            },
+            {
+               "id":302,
+               "description":"Gleaming Shard"
+            },
+            {
+               "id":375,
+               "description":"Embroidery Thread"
+            },
+            {
+               "id":346,
+               "description":"Artisan's Authenticity"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            90,
+            100,
+            110
+         ],
+         "creates":[
+            222849,
+            1,
+            1
+         ],
+         "displayName":"Artisan Enchanter's Hat",
+         "id":446972,
+         "learnedat":90,
+         "level":0,
+         "name":"Artisan Enchanter's Hat",
+         "nskillup":2,
+         "quality":3,
+         "reagents":[
+            [
+               210814,
+               300
+            ],
+            [
+               228930,
+               1
+            ],
+            [
+               213613,
+               5
+            ],
+            [
+               219949,
+               3
+            ],
+            [
+               224832,
+               12
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            197
+         ],
+         "source":[
+            5
+         ],
+         "optionalReagents":[
+            {
+               "id":357,
+               "description":"Exquisite Weavercloth Bolt"
+            },
+            {
+               "id":302,
+               "description":"Gleaming Shard"
+            },
+            {
+               "id":375,
+               "description":"Embroidery Thread"
+            },
+            {
+               "id":346,
+               "description":"Artisan's Authenticity"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            90,
+            100,
+            110
+         ],
+         "creates":[
+            222850,
+            1,
+            1
+         ],
+         "displayName":"Artisan Alchemist's Robe",
+         "id":446973,
+         "learnedat":90,
+         "level":0,
+         "name":"Artisan Alchemist's Robe",
+         "nskillup":2,
+         "quality":3,
+         "reagents":[
+            [
+               210814,
+               300
+            ],
+            [
+               228930,
+               1
+            ],
+            [
+               213613,
+               5
+            ],
+            [
+               219949,
+               3
+            ],
+            [
+               224832,
+               12
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            197
+         ],
+         "source":[
+            5
+         ],
+         "optionalReagents":[
+            {
+               "id":357,
+               "description":"Exquisite Weavercloth Bolt"
+            },
+            {
+               "id":302,
+               "description":"Gleaming Shard"
+            },
+            {
+               "id":375,
+               "description":"Embroidery Thread"
+            },
+            {
+               "id":346,
+               "description":"Artisan's Authenticity"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            90,
+            100,
+            110
+         ],
+         "creates":[
+            222851,
+            1,
+            1
+         ],
+         "displayName":"Artisan Chef's Hat",
+         "id":446974,
+         "learnedat":90,
+         "level":0,
+         "name":"Artisan Chef's Hat",
+         "nskillup":2,
+         "quality":3,
+         "reagents":[
+            [
+               210814,
+               300
+            ],
+            [
+               228930,
+               1
+            ],
+            [
+               213613,
+               5
+            ],
+            [
+               219949,
+               3
+            ],
+            [
+               224832,
+               12
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            197
+         ],
+         "source":[
+            2
+         ],
+         "optionalReagents":[
+            {
+               "id":357,
+               "description":"Exquisite Weavercloth Bolt"
+            },
+            {
+               "id":302,
+               "description":"Gleaming Shard"
+            },
+            {
+               "id":375,
+               "description":"Embroidery Thread"
+            },
+            {
+               "id":346,
+               "description":"Artisan's Authenticity"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            90,
+            100,
+            110
+         ],
+         "creates":[
+            222852,
+            1,
+            1
+         ],
+         "displayName":"Artisan Tailor's Coat",
+         "id":446975,
+         "learnedat":90,
+         "level":0,
+         "name":"Artisan Tailor's Coat",
+         "nskillup":2,
+         "quality":3,
+         "reagents":[
+            [
+               210814,
+               300
+            ],
+            [
+               228930,
+               1
+            ],
+            [
+               213613,
+               5
+            ],
+            [
+               219949,
+               3
+            ],
+            [
+               224832,
+               12
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            197
+         ],
+         "source":[
+            6
+         ],
+         "trainingcost":2160000,
+         "optionalReagents":[
+            {
+               "id":357,
+               "description":"Exquisite Weavercloth Bolt"
+            },
+            {
+               "id":302,
+               "description":"Gleaming Shard"
+            },
+            {
+               "id":375,
+               "description":"Embroidery Thread"
+            },
+            {
+               "id":346,
+               "description":"Artisan's Authenticity"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            35,
+            40,
+            45
+         ],
+         "creates":[
+            222853,
+            1,
+            1
+         ],
+         "displayName":"Weavercloth Bag",
+         "id":446976,
+         "learnedat":35,
+         "level":0,
+         "name":"Weavercloth Bag",
+         "nskillup":1,
+         "quality":2,
+         "reagents":[
+            [
+               224764,
+               5
+            ],
+            [
+               224832,
+               8
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            197
+         ],
+         "source":[
+            6
+         ],
+         "trainingcost":1280000,
+         "optionalReagents":[
+            {
+               "id":357,
+               "description":"Exquisite Weavercloth Bolt"
+            },
+            {
+               "id":333,
+               "description":"Embroidery Thread"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            80,
+            90,
+            100
+         ],
+         "creates":[
+            222854,
+            1,
+            1
+         ],
+         "displayName":"Dawnweave Reagent Bag",
+         "id":446977,
+         "learnedat":80,
+         "level":0,
+         "name":"Dawnweave Reagent Bag",
+         "nskillup":1,
+         "quality":3,
+         "reagents":[
+            [
+               228930,
+               2
+            ],
+            [
+               222792,
+               30
+            ],
+            [
+               222801,
+               4
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            197
+         ],
+         "optionalReagents":[
+            {
+               "id":331,
+               "description":"Dawncloth Bolt"
+            },
+            {
+               "id":328,
+               "description":"Spool of Dawnthread"
+            },
+            {
+               "id":333,
+               "description":"Embroidery Thread"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            45,
+            50,
+            55
+         ],
+         "creates":[
+            222855,
+            1,
+            1
+         ],
+         "displayName":"Weavercloth Reagent Bag",
+         "id":446978,
+         "learnedat":45,
+         "level":0,
+         "name":"Weavercloth Reagent Bag",
+         "nskillup":1,
+         "quality":2,
+         "reagents":[
+            [
+               224764,
+               5
+            ],
+            [
+               224832,
+               10
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            197
+         ],
+         "source":[
+            6
+         ],
+         "trainingcost":1600000,
+         "optionalReagents":[
+            {
+               "id":357,
+               "description":"Exquisite Weavercloth Bolt"
+            },
+            {
+               "id":333,
+               "description":"Embroidery Thread"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            80,
+            90,
+            100
+         ],
+         "creates":[
+            222856,
+            1,
+            1
+         ],
+         "displayName":"Duskweave Bag",
+         "id":446979,
+         "learnedat":80,
+         "level":0,
+         "name":"Duskweave Bag",
+         "nskillup":1,
+         "quality":3,
+         "reagents":[
+            [
+               228930,
+               2
+            ],
+            [
+               222789,
+               30
+            ],
+            [
+               222798,
+               4
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            197
+         ],
+         "optionalReagents":[
+            {
+               "id":330,
+               "description":"Duskcloth Bolt"
+            },
+            {
+               "id":327,
+               "description":"Spool of Duskthread"
+            },
+            {
+               "id":333,
+               "description":"Embroidery Thread"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            80,
+            90,
+            100
+         ],
+         "creates":[
+            222859,
+            1,
+            1
+         ],
+         "displayName":"Concoctor's Clutch",
+         "id":446982,
+         "learnedat":80,
+         "level":0,
+         "name":"Concoctor's Clutch",
+         "nskillup":2,
+         "quality":4,
+         "reagents":[
+            [
+               210814,
+               150
+            ],
+            [
+               228930,
+               5
+            ],
+            [
+               213197,
+               5
+            ],
+            [
+               212563,
+               8
+            ],
+            [
+               222795,
+               10
+            ],
+            [
+               224832,
+               20
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            197
+         ],
+         "source":[
+            5
+         ],
+         "optionalReagents":[
+            {
+               "id":357,
+               "description":"Exquisite Weavercloth Bolt"
+            },
+            {
+               "id":268,
+               "description":"Harmonious Horticulture"
+            },
+            {
+               "id":333,
+               "description":"Embroidery Thread"
+            },
+            {
+               "id":329,
+               "description":"Spool of Weaverthread"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            80,
+            90,
+            100
+         ],
+         "creates":[
+            222860,
+            1,
+            1
+         ],
+         "displayName":"Ignition Satchel",
+         "id":446983,
+         "learnedat":80,
+         "level":0,
+         "name":"Ignition Satchel",
+         "nskillup":2,
+         "quality":4,
+         "reagents":[
+            [
+               210814,
+               150
+            ],
+            [
+               228930,
+               4
+            ],
+            [
+               222423,
+               4
+            ],
+            [
+               224832,
+               20
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            197
+         ],
+         "source":[
+            2
+         ],
+         "optionalReagents":[
+            {
+               "id":357,
+               "description":"Exquisite Weavercloth Bolt"
+            },
+            {
+               "id":315,
+               "description":"Sanctified Alloy"
+            },
+            {
+               "id":333,
+               "description":"Embroidery Thread"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            80,
+            90,
+            100
+         ],
+         "creates":[
+            222861,
+            1,
+            1
+         ],
+         "displayName":"Hideshaper's Workbag",
+         "id":446984,
+         "learnedat":80,
+         "level":0,
+         "name":"Hideshaper's Workbag",
+         "nskillup":2,
+         "quality":4,
+         "reagents":[
+            [
+               210814,
+               150
+            ],
+            [
+               228930,
+               4
+            ],
+            [
+               212670,
+               2
+            ],
+            [
+               212674,
+               2
+            ],
+            [
+               224832,
+               20
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            197
+         ],
+         "source":[
+            5
+         ],
+         "optionalReagents":[
+            {
+               "id":357,
+               "description":"Exquisite Weavercloth Bolt"
+            },
+            {
+               "id":272,
+               "description":"Sunless Carapace"
+            },
+            {
+               "id":333,
+               "description":"Embroidery Thread"
+            },
+            {
+               "id":271,
+               "description":"Thunderous Hide"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            80,
+            90,
+            100
+         ],
+         "creates":[
+            222862,
+            1,
+            1
+         ],
+         "displayName":"Magically &quot;Infinite&quot; Messenger",
+         "id":446985,
+         "learnedat":80,
+         "level":0,
+         "name":"Magically \"Infinite\" Messenger",
+         "nskillup":2,
+         "quality":4,
+         "reagents":[
+            [
+               210814,
+               150
+            ],
+            [
+               228930,
+               4
+            ],
+            [
+               219952,
+               3
+            ],
+            [
+               224832,
+               20
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            197
+         ],
+         "source":[
+            5
+         ],
+         "optionalReagents":[
+            {
+               "id":357,
+               "description":"Exquisite Weavercloth Bolt"
+            },
+            {
+               "id":303,
+               "description":"Refulgent Crystal"
+            },
+            {
+               "id":333,
+               "description":"Embroidery Thread"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            80,
+            90,
+            100
+         ],
+         "creates":[
+            222863,
+            1,
+            1
+         ],
+         "displayName":"Prodigy's Toolbox",
+         "id":446986,
+         "learnedat":80,
+         "level":0,
+         "name":"Prodigy's Toolbox",
+         "nskillup":2,
+         "quality":4,
+         "reagents":[
+            [
+               210814,
+               150
+            ],
+            [
+               228930,
+               4
+            ],
+            [
+               221862,
+               6
+            ],
+            [
+               221865,
+               8
+            ],
+            [
+               224832,
+               20
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            197
+         ],
+         "source":[
+            5
+         ],
+         "optionalReagents":[
+            {
+               "id":357,
+               "description":"Exquisite Weavercloth Bolt"
+            },
+            {
+               "id":307,
+               "description":"Safety Switch"
+            },
+            {
+               "id":333,
+               "description":"Embroidery Thread"
+            },
+            {
+               "id":308,
+               "description":"Chaos Circuit"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            80,
+            90,
+            100
+         ],
+         "creates":[
+            222864,
+            1,
+            1
+         ],
+         "displayName":"Darkmoon Duffle",
+         "id":446987,
+         "learnedat":80,
+         "level":0,
+         "name":"Darkmoon Duffle",
+         "nskillup":2,
+         "quality":4,
+         "reagents":[
+            [
+               210814,
+               150
+            ],
+            [
+               228930,
+               4
+            ],
+            [
+               222609,
+               15
+            ],
+            [
+               222615,
+               15
+            ],
+            [
+               224832,
+               20
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            197
+         ],
+         "source":[
+            5
+         ],
+         "optionalReagents":[
+            {
+               "id":357,
+               "description":"Exquisite Weavercloth Bolt"
+            },
+            {
+               "id":323,
+               "description":"Apricate Ink"
+            },
+            {
+               "id":333,
+               "description":"Embroidery Thread"
+            },
+            {
+               "id":321,
+               "description":"Sable Ink"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            80,
+            90,
+            100
+         ],
+         "creates":[
+            222865,
+            1,
+            1
+         ],
+         "displayName":"Gardener's Seed Satchel",
+         "id":446988,
+         "learnedat":80,
+         "level":0,
+         "name":"Gardener's Seed Satchel",
+         "nskillup":2,
+         "quality":4,
+         "reagents":[
+            [
+               210814,
+               150
+            ],
+            [
+               228930,
+               4
+            ],
+            [
+               213197,
+               5
+            ],
+            [
+               224832,
+               20
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            197
+         ],
+         "source":[
+            5
+         ],
+         "optionalReagents":[
+            {
+               "id":357,
+               "description":"Exquisite Weavercloth Bolt"
+            },
+            {
+               "id":333,
+               "description":"Embroidery Thread"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            80,
+            90,
+            100
+         ],
+         "creates":[
+            222866,
+            1,
+            1
+         ],
+         "displayName":"Excavator's Haversack",
+         "id":446989,
+         "learnedat":80,
+         "level":0,
+         "name":"Excavator's Haversack",
+         "nskillup":2,
+         "quality":4,
+         "reagents":[
+            [
+               210814,
+               150
+            ],
+            [
+               228930,
+               4
+            ],
+            [
+               210939,
+               10
+            ],
+            [
+               224832,
+               20
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            197
+         ],
+         "source":[
+            5
+         ],
+         "optionalReagents":[
+            {
+               "id":357,
+               "description":"Exquisite Weavercloth Bolt"
+            },
+            {
+               "id":333,
+               "description":"Embroidery Thread"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            80,
+            90,
+            100
+         ],
+         "creates":[
+            222867,
+            1,
+            1
+         ],
+         "displayName":"Jeweler's Purse",
+         "id":446990,
+         "learnedat":80,
+         "level":0,
+         "name":"Jeweler's Purse",
+         "nskillup":2,
+         "quality":4,
+         "reagents":[
+            [
+               210814,
+               150
+            ],
+            [
+               228930,
+               4
+            ],
+            [
+               213759,
+               4
+            ],
+            [
+               224832,
+               20
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            197
+         ],
+         "source":[
+            5
+         ],
+         "optionalReagents":[
+            {
+               "id":357,
+               "description":"Exquisite Weavercloth Bolt"
+            },
+            {
+               "id":279,
+               "description":"Inverted Prism"
+            },
+            {
+               "id":333,
+               "description":"Embroidery Thread"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            80,
+            90,
+            100
+         ],
+         "creates":[
+            222868,
+            1,
+            1
+         ],
+         "displayName":"Dawnthread Lining",
+         "id":446991,
+         "learnedat":80,
+         "level":0,
+         "name":"Dawnthread Lining",
+         "nskillup":1,
+         "quality":3,
+         "reagents":[
+            [
+               228930,
+               1
+            ],
+            [
+               222792,
+               6
+            ],
+            [
+               222801,
+               2
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            197
+         ],
+         "source":[
+            2
+         ],
+         "optionalReagents":[
+            {
+               "id":331,
+               "description":"Dawncloth Bolt"
+            },
+            {
+               "id":328,
+               "description":"Spool of Dawnthread"
+            },
+            {
+               "id":370,
+               "description":"Embroidery Thread"
+            },
+            {
+               "id":346,
+               "description":"Artisan's Authenticity"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            80,
+            90,
+            100
+         ],
+         "creates":[
+            222871,
+            1,
+            1
+         ],
+         "displayName":"Duskthread Lining",
+         "id":446992,
+         "learnedat":80,
+         "level":0,
+         "name":"Duskthread Lining",
+         "nskillup":1,
+         "quality":3,
+         "reagents":[
+            [
+               228930,
+               1
+            ],
+            [
+               222789,
+               6
+            ],
+            [
+               222798,
+               2
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            197
+         ],
+         "source":[
+            2,
+            16
+         ],
+         "optionalReagents":[
+            {
+               "id":330,
+               "description":"Duskcloth Bolt"
+            },
+            {
+               "id":327,
+               "description":"Spool of Duskthread"
+            },
+            {
+               "id":370,
+               "description":"Embroidery Thread"
+            },
+            {
+               "id":346,
+               "description":"Artisan's Authenticity"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            60,
+            62,
+            65
+         ],
+         "creates":[
+            222885,
+            1,
+            1
+         ],
+         "displayName":"Preserving Embroidery Thread",
+         "id":446995,
+         "learnedat":60,
+         "level":0,
+         "name":"Preserving Embroidery Thread",
+         "nskillup":1,
+         "quality":2,
+         "reagents":[
+            [
+               213611,
+               1
+            ],
+            [
+               222804,
+               1
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            197
+         ],
+         "optionalReagents":[
+            {
+               "id":332,
+               "description":"Weavercloth Bolt"
+            },
+            {
+               "id":377,
+               "description":"Embroidery Thread"
+            },
+            {
+               "id":346,
+               "description":"Artisan's Authenticity"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            50,
+            55,
+            60
+         ],
+         "creates":[
+            222879,
+            1,
+            1
+         ],
+         "displayName":"Bright Polishing Cloth",
+         "id":446996,
+         "learnedat":50,
+         "level":0,
+         "name":"Bright Polishing Cloth",
+         "nskillup":1,
+         "quality":2,
+         "reagents":[
+            [
+               213613,
+               2
+            ],
+            [
+               222804,
+               1
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            197
+         ],
+         "source":[
+            6
+         ],
+         "trainingcost":1680000,
+         "optionalReagents":[
+            {
+               "id":332,
+               "description":"Weavercloth Bolt"
+            },
+            {
+               "id":370,
+               "description":"Embroidery Thread"
+            },
+            {
+               "id":346,
+               "description":"Artisan's Authenticity"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            55,
+            60,
+            65
+         ],
+         "creates":[
+            222882,
+            1,
+            1
+         ],
+         "displayName":"Weavercloth Embroidery Thread",
+         "id":446997,
+         "learnedat":55,
+         "level":0,
+         "name":"Weavercloth Embroidery Thread",
+         "nskillup":1,
+         "quality":2,
+         "reagents":[
+            [
+               213611,
+               1
+            ],
+            [
+               222804,
+               1
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            197
+         ],
+         "source":[
+            6
+         ],
+         "trainingcost":1920000,
+         "optionalReagents":[
+            {
+               "id":332,
+               "description":"Weavercloth Bolt"
+            },
+            {
+               "id":377,
+               "description":"Embroidery Thread"
+            },
+            {
+               "id":346,
+               "description":"Artisan's Authenticity"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            50,
+            55,
+            60
+         ],
+         "creates":[
+            222876,
+            1,
+            1
+         ],
+         "displayName":"Gritty Polishing Cloth",
+         "id":446998,
+         "learnedat":50,
+         "level":0,
+         "name":"Gritty Polishing Cloth",
+         "nskillup":1,
+         "quality":2,
+         "reagents":[
+            [
+               213613,
+               2
+            ],
+            [
+               222804,
+               1
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            197
+         ],
+         "source":[
+            6
+         ],
+         "trainingcost":1680000,
+         "optionalReagents":[
+            {
+               "id":332,
+               "description":"Weavercloth Bolt"
+            },
+            {
+               "id":370,
+               "description":"Embroidery Thread"
+            },
+            {
+               "id":346,
+               "description":"Artisan's Authenticity"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            50,
+            52,
+            55
+         ],
+         "creates":[
+            222888,
+            1,
+            1
+         ],
+         "displayName":"Weavercloth Spellthread",
+         "id":446999,
+         "learnedat":50,
+         "level":0,
+         "name":"Weavercloth Spellthread",
+         "nskillup":1,
+         "quality":3,
+         "reagents":[
+            [
+               228930,
+               3
+            ],
+            [
+               224832,
+               8
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            197
+         ],
+         "optionalReagents":[
+            {
+               "id":357,
+               "description":"Exquisite Weavercloth Bolt"
+            },
+            {
+               "id":377,
+               "description":"Embroidery Thread"
+            },
+            {
+               "id":346,
+               "description":"Artisan's Authenticity"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            80,
+            90,
+            100
+         ],
+         "creates":[
+            222891,
+            1,
+            1
+         ],
+         "displayName":"Sunset Spellthread",
+         "id":447000,
+         "learnedat":80,
+         "level":0,
+         "name":"Sunset Spellthread",
+         "nskillup":2,
+         "quality":4,
+         "reagents":[
+            [
+               228930,
+               5
+            ],
+            [
+               219949,
+               5
+            ],
+            [
+               222789,
+               12
+            ],
+            [
+               222798,
+               8
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            197
+         ],
+         "optionalReagents":[
+            {
+               "id":330,
+               "description":"Duskcloth Bolt"
+            },
+            {
+               "id":302,
+               "description":"Gleaming Shard"
+            },
+            {
+               "id":377,
+               "description":"Embroidery Thread"
+            },
+            {
+               "id":346,
+               "description":"Artisan's Authenticity"
+            },
+            {
+               "id":327,
+               "description":"Spool of Duskthread"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            80,
+            90,
+            100
+         ],
+         "creates":[
+            222894,
+            1,
+            1
+         ],
+         "displayName":"Daybreak Spellthread",
+         "id":447001,
+         "learnedat":80,
+         "level":0,
+         "name":"Daybreak Spellthread",
+         "nskillup":2,
+         "quality":4,
+         "reagents":[
+            [
+               228930,
+               5
+            ],
+            [
+               219949,
+               5
+            ],
+            [
+               222792,
+               12
+            ],
+            [
+               222801,
+               8
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            197
+         ],
+         "optionalReagents":[
+            {
+               "id":331,
+               "description":"Dawncloth Bolt"
+            },
+            {
+               "id":302,
+               "description":"Gleaming Shard"
+            },
+            {
+               "id":377,
+               "description":"Embroidery Thread"
+            },
+            {
+               "id":346,
+               "description":"Artisan's Authenticity"
+            },
+            {
+               "id":328,
+               "description":"Spool of Dawnthread"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            15,
+            20,
+            25
+         ],
+         "creates":[
+            224440,
+            1,
+            1
+         ],
+         "displayName":"Weavercloth Bandage",
+         "id":447002,
+         "learnedat":15,
+         "level":0,
+         "name":"Weavercloth Bandage",
+         "nskillup":1,
+         "quality":1,
+         "reagents":[
+            [
+               222804,
+               1
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            197
+         ],
+         "source":[
+            6
+         ],
+         "trainingcost":640000,
+         "optionalReagents":[
+            {
+               "id":332,
+               "description":"Weavercloth Bolt"
+            },
+            {
+               "id":370,
+               "description":"Embroidery Thread"
+            },
+            {
+               "id":346,
+               "description":"Artisan's Authenticity"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            35,
+            40,
+            45
+         ],
+         "creates":[
+            224832,
+            1,
+            1
+         ],
+         "displayName":"Exquisite Weavercloth Bolt",
+         "id":454397,
+         "learnedat":35,
+         "level":0,
+         "name":"Exquisite Weavercloth Bolt",
+         "nskillup":1,
+         "quality":3,
+         "reagents":[
+            [
+               224764,
+               2
+            ],
+            [
+               219946,
+               1
+            ],
+            [
+               222804,
+               2
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            197
+         ],
+         "source":[
+            6
+         ],
+         "trainingcost":1280000,
+         "optionalReagents":[
+            {
+               "id":332,
+               "description":"Weavercloth Bolt"
+            },
+            {
+               "id":301,
+               "description":"Storm Dust"
+            },
+            {
+               "id":370,
+               "description":"Embroidery Thread"
+            },
+            {
+               "id":346,
+               "description":"Artisan's Authenticity"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            80,
+            90,
+            100
+         ],
+         "creates":[
+            224852,
+            1,
+            1
+         ],
+         "displayName":"The Severed Satchel",
+         "id":454431,
+         "learnedat":80,
+         "level":0,
+         "name":"The Severed Satchel",
+         "nskillup":2,
+         "quality":4,
+         "reagents":[
+            [
+               228930,
+               2
+            ],
+            [
+               222798,
+               5
+            ],
+            [
+               222801,
+               5
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            197
+         ],
+         "optionalReagents":[
+            {
+               "id":333,
+               "description":"Embroidery Thread"
+            },
+            {
+               "id":330,
+               "description":"Duskcloth Bolt"
+            },
+            {
+               "id":331,
+               "description":"Dawncloth Bolt"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            60,
+            65,
+            70
+         ],
+         "creates":[
+            225729,
+            1,
+            1
+         ],
+         "displayName":"Algari Weaverline",
+         "id":456706,
+         "learnedat":60,
+         "level":0,
+         "name":"Algari Weaverline",
+         "nskillup":1,
+         "quality":4,
+         "reagents":[
+            [
+               210814,
+               100
+            ],
+            [
+               224764,
+               50
+            ],
+            [
+               222795,
+               500
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            197
+         ],
+         "source":[
+            6
+         ],
+         "trainingcost":2160000,
+         "optionalReagents":[
+            {
+               "id":329,
+               "description":"Spool of Weaverthread"
+            },
+            {
+               "id":333,
+               "description":"Embroidery Thread"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            80,
+            90,
+            100
+         ],
+         "creates":[
+            225936,
+            1,
+            1
+         ],
+         "displayName":"Hideseeker's Tote",
+         "id":447888,
+         "learnedat":80,
+         "level":0,
+         "name":"Hideseeker's Tote",
+         "nskillup":2,
+         "quality":4,
+         "reagents":[
+            [
+               210814,
+               150
+            ],
+            [
+               228930,
+               4
+            ],
+            [
+               212670,
+               2
+            ],
+            [
+               212674,
+               2
+            ],
+            [
+               224832,
+               20
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            197
+         ],
+         "source":[
+            5
+         ],
+         "optionalReagents":[
+            {
+               "id":357,
+               "description":"Exquisite Weavercloth Bolt"
+            },
+            {
+               "id":272,
+               "description":"Sunless Carapace"
+            },
+            {
+               "id":333,
+               "description":"Embroidery Thread"
+            },
+            {
+               "id":271,
+               "description":"Thunderous Hide"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            100,
+            100,
+            100
+         ],
+         "creates":[
+            238046,
+            1,
+            1
+         ],
+         "displayName":"Pure Energizing Fiber",
+         "id":1228338,
+         "learnedat":100,
+         "level":0,
+         "name":"Pure Energizing Fiber",
+         "nskillup":1,
+         "quality":4,
+         "reagents":[
+            [
+               228930,
+               5
+            ],
+            [
+               219949,
+               2
+            ],
+            [
+               224832,
+               5
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            197
+         ],
+         "source":[
+            5
+         ],
+         "optionalReagents":[
+            {
+               "id":357,
+               "description":"Exquisite Weavercloth Bolt"
+            },
+            {
+               "id":302,
+               "description":"Gleaming Shard"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            100,
+            100,
+            100
+         ],
+         "creates":[
+            238045,
+            1,
+            1
+         ],
+         "displayName":"Pure Chronomantic Fiber",
+         "id":1228344,
+         "learnedat":100,
+         "level":0,
+         "name":"Pure Chronomantic Fiber",
+         "nskillup":1,
+         "quality":4,
+         "reagents":[
+            [
+               228930,
+               5
+            ],
+            [
+               219949,
+               2
+            ],
+            [
+               224832,
+               5
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            197
+         ],
+         "source":[
+            5
+         ],
+         "optionalReagents":[
+            {
+               "id":357,
+               "description":"Exquisite Weavercloth Bolt"
+            },
+            {
+               "id":302,
+               "description":"Gleaming Shard"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            100,
+            100,
+            100
+         ],
+         "creates":[
+            238044,
+            1,
+            1
+         ],
+         "displayName":"Pure Precise Fiber",
+         "id":1228342,
+         "learnedat":100,
+         "level":0,
+         "name":"Pure Precise Fiber",
+         "nskillup":1,
+         "quality":4,
+         "reagents":[
+            [
+               228930,
+               5
+            ],
+            [
+               219949,
+               2
+            ],
+            [
+               224832,
+               5
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            197
+         ],
+         "source":[
+            5
+         ],
+         "optionalReagents":[
+            {
+               "id":357,
+               "description":"Exquisite Weavercloth Bolt"
+            },
+            {
+               "id":302,
+               "description":"Gleaming Shard"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            100,
+            100,
+            100
+         ],
+         "creates":[
+            238042,
+            1,
+            1
+         ],
+         "displayName":"Pure Dexterous Fiber",
+         "id":1228343,
+         "learnedat":100,
+         "level":0,
+         "name":"Pure Dexterous Fiber",
+         "nskillup":1,
+         "quality":4,
+         "reagents":[
+            [
+               228930,
+               5
+            ],
+            [
+               219949,
+               2
+            ],
+            [
+               224832,
+               5
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            197
+         ],
+         "source":[
+            5
+         ],
+         "optionalReagents":[
+            {
+               "id":357,
+               "description":"Exquisite Weavercloth Bolt"
+            },
+            {
+               "id":302,
+               "description":"Gleaming Shard"
+            }
+         ]
+      }
+   ]
+}

@@ -1,0 +1,7374 @@
+{
+   "template":"spell",
+   "id":"dragon-isles-plans",
+   "name":"Dragon Isles Plans",
+   "tabs":"tabsRelated",
+   "parent":"lkljbjkb574",
+   "note":"<a href=\"\/spells\/professions\/blacksmithing?filter=20;1;0\">Filter these results<\/a>",
+   "sort":[
+      "-skill",
+      "name"
+   ],
+   "hiddenCols":[
+      "slot"
+   ],
+   "visibleCols":[
+      "source"
+   ],
+   "data":[
+      {
+         "cat":11,
+         "colors":[
+            0,
+            100,
+            100,
+            100
+         ],
+         "creates":[
+            190508,
+            1,
+            1
+         ],
+         "displayName":"Primal Molten Warglaive",
+         "id":365729,
+         "learnedat":100,
+         "level":0,
+         "name":"Primal Molten Warglaive",
+         "nskillup":3,
+         "quality":4,
+         "reagents":[
+            [
+               189541,
+               17
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            164
+         ],
+         "optionalReagents":[
+            {
+               "id":82,
+               "description":"Primal Molten Alloy (DNT)"
+            },
+            {
+               "id":111,
+               "description":"Infuse with Power"
+            },
+            {
+               "id":125,
+               "description":"Customize Secondary Stats"
+            },
+            {
+               "id":123,
+               "description":"Add Embellishment"
+            },
+            {
+               "id":124,
+               "description":"Quenching Fluid"
+            },
+            {
+               "id":93,
+               "description":"Illustrious Insight"
+            },
+            {
+               "id":247,
+               "description":"Spark"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            100,
+            100,
+            100
+         ],
+         "creates":[
+            190505,
+            1,
+            1
+         ],
+         "displayName":"Primal Molten Shortblade",
+         "id":365730,
+         "learnedat":100,
+         "level":0,
+         "name":"Primal Molten Shortblade",
+         "nskillup":3,
+         "quality":4,
+         "reagents":[
+            [
+               189541,
+               17
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            164
+         ],
+         "optionalReagents":[
+            {
+               "id":82,
+               "description":"Primal Molten Alloy (DNT)"
+            },
+            {
+               "id":111,
+               "description":"Infuse with Power"
+            },
+            {
+               "id":125,
+               "description":"Customize Secondary Stats"
+            },
+            {
+               "id":123,
+               "description":"Add Embellishment"
+            },
+            {
+               "id":124,
+               "description":"Quenching Fluid"
+            },
+            {
+               "id":93,
+               "description":"Illustrious Insight"
+            },
+            {
+               "id":247,
+               "description":"Spark"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            100,
+            100,
+            100
+         ],
+         "creates":[
+            190506,
+            1,
+            1
+         ],
+         "displayName":"Primal Molten Spellblade",
+         "id":365731,
+         "learnedat":100,
+         "level":0,
+         "name":"Primal Molten Spellblade",
+         "nskillup":3,
+         "quality":4,
+         "reagents":[
+            [
+               189541,
+               17
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            164
+         ],
+         "optionalReagents":[
+            {
+               "id":82,
+               "description":"Primal Molten Alloy (DNT)"
+            },
+            {
+               "id":111,
+               "description":"Infuse with Power"
+            },
+            {
+               "id":125,
+               "description":"Customize Secondary Stats"
+            },
+            {
+               "id":123,
+               "description":"Add Embellishment"
+            },
+            {
+               "id":124,
+               "description":"Quenching Fluid"
+            },
+            {
+               "id":93,
+               "description":"Illustrious Insight"
+            },
+            {
+               "id":247,
+               "description":"Spark"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            100,
+            100,
+            100
+         ],
+         "creates":[
+            190510,
+            1,
+            1
+         ],
+         "displayName":"Primal Molten Greataxe",
+         "id":365734,
+         "learnedat":100,
+         "level":0,
+         "name":"Primal Molten Greataxe",
+         "nskillup":3,
+         "quality":4,
+         "reagents":[
+            [
+               189541,
+               20
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            164
+         ],
+         "optionalReagents":[
+            {
+               "id":82,
+               "description":"Primal Molten Alloy (DNT)"
+            },
+            {
+               "id":111,
+               "description":"Infuse with Power"
+            },
+            {
+               "id":125,
+               "description":"Customize Secondary Stats"
+            },
+            {
+               "id":123,
+               "description":"Add Embellishment"
+            },
+            {
+               "id":124,
+               "description":"Quenching Fluid"
+            },
+            {
+               "id":93,
+               "description":"Illustrious Insight"
+            },
+            {
+               "id":247,
+               "description":"Spark"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            50,
+            55,
+            60
+         ],
+         "creates":[
+            189541,
+            2,
+            2
+         ],
+         "displayName":"Primal Molten Alloy",
+         "id":365735,
+         "learnedat":50,
+         "level":0,
+         "name":"Primal Molten Alloy",
+         "nskillup":1,
+         "quality":3,
+         "reagents":[
+            [
+               190316,
+               1
+            ],
+            [
+               190321,
+               1
+            ],
+            [
+               190452,
+               4
+            ],
+            [
+               189143,
+               5
+            ],
+            [
+               190312,
+               4
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            164
+         ],
+         "source":[
+            6
+         ],
+         "trainingcost":100,
+         "optionalReagents":[
+            {
+               "id":81,
+               "description":"Draconium Ore (DNT)"
+            },
+            {
+               "id":117,
+               "description":"Khaz'gorite Ore (DNT)"
+            },
+            {
+               "id":92,
+               "description":"Lesser Illustrious Insight"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            100,
+            100,
+            100
+         ],
+         "creates":[
+            192081,
+            1,
+            1
+         ],
+         "displayName":"Shield of the Hearth",
+         "id":367623,
+         "learnedat":100,
+         "level":0,
+         "name":"Shield of the Hearth",
+         "nskillup":3,
+         "quality":4,
+         "reagents":[
+            [
+               193920,
+               1
+            ],
+            [
+               201406,
+               1
+            ],
+            [
+               189541,
+               16
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            164
+         ],
+         "source":[
+            2
+         ],
+         "optionalReagents":[
+            {
+               "id":82,
+               "description":"Primal Molten Alloy (DNT)"
+            },
+            {
+               "id":111,
+               "description":"Infuse with Power"
+            },
+            {
+               "id":124,
+               "description":"Quenching Fluid"
+            },
+            {
+               "id":93,
+               "description":"Illustrious Insight"
+            },
+            {
+               "id":247,
+               "description":"Spark"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            100,
+            100,
+            100
+         ],
+         "creates":[
+            190503,
+            1,
+            1
+         ],
+         "displayName":"Primal Molten Defender",
+         "id":367622,
+         "learnedat":100,
+         "level":0,
+         "name":"Primal Molten Defender",
+         "nskillup":3,
+         "quality":4,
+         "reagents":[
+            [
+               189541,
+               15
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            164
+         ],
+         "optionalReagents":[
+            {
+               "id":82,
+               "description":"Primal Molten Alloy (DNT)"
+            },
+            {
+               "id":111,
+               "description":"Infuse with Power"
+            },
+            {
+               "id":125,
+               "description":"Customize Secondary Stats"
+            },
+            {
+               "id":112,
+               "description":"Add Embellishment"
+            },
+            {
+               "id":124,
+               "description":"Quenching Fluid"
+            },
+            {
+               "id":93,
+               "description":"Illustrious Insight"
+            },
+            {
+               "id":247,
+               "description":"Spark"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            100,
+            100,
+            100
+         ],
+         "creates":[
+            190523,
+            1,
+            1
+         ],
+         "displayName":"Frostfire Legguards of Preparation",
+         "id":367619,
+         "learnedat":100,
+         "level":0,
+         "name":"Frostfire Legguards of Preparation",
+         "nskillup":3,
+         "quality":4,
+         "reagents":[
+            [
+               193919,
+               1
+            ],
+            [
+               193362,
+               1
+            ],
+            [
+               190530,
+               16
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            164
+         ],
+         "source":[
+            2
+         ],
+         "optionalReagents":[
+            {
+               "id":83,
+               "description":"Frostfire Alloy (DNT)"
+            },
+            {
+               "id":111,
+               "description":"Infuse with Power"
+            },
+            {
+               "id":124,
+               "description":"Quenching Fluid"
+            },
+            {
+               "id":93,
+               "description":"Illustrious Insight"
+            },
+            {
+               "id":247,
+               "description":"Spark"
+            },
+            {
+               "id":244,
+               "description":"Grant PvP Item Level"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            100,
+            100,
+            100
+         ],
+         "creates":[
+            191623,
+            1,
+            1
+         ],
+         "displayName":"Unstable Frostfire Belt",
+         "id":367618,
+         "learnedat":100,
+         "level":0,
+         "name":"Unstable Frostfire Belt",
+         "nskillup":3,
+         "quality":4,
+         "reagents":[
+            [
+               193919,
+               1
+            ],
+            [
+               193362,
+               1
+            ],
+            [
+               190530,
+               13
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            164
+         ],
+         "source":[
+            2
+         ],
+         "optionalReagents":[
+            {
+               "id":83,
+               "description":"Frostfire Alloy (DNT)"
+            },
+            {
+               "id":111,
+               "description":"Infuse with Power"
+            },
+            {
+               "id":124,
+               "description":"Quenching Fluid"
+            },
+            {
+               "id":93,
+               "description":"Illustrious Insight"
+            },
+            {
+               "id":247,
+               "description":"Spark"
+            },
+            {
+               "id":245,
+               "description":"Grant PvP Item Level"
+            },
+            {
+               "id":251,
+               "description":"Socket"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            100,
+            100,
+            100
+         ],
+         "creates":[
+            190522,
+            1,
+            1
+         ],
+         "displayName":"Infurious Helm of Vengeance",
+         "id":367617,
+         "learnedat":100,
+         "level":0,
+         "name":"Infurious Helm of Vengeance",
+         "nskillup":3,
+         "quality":4,
+         "reagents":[
+            [
+               190533,
+               2
+            ],
+            [
+               190536,
+               20
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            164
+         ],
+         "source":[
+            2,
+            5
+         ],
+         "optionalReagents":[
+            {
+               "id":84,
+               "description":"Obsidian Seared Alloy (DNT)"
+            },
+            {
+               "id":85,
+               "description":"Infurious Alloy (DNT)"
+            },
+            {
+               "id":111,
+               "description":"Infuse with Power"
+            },
+            {
+               "id":124,
+               "description":"Quenching Fluid"
+            },
+            {
+               "id":93,
+               "description":"Illustrious Insight"
+            },
+            {
+               "id":247,
+               "description":"Spark"
+            },
+            {
+               "id":244,
+               "description":"Grant PvP Item Level"
+            },
+            {
+               "id":251,
+               "description":"Socket"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            100,
+            100,
+            100
+         ],
+         "creates":[
+            191985,
+            1,
+            1
+         ],
+         "displayName":"Infurious Warboots of Impunity",
+         "id":367616,
+         "learnedat":100,
+         "level":0,
+         "name":"Infurious Warboots of Impunity",
+         "nskillup":3,
+         "quality":4,
+         "reagents":[
+            [
+               201402,
+               2
+            ],
+            [
+               190533,
+               2
+            ],
+            [
+               190536,
+               16
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            164
+         ],
+         "source":[
+            2,
+            5
+         ],
+         "optionalReagents":[
+            {
+               "id":84,
+               "description":"Obsidian Seared Alloy (DNT)"
+            },
+            {
+               "id":85,
+               "description":"Infurious Alloy (DNT)"
+            },
+            {
+               "id":111,
+               "description":"Infuse with Power"
+            },
+            {
+               "id":124,
+               "description":"Quenching Fluid"
+            },
+            {
+               "id":93,
+               "description":"Illustrious Insight"
+            },
+            {
+               "id":247,
+               "description":"Spark"
+            },
+            {
+               "id":245,
+               "description":"Grant PvP Item Level"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            100,
+            100,
+            100
+         ],
+         "creates":[
+            190519,
+            1,
+            1
+         ],
+         "displayName":"Allied Chestplate of Generosity",
+         "id":367615,
+         "learnedat":100,
+         "level":0,
+         "name":"Allied Chestplate of Generosity",
+         "nskillup":3,
+         "quality":4,
+         "reagents":[
+            [
+               193360,
+               1
+            ],
+            [
+               190533,
+               10
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            164
+         ],
+         "source":[
+            2
+         ],
+         "optionalReagents":[
+            {
+               "id":84,
+               "description":"Obsidian Seared Alloy (DNT)"
+            },
+            {
+               "id":111,
+               "description":"Infuse with Power"
+            },
+            {
+               "id":124,
+               "description":"Quenching Fluid"
+            },
+            {
+               "id":93,
+               "description":"Illustrious Insight"
+            },
+            {
+               "id":247,
+               "description":"Spark"
+            },
+            {
+               "id":244,
+               "description":"Grant PvP Item Level"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            100,
+            100,
+            100
+         ],
+         "creates":[
+            190526,
+            1,
+            1
+         ],
+         "displayName":"Allied Wristguard of Companionship",
+         "id":367614,
+         "learnedat":100,
+         "level":0,
+         "name":"Allied Wristguard of Companionship",
+         "nskillup":3,
+         "quality":4,
+         "reagents":[
+            [
+               193360,
+               1
+            ],
+            [
+               190533,
+               8
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            164
+         ],
+         "source":[
+            2
+         ],
+         "optionalReagents":[
+            {
+               "id":84,
+               "description":"Obsidian Seared Alloy (DNT)"
+            },
+            {
+               "id":111,
+               "description":"Infuse with Power"
+            },
+            {
+               "id":124,
+               "description":"Quenching Fluid"
+            },
+            {
+               "id":93,
+               "description":"Illustrious Insight"
+            },
+            {
+               "id":247,
+               "description":"Spark"
+            },
+            {
+               "id":246,
+               "description":"Grant PvP Item Level"
+            },
+            {
+               "id":251,
+               "description":"Socket"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            15,
+            20,
+            25
+         ],
+         "creates":[
+            189538,
+            1,
+            1
+         ],
+         "displayName":"Explorer's Plate Chestguard",
+         "id":395886,
+         "learnedat":15,
+         "level":0,
+         "name":"Explorer's Plate Chestguard",
+         "nskillup":3,
+         "quality":3,
+         "reagents":[
+            [
+               190452,
+               2
+            ],
+            [
+               189143,
+               3
+            ],
+            [
+               190395,
+               10
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            164
+         ],
+         "source":[
+            6
+         ],
+         "trainingcost":40,
+         "optionalReagents":[
+            {
+               "id":81,
+               "description":"Draconium Ore (DNT)"
+            },
+            {
+               "id":114,
+               "description":"Serevite Ore (DNT)"
+            },
+            {
+               "id":116,
+               "description":"Empower with Training Matrix"
+            },
+            {
+               "id":125,
+               "description":"Customize Secondary Stats"
+            },
+            {
+               "id":124,
+               "description":"Quenching Fluid"
+            },
+            {
+               "id":92,
+               "description":"Lesser Illustrious Insight"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            10,
+            15,
+            20
+         ],
+         "creates":[
+            189537,
+            1,
+            1
+         ],
+         "displayName":"Explorer's Plate Boots",
+         "id":367610,
+         "learnedat":10,
+         "level":0,
+         "name":"Explorer's Plate Boots",
+         "nskillup":3,
+         "quality":3,
+         "reagents":[
+            [
+               190452,
+               2
+            ],
+            [
+               189143,
+               3
+            ],
+            [
+               190395,
+               10
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            164
+         ],
+         "source":[
+            6
+         ],
+         "trainingcost":25,
+         "optionalReagents":[
+            {
+               "id":81,
+               "description":"Draconium Ore (DNT)"
+            },
+            {
+               "id":114,
+               "description":"Serevite Ore (DNT)"
+            },
+            {
+               "id":116,
+               "description":"Empower with Training Matrix"
+            },
+            {
+               "id":125,
+               "description":"Customize Secondary Stats"
+            },
+            {
+               "id":124,
+               "description":"Quenching Fluid"
+            },
+            {
+               "id":92,
+               "description":"Lesser Illustrious Insight"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            5,
+            10,
+            15
+         ],
+         "creates":[
+            189539,
+            1,
+            1
+         ],
+         "displayName":"Explorer's Plate Bracers",
+         "id":367609,
+         "learnedat":5,
+         "level":0,
+         "name":"Explorer's Plate Bracers",
+         "nskillup":3,
+         "quality":3,
+         "reagents":[
+            [
+               190452,
+               2
+            ],
+            [
+               189143,
+               3
+            ],
+            [
+               190395,
+               8
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            164
+         ],
+         "optionalReagents":[
+            {
+               "id":81,
+               "description":"Draconium Ore (DNT)"
+            },
+            {
+               "id":114,
+               "description":"Serevite Ore (DNT)"
+            },
+            {
+               "id":116,
+               "description":"Empower with Training Matrix"
+            },
+            {
+               "id":125,
+               "description":"Customize Secondary Stats"
+            },
+            {
+               "id":124,
+               "description":"Quenching Fluid"
+            },
+            {
+               "id":92,
+               "description":"Lesser Illustrious Insight"
+            },
+            {
+               "id":252,
+               "description":"Socket"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            100,
+            100,
+            100
+         ],
+         "creates":[
+            190495,
+            1,
+            1
+         ],
+         "displayName":"Primal Molten Breastplate",
+         "id":367608,
+         "learnedat":100,
+         "level":0,
+         "name":"Primal Molten Breastplate",
+         "nskillup":3,
+         "quality":4,
+         "reagents":[
+            [
+               189541,
+               16
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            164
+         ],
+         "optionalReagents":[
+            {
+               "id":82,
+               "description":"Primal Molten Alloy (DNT)"
+            },
+            {
+               "id":111,
+               "description":"Infuse with Power"
+            },
+            {
+               "id":125,
+               "description":"Customize Secondary Stats"
+            },
+            {
+               "id":112,
+               "description":"Add Embellishment"
+            },
+            {
+               "id":124,
+               "description":"Quenching Fluid"
+            },
+            {
+               "id":93,
+               "description":"Illustrious Insight"
+            },
+            {
+               "id":247,
+               "description":"Spark"
+            },
+            {
+               "id":244,
+               "description":"Grant PvP Item Level"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            100,
+            100,
+            100
+         ],
+         "creates":[
+            190496,
+            1,
+            1
+         ],
+         "displayName":"Primal Molten Sabatons",
+         "id":367607,
+         "learnedat":100,
+         "level":0,
+         "name":"Primal Molten Sabatons",
+         "nskillup":3,
+         "quality":4,
+         "reagents":[
+            [
+               189541,
+               14
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            164
+         ],
+         "optionalReagents":[
+            {
+               "id":82,
+               "description":"Primal Molten Alloy (DNT)"
+            },
+            {
+               "id":111,
+               "description":"Infuse with Power"
+            },
+            {
+               "id":125,
+               "description":"Customize Secondary Stats"
+            },
+            {
+               "id":112,
+               "description":"Add Embellishment"
+            },
+            {
+               "id":124,
+               "description":"Quenching Fluid"
+            },
+            {
+               "id":93,
+               "description":"Illustrious Insight"
+            },
+            {
+               "id":247,
+               "description":"Spark"
+            },
+            {
+               "id":245,
+               "description":"Grant PvP Item Level"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            100,
+            100,
+            100
+         ],
+         "creates":[
+            190497,
+            1,
+            1
+         ],
+         "displayName":"Primal Molten Gauntlets",
+         "id":367606,
+         "learnedat":100,
+         "level":0,
+         "name":"Primal Molten Gauntlets",
+         "nskillup":3,
+         "quality":4,
+         "reagents":[
+            [
+               189541,
+               14
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            164
+         ],
+         "optionalReagents":[
+            {
+               "id":82,
+               "description":"Primal Molten Alloy (DNT)"
+            },
+            {
+               "id":111,
+               "description":"Infuse with Power"
+            },
+            {
+               "id":125,
+               "description":"Customize Secondary Stats"
+            },
+            {
+               "id":112,
+               "description":"Add Embellishment"
+            },
+            {
+               "id":124,
+               "description":"Quenching Fluid"
+            },
+            {
+               "id":93,
+               "description":"Illustrious Insight"
+            },
+            {
+               "id":247,
+               "description":"Spark"
+            },
+            {
+               "id":245,
+               "description":"Grant PvP Item Level"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            100,
+            100,
+            100
+         ],
+         "creates":[
+            190498,
+            1,
+            1
+         ],
+         "displayName":"Primal Molten Helm",
+         "id":367605,
+         "learnedat":100,
+         "level":0,
+         "name":"Primal Molten Helm",
+         "nskillup":3,
+         "quality":4,
+         "reagents":[
+            [
+               189541,
+               16
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            164
+         ],
+         "optionalReagents":[
+            {
+               "id":82,
+               "description":"Primal Molten Alloy (DNT)"
+            },
+            {
+               "id":111,
+               "description":"Infuse with Power"
+            },
+            {
+               "id":125,
+               "description":"Customize Secondary Stats"
+            },
+            {
+               "id":112,
+               "description":"Add Embellishment"
+            },
+            {
+               "id":124,
+               "description":"Quenching Fluid"
+            },
+            {
+               "id":93,
+               "description":"Illustrious Insight"
+            },
+            {
+               "id":247,
+               "description":"Spark"
+            },
+            {
+               "id":244,
+               "description":"Grant PvP Item Level"
+            },
+            {
+               "id":251,
+               "description":"Socket"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            100,
+            100,
+            100
+         ],
+         "creates":[
+            190499,
+            1,
+            1
+         ],
+         "displayName":"Primal Molten Legplates",
+         "id":367604,
+         "learnedat":100,
+         "level":0,
+         "name":"Primal Molten Legplates",
+         "nskillup":3,
+         "quality":4,
+         "reagents":[
+            [
+               189541,
+               16
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            164
+         ],
+         "optionalReagents":[
+            {
+               "id":82,
+               "description":"Primal Molten Alloy (DNT)"
+            },
+            {
+               "id":111,
+               "description":"Infuse with Power"
+            },
+            {
+               "id":125,
+               "description":"Customize Secondary Stats"
+            },
+            {
+               "id":112,
+               "description":"Add Embellishment"
+            },
+            {
+               "id":124,
+               "description":"Quenching Fluid"
+            },
+            {
+               "id":93,
+               "description":"Illustrious Insight"
+            },
+            {
+               "id":247,
+               "description":"Spark"
+            },
+            {
+               "id":244,
+               "description":"Grant PvP Item Level"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            100,
+            100,
+            100
+         ],
+         "creates":[
+            190500,
+            1,
+            1
+         ],
+         "displayName":"Primal Molten Pauldrons",
+         "id":367603,
+         "learnedat":100,
+         "level":0,
+         "name":"Primal Molten Pauldrons",
+         "nskillup":3,
+         "quality":4,
+         "reagents":[
+            [
+               189541,
+               15
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            164
+         ],
+         "optionalReagents":[
+            {
+               "id":82,
+               "description":"Primal Molten Alloy (DNT)"
+            },
+            {
+               "id":111,
+               "description":"Infuse with Power"
+            },
+            {
+               "id":125,
+               "description":"Customize Secondary Stats"
+            },
+            {
+               "id":112,
+               "description":"Add Embellishment"
+            },
+            {
+               "id":124,
+               "description":"Quenching Fluid"
+            },
+            {
+               "id":93,
+               "description":"Illustrious Insight"
+            },
+            {
+               "id":247,
+               "description":"Spark"
+            },
+            {
+               "id":245,
+               "description":"Grant PvP Item Level"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            100,
+            100,
+            100
+         ],
+         "creates":[
+            190501,
+            1,
+            1
+         ],
+         "displayName":"Primal Molten Greatbelt",
+         "id":367602,
+         "learnedat":100,
+         "level":0,
+         "name":"Primal Molten Greatbelt",
+         "nskillup":3,
+         "quality":4,
+         "reagents":[
+            [
+               189541,
+               13
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            164
+         ],
+         "optionalReagents":[
+            {
+               "id":82,
+               "description":"Primal Molten Alloy (DNT)"
+            },
+            {
+               "id":111,
+               "description":"Infuse with Power"
+            },
+            {
+               "id":125,
+               "description":"Customize Secondary Stats"
+            },
+            {
+               "id":112,
+               "description":"Add Embellishment"
+            },
+            {
+               "id":124,
+               "description":"Quenching Fluid"
+            },
+            {
+               "id":93,
+               "description":"Illustrious Insight"
+            },
+            {
+               "id":247,
+               "description":"Spark"
+            },
+            {
+               "id":245,
+               "description":"Grant PvP Item Level"
+            },
+            {
+               "id":251,
+               "description":"Socket"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            100,
+            100,
+            100
+         ],
+         "creates":[
+            190502,
+            1,
+            1
+         ],
+         "displayName":"Primal Molten Vambraces",
+         "id":367601,
+         "learnedat":100,
+         "level":0,
+         "name":"Primal Molten Vambraces",
+         "nskillup":3,
+         "quality":4,
+         "reagents":[
+            [
+               189541,
+               14
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            164
+         ],
+         "optionalReagents":[
+            {
+               "id":82,
+               "description":"Primal Molten Alloy (DNT)"
+            },
+            {
+               "id":111,
+               "description":"Infuse with Power"
+            },
+            {
+               "id":125,
+               "description":"Customize Secondary Stats"
+            },
+            {
+               "id":112,
+               "description":"Add Embellishment"
+            },
+            {
+               "id":124,
+               "description":"Quenching Fluid"
+            },
+            {
+               "id":93,
+               "description":"Illustrious Insight"
+            },
+            {
+               "id":247,
+               "description":"Spark"
+            },
+            {
+               "id":246,
+               "description":"Grant PvP Item Level"
+            },
+            {
+               "id":251,
+               "description":"Socket"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            30,
+            35,
+            40
+         ],
+         "creates":[
+            190487,
+            1,
+            1
+         ],
+         "displayName":"Draconium Axe",
+         "id":367600,
+         "learnedat":30,
+         "level":0,
+         "name":"Draconium Axe",
+         "nskillup":2,
+         "quality":3,
+         "reagents":[
+            [
+               190452,
+               5
+            ],
+            [
+               189143,
+               6
+            ],
+            [
+               190395,
+               12
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            164
+         ],
+         "source":[
+            6
+         ],
+         "trainingcost":100,
+         "optionalReagents":[
+            {
+               "id":81,
+               "description":"Draconium Ore (DNT)"
+            },
+            {
+               "id":114,
+               "description":"Serevite Ore (DNT)"
+            },
+            {
+               "id":189,
+               "description":"Empower with Training Matrix"
+            },
+            {
+               "id":125,
+               "description":"Customize Secondary Stats"
+            },
+            {
+               "id":124,
+               "description":"Quenching Fluid"
+            },
+            {
+               "id":92,
+               "description":"Lesser Illustrious Insight"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            35,
+            40,
+            45
+         ],
+         "creates":[
+            190484,
+            1,
+            1
+         ],
+         "displayName":"Draconium Sword",
+         "id":367599,
+         "learnedat":35,
+         "level":0,
+         "name":"Draconium Sword",
+         "nskillup":2,
+         "quality":3,
+         "reagents":[
+            [
+               190452,
+               5
+            ],
+            [
+               189143,
+               6
+            ],
+            [
+               190395,
+               12
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            164
+         ],
+         "source":[
+            6
+         ],
+         "trainingcost":115,
+         "optionalReagents":[
+            {
+               "id":81,
+               "description":"Draconium Ore (DNT)"
+            },
+            {
+               "id":114,
+               "description":"Serevite Ore (DNT)"
+            },
+            {
+               "id":189,
+               "description":"Empower with Training Matrix"
+            },
+            {
+               "id":125,
+               "description":"Customize Secondary Stats"
+            },
+            {
+               "id":124,
+               "description":"Quenching Fluid"
+            },
+            {
+               "id":92,
+               "description":"Lesser Illustrious Insight"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            55,
+            60,
+            65
+         ],
+         "creates":[
+            190486,
+            1,
+            1
+         ],
+         "displayName":"Draconium Great Mace",
+         "id":367598,
+         "learnedat":55,
+         "level":0,
+         "name":"Draconium Great Mace",
+         "nskillup":2,
+         "quality":3,
+         "reagents":[
+            [
+               190452,
+               6
+            ],
+            [
+               189143,
+               10
+            ],
+            [
+               190395,
+               20
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            164
+         ],
+         "source":[
+            6
+         ],
+         "trainingcost":200,
+         "optionalReagents":[
+            {
+               "id":81,
+               "description":"Draconium Ore (DNT)"
+            },
+            {
+               "id":114,
+               "description":"Serevite Ore (DNT)"
+            },
+            {
+               "id":189,
+               "description":"Empower with Training Matrix"
+            },
+            {
+               "id":125,
+               "description":"Customize Secondary Stats"
+            },
+            {
+               "id":124,
+               "description":"Quenching Fluid"
+            },
+            {
+               "id":92,
+               "description":"Lesser Illustrious Insight"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            50,
+            55,
+            60
+         ],
+         "creates":[
+            190482,
+            1,
+            1
+         ],
+         "displayName":"Draconium Stiletto",
+         "id":367597,
+         "learnedat":50,
+         "level":0,
+         "name":"Draconium Stiletto",
+         "nskillup":2,
+         "quality":3,
+         "reagents":[
+            [
+               190452,
+               6
+            ],
+            [
+               189143,
+               6
+            ],
+            [
+               190395,
+               12
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            164
+         ],
+         "source":[
+            6
+         ],
+         "trainingcost":175,
+         "optionalReagents":[
+            {
+               "id":81,
+               "description":"Draconium Ore (DNT)"
+            },
+            {
+               "id":114,
+               "description":"Serevite Ore (DNT)"
+            },
+            {
+               "id":189,
+               "description":"Empower with Training Matrix"
+            },
+            {
+               "id":125,
+               "description":"Customize Secondary Stats"
+            },
+            {
+               "id":124,
+               "description":"Quenching Fluid"
+            },
+            {
+               "id":92,
+               "description":"Lesser Illustrious Insight"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            25,
+            30,
+            35
+         ],
+         "creates":[
+            190483,
+            1,
+            1
+         ],
+         "displayName":"Draconium Dirk",
+         "id":367596,
+         "learnedat":25,
+         "level":0,
+         "name":"Draconium Dirk",
+         "nskillup":2,
+         "quality":3,
+         "reagents":[
+            [
+               190452,
+               6
+            ],
+            [
+               189143,
+               6
+            ],
+            [
+               190395,
+               12
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            164
+         ],
+         "source":[
+            6
+         ],
+         "trainingcost":75,
+         "optionalReagents":[
+            {
+               "id":81,
+               "description":"Draconium Ore (DNT)"
+            },
+            {
+               "id":114,
+               "description":"Serevite Ore (DNT)"
+            },
+            {
+               "id":189,
+               "description":"Empower with Training Matrix"
+            },
+            {
+               "id":125,
+               "description":"Customize Secondary Stats"
+            },
+            {
+               "id":124,
+               "description":"Quenching Fluid"
+            },
+            {
+               "id":92,
+               "description":"Lesser Illustrious Insight"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            35,
+            40,
+            45
+         ],
+         "creates":[
+            190485,
+            1,
+            1
+         ],
+         "displayName":"Draconium Knuckles",
+         "id":367595,
+         "learnedat":35,
+         "level":0,
+         "name":"Draconium Knuckles",
+         "nskillup":2,
+         "quality":3,
+         "reagents":[
+            [
+               190452,
+               6
+            ],
+            [
+               189143,
+               6
+            ],
+            [
+               190395,
+               12
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            164
+         ],
+         "source":[
+            6
+         ],
+         "trainingcost":115,
+         "optionalReagents":[
+            {
+               "id":81,
+               "description":"Draconium Ore (DNT)"
+            },
+            {
+               "id":114,
+               "description":"Serevite Ore (DNT)"
+            },
+            {
+               "id":189,
+               "description":"Empower with Training Matrix"
+            },
+            {
+               "id":125,
+               "description":"Customize Secondary Stats"
+            },
+            {
+               "id":124,
+               "description":"Quenching Fluid"
+            },
+            {
+               "id":92,
+               "description":"Lesser Illustrious Insight"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            100,
+            100,
+            100
+         ],
+         "creates":[
+            190512,
+            1,
+            1
+         ],
+         "displayName":"Obsidian Seared Runeaxe",
+         "id":367594,
+         "learnedat":100,
+         "level":0,
+         "name":"Obsidian Seared Runeaxe",
+         "nskillup":3,
+         "quality":4,
+         "reagents":[
+            [
+               189541,
+               6
+            ],
+            [
+               190533,
+               6
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            164
+         ],
+         "source":[
+            5
+         ],
+         "optionalReagents":[
+            {
+               "id":84,
+               "description":"Obsidian Seared Alloy (DNT)"
+            },
+            {
+               "id":82,
+               "description":"Primal Molten Alloy (DNT)"
+            },
+            {
+               "id":111,
+               "description":"Infuse with Power"
+            },
+            {
+               "id":125,
+               "description":"Customize Secondary Stats"
+            },
+            {
+               "id":123,
+               "description":"Add Embellishment"
+            },
+            {
+               "id":124,
+               "description":"Quenching Fluid"
+            },
+            {
+               "id":93,
+               "description":"Illustrious Insight"
+            },
+            {
+               "id":247,
+               "description":"Spark"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            100,
+            100,
+            100
+         ],
+         "creates":[
+            190518,
+            1,
+            1
+         ],
+         "displayName":"Obsidian Seared Slicer",
+         "id":367593,
+         "learnedat":100,
+         "level":0,
+         "name":"Obsidian Seared Slicer",
+         "nskillup":3,
+         "quality":4,
+         "reagents":[
+            [
+               189541,
+               8
+            ],
+            [
+               190533,
+               5
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            164
+         ],
+         "source":[
+            2
+         ],
+         "optionalReagents":[
+            {
+               "id":84,
+               "description":"Obsidian Seared Alloy (DNT)"
+            },
+            {
+               "id":82,
+               "description":"Primal Molten Alloy (DNT)"
+            },
+            {
+               "id":111,
+               "description":"Infuse with Power"
+            },
+            {
+               "id":125,
+               "description":"Customize Secondary Stats"
+            },
+            {
+               "id":123,
+               "description":"Add Embellishment"
+            },
+            {
+               "id":124,
+               "description":"Quenching Fluid"
+            },
+            {
+               "id":93,
+               "description":"Illustrious Insight"
+            },
+            {
+               "id":247,
+               "description":"Spark"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            100,
+            100,
+            100
+         ],
+         "creates":[
+            190517,
+            1,
+            1
+         ],
+         "displayName":"Obsidian Seared Invoker",
+         "id":367592,
+         "learnedat":100,
+         "level":0,
+         "name":"Obsidian Seared Invoker",
+         "nskillup":3,
+         "quality":4,
+         "reagents":[
+            [
+               189541,
+               5
+            ],
+            [
+               190533,
+               7
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            164
+         ],
+         "source":[
+            5
+         ],
+         "optionalReagents":[
+            {
+               "id":84,
+               "description":"Obsidian Seared Alloy (DNT)"
+            },
+            {
+               "id":82,
+               "description":"Primal Molten Alloy (DNT)"
+            },
+            {
+               "id":111,
+               "description":"Infuse with Power"
+            },
+            {
+               "id":125,
+               "description":"Customize Secondary Stats"
+            },
+            {
+               "id":123,
+               "description":"Add Embellishment"
+            },
+            {
+               "id":124,
+               "description":"Quenching Fluid"
+            },
+            {
+               "id":93,
+               "description":"Illustrious Insight"
+            },
+            {
+               "id":247,
+               "description":"Spark"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            100,
+            100,
+            100
+         ],
+         "creates":[
+            190516,
+            1,
+            1
+         ],
+         "displayName":"Obsidian Seared Crusher",
+         "id":367591,
+         "learnedat":100,
+         "level":0,
+         "name":"Obsidian Seared Crusher",
+         "nskillup":3,
+         "quality":4,
+         "reagents":[
+            [
+               189541,
+               7
+            ],
+            [
+               190533,
+               7
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            164
+         ],
+         "source":[
+            2
+         ],
+         "optionalReagents":[
+            {
+               "id":84,
+               "description":"Obsidian Seared Alloy (DNT)"
+            },
+            {
+               "id":82,
+               "description":"Primal Molten Alloy (DNT)"
+            },
+            {
+               "id":111,
+               "description":"Infuse with Power"
+            },
+            {
+               "id":125,
+               "description":"Customize Secondary Stats"
+            },
+            {
+               "id":123,
+               "description":"Add Embellishment"
+            },
+            {
+               "id":124,
+               "description":"Quenching Fluid"
+            },
+            {
+               "id":93,
+               "description":"Illustrious Insight"
+            },
+            {
+               "id":247,
+               "description":"Spark"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            100,
+            100,
+            100
+         ],
+         "creates":[
+            190514,
+            1,
+            1
+         ],
+         "displayName":"Obsidian Seared Claymore",
+         "id":367590,
+         "learnedat":100,
+         "level":0,
+         "name":"Obsidian Seared Claymore",
+         "nskillup":3,
+         "quality":4,
+         "reagents":[
+            [
+               189541,
+               5
+            ],
+            [
+               190533,
+               8
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            164
+         ],
+         "source":[
+            5
+         ],
+         "optionalReagents":[
+            {
+               "id":84,
+               "description":"Obsidian Seared Alloy (DNT)"
+            },
+            {
+               "id":82,
+               "description":"Primal Molten Alloy (DNT)"
+            },
+            {
+               "id":111,
+               "description":"Infuse with Power"
+            },
+            {
+               "id":125,
+               "description":"Customize Secondary Stats"
+            },
+            {
+               "id":123,
+               "description":"Add Embellishment"
+            },
+            {
+               "id":124,
+               "description":"Quenching Fluid"
+            },
+            {
+               "id":93,
+               "description":"Illustrious Insight"
+            },
+            {
+               "id":247,
+               "description":"Spark"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            100,
+            100,
+            100
+         ],
+         "creates":[
+            190513,
+            1,
+            1
+         ],
+         "displayName":"Obsidian Seared Facesmasher",
+         "id":367589,
+         "learnedat":100,
+         "level":0,
+         "name":"Obsidian Seared Facesmasher",
+         "nskillup":3,
+         "quality":4,
+         "reagents":[
+            [
+               189541,
+               6
+            ],
+            [
+               190533,
+               6
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            164
+         ],
+         "source":[
+            5
+         ],
+         "optionalReagents":[
+            {
+               "id":84,
+               "description":"Obsidian Seared Alloy (DNT)"
+            },
+            {
+               "id":82,
+               "description":"Primal Molten Alloy (DNT)"
+            },
+            {
+               "id":111,
+               "description":"Infuse with Power"
+            },
+            {
+               "id":125,
+               "description":"Customize Secondary Stats"
+            },
+            {
+               "id":123,
+               "description":"Add Embellishment"
+            },
+            {
+               "id":124,
+               "description":"Quenching Fluid"
+            },
+            {
+               "id":93,
+               "description":"Illustrious Insight"
+            },
+            {
+               "id":247,
+               "description":"Spark"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            100,
+            100,
+            100
+         ],
+         "creates":[
+            190515,
+            1,
+            1
+         ],
+         "displayName":"Obsidian Seared Halberd",
+         "id":367588,
+         "learnedat":100,
+         "level":0,
+         "name":"Obsidian Seared Halberd",
+         "nskillup":3,
+         "quality":4,
+         "reagents":[
+            [
+               189541,
+               8
+            ],
+            [
+               190533,
+               6
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            164
+         ],
+         "source":[
+            5
+         ],
+         "optionalReagents":[
+            {
+               "id":84,
+               "description":"Obsidian Seared Alloy (DNT)"
+            },
+            {
+               "id":82,
+               "description":"Primal Molten Alloy (DNT)"
+            },
+            {
+               "id":111,
+               "description":"Infuse with Power"
+            },
+            {
+               "id":125,
+               "description":"Customize Secondary Stats"
+            },
+            {
+               "id":123,
+               "description":"Add Embellishment"
+            },
+            {
+               "id":124,
+               "description":"Quenching Fluid"
+            },
+            {
+               "id":93,
+               "description":"Illustrious Insight"
+            },
+            {
+               "id":247,
+               "description":"Spark"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            100,
+            100,
+            100
+         ],
+         "creates":[
+            190511,
+            1,
+            1
+         ],
+         "displayName":"Obsidian Seared Hexsword",
+         "id":367587,
+         "learnedat":100,
+         "level":0,
+         "name":"Obsidian Seared Hexsword",
+         "nskillup":3,
+         "quality":4,
+         "reagents":[
+            [
+               189541,
+               6
+            ],
+            [
+               190533,
+               6
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            164
+         ],
+         "source":[
+            2
+         ],
+         "optionalReagents":[
+            {
+               "id":84,
+               "description":"Obsidian Seared Alloy (DNT)"
+            },
+            {
+               "id":82,
+               "description":"Primal Molten Alloy (DNT)"
+            },
+            {
+               "id":111,
+               "description":"Infuse with Power"
+            },
+            {
+               "id":125,
+               "description":"Customize Secondary Stats"
+            },
+            {
+               "id":123,
+               "description":"Add Embellishment"
+            },
+            {
+               "id":124,
+               "description":"Quenching Fluid"
+            },
+            {
+               "id":93,
+               "description":"Illustrious Insight"
+            },
+            {
+               "id":247,
+               "description":"Spark"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            100,
+            100,
+            100
+         ],
+         "creates":[
+            190509,
+            1,
+            1
+         ],
+         "displayName":"Primal Molten Mace",
+         "id":367586,
+         "learnedat":100,
+         "level":0,
+         "name":"Primal Molten Mace",
+         "nskillup":3,
+         "quality":4,
+         "reagents":[
+            [
+               189541,
+               17
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            164
+         ],
+         "optionalReagents":[
+            {
+               "id":82,
+               "description":"Primal Molten Alloy (DNT)"
+            },
+            {
+               "id":111,
+               "description":"Infuse with Power"
+            },
+            {
+               "id":125,
+               "description":"Customize Secondary Stats"
+            },
+            {
+               "id":123,
+               "description":"Add Embellishment"
+            },
+            {
+               "id":124,
+               "description":"Quenching Fluid"
+            },
+            {
+               "id":93,
+               "description":"Illustrious Insight"
+            },
+            {
+               "id":247,
+               "description":"Spark"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            100,
+            100,
+            100
+         ],
+         "creates":[
+            190507,
+            1,
+            1
+         ],
+         "displayName":"Primal Molten Longsword",
+         "id":367585,
+         "learnedat":100,
+         "level":0,
+         "name":"Primal Molten Longsword",
+         "nskillup":3,
+         "quality":4,
+         "reagents":[
+            [
+               189541,
+               17
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            164
+         ],
+         "optionalReagents":[
+            {
+               "id":82,
+               "description":"Primal Molten Alloy (DNT)"
+            },
+            {
+               "id":111,
+               "description":"Infuse with Power"
+            },
+            {
+               "id":125,
+               "description":"Customize Secondary Stats"
+            },
+            {
+               "id":123,
+               "description":"Add Embellishment"
+            },
+            {
+               "id":124,
+               "description":"Quenching Fluid"
+            },
+            {
+               "id":93,
+               "description":"Illustrious Insight"
+            },
+            {
+               "id":247,
+               "description":"Spark"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            50,
+            55,
+            60
+         ],
+         "creates":[
+            190530,
+            2,
+            2
+         ],
+         "displayName":"Frostfire Alloy",
+         "id":367712,
+         "learnedat":50,
+         "level":0,
+         "name":"Frostfire Alloy",
+         "nskillup":1,
+         "quality":3,
+         "reagents":[
+            [
+               190321,
+               1
+            ],
+            [
+               190329,
+               1
+            ],
+            [
+               190452,
+               4
+            ],
+            [
+               189143,
+               5
+            ],
+            [
+               190312,
+               4
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            164
+         ],
+         "source":[
+            6
+         ],
+         "trainingcost":100,
+         "optionalReagents":[
+            {
+               "id":81,
+               "description":"Draconium Ore (DNT)"
+            },
+            {
+               "id":117,
+               "description":"Khaz'gorite Ore (DNT)"
+            },
+            {
+               "id":92,
+               "description":"Lesser Illustrious Insight"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            55,
+            60,
+            65
+         ],
+         "creates":[
+            190533,
+            2,
+            2
+         ],
+         "displayName":"Obsidian Seared Alloy",
+         "id":367713,
+         "learnedat":55,
+         "level":0,
+         "name":"Obsidian Seared Alloy",
+         "nskillup":1,
+         "quality":4,
+         "reagents":[
+            [
+               190324,
+               1
+            ],
+            [
+               190321,
+               1
+            ],
+            [
+               190452,
+               6
+            ],
+            [
+               189143,
+               10
+            ],
+            [
+               190312,
+               8
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            164
+         ],
+         "source":[
+            4
+         ],
+         "optionalReagents":[
+            {
+               "id":81,
+               "description":"Draconium Ore (DNT)"
+            },
+            {
+               "id":117,
+               "description":"Khaz'gorite Ore (DNT)"
+            },
+            {
+               "id":92,
+               "description":"Lesser Illustrious Insight"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            50,
+            55,
+            60
+         ],
+         "creates":[
+            190536,
+            2,
+            2
+         ],
+         "displayName":"Infurious Alloy",
+         "id":367714,
+         "learnedat":50,
+         "level":0,
+         "name":"Infurious Alloy",
+         "nskillup":1,
+         "quality":3,
+         "reagents":[
+            [
+               190450,
+               2
+            ],
+            [
+               190452,
+               3
+            ],
+            [
+               189143,
+               4
+            ],
+            [
+               190312,
+               2
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            164
+         ],
+         "source":[
+            2,
+            5
+         ],
+         "optionalReagents":[
+            {
+               "id":81,
+               "description":"Draconium Ore (DNT)"
+            },
+            {
+               "id":117,
+               "description":"Khaz'gorite Ore (DNT)"
+            },
+            {
+               "id":92,
+               "description":"Lesser Illustrious Insight"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            20,
+            25,
+            30
+         ],
+         "creates":[
+            191260,
+            1,
+            1
+         ],
+         "displayName":"Serevite Repair Hammer",
+         "id":371395,
+         "learnedat":20,
+         "level":0,
+         "name":"Serevite Repair Hammer",
+         "nskillup":1,
+         "quality":2,
+         "reagents":[
+            [
+               190452,
+               3
+            ],
+            [
+               190395,
+               8
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            164
+         ],
+         "source":[
+            6
+         ],
+         "trainingcost":50,
+         "optionalReagents":[
+            {
+               "id":114,
+               "description":"Serevite Ore (DNT)"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            30,
+            35,
+            40
+         ],
+         "creates":[
+            191250,
+            1,
+            1
+         ],
+         "displayName":"Armor Spikes",
+         "id":371349,
+         "learnedat":30,
+         "level":0,
+         "name":"Armor Spikes",
+         "nskillup":1,
+         "quality":3,
+         "reagents":[
+            [
+               190321,
+               3
+            ],
+            [
+               201400,
+               2
+            ],
+            [
+               190312,
+               15
+            ],
+            [
+               190395,
+               30
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            164
+         ],
+         "source":[
+            5
+         ],
+         "optionalReagents":[
+            {
+               "id":114,
+               "description":"Serevite Ore (DNT)"
+            },
+            {
+               "id":117,
+               "description":"Khaz'gorite Ore (DNT)"
+            },
+            {
+               "id":92,
+               "description":"Lesser Illustrious Insight"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            100,
+            100,
+            100
+         ],
+         "creates":[
+            191228,
+            1,
+            1
+         ],
+         "displayName":"Black Dragon Touched Hammer",
+         "id":371372,
+         "learnedat":100,
+         "level":0,
+         "name":"Black Dragon Touched Hammer",
+         "nskillup":1,
+         "quality":4,
+         "reagents":[
+            [
+               190456,
+               400
+            ],
+            [
+               193920,
+               1
+            ],
+            [
+               190533,
+               7
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            164
+         ],
+         "source":[
+            2
+         ],
+         "optionalReagents":[
+            {
+               "id":84,
+               "description":"Obsidian Seared Alloy (DNT)"
+            },
+            {
+               "id":124,
+               "description":"Quenching Fluid"
+            },
+            {
+               "id":93,
+               "description":"Illustrious Insight"
+            },
+            {
+               "id":222,
+               "description":"Customize Crafting Stat"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            5,
+            10,
+            15
+         ],
+         "creates":[
+            191237,
+            1,
+            1
+         ],
+         "displayName":"Draconium Blacksmith's Hammer",
+         "id":371344,
+         "learnedat":5,
+         "level":0,
+         "name":"Draconium Blacksmith's Hammer",
+         "nskillup":3,
+         "quality":2,
+         "reagents":[
+            [
+               190452,
+               4
+            ],
+            [
+               189143,
+               2
+            ],
+            [
+               190395,
+               10
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            164
+         ],
+         "optionalReagents":[
+            {
+               "id":81,
+               "description":"Draconium Ore (DNT)"
+            },
+            {
+               "id":114,
+               "description":"Serevite Ore (DNT)"
+            },
+            {
+               "id":124,
+               "description":"Quenching Fluid"
+            },
+            {
+               "id":92,
+               "description":"Lesser Illustrious Insight"
+            },
+            {
+               "id":222,
+               "description":"Customize Crafting Stat"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            90,
+            95,
+            100
+         ],
+         "creates":[
+            191888,
+            1,
+            1
+         ],
+         "displayName":"Khaz'gorite Blacksmith's Hammer",
+         "id":371412,
+         "learnedat":90,
+         "level":0,
+         "name":"Khaz'gorite Blacksmith's Hammer",
+         "nskillup":1,
+         "quality":3,
+         "reagents":[
+            [
+               190456,
+               225
+            ],
+            [
+               190452,
+               15
+            ],
+            [
+               190312,
+               40
+            ],
+            [
+               190395,
+               100
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            164
+         ],
+         "optionalReagents":[
+            {
+               "id":117,
+               "description":"Khaz'gorite Ore (DNT)"
+            },
+            {
+               "id":114,
+               "description":"Serevite Ore (DNT)"
+            },
+            {
+               "id":124,
+               "description":"Quenching Fluid"
+            },
+            {
+               "id":93,
+               "description":"Illustrious Insight"
+            },
+            {
+               "id":222,
+               "description":"Customize Crafting Stat"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            90,
+            95,
+            100
+         ],
+         "creates":[
+            191224,
+            1,
+            1
+         ],
+         "displayName":"Khaz'gorite Sickle",
+         "id":371365,
+         "learnedat":90,
+         "level":0,
+         "name":"Khaz'gorite Sickle",
+         "nskillup":1,
+         "quality":3,
+         "reagents":[
+            [
+               190456,
+               300
+            ],
+            [
+               190452,
+               15
+            ],
+            [
+               190312,
+               40
+            ],
+            [
+               190395,
+               100
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            164
+         ],
+         "source":[
+            5
+         ],
+         "optionalReagents":[
+            {
+               "id":117,
+               "description":"Khaz'gorite Ore (DNT)"
+            },
+            {
+               "id":114,
+               "description":"Serevite Ore (DNT)"
+            },
+            {
+               "id":124,
+               "description":"Quenching Fluid"
+            },
+            {
+               "id":93,
+               "description":"Illustrious Insight"
+            },
+            {
+               "id":231,
+               "description":"Customize Gathering Stat"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            15,
+            20,
+            25
+         ],
+         "creates":[
+            191241,
+            1,
+            1
+         ],
+         "displayName":"Draconium Sickle",
+         "id":371343,
+         "learnedat":15,
+         "level":0,
+         "name":"Draconium Sickle",
+         "nskillup":3,
+         "quality":2,
+         "reagents":[
+            [
+               190452,
+               4
+            ],
+            [
+               189143,
+               2
+            ],
+            [
+               190395,
+               10
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            164
+         ],
+         "source":[
+            6
+         ],
+         "trainingcost":40,
+         "optionalReagents":[
+            {
+               "id":81,
+               "description":"Draconium Ore (DNT)"
+            },
+            {
+               "id":114,
+               "description":"Serevite Ore (DNT)"
+            },
+            {
+               "id":124,
+               "description":"Quenching Fluid"
+            },
+            {
+               "id":92,
+               "description":"Lesser Illustrious Insight"
+            },
+            {
+               "id":231,
+               "description":"Customize Gathering Stat"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            90,
+            95,
+            100
+         ],
+         "creates":[
+            191227,
+            1,
+            1
+         ],
+         "displayName":"Khaz'gorite Leatherworker's Knife",
+         "id":371369,
+         "learnedat":90,
+         "level":0,
+         "name":"Khaz'gorite Leatherworker's Knife",
+         "nskillup":1,
+         "quality":3,
+         "reagents":[
+            [
+               190456,
+               300
+            ],
+            [
+               190452,
+               15
+            ],
+            [
+               190312,
+               40
+            ],
+            [
+               190395,
+               100
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            164
+         ],
+         "source":[
+            5
+         ],
+         "optionalReagents":[
+            {
+               "id":117,
+               "description":"Khaz'gorite Ore (DNT)"
+            },
+            {
+               "id":114,
+               "description":"Serevite Ore (DNT)"
+            },
+            {
+               "id":124,
+               "description":"Quenching Fluid"
+            },
+            {
+               "id":93,
+               "description":"Illustrious Insight"
+            },
+            {
+               "id":222,
+               "description":"Customize Crafting Stat"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            25,
+            30,
+            35
+         ],
+         "creates":[
+            191238,
+            1,
+            1
+         ],
+         "displayName":"Draconium Leatherworker's Knife",
+         "id":371338,
+         "learnedat":25,
+         "level":0,
+         "name":"Draconium Leatherworker's Knife",
+         "nskillup":3,
+         "quality":2,
+         "reagents":[
+            [
+               190452,
+               4
+            ],
+            [
+               189143,
+               3
+            ],
+            [
+               190395,
+               12
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            164
+         ],
+         "source":[
+            6
+         ],
+         "trainingcost":75,
+         "optionalReagents":[
+            {
+               "id":81,
+               "description":"Draconium Ore (DNT)"
+            },
+            {
+               "id":114,
+               "description":"Serevite Ore (DNT)"
+            },
+            {
+               "id":124,
+               "description":"Quenching Fluid"
+            },
+            {
+               "id":92,
+               "description":"Lesser Illustrious Insight"
+            },
+            {
+               "id":222,
+               "description":"Customize Crafting Stat"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            90,
+            95,
+            100
+         ],
+         "creates":[
+            191223,
+            1,
+            1
+         ],
+         "displayName":"Khaz'gorite Pickaxe",
+         "id":371366,
+         "learnedat":90,
+         "level":0,
+         "name":"Khaz'gorite Pickaxe",
+         "nskillup":1,
+         "quality":3,
+         "reagents":[
+            [
+               190456,
+               300
+            ],
+            [
+               190452,
+               15
+            ],
+            [
+               190312,
+               45
+            ],
+            [
+               190395,
+               100
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            164
+         ],
+         "optionalReagents":[
+            {
+               "id":117,
+               "description":"Khaz'gorite Ore (DNT)"
+            },
+            {
+               "id":114,
+               "description":"Serevite Ore (DNT)"
+            },
+            {
+               "id":124,
+               "description":"Quenching Fluid"
+            },
+            {
+               "id":93,
+               "description":"Illustrious Insight"
+            },
+            {
+               "id":231,
+               "description":"Customize Gathering Stat"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            10,
+            15,
+            20
+         ],
+         "creates":[
+            191242,
+            1,
+            1
+         ],
+         "displayName":"Draconium Pickaxe",
+         "id":371309,
+         "learnedat":10,
+         "level":0,
+         "name":"Draconium Pickaxe",
+         "nskillup":3,
+         "quality":2,
+         "reagents":[
+            [
+               190452,
+               4
+            ],
+            [
+               189143,
+               2
+            ],
+            [
+               190395,
+               10
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            164
+         ],
+         "source":[
+            6
+         ],
+         "trainingcost":25,
+         "optionalReagents":[
+            {
+               "id":81,
+               "description":"Draconium Ore (DNT)"
+            },
+            {
+               "id":114,
+               "description":"Serevite Ore (DNT)"
+            },
+            {
+               "id":124,
+               "description":"Quenching Fluid"
+            },
+            {
+               "id":92,
+               "description":"Lesser Illustrious Insight"
+            },
+            {
+               "id":231,
+               "description":"Customize Gathering Stat"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            90,
+            95,
+            100
+         ],
+         "creates":[
+            191225,
+            1,
+            1
+         ],
+         "displayName":"Khaz'gorite Skinning Knife",
+         "id":371367,
+         "learnedat":90,
+         "level":0,
+         "name":"Khaz'gorite Skinning Knife",
+         "nskillup":1,
+         "quality":3,
+         "reagents":[
+            [
+               190456,
+               300
+            ],
+            [
+               190452,
+               15
+            ],
+            [
+               190312,
+               40
+            ],
+            [
+               190395,
+               100
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            164
+         ],
+         "source":[
+            5
+         ],
+         "optionalReagents":[
+            {
+               "id":117,
+               "description":"Khaz'gorite Ore (DNT)"
+            },
+            {
+               "id":114,
+               "description":"Serevite Ore (DNT)"
+            },
+            {
+               "id":124,
+               "description":"Quenching Fluid"
+            },
+            {
+               "id":93,
+               "description":"Illustrious Insight"
+            },
+            {
+               "id":231,
+               "description":"Customize Gathering Stat"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            20,
+            25,
+            30
+         ],
+         "creates":[
+            191240,
+            1,
+            1
+         ],
+         "displayName":"Draconium Skinning Knife",
+         "id":371304,
+         "learnedat":20,
+         "level":0,
+         "name":"Draconium Skinning Knife",
+         "nskillup":3,
+         "quality":2,
+         "reagents":[
+            [
+               190452,
+               4
+            ],
+            [
+               189143,
+               3
+            ],
+            [
+               190395,
+               10
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            164
+         ],
+         "source":[
+            6
+         ],
+         "trainingcost":50,
+         "optionalReagents":[
+            {
+               "id":81,
+               "description":"Draconium Ore (DNT)"
+            },
+            {
+               "id":114,
+               "description":"Serevite Ore (DNT)"
+            },
+            {
+               "id":124,
+               "description":"Quenching Fluid"
+            },
+            {
+               "id":92,
+               "description":"Lesser Illustrious Insight"
+            },
+            {
+               "id":231,
+               "description":"Customize Gathering Stat"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            90,
+            95,
+            100
+         ],
+         "creates":[
+            191226,
+            1,
+            1
+         ],
+         "displayName":"Khaz'gorite Needle Set",
+         "id":371368,
+         "learnedat":90,
+         "level":0,
+         "name":"Khaz'gorite Needle Set",
+         "nskillup":1,
+         "quality":3,
+         "reagents":[
+            [
+               190456,
+               300
+            ],
+            [
+               190452,
+               12
+            ],
+            [
+               190312,
+               35
+            ],
+            [
+               190395,
+               100
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            164
+         ],
+         "source":[
+            5
+         ],
+         "optionalReagents":[
+            {
+               "id":117,
+               "description":"Khaz'gorite Ore (DNT)"
+            },
+            {
+               "id":114,
+               "description":"Serevite Ore (DNT)"
+            },
+            {
+               "id":124,
+               "description":"Quenching Fluid"
+            },
+            {
+               "id":93,
+               "description":"Illustrious Insight"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            35,
+            40,
+            45
+         ],
+         "creates":[
+            191239,
+            1,
+            1
+         ],
+         "displayName":"Draconium Needle Set",
+         "id":371302,
+         "learnedat":35,
+         "level":0,
+         "name":"Draconium Needle Set",
+         "nskillup":2,
+         "quality":2,
+         "reagents":[
+            [
+               190452,
+               3
+            ],
+            [
+               189143,
+               4
+            ],
+            [
+               190395,
+               10
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            164
+         ],
+         "source":[
+            6
+         ],
+         "trainingcost":115,
+         "optionalReagents":[
+            {
+               "id":81,
+               "description":"Draconium Ore (DNT)"
+            },
+            {
+               "id":114,
+               "description":"Serevite Ore (DNT)"
+            },
+            {
+               "id":124,
+               "description":"Quenching Fluid"
+            },
+            {
+               "id":92,
+               "description":"Lesser Illustrious Insight"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            20,
+            25,
+            30
+         ],
+         "creates":[
+            191235,
+            1,
+            1
+         ],
+         "displayName":"Draconium Blacksmith's Toolbox",
+         "id":371364,
+         "learnedat":20,
+         "level":0,
+         "name":"Draconium Blacksmith's Toolbox",
+         "nskillup":3,
+         "quality":2,
+         "reagents":[
+            [
+               190452,
+               3
+            ],
+            [
+               189143,
+               3
+            ],
+            [
+               190395,
+               12
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            164
+         ],
+         "source":[
+            6
+         ],
+         "trainingcost":50,
+         "optionalReagents":[
+            {
+               "id":124,
+               "description":"Quenching Fluid"
+            },
+            {
+               "id":92,
+               "description":"Lesser Illustrious Insight"
+            },
+            {
+               "id":114,
+               "description":"Serevite Ore (DNT)"
+            },
+            {
+               "id":81,
+               "description":"Draconium Ore (DNT)"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            90,
+            95,
+            100
+         ],
+         "creates":[
+            191230,
+            1,
+            1
+         ],
+         "displayName":"Khaz'gorite Blacksmith's Toolbox",
+         "id":371374,
+         "learnedat":90,
+         "level":0,
+         "name":"Khaz'gorite Blacksmith's Toolbox",
+         "nskillup":1,
+         "quality":3,
+         "reagents":[
+            [
+               190456,
+               225
+            ],
+            [
+               190452,
+               12
+            ],
+            [
+               190312,
+               40
+            ],
+            [
+               190395,
+               100
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            164
+         ],
+         "optionalReagents":[
+            {
+               "id":124,
+               "description":"Quenching Fluid"
+            },
+            {
+               "id":93,
+               "description":"Illustrious Insight"
+            },
+            {
+               "id":117,
+               "description":"Khaz'gorite Ore (DNT)"
+            },
+            {
+               "id":114,
+               "description":"Serevite Ore (DNT)"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            90,
+            95,
+            100
+         ],
+         "creates":[
+            191229,
+            1,
+            1
+         ],
+         "displayName":"Khaz'gorite Leatherworker's Toolset",
+         "id":371371,
+         "learnedat":90,
+         "level":0,
+         "name":"Khaz'gorite Leatherworker's Toolset",
+         "nskillup":1,
+         "quality":3,
+         "reagents":[
+            [
+               190456,
+               300
+            ],
+            [
+               190452,
+               12
+            ],
+            [
+               190312,
+               40
+            ],
+            [
+               190395,
+               100
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            164
+         ],
+         "source":[
+            5
+         ],
+         "optionalReagents":[
+            {
+               "id":124,
+               "description":"Quenching Fluid"
+            },
+            {
+               "id":93,
+               "description":"Illustrious Insight"
+            },
+            {
+               "id":117,
+               "description":"Khaz'gorite Ore (DNT)"
+            },
+            {
+               "id":114,
+               "description":"Serevite Ore (DNT)"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            30,
+            35,
+            40
+         ],
+         "creates":[
+            191236,
+            1,
+            1
+         ],
+         "displayName":"Draconium Leatherworker's Toolset",
+         "id":371360,
+         "learnedat":30,
+         "level":0,
+         "name":"Draconium Leatherworker's Toolset",
+         "nskillup":3,
+         "quality":2,
+         "reagents":[
+            [
+               190452,
+               3
+            ],
+            [
+               189143,
+               3
+            ],
+            [
+               190395,
+               12
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            164
+         ],
+         "source":[
+            6
+         ],
+         "trainingcost":100,
+         "optionalReagents":[
+            {
+               "id":124,
+               "description":"Quenching Fluid"
+            },
+            {
+               "id":92,
+               "description":"Lesser Illustrious Insight"
+            },
+            {
+               "id":114,
+               "description":"Serevite Ore (DNT)"
+            },
+            {
+               "id":81,
+               "description":"Draconium Ore (DNT)"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            40,
+            50,
+            60
+         ],
+         "creates":[
+            191529,
+            1,
+            1
+         ],
+         "displayName":"Illustrious Insight",
+         "id":376700,
+         "learnedat":40,
+         "level":0,
+         "name":"Illustrious Insight",
+         "nskillup":1,
+         "quality":3,
+         "reagents":[
+            [
+               190456,
+               50
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            164
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            10,
+            15,
+            20
+         ],
+         "creates":[
+            191256,
+            5,
+            5
+         ],
+         "displayName":"Serevite Skeleton Key",
+         "id":371394,
+         "learnedat":10,
+         "level":0,
+         "name":"Serevite Skeleton Key",
+         "nskillup":1,
+         "quality":2,
+         "reagents":[
+            [
+               190452,
+               3
+            ],
+            [
+               190395,
+               20
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            164
+         ],
+         "source":[
+            2,
+            6
+         ],
+         "trainingcost":25,
+         "optionalReagents":[
+            {
+               "id":114,
+               "description":"Serevite Ore (DNT)"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            50,
+            55,
+            60
+         ],
+         "creates":[
+            191886,
+            1,
+            1
+         ],
+         "displayName":"Alvin the Anvil",
+         "id":371403,
+         "learnedat":50,
+         "level":0,
+         "name":"Alvin the Anvil",
+         "nskillup":1,
+         "quality":3,
+         "reagents":[
+            [
+               193920,
+               1
+            ],
+            [
+               189541,
+               6
+            ],
+            [
+               190530,
+               6
+            ],
+            [
+               190536,
+               6
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            164
+         ],
+         "source":[
+            2
+         ],
+         "optionalReagents":[
+            {
+               "id":82,
+               "description":"Primal Molten Alloy (DNT)"
+            },
+            {
+               "id":83,
+               "description":"Frostfire Alloy (DNT)"
+            },
+            {
+               "id":85,
+               "description":"Infurious Alloy (DNT)"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            40,
+            45,
+            50
+         ],
+         "creates":[
+            191933,
+            5,
+            5
+         ],
+         "displayName":"Primal Whetstone",
+         "id":371650,
+         "learnedat":40,
+         "level":0,
+         "name":"Primal Whetstone",
+         "nskillup":1,
+         "quality":2,
+         "reagents":[
+            [
+               190321,
+               1
+            ],
+            [
+               192883,
+               4
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            164
+         ],
+         "source":[
+            6
+         ],
+         "trainingcost":130,
+         "optionalReagents":[
+            {
+               "id":142,
+               "description":"Glossy Stone (DNT)"
+            },
+            {
+               "id":92,
+               "description":"Lesser Illustrious Insight"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            35,
+            40,
+            45
+         ],
+         "creates":[
+            191943,
+            5,
+            5
+         ],
+         "displayName":"Primal Weightstone",
+         "id":371674,
+         "learnedat":35,
+         "level":0,
+         "name":"Primal Weightstone",
+         "nskillup":1,
+         "quality":2,
+         "reagents":[
+            [
+               190316,
+               1
+            ],
+            [
+               192883,
+               4
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            164
+         ],
+         "source":[
+            6
+         ],
+         "trainingcost":115,
+         "optionalReagents":[
+            {
+               "id":142,
+               "description":"Glossy Stone (DNT)"
+            },
+            {
+               "id":92,
+               "description":"Lesser Illustrious Insight"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            45,
+            50,
+            55
+         ],
+         "creates":[
+            191948,
+            5,
+            5
+         ],
+         "displayName":"Primal Razorstone",
+         "id":371682,
+         "learnedat":45,
+         "level":0,
+         "name":"Primal Razorstone",
+         "nskillup":1,
+         "quality":2,
+         "reagents":[
+            [
+               192883,
+               4
+            ],
+            [
+               193368,
+               1
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            164
+         ],
+         "source":[
+            5
+         ],
+         "optionalReagents":[
+            {
+               "id":142,
+               "description":"Glossy Stone (DNT)"
+            },
+            {
+               "id":158,
+               "description":"Silken Gemdust (DNT)"
+            },
+            {
+               "id":92,
+               "description":"Lesser Illustrious Insight"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            40,
+            45,
+            50
+         ],
+         "creates":[
+            193602,
+            1,
+            1
+         ],
+         "displayName":"Crimson Combatant's Draconium Breastplate",
+         "id":376618,
+         "learnedat":40,
+         "level":0,
+         "name":"Crimson Combatant's Draconium Breastplate",
+         "nskillup":2,
+         "quality":2,
+         "reagents":[
+            [
+               190536,
+               2
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            164
+         ],
+         "source":[
+            5
+         ],
+         "optionalReagents":[
+            {
+               "id":85,
+               "description":"Infurious Alloy (DNT)"
+            },
+            {
+               "id":125,
+               "description":"Customize Secondary Stats"
+            },
+            {
+               "id":124,
+               "description":"Quenching Fluid"
+            },
+            {
+               "id":92,
+               "description":"Lesser Illustrious Insight"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            40,
+            45,
+            50
+         ],
+         "creates":[
+            193603,
+            1,
+            1
+         ],
+         "displayName":"Crimson Combatant's Draconium Sabatons",
+         "id":376623,
+         "learnedat":40,
+         "level":0,
+         "name":"Crimson Combatant's Draconium Sabatons",
+         "nskillup":2,
+         "quality":2,
+         "reagents":[
+            [
+               190536,
+               2
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            164
+         ],
+         "source":[
+            5
+         ],
+         "optionalReagents":[
+            {
+               "id":85,
+               "description":"Infurious Alloy (DNT)"
+            },
+            {
+               "id":125,
+               "description":"Customize Secondary Stats"
+            },
+            {
+               "id":124,
+               "description":"Quenching Fluid"
+            },
+            {
+               "id":92,
+               "description":"Lesser Illustrious Insight"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            40,
+            45,
+            50
+         ],
+         "creates":[
+            193604,
+            1,
+            1
+         ],
+         "displayName":"Crimson Combatant's Draconium Gauntlets",
+         "id":376619,
+         "learnedat":40,
+         "level":0,
+         "name":"Crimson Combatant's Draconium Gauntlets",
+         "nskillup":2,
+         "quality":2,
+         "reagents":[
+            [
+               190536,
+               2
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            164
+         ],
+         "source":[
+            5
+         ],
+         "optionalReagents":[
+            {
+               "id":85,
+               "description":"Infurious Alloy (DNT)"
+            },
+            {
+               "id":125,
+               "description":"Customize Secondary Stats"
+            },
+            {
+               "id":124,
+               "description":"Quenching Fluid"
+            },
+            {
+               "id":92,
+               "description":"Lesser Illustrious Insight"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            40,
+            45,
+            50
+         ],
+         "creates":[
+            193605,
+            1,
+            1
+         ],
+         "displayName":"Crimson Combatant's Draconium Helm",
+         "id":376621,
+         "learnedat":40,
+         "level":0,
+         "name":"Crimson Combatant's Draconium Helm",
+         "nskillup":2,
+         "quality":2,
+         "reagents":[
+            [
+               190536,
+               2
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            164
+         ],
+         "source":[
+            5
+         ],
+         "optionalReagents":[
+            {
+               "id":85,
+               "description":"Infurious Alloy (DNT)"
+            },
+            {
+               "id":125,
+               "description":"Customize Secondary Stats"
+            },
+            {
+               "id":124,
+               "description":"Quenching Fluid"
+            },
+            {
+               "id":92,
+               "description":"Lesser Illustrious Insight"
+            },
+            {
+               "id":252,
+               "description":"Socket"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            40,
+            45,
+            50
+         ],
+         "creates":[
+            193606,
+            1,
+            1
+         ],
+         "displayName":"Crimson Combatant's Draconium Greaves",
+         "id":376620,
+         "learnedat":40,
+         "level":0,
+         "name":"Crimson Combatant's Draconium Greaves",
+         "nskillup":2,
+         "quality":2,
+         "reagents":[
+            [
+               190536,
+               2
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            164
+         ],
+         "source":[
+            5
+         ],
+         "optionalReagents":[
+            {
+               "id":85,
+               "description":"Infurious Alloy (DNT)"
+            },
+            {
+               "id":125,
+               "description":"Customize Secondary Stats"
+            },
+            {
+               "id":124,
+               "description":"Quenching Fluid"
+            },
+            {
+               "id":92,
+               "description":"Lesser Illustrious Insight"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            40,
+            45,
+            50
+         ],
+         "creates":[
+            193607,
+            1,
+            1
+         ],
+         "displayName":"Crimson Combatant's Draconium Pauldrons",
+         "id":376622,
+         "learnedat":40,
+         "level":0,
+         "name":"Crimson Combatant's Draconium Pauldrons",
+         "nskillup":2,
+         "quality":2,
+         "reagents":[
+            [
+               190536,
+               2
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            164
+         ],
+         "source":[
+            5
+         ],
+         "optionalReagents":[
+            {
+               "id":85,
+               "description":"Infurious Alloy (DNT)"
+            },
+            {
+               "id":125,
+               "description":"Customize Secondary Stats"
+            },
+            {
+               "id":124,
+               "description":"Quenching Fluid"
+            },
+            {
+               "id":92,
+               "description":"Lesser Illustrious Insight"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            40,
+            45,
+            50
+         ],
+         "creates":[
+            193608,
+            1,
+            1
+         ],
+         "displayName":"Crimson Combatant's Draconium Waistguard",
+         "id":376624,
+         "learnedat":40,
+         "level":0,
+         "name":"Crimson Combatant's Draconium Waistguard",
+         "nskillup":2,
+         "quality":2,
+         "reagents":[
+            [
+               190536,
+               2
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            164
+         ],
+         "source":[
+            5
+         ],
+         "optionalReagents":[
+            {
+               "id":85,
+               "description":"Infurious Alloy (DNT)"
+            },
+            {
+               "id":125,
+               "description":"Customize Secondary Stats"
+            },
+            {
+               "id":124,
+               "description":"Quenching Fluid"
+            },
+            {
+               "id":92,
+               "description":"Lesser Illustrious Insight"
+            },
+            {
+               "id":252,
+               "description":"Socket"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            40,
+            45,
+            50
+         ],
+         "creates":[
+            193609,
+            1,
+            1
+         ],
+         "displayName":"Crimson Combatant's Draconium Armguards",
+         "id":376617,
+         "learnedat":40,
+         "level":0,
+         "name":"Crimson Combatant's Draconium Armguards",
+         "nskillup":2,
+         "quality":2,
+         "reagents":[
+            [
+               190536,
+               2
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            164
+         ],
+         "source":[
+            5
+         ],
+         "optionalReagents":[
+            {
+               "id":85,
+               "description":"Infurious Alloy (DNT)"
+            },
+            {
+               "id":125,
+               "description":"Customize Secondary Stats"
+            },
+            {
+               "id":124,
+               "description":"Quenching Fluid"
+            },
+            {
+               "id":92,
+               "description":"Lesser Illustrious Insight"
+            },
+            {
+               "id":252,
+               "description":"Socket"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            50,
+            55,
+            60
+         ],
+         "creates":[
+            194541,
+            1,
+            1
+         ],
+         "displayName":"Prototype Regal Barding Framework",
+         "id":377280,
+         "learnedat":50,
+         "level":0,
+         "name":"Prototype Regal Barding Framework",
+         "nskillup":1,
+         "quality":3,
+         "reagents":[
+            [
+               190452,
+               5
+            ],
+            [
+               201403,
+               3
+            ],
+            [
+               190395,
+               20
+            ],
+            [
+               190530,
+               1
+            ],
+            [
+               190533,
+               2
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            164
+         ],
+         "source":[
+            2
+         ],
+         "optionalReagents":[
+            {
+               "id":114,
+               "description":"Serevite Ore (DNT)"
+            },
+            {
+               "id":83,
+               "description":"Frostfire Alloy (DNT)"
+            },
+            {
+               "id":84,
+               "description":"Obsidian Seared Alloy (DNT)"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            50,
+            55,
+            60
+         ],
+         "creates":[
+            194542,
+            1,
+            1
+         ],
+         "displayName":"Prototype Explorer's Barding Framework",
+         "id":377281,
+         "learnedat":50,
+         "level":0,
+         "name":"Prototype Explorer's Barding Framework",
+         "nskillup":1,
+         "quality":3,
+         "reagents":[
+            [
+               190452,
+               5
+            ],
+            [
+               201399,
+               3
+            ],
+            [
+               189541,
+               1
+            ],
+            [
+               190395,
+               20
+            ],
+            [
+               190533,
+               2
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            164
+         ],
+         "source":[
+            5
+         ],
+         "optionalReagents":[
+            {
+               "id":114,
+               "description":"Serevite Ore (DNT)"
+            },
+            {
+               "id":82,
+               "description":"Primal Molten Alloy (DNT)"
+            },
+            {
+               "id":84,
+               "description":"Obsidian Seared Alloy (DNT)"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            10,
+            17,
+            25
+         ],
+         "creates":[
+            194714,
+            1,
+            1
+         ],
+         "displayName":"Heart in a Bottle",
+         "id":377981,
+         "learnedat":10,
+         "level":0,
+         "name":"Heart in a Bottle",
+         "nskillup":1,
+         "quality":4,
+         "reagents":[
+            [
+               194746,
+               1
+            ],
+            [
+               194727,
+               3
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            164
+         ],
+         "optionalReagents":[
+            {
+               "id":186,
+               "description":"Fiery Spirit (DNT)"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            45,
+            47,
+            50
+         ],
+         "creates":[
+            191304,
+            1,
+            1
+         ],
+         "displayName":"Sturdy Expedition Shovel",
+         "id":388279,
+         "learnedat":45,
+         "level":0,
+         "name":"Sturdy Expedition Shovel",
+         "nskillup":1,
+         "quality":1,
+         "reagents":[
+            [
+               190452,
+               2
+            ],
+            [
+               190395,
+               10
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            164
+         ],
+         "source":[
+            5
+         ],
+         "optionalReagents":[
+            {
+               "id":114,
+               "description":"Serevite Ore (DNT)"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            25,
+            30,
+            35
+         ],
+         "creates":[
+            201322,
+            1,
+            1
+         ],
+         "displayName":"Draconium Defender",
+         "id":393404,
+         "learnedat":25,
+         "level":0,
+         "name":"Draconium Defender",
+         "nskillup":2,
+         "quality":3,
+         "reagents":[
+            [
+               190452,
+               5
+            ],
+            [
+               189143,
+               6
+            ],
+            [
+               190395,
+               12
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            164
+         ],
+         "source":[
+            6
+         ],
+         "trainingcost":75,
+         "optionalReagents":[
+            {
+               "id":81,
+               "description":"Draconium Ore (DNT)"
+            },
+            {
+               "id":114,
+               "description":"Serevite Ore (DNT)"
+            },
+            {
+               "id":189,
+               "description":"Empower with Training Matrix"
+            },
+            {
+               "id":125,
+               "description":"Customize Secondary Stats"
+            },
+            {
+               "id":124,
+               "description":"Quenching Fluid"
+            },
+            {
+               "id":92,
+               "description":"Lesser Illustrious Insight"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            45,
+            50,
+            55
+         ],
+         "creates":[
+            201324,
+            1,
+            1
+         ],
+         "displayName":"Draconium Great Axe",
+         "id":393416,
+         "learnedat":45,
+         "level":0,
+         "name":"Draconium Great Axe",
+         "nskillup":2,
+         "quality":3,
+         "reagents":[
+            [
+               190452,
+               6
+            ],
+            [
+               189143,
+               10
+            ],
+            [
+               190395,
+               20
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            164
+         ],
+         "source":[
+            6
+         ],
+         "trainingcost":150,
+         "optionalReagents":[
+            {
+               "id":81,
+               "description":"Draconium Ore (DNT)"
+            },
+            {
+               "id":114,
+               "description":"Serevite Ore (DNT)"
+            },
+            {
+               "id":189,
+               "description":"Empower with Training Matrix"
+            },
+            {
+               "id":125,
+               "description":"Customize Secondary Stats"
+            },
+            {
+               "id":124,
+               "description":"Quenching Fluid"
+            },
+            {
+               "id":92,
+               "description":"Lesser Illustrious Insight"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            100,
+            100,
+            100
+         ],
+         "creates":[
+            201366,
+            1,
+            1
+         ],
+         "displayName":"Master's Hammer",
+         "id":393853,
+         "learnedat":100,
+         "level":0,
+         "name":"Master's Hammer",
+         "nskillup":1,
+         "quality":3,
+         "reagents":[
+            [
+               190452,
+               10
+            ],
+            [
+               189541,
+               2
+            ],
+            [
+               190530,
+               2
+            ],
+            [
+               190533,
+               1
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            164
+         ],
+         "optionalReagents":[
+            {
+               "id":84,
+               "description":"Obsidian Seared Alloy (DNT)"
+            },
+            {
+               "id":82,
+               "description":"Primal Molten Alloy (DNT)"
+            },
+            {
+               "id":83,
+               "description":"Frostfire Alloy (DNT)"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            35,
+            40,
+            45
+         ],
+         "creates":[
+            201955,
+            1,
+            1
+         ],
+         "displayName":"Explorer's Expert Clasp",
+         "id":367611,
+         "learnedat":35,
+         "level":0,
+         "name":"Explorer's Expert Clasp",
+         "nskillup":2,
+         "quality":3,
+         "reagents":[
+            [
+               190452,
+               2
+            ],
+            [
+               189143,
+               4
+            ],
+            [
+               190395,
+               10
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            164
+         ],
+         "source":[
+            6
+         ],
+         "trainingcost":115,
+         "optionalReagents":[
+            {
+               "id":81,
+               "description":"Draconium Ore (DNT)"
+            },
+            {
+               "id":114,
+               "description":"Serevite Ore (DNT)"
+            },
+            {
+               "id":189,
+               "description":"Empower with Training Matrix"
+            },
+            {
+               "id":125,
+               "description":"Customize Secondary Stats"
+            },
+            {
+               "id":124,
+               "description":"Quenching Fluid"
+            },
+            {
+               "id":92,
+               "description":"Lesser Illustrious Insight"
+            },
+            {
+               "id":252,
+               "description":"Socket"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            45,
+            50,
+            55
+         ],
+         "creates":[
+            201953,
+            1,
+            1
+         ],
+         "displayName":"Explorer's Expert Gauntlets",
+         "id":395879,
+         "learnedat":45,
+         "level":0,
+         "name":"Explorer's Expert Gauntlets",
+         "nskillup":2,
+         "quality":3,
+         "reagents":[
+            [
+               190452,
+               2
+            ],
+            [
+               189143,
+               6
+            ],
+            [
+               190395,
+               12
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            164
+         ],
+         "source":[
+            6
+         ],
+         "trainingcost":150,
+         "optionalReagents":[
+            {
+               "id":81,
+               "description":"Draconium Ore (DNT)"
+            },
+            {
+               "id":114,
+               "description":"Serevite Ore (DNT)"
+            },
+            {
+               "id":189,
+               "description":"Empower with Training Matrix"
+            },
+            {
+               "id":125,
+               "description":"Customize Secondary Stats"
+            },
+            {
+               "id":124,
+               "description":"Quenching Fluid"
+            },
+            {
+               "id":92,
+               "description":"Lesser Illustrious Insight"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            40,
+            45,
+            50
+         ],
+         "creates":[
+            201954,
+            1,
+            1
+         ],
+         "displayName":"Explorer's Expert Greaves",
+         "id":395881,
+         "learnedat":40,
+         "level":0,
+         "name":"Explorer's Expert Greaves",
+         "nskillup":2,
+         "quality":3,
+         "reagents":[
+            [
+               190452,
+               2
+            ],
+            [
+               189143,
+               7
+            ],
+            [
+               190395,
+               14
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            164
+         ],
+         "source":[
+            6
+         ],
+         "trainingcost":130,
+         "optionalReagents":[
+            {
+               "id":81,
+               "description":"Draconium Ore (DNT)"
+            },
+            {
+               "id":114,
+               "description":"Serevite Ore (DNT)"
+            },
+            {
+               "id":189,
+               "description":"Empower with Training Matrix"
+            },
+            {
+               "id":125,
+               "description":"Customize Secondary Stats"
+            },
+            {
+               "id":124,
+               "description":"Quenching Fluid"
+            },
+            {
+               "id":92,
+               "description":"Lesser Illustrious Insight"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            55,
+            60,
+            65
+         ],
+         "creates":[
+            201951,
+            1,
+            1
+         ],
+         "displayName":"Explorer's Expert Helm",
+         "id":395883,
+         "learnedat":55,
+         "level":0,
+         "name":"Explorer's Expert Helm",
+         "nskillup":2,
+         "quality":3,
+         "reagents":[
+            [
+               190452,
+               2
+            ],
+            [
+               189143,
+               7
+            ],
+            [
+               190395,
+               14
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            164
+         ],
+         "source":[
+            6
+         ],
+         "trainingcost":200,
+         "optionalReagents":[
+            {
+               "id":81,
+               "description":"Draconium Ore (DNT)"
+            },
+            {
+               "id":114,
+               "description":"Serevite Ore (DNT)"
+            },
+            {
+               "id":189,
+               "description":"Empower with Training Matrix"
+            },
+            {
+               "id":125,
+               "description":"Customize Secondary Stats"
+            },
+            {
+               "id":124,
+               "description":"Quenching Fluid"
+            },
+            {
+               "id":92,
+               "description":"Lesser Illustrious Insight"
+            },
+            {
+               "id":252,
+               "description":"Socket"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            50,
+            55,
+            60
+         ],
+         "creates":[
+            201952,
+            1,
+            1
+         ],
+         "displayName":"Explorer's Expert Spaulders",
+         "id":395880,
+         "learnedat":50,
+         "level":0,
+         "name":"Explorer's Expert Spaulders",
+         "nskillup":2,
+         "quality":3,
+         "reagents":[
+            [
+               190452,
+               2
+            ],
+            [
+               189143,
+               6
+            ],
+            [
+               190395,
+               12
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            164
+         ],
+         "source":[
+            6
+         ],
+         "trainingcost":175,
+         "optionalReagents":[
+            {
+               "id":81,
+               "description":"Draconium Ore (DNT)"
+            },
+            {
+               "id":114,
+               "description":"Serevite Ore (DNT)"
+            },
+            {
+               "id":189,
+               "description":"Empower with Training Matrix"
+            },
+            {
+               "id":125,
+               "description":"Customize Secondary Stats"
+            },
+            {
+               "id":124,
+               "description":"Quenching Fluid"
+            },
+            {
+               "id":92,
+               "description":"Lesser Illustrious Insight"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            50,
+            55,
+            60
+         ],
+         "creates":[
+            203408,
+            1,
+            1
+         ],
+         "displayName":"Ancient Ceremonial Trident",
+         "id":400808,
+         "learnedat":50,
+         "level":0,
+         "name":"Ancient Ceremonial Trident",
+         "nskillup":1,
+         "quality":4,
+         "reagents":[
+            [
+               203399,
+               1
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            164
+         ],
+         "source":[
+            5
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            50,
+            55,
+            60
+         ],
+         "creates":[
+            204121,
+            1,
+            1
+         ],
+         "displayName":"Obsidian Combatant's Draconium Breastplate",
+         "id":403159,
+         "learnedat":50,
+         "level":0,
+         "name":"Obsidian Combatant's Draconium Breastplate",
+         "nskillup":2,
+         "quality":2,
+         "reagents":[
+            [
+               190536,
+               4
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            164
+         ],
+         "source":[
+            5
+         ],
+         "optionalReagents":[
+            {
+               "id":85,
+               "description":"Infurious Alloy (DNT)"
+            },
+            {
+               "id":243,
+               "description":"Customize Secondary Stat"
+            },
+            {
+               "id":124,
+               "description":"Quenching Fluid"
+            },
+            {
+               "id":92,
+               "description":"Lesser Illustrious Insight"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            50,
+            55,
+            60
+         ],
+         "creates":[
+            204122,
+            1,
+            1
+         ],
+         "displayName":"Obsidian Combatant's Draconium Sabatons",
+         "id":403164,
+         "learnedat":50,
+         "level":0,
+         "name":"Obsidian Combatant's Draconium Sabatons",
+         "nskillup":2,
+         "quality":2,
+         "reagents":[
+            [
+               190536,
+               4
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            164
+         ],
+         "source":[
+            5
+         ],
+         "optionalReagents":[
+            {
+               "id":85,
+               "description":"Infurious Alloy (DNT)"
+            },
+            {
+               "id":243,
+               "description":"Customize Secondary Stat"
+            },
+            {
+               "id":124,
+               "description":"Quenching Fluid"
+            },
+            {
+               "id":92,
+               "description":"Lesser Illustrious Insight"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            50,
+            55,
+            60
+         ],
+         "creates":[
+            204123,
+            1,
+            1
+         ],
+         "displayName":"Obsidian Combatant's Draconium Gauntlets",
+         "id":403160,
+         "learnedat":50,
+         "level":0,
+         "name":"Obsidian Combatant's Draconium Gauntlets",
+         "nskillup":2,
+         "quality":2,
+         "reagents":[
+            [
+               190536,
+               4
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            164
+         ],
+         "source":[
+            5
+         ],
+         "optionalReagents":[
+            {
+               "id":85,
+               "description":"Infurious Alloy (DNT)"
+            },
+            {
+               "id":243,
+               "description":"Customize Secondary Stat"
+            },
+            {
+               "id":124,
+               "description":"Quenching Fluid"
+            },
+            {
+               "id":92,
+               "description":"Lesser Illustrious Insight"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            50,
+            55,
+            60
+         ],
+         "creates":[
+            204124,
+            1,
+            1
+         ],
+         "displayName":"Obsidian Combatant's Draconium Helm",
+         "id":403162,
+         "learnedat":50,
+         "level":0,
+         "name":"Obsidian Combatant's Draconium Helm",
+         "nskillup":2,
+         "quality":2,
+         "reagents":[
+            [
+               190536,
+               4
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            164
+         ],
+         "source":[
+            5
+         ],
+         "optionalReagents":[
+            {
+               "id":85,
+               "description":"Infurious Alloy (DNT)"
+            },
+            {
+               "id":243,
+               "description":"Customize Secondary Stat"
+            },
+            {
+               "id":124,
+               "description":"Quenching Fluid"
+            },
+            {
+               "id":92,
+               "description":"Lesser Illustrious Insight"
+            },
+            {
+               "id":252,
+               "description":"Socket"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            50,
+            55,
+            60
+         ],
+         "creates":[
+            204125,
+            1,
+            1
+         ],
+         "displayName":"Obsidian Combatant's Draconium Greaves",
+         "id":403161,
+         "learnedat":50,
+         "level":0,
+         "name":"Obsidian Combatant's Draconium Greaves",
+         "nskillup":2,
+         "quality":2,
+         "reagents":[
+            [
+               190536,
+               4
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            164
+         ],
+         "source":[
+            2,
+            5
+         ],
+         "optionalReagents":[
+            {
+               "id":85,
+               "description":"Infurious Alloy (DNT)"
+            },
+            {
+               "id":243,
+               "description":"Customize Secondary Stat"
+            },
+            {
+               "id":124,
+               "description":"Quenching Fluid"
+            },
+            {
+               "id":92,
+               "description":"Lesser Illustrious Insight"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            50,
+            55,
+            60
+         ],
+         "creates":[
+            204126,
+            1,
+            1
+         ],
+         "displayName":"Obsidian Combatant's Draconium Pauldrons",
+         "id":403163,
+         "learnedat":50,
+         "level":0,
+         "name":"Obsidian Combatant's Draconium Pauldrons",
+         "nskillup":2,
+         "quality":2,
+         "reagents":[
+            [
+               190536,
+               4
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            164
+         ],
+         "source":[
+            5
+         ],
+         "optionalReagents":[
+            {
+               "id":85,
+               "description":"Infurious Alloy (DNT)"
+            },
+            {
+               "id":243,
+               "description":"Customize Secondary Stat"
+            },
+            {
+               "id":124,
+               "description":"Quenching Fluid"
+            },
+            {
+               "id":92,
+               "description":"Lesser Illustrious Insight"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            50,
+            55,
+            60
+         ],
+         "creates":[
+            204127,
+            1,
+            1
+         ],
+         "displayName":"Obsidian Combatant's Draconium Waistguard",
+         "id":403165,
+         "learnedat":50,
+         "level":0,
+         "name":"Obsidian Combatant's Draconium Waistguard",
+         "nskillup":2,
+         "quality":2,
+         "reagents":[
+            [
+               190536,
+               4
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            164
+         ],
+         "source":[
+            5
+         ],
+         "optionalReagents":[
+            {
+               "id":85,
+               "description":"Infurious Alloy (DNT)"
+            },
+            {
+               "id":243,
+               "description":"Customize Secondary Stat"
+            },
+            {
+               "id":124,
+               "description":"Quenching Fluid"
+            },
+            {
+               "id":92,
+               "description":"Lesser Illustrious Insight"
+            },
+            {
+               "id":252,
+               "description":"Socket"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            50,
+            55,
+            60
+         ],
+         "creates":[
+            204128,
+            1,
+            1
+         ],
+         "displayName":"Obsidian Combatant's Draconium Armguards",
+         "id":403158,
+         "learnedat":50,
+         "level":0,
+         "name":"Obsidian Combatant's Draconium Armguards",
+         "nskillup":2,
+         "quality":2,
+         "reagents":[
+            [
+               190536,
+               4
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            164
+         ],
+         "source":[
+            2,
+            5
+         ],
+         "optionalReagents":[
+            {
+               "id":85,
+               "description":"Infurious Alloy (DNT)"
+            },
+            {
+               "id":243,
+               "description":"Customize Secondary Stat"
+            },
+            {
+               "id":124,
+               "description":"Quenching Fluid"
+            },
+            {
+               "id":92,
+               "description":"Lesser Illustrious Insight"
+            },
+            {
+               "id":252,
+               "description":"Socket"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            100,
+            100,
+            100
+         ],
+         "creates":[
+            204832,
+            1,
+            1
+         ],
+         "displayName":"Reclaimed Gauntlet Chassis",
+         "id":409224,
+         "learnedat":100,
+         "level":0,
+         "name":"Reclaimed Gauntlet Chassis",
+         "nskillup":1,
+         "quality":5,
+         "reagents":[
+            [
+               205257,
+               240
+            ],
+            [
+               204857,
+               20
+            ],
+            [
+               190324,
+               25
+            ],
+            [
+               190533,
+               50
+            ],
+            [
+               204995,
+               20
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            164
+         ],
+         "optionalReagents":[
+            {
+               "id":84,
+               "description":"Obsidian Seared Alloy (DNT)"
+            },
+            {
+               "id":248,
+               "description":"Shadowed Alloy (DNT)"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            45,
+            55,
+            65
+         ],
+         "creates":[
+            204994,
+            2,
+            2
+         ],
+         "displayName":"Shadowed Alloy",
+         "id":408282,
+         "learnedat":45,
+         "level":0,
+         "name":"Shadowed Alloy",
+         "nskillup":1,
+         "quality":3,
+         "reagents":[
+            [
+               190321,
+               1
+            ],
+            [
+               190324,
+               1
+            ],
+            [
+               204464,
+               1
+            ],
+            [
+               189143,
+               5
+            ],
+            [
+               190312,
+               2
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            164
+         ],
+         "source":[
+            5
+         ],
+         "optionalReagents":[
+            {
+               "id":81,
+               "description":"Draconium Ore (DNT)"
+            },
+            {
+               "id":117,
+               "description":"Khaz'gorite Ore (DNT)"
+            },
+            {
+               "id":92,
+               "description":"Lesser Illustrious Insight"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            100,
+            100,
+            100
+         ],
+         "creates":[
+            205046,
+            1,
+            1
+         ],
+         "displayName":"Shadowed Razing Annihilator",
+         "id":408283,
+         "learnedat":100,
+         "level":0,
+         "name":"Shadowed Razing Annihilator",
+         "nskillup":3,
+         "quality":4,
+         "reagents":[
+            [
+               205413,
+               2
+            ],
+            [
+               189541,
+               7
+            ],
+            [
+               190533,
+               7
+            ],
+            [
+               204995,
+               5
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            164
+         ],
+         "source":[
+            2
+         ],
+         "optionalReagents":[
+            {
+               "id":247,
+               "description":"Spark"
+            },
+            {
+               "id":248,
+               "description":"Shadowed Alloy (DNT)"
+            },
+            {
+               "id":84,
+               "description":"Obsidian Seared Alloy (DNT)"
+            },
+            {
+               "id":82,
+               "description":"Primal Molten Alloy (DNT)"
+            },
+            {
+               "id":111,
+               "description":"Infuse with Power"
+            },
+            {
+               "id":124,
+               "description":"Quenching Fluid"
+            },
+            {
+               "id":93,
+               "description":"Illustrious Insight"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            45,
+            55,
+            65
+         ],
+         "creates":[
+            205039,
+            1,
+            1
+         ],
+         "displayName":"Shadowed Belt Clasp",
+         "id":408288,
+         "learnedat":45,
+         "level":0,
+         "name":"Shadowed Belt Clasp",
+         "nskillup":1,
+         "quality":3,
+         "reagents":[
+            [
+               189541,
+               13
+            ],
+            [
+               204995,
+               5
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            164
+         ],
+         "source":[
+            5
+         ],
+         "optionalReagents":[
+            {
+               "id":248,
+               "description":"Shadowed Alloy (DNT)"
+            },
+            {
+               "id":82,
+               "description":"Primal Molten Alloy (DNT)"
+            },
+            {
+               "id":124,
+               "description":"Quenching Fluid"
+            },
+            {
+               "id":93,
+               "description":"Illustrious Insight"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            45,
+            55,
+            65
+         ],
+         "creates":[
+            205038,
+            1,
+            1
+         ],
+         "displayName":"Heat-Resistant Rescue Ring",
+         "id":408299,
+         "learnedat":45,
+         "level":0,
+         "name":"Heat-Resistant Rescue Ring",
+         "nskillup":1,
+         "quality":3,
+         "reagents":[
+            [
+               205413,
+               1
+            ],
+            [
+               189541,
+               5
+            ],
+            [
+               190530,
+               5
+            ],
+            [
+               190536,
+               5
+            ],
+            [
+               204995,
+               5
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            164
+         ],
+         "source":[
+            2
+         ],
+         "optionalReagents":[
+            {
+               "id":82,
+               "description":"Primal Molten Alloy (DNT)"
+            },
+            {
+               "id":83,
+               "description":"Frostfire Alloy (DNT)"
+            },
+            {
+               "id":85,
+               "description":"Infurious Alloy (DNT)"
+            },
+            {
+               "id":248,
+               "description":"Shadowed Alloy (DNT)"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            100,
+            100,
+            100
+         ],
+         "creates":[
+            205168,
+            1,
+            1
+         ],
+         "displayName":"Shadowed Impact Buckler",
+         "id":408326,
+         "learnedat":100,
+         "level":0,
+         "name":"Shadowed Impact Buckler",
+         "nskillup":1,
+         "quality":4,
+         "reagents":[
+            [
+               205413,
+               1
+            ],
+            [
+               189541,
+               15
+            ],
+            [
+               204995,
+               5
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            164
+         ],
+         "source":[
+            2
+         ],
+         "optionalReagents":[
+            {
+               "id":247,
+               "description":"Spark"
+            },
+            {
+               "id":248,
+               "description":"Shadowed Alloy (DNT)"
+            },
+            {
+               "id":82,
+               "description":"Primal Molten Alloy (DNT)"
+            },
+            {
+               "id":111,
+               "description":"Infuse with Power"
+            },
+            {
+               "id":124,
+               "description":"Quenching Fluid"
+            },
+            {
+               "id":93,
+               "description":"Illustrious Insight"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            50,
+            55,
+            60
+         ],
+         "creates":[
+            208264,
+            1,
+            1
+         ],
+         "displayName":"Verdant Combatant's Draconium Breastplate",
+         "id":419032,
+         "learnedat":50,
+         "level":0,
+         "name":"Verdant Combatant's Draconium Breastplate",
+         "nskillup":2,
+         "quality":2,
+         "reagents":[
+            [
+               190536,
+               6
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            164
+         ],
+         "source":[
+            2,
+            5
+         ],
+         "optionalReagents":[
+            {
+               "id":85,
+               "description":"Infurious Alloy (DNT)"
+            },
+            {
+               "id":243,
+               "description":"Customize Secondary Stat"
+            },
+            {
+               "id":124,
+               "description":"Quenching Fluid"
+            },
+            {
+               "id":92,
+               "description":"Lesser Illustrious Insight"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            50,
+            55,
+            60
+         ],
+         "creates":[
+            208265,
+            1,
+            1
+         ],
+         "displayName":"Verdant Combatant's Draconium Sabatons",
+         "id":419037,
+         "learnedat":50,
+         "level":0,
+         "name":"Verdant Combatant's Draconium Sabatons",
+         "nskillup":2,
+         "quality":2,
+         "reagents":[
+            [
+               190536,
+               6
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            164
+         ],
+         "source":[
+            2,
+            5
+         ],
+         "optionalReagents":[
+            {
+               "id":85,
+               "description":"Infurious Alloy (DNT)"
+            },
+            {
+               "id":243,
+               "description":"Customize Secondary Stat"
+            },
+            {
+               "id":124,
+               "description":"Quenching Fluid"
+            },
+            {
+               "id":92,
+               "description":"Lesser Illustrious Insight"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            50,
+            55,
+            60
+         ],
+         "creates":[
+            208266,
+            1,
+            1
+         ],
+         "displayName":"Verdant Combatant's Draconium Gauntlets",
+         "id":419033,
+         "learnedat":50,
+         "level":0,
+         "name":"Verdant Combatant's Draconium Gauntlets",
+         "nskillup":2,
+         "quality":2,
+         "reagents":[
+            [
+               190536,
+               6
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            164
+         ],
+         "source":[
+            5
+         ],
+         "optionalReagents":[
+            {
+               "id":85,
+               "description":"Infurious Alloy (DNT)"
+            },
+            {
+               "id":243,
+               "description":"Customize Secondary Stat"
+            },
+            {
+               "id":124,
+               "description":"Quenching Fluid"
+            },
+            {
+               "id":92,
+               "description":"Lesser Illustrious Insight"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            50,
+            55,
+            60
+         ],
+         "creates":[
+            208267,
+            1,
+            1
+         ],
+         "displayName":"Verdant Combatant's Draconium Helm",
+         "id":419035,
+         "learnedat":50,
+         "level":0,
+         "name":"Verdant Combatant's Draconium Helm",
+         "nskillup":2,
+         "quality":2,
+         "reagents":[
+            [
+               190536,
+               6
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            164
+         ],
+         "source":[
+            5
+         ],
+         "optionalReagents":[
+            {
+               "id":85,
+               "description":"Infurious Alloy (DNT)"
+            },
+            {
+               "id":243,
+               "description":"Customize Secondary Stat"
+            },
+            {
+               "id":124,
+               "description":"Quenching Fluid"
+            },
+            {
+               "id":92,
+               "description":"Lesser Illustrious Insight"
+            },
+            {
+               "id":252,
+               "description":"Socket"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            50,
+            55,
+            60
+         ],
+         "creates":[
+            208268,
+            1,
+            1
+         ],
+         "displayName":"Verdant Combatant's Draconium Greaves",
+         "id":419034,
+         "learnedat":50,
+         "level":0,
+         "name":"Verdant Combatant's Draconium Greaves",
+         "nskillup":2,
+         "quality":2,
+         "reagents":[
+            [
+               190536,
+               6
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            164
+         ],
+         "source":[
+            5
+         ],
+         "optionalReagents":[
+            {
+               "id":85,
+               "description":"Infurious Alloy (DNT)"
+            },
+            {
+               "id":243,
+               "description":"Customize Secondary Stat"
+            },
+            {
+               "id":124,
+               "description":"Quenching Fluid"
+            },
+            {
+               "id":92,
+               "description":"Lesser Illustrious Insight"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            50,
+            55,
+            60
+         ],
+         "creates":[
+            208269,
+            1,
+            1
+         ],
+         "displayName":"Verdant Combatant's Draconium Pauldrons",
+         "id":419036,
+         "learnedat":50,
+         "level":0,
+         "name":"Verdant Combatant's Draconium Pauldrons",
+         "nskillup":2,
+         "quality":2,
+         "reagents":[
+            [
+               190536,
+               6
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            164
+         ],
+         "source":[
+            2,
+            5
+         ],
+         "optionalReagents":[
+            {
+               "id":85,
+               "description":"Infurious Alloy (DNT)"
+            },
+            {
+               "id":243,
+               "description":"Customize Secondary Stat"
+            },
+            {
+               "id":124,
+               "description":"Quenching Fluid"
+            },
+            {
+               "id":92,
+               "description":"Lesser Illustrious Insight"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            50,
+            55,
+            60
+         ],
+         "creates":[
+            208270,
+            1,
+            1
+         ],
+         "displayName":"Verdant Combatant's Draconium Waistguard",
+         "id":419038,
+         "learnedat":50,
+         "level":0,
+         "name":"Verdant Combatant's Draconium Waistguard",
+         "nskillup":2,
+         "quality":2,
+         "reagents":[
+            [
+               190536,
+               6
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            164
+         ],
+         "source":[
+            5
+         ],
+         "optionalReagents":[
+            {
+               "id":85,
+               "description":"Infurious Alloy (DNT)"
+            },
+            {
+               "id":243,
+               "description":"Customize Secondary Stat"
+            },
+            {
+               "id":124,
+               "description":"Quenching Fluid"
+            },
+            {
+               "id":92,
+               "description":"Lesser Illustrious Insight"
+            },
+            {
+               "id":252,
+               "description":"Socket"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            50,
+            55,
+            60
+         ],
+         "creates":[
+            208271,
+            1,
+            1
+         ],
+         "displayName":"Verdant Combatant's Draconium Armguards",
+         "id":419031,
+         "learnedat":50,
+         "level":0,
+         "name":"Verdant Combatant's Draconium Armguards",
+         "nskillup":2,
+         "quality":2,
+         "reagents":[
+            [
+               190536,
+               6
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            164
+         ],
+         "source":[
+            5
+         ],
+         "optionalReagents":[
+            {
+               "id":85,
+               "description":"Infurious Alloy (DNT)"
+            },
+            {
+               "id":243,
+               "description":"Customize Secondary Stat"
+            },
+            {
+               "id":124,
+               "description":"Quenching Fluid"
+            },
+            {
+               "id":92,
+               "description":"Lesser Illustrious Insight"
+            },
+            {
+               "id":252,
+               "description":"Socket"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            100,
+            100,
+            100
+         ],
+         "creates":[
+            210646,
+            1,
+            1
+         ],
+         "displayName":"Flourishing Dream Helm",
+         "id":426332,
+         "learnedat":100,
+         "level":0,
+         "name":"Flourishing Dream Helm",
+         "nskillup":3,
+         "quality":4,
+         "reagents":[
+            [
+               205413,
+               2
+            ],
+            [
+               189541,
+               7
+            ],
+            [
+               190533,
+               7
+            ],
+            [
+               204995,
+               5
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            164
+         ],
+         "source":[
+            2,
+            16
+         ],
+         "optionalReagents":[
+            {
+               "id":247,
+               "description":"Spark"
+            },
+            {
+               "id":248,
+               "description":"Shadowed Alloy (DNT)"
+            },
+            {
+               "id":84,
+               "description":"Obsidian Seared Alloy (DNT)"
+            },
+            {
+               "id":82,
+               "description":"Primal Molten Alloy (DNT)"
+            },
+            {
+               "id":111,
+               "description":"Infuse with Power"
+            },
+            {
+               "id":124,
+               "description":"Quenching Fluid"
+            },
+            {
+               "id":93,
+               "description":"Illustrious Insight"
+            },
+            {
+               "id":244,
+               "description":"Grant PvP Item Level"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            50,
+            55,
+            60
+         ],
+         "creates":[
+            211570,
+            1,
+            1
+         ],
+         "displayName":"Draconic Combatant's Draconium Armguards",
+         "id":430082,
+         "learnedat":50,
+         "level":0,
+         "name":"Draconic Combatant's Draconium Armguards",
+         "nskillup":2,
+         "quality":2,
+         "reagents":[
+            [
+               190536,
+               6
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            164
+         ],
+         "source":[
+            5
+         ],
+         "optionalReagents":[
+            {
+               "id":85,
+               "description":"Infurious Alloy (DNT)"
+            },
+            {
+               "id":243,
+               "description":"Customize Secondary Stat"
+            },
+            {
+               "id":124,
+               "description":"Quenching Fluid"
+            },
+            {
+               "id":92,
+               "description":"Lesser Illustrious Insight"
+            },
+            {
+               "id":252,
+               "description":"Socket"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            50,
+            55,
+            60
+         ],
+         "creates":[
+            211563,
+            1,
+            1
+         ],
+         "displayName":"Draconic Combatant's Draconium Breastplate",
+         "id":430083,
+         "learnedat":50,
+         "level":0,
+         "name":"Draconic Combatant's Draconium Breastplate",
+         "nskillup":2,
+         "quality":2,
+         "reagents":[
+            [
+               190536,
+               6
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            164
+         ],
+         "source":[
+            5
+         ],
+         "optionalReagents":[
+            {
+               "id":85,
+               "description":"Infurious Alloy (DNT)"
+            },
+            {
+               "id":243,
+               "description":"Customize Secondary Stat"
+            },
+            {
+               "id":124,
+               "description":"Quenching Fluid"
+            },
+            {
+               "id":92,
+               "description":"Lesser Illustrious Insight"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            50,
+            55,
+            60
+         ],
+         "creates":[
+            211565,
+            1,
+            1
+         ],
+         "displayName":"Draconic Combatant's Draconium Gauntlets",
+         "id":430084,
+         "learnedat":50,
+         "level":0,
+         "name":"Draconic Combatant's Draconium Gauntlets",
+         "nskillup":2,
+         "quality":2,
+         "reagents":[
+            [
+               190536,
+               6
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            164
+         ],
+         "source":[
+            5
+         ],
+         "optionalReagents":[
+            {
+               "id":85,
+               "description":"Infurious Alloy (DNT)"
+            },
+            {
+               "id":243,
+               "description":"Customize Secondary Stat"
+            },
+            {
+               "id":124,
+               "description":"Quenching Fluid"
+            },
+            {
+               "id":92,
+               "description":"Lesser Illustrious Insight"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            50,
+            55,
+            60
+         ],
+         "creates":[
+            211567,
+            1,
+            1
+         ],
+         "displayName":"Draconic Combatant's Draconium Greaves",
+         "id":430085,
+         "learnedat":50,
+         "level":0,
+         "name":"Draconic Combatant's Draconium Greaves",
+         "nskillup":2,
+         "quality":2,
+         "reagents":[
+            [
+               190536,
+               6
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            164
+         ],
+         "source":[
+            5
+         ],
+         "optionalReagents":[
+            {
+               "id":85,
+               "description":"Infurious Alloy (DNT)"
+            },
+            {
+               "id":243,
+               "description":"Customize Secondary Stat"
+            },
+            {
+               "id":124,
+               "description":"Quenching Fluid"
+            },
+            {
+               "id":92,
+               "description":"Lesser Illustrious Insight"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            50,
+            55,
+            60
+         ],
+         "creates":[
+            211566,
+            1,
+            1
+         ],
+         "displayName":"Draconic Combatant's Draconium Helm",
+         "id":430086,
+         "learnedat":50,
+         "level":0,
+         "name":"Draconic Combatant's Draconium Helm",
+         "nskillup":2,
+         "quality":2,
+         "reagents":[
+            [
+               190536,
+               6
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            164
+         ],
+         "source":[
+            5
+         ],
+         "optionalReagents":[
+            {
+               "id":85,
+               "description":"Infurious Alloy (DNT)"
+            },
+            {
+               "id":243,
+               "description":"Customize Secondary Stat"
+            },
+            {
+               "id":124,
+               "description":"Quenching Fluid"
+            },
+            {
+               "id":92,
+               "description":"Lesser Illustrious Insight"
+            },
+            {
+               "id":252,
+               "description":"Socket"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            50,
+            55,
+            60
+         ],
+         "creates":[
+            211568,
+            1,
+            1
+         ],
+         "displayName":"Draconic Combatant's Draconium Pauldrons",
+         "id":430087,
+         "learnedat":50,
+         "level":0,
+         "name":"Draconic Combatant's Draconium Pauldrons",
+         "nskillup":2,
+         "quality":2,
+         "reagents":[
+            [
+               190536,
+               6
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            164
+         ],
+         "source":[
+            5
+         ],
+         "optionalReagents":[
+            {
+               "id":85,
+               "description":"Infurious Alloy (DNT)"
+            },
+            {
+               "id":243,
+               "description":"Customize Secondary Stat"
+            },
+            {
+               "id":124,
+               "description":"Quenching Fluid"
+            },
+            {
+               "id":92,
+               "description":"Lesser Illustrious Insight"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            50,
+            55,
+            60
+         ],
+         "creates":[
+            211564,
+            1,
+            1
+         ],
+         "displayName":"Draconic Combatant's Draconium Sabatons",
+         "id":430088,
+         "learnedat":50,
+         "level":0,
+         "name":"Draconic Combatant's Draconium Sabatons",
+         "nskillup":2,
+         "quality":2,
+         "reagents":[
+            [
+               190536,
+               6
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            164
+         ],
+         "source":[
+            5
+         ],
+         "optionalReagents":[
+            {
+               "id":85,
+               "description":"Infurious Alloy (DNT)"
+            },
+            {
+               "id":243,
+               "description":"Customize Secondary Stat"
+            },
+            {
+               "id":124,
+               "description":"Quenching Fluid"
+            },
+            {
+               "id":92,
+               "description":"Lesser Illustrious Insight"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            50,
+            55,
+            60
+         ],
+         "creates":[
+            211569,
+            1,
+            1
+         ],
+         "displayName":"Draconic Combatant's Draconium Waistguard",
+         "id":430089,
+         "learnedat":50,
+         "level":0,
+         "name":"Draconic Combatant's Draconium Waistguard",
+         "nskillup":2,
+         "quality":2,
+         "reagents":[
+            [
+               190536,
+               6
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            164
+         ],
+         "source":[
+            5
+         ],
+         "optionalReagents":[
+            {
+               "id":85,
+               "description":"Infurious Alloy (DNT)"
+            },
+            {
+               "id":243,
+               "description":"Customize Secondary Stat"
+            },
+            {
+               "id":124,
+               "description":"Quenching Fluid"
+            },
+            {
+               "id":92,
+               "description":"Lesser Illustrious Insight"
+            },
+            {
+               "id":252,
+               "description":"Socket"
+            }
+         ]
+      }
+   ]
+}

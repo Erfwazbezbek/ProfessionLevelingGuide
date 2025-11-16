@@ -1,0 +1,6051 @@
+{
+   "template":"spell",
+   "id":"khaz-algar-patterns",
+   "name":"Khaz Algar Patterns",
+   "tabs":"tabsRelated",
+   "parent":"lkljbjkb574",
+   "note":"<a href=\"\/spells\/professions\/leatherworking?filter=20;1;0\">Filter these results<\/a>",
+   "sort":[
+      "-skill",
+      "name"
+   ],
+   "hiddenCols":[
+      "slot"
+   ],
+   "visibleCols":[
+      "source"
+   ],
+   "data":[
+      {
+         "cat":11,
+         "colors":[
+            0,
+            60,
+            65,
+            70
+         ],
+         "creates":[
+            217126,
+            1,
+            1
+         ],
+         "displayName":"Algari Competitor's Leather Boots",
+         "id":438898,
+         "learnedat":60,
+         "level":0,
+         "name":"Algari Competitor's Leather Boots",
+         "nskillup":2,
+         "quality":2,
+         "reagents":[
+            [
+               212664,
+               75
+            ],
+            [
+               219880,
+               1
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            165
+         ],
+         "source":[
+            2,
+            5
+         ],
+         "optionalReagents":[
+            {
+               "id":255,
+               "description":"Competitor's Heraldry"
+            },
+            {
+               "id":281,
+               "description":"Add Embellishment"
+            },
+            {
+               "id":283,
+               "description":"Customize Secondary Stats"
+            },
+            {
+               "id":346,
+               "description":"Artisan's Authenticity"
+            },
+            {
+               "id":286,
+               "description":"Leather Armor"
+            },
+            {
+               "id":293,
+               "description":"Carapace-Backed Hide"
+            },
+            {
+               "id":269,
+               "description":"Stormcharged Leather"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            60,
+            65,
+            70
+         ],
+         "creates":[
+            217127,
+            1,
+            1
+         ],
+         "displayName":"Algari Competitor's Leather Chestpiece",
+         "id":438899,
+         "learnedat":60,
+         "level":0,
+         "name":"Algari Competitor's Leather Chestpiece",
+         "nskillup":2,
+         "quality":2,
+         "reagents":[
+            [
+               212664,
+               90
+            ],
+            [
+               219880,
+               1
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            165
+         ],
+         "source":[
+            2,
+            5
+         ],
+         "optionalReagents":[
+            {
+               "id":255,
+               "description":"Competitor's Heraldry"
+            },
+            {
+               "id":281,
+               "description":"Add Embellishment"
+            },
+            {
+               "id":283,
+               "description":"Customize Secondary Stats"
+            },
+            {
+               "id":346,
+               "description":"Artisan's Authenticity"
+            },
+            {
+               "id":286,
+               "description":"Leather Armor"
+            },
+            {
+               "id":293,
+               "description":"Carapace-Backed Hide"
+            },
+            {
+               "id":269,
+               "description":"Stormcharged Leather"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            60,
+            65,
+            70
+         ],
+         "creates":[
+            217128,
+            1,
+            1
+         ],
+         "displayName":"Algari Competitor's Leather Mask",
+         "id":438900,
+         "learnedat":60,
+         "level":0,
+         "name":"Algari Competitor's Leather Mask",
+         "nskillup":2,
+         "quality":2,
+         "reagents":[
+            [
+               212664,
+               90
+            ],
+            [
+               219880,
+               1
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            165
+         ],
+         "source":[
+            2,
+            5
+         ],
+         "optionalReagents":[
+            {
+               "id":255,
+               "description":"Competitor's Heraldry"
+            },
+            {
+               "id":281,
+               "description":"Add Embellishment"
+            },
+            {
+               "id":283,
+               "description":"Customize Secondary Stats"
+            },
+            {
+               "id":346,
+               "description":"Artisan's Authenticity"
+            },
+            {
+               "id":286,
+               "description":"Leather Armor"
+            },
+            {
+               "id":293,
+               "description":"Carapace-Backed Hide"
+            },
+            {
+               "id":269,
+               "description":"Stormcharged Leather"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            60,
+            65,
+            70
+         ],
+         "creates":[
+            217129,
+            1,
+            1
+         ],
+         "displayName":"Algari Competitor's Leather Shoulderpads",
+         "id":438901,
+         "learnedat":60,
+         "level":0,
+         "name":"Algari Competitor's Leather Shoulderpads",
+         "nskillup":2,
+         "quality":2,
+         "reagents":[
+            [
+               212664,
+               75
+            ],
+            [
+               219880,
+               1
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            165
+         ],
+         "source":[
+            2,
+            5
+         ],
+         "optionalReagents":[
+            {
+               "id":255,
+               "description":"Competitor's Heraldry"
+            },
+            {
+               "id":281,
+               "description":"Add Embellishment"
+            },
+            {
+               "id":283,
+               "description":"Customize Secondary Stats"
+            },
+            {
+               "id":346,
+               "description":"Artisan's Authenticity"
+            },
+            {
+               "id":286,
+               "description":"Leather Armor"
+            },
+            {
+               "id":293,
+               "description":"Carapace-Backed Hide"
+            },
+            {
+               "id":269,
+               "description":"Stormcharged Leather"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            60,
+            65,
+            70
+         ],
+         "creates":[
+            217130,
+            1,
+            1
+         ],
+         "displayName":"Algari Competitor's Leather Belt",
+         "id":438902,
+         "learnedat":60,
+         "level":0,
+         "name":"Algari Competitor's Leather Belt",
+         "nskillup":2,
+         "quality":2,
+         "reagents":[
+            [
+               212664,
+               75
+            ],
+            [
+               219880,
+               1
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            165
+         ],
+         "source":[
+            2,
+            5
+         ],
+         "optionalReagents":[
+            {
+               "id":255,
+               "description":"Competitor's Heraldry"
+            },
+            {
+               "id":281,
+               "description":"Add Embellishment"
+            },
+            {
+               "id":283,
+               "description":"Customize Secondary Stats"
+            },
+            {
+               "id":346,
+               "description":"Artisan's Authenticity"
+            },
+            {
+               "id":286,
+               "description":"Leather Armor"
+            },
+            {
+               "id":293,
+               "description":"Carapace-Backed Hide"
+            },
+            {
+               "id":269,
+               "description":"Stormcharged Leather"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            60,
+            65,
+            70
+         ],
+         "creates":[
+            217131,
+            1,
+            1
+         ],
+         "displayName":"Algari Competitor's Leather Trousers",
+         "id":438903,
+         "learnedat":60,
+         "level":0,
+         "name":"Algari Competitor's Leather Trousers",
+         "nskillup":2,
+         "quality":2,
+         "reagents":[
+            [
+               212664,
+               90
+            ],
+            [
+               219880,
+               1
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            165
+         ],
+         "source":[
+            2,
+            5
+         ],
+         "optionalReagents":[
+            {
+               "id":255,
+               "description":"Competitor's Heraldry"
+            },
+            {
+               "id":281,
+               "description":"Add Embellishment"
+            },
+            {
+               "id":283,
+               "description":"Customize Secondary Stats"
+            },
+            {
+               "id":346,
+               "description":"Artisan's Authenticity"
+            },
+            {
+               "id":286,
+               "description":"Leather Armor"
+            },
+            {
+               "id":293,
+               "description":"Carapace-Backed Hide"
+            },
+            {
+               "id":269,
+               "description":"Stormcharged Leather"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            60,
+            65,
+            70
+         ],
+         "creates":[
+            217132,
+            1,
+            1
+         ],
+         "displayName":"Algari Competitor's Leather Gloves",
+         "id":438904,
+         "learnedat":60,
+         "level":0,
+         "name":"Algari Competitor's Leather Gloves",
+         "nskillup":2,
+         "quality":2,
+         "reagents":[
+            [
+               212664,
+               75
+            ],
+            [
+               219880,
+               1
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            165
+         ],
+         "source":[
+            2,
+            5
+         ],
+         "optionalReagents":[
+            {
+               "id":255,
+               "description":"Competitor's Heraldry"
+            },
+            {
+               "id":281,
+               "description":"Add Embellishment"
+            },
+            {
+               "id":283,
+               "description":"Customize Secondary Stats"
+            },
+            {
+               "id":346,
+               "description":"Artisan's Authenticity"
+            },
+            {
+               "id":286,
+               "description":"Leather Armor"
+            },
+            {
+               "id":293,
+               "description":"Carapace-Backed Hide"
+            },
+            {
+               "id":269,
+               "description":"Stormcharged Leather"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            60,
+            65,
+            70
+         ],
+         "creates":[
+            217133,
+            1,
+            1
+         ],
+         "displayName":"Algari Competitor's Leather Wristwraps",
+         "id":438905,
+         "learnedat":60,
+         "level":0,
+         "name":"Algari Competitor's Leather Wristwraps",
+         "nskillup":2,
+         "quality":2,
+         "reagents":[
+            [
+               212664,
+               60
+            ],
+            [
+               219880,
+               1
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            165
+         ],
+         "source":[
+            2,
+            5
+         ],
+         "optionalReagents":[
+            {
+               "id":255,
+               "description":"Competitor's Heraldry"
+            },
+            {
+               "id":281,
+               "description":"Add Embellishment"
+            },
+            {
+               "id":283,
+               "description":"Customize Secondary Stats"
+            },
+            {
+               "id":346,
+               "description":"Artisan's Authenticity"
+            },
+            {
+               "id":286,
+               "description":"Leather Armor"
+            },
+            {
+               "id":293,
+               "description":"Carapace-Backed Hide"
+            },
+            {
+               "id":269,
+               "description":"Stormcharged Leather"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            60,
+            65,
+            70
+         ],
+         "creates":[
+            217134,
+            1,
+            1
+         ],
+         "displayName":"Algari Competitor's Chain Treads",
+         "id":438906,
+         "learnedat":60,
+         "level":0,
+         "name":"Algari Competitor's Chain Treads",
+         "nskillup":2,
+         "quality":2,
+         "reagents":[
+            [
+               212667,
+               75
+            ],
+            [
+               219880,
+               1
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            165
+         ],
+         "source":[
+            2,
+            5
+         ],
+         "optionalReagents":[
+            {
+               "id":255,
+               "description":"Competitor's Heraldry"
+            },
+            {
+               "id":281,
+               "description":"Add Embellishment"
+            },
+            {
+               "id":283,
+               "description":"Customize Secondary Stats"
+            },
+            {
+               "id":346,
+               "description":"Artisan's Authenticity"
+            },
+            {
+               "id":287,
+               "description":"Mail Armor"
+            },
+            {
+               "id":293,
+               "description":"Carapace-Backed Hide"
+            },
+            {
+               "id":270,
+               "description":"Gloom Chitin"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            60,
+            65,
+            70
+         ],
+         "creates":[
+            217135,
+            1,
+            1
+         ],
+         "displayName":"Algari Competitor's Chain Chainmail",
+         "id":438907,
+         "learnedat":60,
+         "level":0,
+         "name":"Algari Competitor's Chain Chainmail",
+         "nskillup":2,
+         "quality":2,
+         "reagents":[
+            [
+               212667,
+               90
+            ],
+            [
+               219880,
+               1
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            165
+         ],
+         "source":[
+            2,
+            5
+         ],
+         "optionalReagents":[
+            {
+               "id":255,
+               "description":"Competitor's Heraldry"
+            },
+            {
+               "id":281,
+               "description":"Add Embellishment"
+            },
+            {
+               "id":283,
+               "description":"Customize Secondary Stats"
+            },
+            {
+               "id":346,
+               "description":"Artisan's Authenticity"
+            },
+            {
+               "id":287,
+               "description":"Mail Armor"
+            },
+            {
+               "id":293,
+               "description":"Carapace-Backed Hide"
+            },
+            {
+               "id":270,
+               "description":"Gloom Chitin"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            60,
+            65,
+            70
+         ],
+         "creates":[
+            217136,
+            1,
+            1
+         ],
+         "displayName":"Algari Competitor's Chain Cowl",
+         "id":438908,
+         "learnedat":60,
+         "level":0,
+         "name":"Algari Competitor's Chain Cowl",
+         "nskillup":2,
+         "quality":2,
+         "reagents":[
+            [
+               212667,
+               90
+            ],
+            [
+               219880,
+               1
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            165
+         ],
+         "source":[
+            2,
+            5
+         ],
+         "optionalReagents":[
+            {
+               "id":255,
+               "description":"Competitor's Heraldry"
+            },
+            {
+               "id":281,
+               "description":"Add Embellishment"
+            },
+            {
+               "id":283,
+               "description":"Customize Secondary Stats"
+            },
+            {
+               "id":346,
+               "description":"Artisan's Authenticity"
+            },
+            {
+               "id":287,
+               "description":"Mail Armor"
+            },
+            {
+               "id":293,
+               "description":"Carapace-Backed Hide"
+            },
+            {
+               "id":270,
+               "description":"Gloom Chitin"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            60,
+            65,
+            70
+         ],
+         "creates":[
+            217137,
+            1,
+            1
+         ],
+         "displayName":"Algari Competitor's Chain Epaulets",
+         "id":438909,
+         "learnedat":60,
+         "level":0,
+         "name":"Algari Competitor's Chain Epaulets",
+         "nskillup":2,
+         "quality":2,
+         "reagents":[
+            [
+               212667,
+               75
+            ],
+            [
+               219880,
+               1
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            165
+         ],
+         "source":[
+            2,
+            5
+         ],
+         "optionalReagents":[
+            {
+               "id":255,
+               "description":"Competitor's Heraldry"
+            },
+            {
+               "id":281,
+               "description":"Add Embellishment"
+            },
+            {
+               "id":283,
+               "description":"Customize Secondary Stats"
+            },
+            {
+               "id":346,
+               "description":"Artisan's Authenticity"
+            },
+            {
+               "id":287,
+               "description":"Mail Armor"
+            },
+            {
+               "id":293,
+               "description":"Carapace-Backed Hide"
+            },
+            {
+               "id":270,
+               "description":"Gloom Chitin"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            60,
+            65,
+            70
+         ],
+         "creates":[
+            217138,
+            1,
+            1
+         ],
+         "displayName":"Algari Competitor's Chain Girdle",
+         "id":438910,
+         "learnedat":60,
+         "level":0,
+         "name":"Algari Competitor's Chain Girdle",
+         "nskillup":2,
+         "quality":2,
+         "reagents":[
+            [
+               212667,
+               75
+            ],
+            [
+               219880,
+               1
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            165
+         ],
+         "source":[
+            2,
+            5
+         ],
+         "optionalReagents":[
+            {
+               "id":255,
+               "description":"Competitor's Heraldry"
+            },
+            {
+               "id":281,
+               "description":"Add Embellishment"
+            },
+            {
+               "id":283,
+               "description":"Customize Secondary Stats"
+            },
+            {
+               "id":346,
+               "description":"Artisan's Authenticity"
+            },
+            {
+               "id":287,
+               "description":"Mail Armor"
+            },
+            {
+               "id":293,
+               "description":"Carapace-Backed Hide"
+            },
+            {
+               "id":270,
+               "description":"Gloom Chitin"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            60,
+            65,
+            70
+         ],
+         "creates":[
+            217139,
+            1,
+            1
+         ],
+         "displayName":"Algari Competitor's Chain Leggings",
+         "id":438911,
+         "learnedat":60,
+         "level":0,
+         "name":"Algari Competitor's Chain Leggings",
+         "nskillup":2,
+         "quality":2,
+         "reagents":[
+            [
+               212667,
+               90
+            ],
+            [
+               219880,
+               1
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            165
+         ],
+         "source":[
+            2,
+            5
+         ],
+         "optionalReagents":[
+            {
+               "id":255,
+               "description":"Competitor's Heraldry"
+            },
+            {
+               "id":281,
+               "description":"Add Embellishment"
+            },
+            {
+               "id":283,
+               "description":"Customize Secondary Stats"
+            },
+            {
+               "id":346,
+               "description":"Artisan's Authenticity"
+            },
+            {
+               "id":287,
+               "description":"Mail Armor"
+            },
+            {
+               "id":293,
+               "description":"Carapace-Backed Hide"
+            },
+            {
+               "id":270,
+               "description":"Gloom Chitin"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            60,
+            65,
+            70
+         ],
+         "creates":[
+            217140,
+            1,
+            1
+         ],
+         "displayName":"Algari Competitor's Chain Gauntlets",
+         "id":438912,
+         "learnedat":60,
+         "level":0,
+         "name":"Algari Competitor's Chain Gauntlets",
+         "nskillup":2,
+         "quality":2,
+         "reagents":[
+            [
+               212667,
+               75
+            ],
+            [
+               219880,
+               1
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            165
+         ],
+         "source":[
+            2,
+            5
+         ],
+         "optionalReagents":[
+            {
+               "id":255,
+               "description":"Competitor's Heraldry"
+            },
+            {
+               "id":281,
+               "description":"Add Embellishment"
+            },
+            {
+               "id":283,
+               "description":"Customize Secondary Stats"
+            },
+            {
+               "id":346,
+               "description":"Artisan's Authenticity"
+            },
+            {
+               "id":287,
+               "description":"Mail Armor"
+            },
+            {
+               "id":293,
+               "description":"Carapace-Backed Hide"
+            },
+            {
+               "id":270,
+               "description":"Gloom Chitin"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            60,
+            65,
+            70
+         ],
+         "creates":[
+            217141,
+            1,
+            1
+         ],
+         "displayName":"Algari Competitor's Chain Cuffs",
+         "id":438913,
+         "learnedat":60,
+         "level":0,
+         "name":"Algari Competitor's Chain Cuffs",
+         "nskillup":2,
+         "quality":2,
+         "reagents":[
+            [
+               212667,
+               60
+            ],
+            [
+               219880,
+               1
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            165
+         ],
+         "source":[
+            2,
+            5
+         ],
+         "optionalReagents":[
+            {
+               "id":255,
+               "description":"Competitor's Heraldry"
+            },
+            {
+               "id":281,
+               "description":"Add Embellishment"
+            },
+            {
+               "id":283,
+               "description":"Customize Secondary Stats"
+            },
+            {
+               "id":346,
+               "description":"Artisan's Authenticity"
+            },
+            {
+               "id":287,
+               "description":"Mail Armor"
+            },
+            {
+               "id":293,
+               "description":"Carapace-Backed Hide"
+            },
+            {
+               "id":270,
+               "description":"Gloom Chitin"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            100,
+            100,
+            100
+         ],
+         "creates":[
+            219328,
+            1,
+            1
+         ],
+         "displayName":"Rune-Branded Tunic",
+         "id":441051,
+         "learnedat":100,
+         "level":0,
+         "name":"Rune-Branded Tunic",
+         "nskillup":3,
+         "quality":4,
+         "reagents":[
+            [
+               221757,
+               2
+            ],
+            [
+               212664,
+               150
+            ],
+            [
+               219892,
+               3
+            ],
+            [
+               219898,
+               1
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            165
+         ],
+         "optionalReagents":[
+            {
+               "id":297,
+               "description":"Leyfused Hide"
+            },
+            {
+               "id":269,
+               "description":"Stormcharged Leather"
+            },
+            {
+               "id":300,
+               "description":"Chitin Armor Banding"
+            },
+            {
+               "id":284,
+               "description":"Infuse with Power"
+            },
+            {
+               "id":281,
+               "description":"Add Embellishment"
+            },
+            {
+               "id":283,
+               "description":"Customize Secondary Stats"
+            },
+            {
+               "id":256,
+               "description":"Spark"
+            },
+            {
+               "id":286,
+               "description":"Leather Armor"
+            },
+            {
+               "id":346,
+               "description":"Artisan's Authenticity"
+            },
+            {
+               "id":384,
+               "description":"Augment Beyond"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            100,
+            100,
+            100
+         ],
+         "creates":[
+            219327,
+            1,
+            1
+         ],
+         "displayName":"Rune-Branded Kickers",
+         "id":441052,
+         "learnedat":100,
+         "level":0,
+         "name":"Rune-Branded Kickers",
+         "nskillup":3,
+         "quality":4,
+         "reagents":[
+            [
+               221757,
+               1
+            ],
+            [
+               212664,
+               150
+            ],
+            [
+               219889,
+               3
+            ],
+            [
+               219898,
+               1
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            165
+         ],
+         "optionalReagents":[
+            {
+               "id":296,
+               "description":"Sporecoated Hide"
+            },
+            {
+               "id":269,
+               "description":"Stormcharged Leather"
+            },
+            {
+               "id":300,
+               "description":"Chitin Armor Banding"
+            },
+            {
+               "id":284,
+               "description":"Infuse with Power"
+            },
+            {
+               "id":281,
+               "description":"Add Embellishment"
+            },
+            {
+               "id":283,
+               "description":"Customize Secondary Stats"
+            },
+            {
+               "id":256,
+               "description":"Spark"
+            },
+            {
+               "id":286,
+               "description":"Leather Armor"
+            },
+            {
+               "id":346,
+               "description":"Artisan's Authenticity"
+            },
+            {
+               "id":384,
+               "description":"Augment Beyond"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            100,
+            100,
+            100
+         ],
+         "creates":[
+            219333,
+            1,
+            1
+         ],
+         "displayName":"Rune-Branded Grasps",
+         "id":441053,
+         "learnedat":100,
+         "level":0,
+         "name":"Rune-Branded Grasps",
+         "nskillup":3,
+         "quality":4,
+         "reagents":[
+            [
+               221757,
+               1
+            ],
+            [
+               212664,
+               150
+            ],
+            [
+               219892,
+               3
+            ],
+            [
+               219898,
+               1
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            165
+         ],
+         "optionalReagents":[
+            {
+               "id":297,
+               "description":"Leyfused Hide"
+            },
+            {
+               "id":269,
+               "description":"Stormcharged Leather"
+            },
+            {
+               "id":300,
+               "description":"Chitin Armor Banding"
+            },
+            {
+               "id":284,
+               "description":"Infuse with Power"
+            },
+            {
+               "id":281,
+               "description":"Add Embellishment"
+            },
+            {
+               "id":283,
+               "description":"Customize Secondary Stats"
+            },
+            {
+               "id":256,
+               "description":"Spark"
+            },
+            {
+               "id":286,
+               "description":"Leather Armor"
+            },
+            {
+               "id":346,
+               "description":"Artisan's Authenticity"
+            },
+            {
+               "id":384,
+               "description":"Augment Beyond"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            100,
+            100,
+            100
+         ],
+         "creates":[
+            219329,
+            1,
+            1
+         ],
+         "displayName":"Rune-Branded Hood",
+         "id":441054,
+         "learnedat":100,
+         "level":0,
+         "name":"Rune-Branded Hood",
+         "nskillup":3,
+         "quality":4,
+         "reagents":[
+            [
+               221757,
+               1
+            ],
+            [
+               212664,
+               150
+            ],
+            [
+               219886,
+               3
+            ],
+            [
+               219898,
+               1
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            165
+         ],
+         "optionalReagents":[
+            {
+               "id":295,
+               "description":"Writhing Hide"
+            },
+            {
+               "id":269,
+               "description":"Stormcharged Leather"
+            },
+            {
+               "id":300,
+               "description":"Chitin Armor Banding"
+            },
+            {
+               "id":284,
+               "description":"Infuse with Power"
+            },
+            {
+               "id":281,
+               "description":"Add Embellishment"
+            },
+            {
+               "id":283,
+               "description":"Customize Secondary Stats"
+            },
+            {
+               "id":256,
+               "description":"Spark"
+            },
+            {
+               "id":286,
+               "description":"Leather Armor"
+            },
+            {
+               "id":346,
+               "description":"Artisan's Authenticity"
+            },
+            {
+               "id":363,
+               "description":"Socket"
+            },
+            {
+               "id":384,
+               "description":"Augment Beyond"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            100,
+            100,
+            100
+         ],
+         "creates":[
+            219332,
+            1,
+            1
+         ],
+         "displayName":"Rune-Branded Legwraps",
+         "id":441055,
+         "learnedat":100,
+         "level":0,
+         "name":"Rune-Branded Legwraps",
+         "nskillup":3,
+         "quality":4,
+         "reagents":[
+            [
+               221757,
+               2
+            ],
+            [
+               212664,
+               150
+            ],
+            [
+               219883,
+               3
+            ],
+            [
+               219898,
+               1
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            165
+         ],
+         "optionalReagents":[
+            {
+               "id":294,
+               "description":"Crystalfused Hide"
+            },
+            {
+               "id":269,
+               "description":"Stormcharged Leather"
+            },
+            {
+               "id":300,
+               "description":"Chitin Armor Banding"
+            },
+            {
+               "id":284,
+               "description":"Infuse with Power"
+            },
+            {
+               "id":281,
+               "description":"Add Embellishment"
+            },
+            {
+               "id":283,
+               "description":"Customize Secondary Stats"
+            },
+            {
+               "id":256,
+               "description":"Spark"
+            },
+            {
+               "id":286,
+               "description":"Leather Armor"
+            },
+            {
+               "id":346,
+               "description":"Artisan's Authenticity"
+            },
+            {
+               "id":384,
+               "description":"Augment Beyond"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            100,
+            100,
+            100
+         ],
+         "creates":[
+            219330,
+            1,
+            1
+         ],
+         "displayName":"Rune-Branded Mantle",
+         "id":441056,
+         "learnedat":100,
+         "level":0,
+         "name":"Rune-Branded Mantle",
+         "nskillup":3,
+         "quality":4,
+         "reagents":[
+            [
+               221757,
+               2
+            ],
+            [
+               212664,
+               150
+            ],
+            [
+               219892,
+               3
+            ],
+            [
+               219898,
+               1
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            165
+         ],
+         "optionalReagents":[
+            {
+               "id":297,
+               "description":"Leyfused Hide"
+            },
+            {
+               "id":269,
+               "description":"Stormcharged Leather"
+            },
+            {
+               "id":300,
+               "description":"Chitin Armor Banding"
+            },
+            {
+               "id":284,
+               "description":"Infuse with Power"
+            },
+            {
+               "id":281,
+               "description":"Add Embellishment"
+            },
+            {
+               "id":283,
+               "description":"Customize Secondary Stats"
+            },
+            {
+               "id":256,
+               "description":"Spark"
+            },
+            {
+               "id":286,
+               "description":"Leather Armor"
+            },
+            {
+               "id":346,
+               "description":"Artisan's Authenticity"
+            },
+            {
+               "id":384,
+               "description":"Augment Beyond"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            100,
+            100,
+            100
+         ],
+         "creates":[
+            219331,
+            1,
+            1
+         ],
+         "displayName":"Rune-Branded Waistband",
+         "id":441057,
+         "learnedat":100,
+         "level":0,
+         "name":"Rune-Branded Waistband",
+         "nskillup":3,
+         "quality":4,
+         "reagents":[
+            [
+               221757,
+               1
+            ],
+            [
+               212664,
+               150
+            ],
+            [
+               219883,
+               3
+            ],
+            [
+               219898,
+               1
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            165
+         ],
+         "optionalReagents":[
+            {
+               "id":294,
+               "description":"Crystalfused Hide"
+            },
+            {
+               "id":269,
+               "description":"Stormcharged Leather"
+            },
+            {
+               "id":300,
+               "description":"Chitin Armor Banding"
+            },
+            {
+               "id":284,
+               "description":"Infuse with Power"
+            },
+            {
+               "id":281,
+               "description":"Add Embellishment"
+            },
+            {
+               "id":283,
+               "description":"Customize Secondary Stats"
+            },
+            {
+               "id":256,
+               "description":"Spark"
+            },
+            {
+               "id":286,
+               "description":"Leather Armor"
+            },
+            {
+               "id":346,
+               "description":"Artisan's Authenticity"
+            },
+            {
+               "id":363,
+               "description":"Socket"
+            },
+            {
+               "id":384,
+               "description":"Augment Beyond"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            100,
+            100,
+            100
+         ],
+         "creates":[
+            219334,
+            1,
+            1
+         ],
+         "displayName":"Rune-Branded Armbands",
+         "id":441058,
+         "learnedat":100,
+         "level":0,
+         "name":"Rune-Branded Armbands",
+         "nskillup":3,
+         "quality":4,
+         "reagents":[
+            [
+               221757,
+               2
+            ],
+            [
+               212664,
+               150
+            ],
+            [
+               219886,
+               3
+            ],
+            [
+               219898,
+               1
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            165
+         ],
+         "optionalReagents":[
+            {
+               "id":295,
+               "description":"Writhing Hide"
+            },
+            {
+               "id":269,
+               "description":"Stormcharged Leather"
+            },
+            {
+               "id":300,
+               "description":"Chitin Armor Banding"
+            },
+            {
+               "id":284,
+               "description":"Infuse with Power"
+            },
+            {
+               "id":281,
+               "description":"Add Embellishment"
+            },
+            {
+               "id":283,
+               "description":"Customize Secondary Stats"
+            },
+            {
+               "id":256,
+               "description":"Spark"
+            },
+            {
+               "id":286,
+               "description":"Leather Armor"
+            },
+            {
+               "id":346,
+               "description":"Artisan's Authenticity"
+            },
+            {
+               "id":363,
+               "description":"Socket"
+            },
+            {
+               "id":384,
+               "description":"Augment Beyond"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            100,
+            100,
+            100
+         ],
+         "creates":[
+            219336,
+            1,
+            1
+         ],
+         "displayName":"Glyph-Etched Breastplate",
+         "id":441059,
+         "learnedat":100,
+         "level":0,
+         "name":"Glyph-Etched Breastplate",
+         "nskillup":3,
+         "quality":4,
+         "reagents":[
+            [
+               221757,
+               2
+            ],
+            [
+               212667,
+               150
+            ],
+            [
+               219892,
+               3
+            ],
+            [
+               219898,
+               1
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            165
+         ],
+         "optionalReagents":[
+            {
+               "id":297,
+               "description":"Leyfused Hide"
+            },
+            {
+               "id":270,
+               "description":"Gloom Chitin"
+            },
+            {
+               "id":300,
+               "description":"Chitin Armor Banding"
+            },
+            {
+               "id":284,
+               "description":"Infuse with Power"
+            },
+            {
+               "id":281,
+               "description":"Add Embellishment"
+            },
+            {
+               "id":283,
+               "description":"Customize Secondary Stats"
+            },
+            {
+               "id":287,
+               "description":"Mail Armor"
+            },
+            {
+               "id":256,
+               "description":"Spark"
+            },
+            {
+               "id":346,
+               "description":"Artisan's Authenticity"
+            },
+            {
+               "id":384,
+               "description":"Augment Beyond"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            100,
+            100,
+            100
+         ],
+         "creates":[
+            219335,
+            1,
+            1
+         ],
+         "displayName":"Glyph-Etched Stompers",
+         "id":441060,
+         "learnedat":100,
+         "level":0,
+         "name":"Glyph-Etched Stompers",
+         "nskillup":3,
+         "quality":4,
+         "reagents":[
+            [
+               221757,
+               1
+            ],
+            [
+               212667,
+               150
+            ],
+            [
+               219889,
+               3
+            ],
+            [
+               219898,
+               1
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            165
+         ],
+         "optionalReagents":[
+            {
+               "id":296,
+               "description":"Sporecoated Hide"
+            },
+            {
+               "id":270,
+               "description":"Gloom Chitin"
+            },
+            {
+               "id":300,
+               "description":"Chitin Armor Banding"
+            },
+            {
+               "id":284,
+               "description":"Infuse with Power"
+            },
+            {
+               "id":281,
+               "description":"Add Embellishment"
+            },
+            {
+               "id":283,
+               "description":"Customize Secondary Stats"
+            },
+            {
+               "id":287,
+               "description":"Mail Armor"
+            },
+            {
+               "id":256,
+               "description":"Spark"
+            },
+            {
+               "id":346,
+               "description":"Artisan's Authenticity"
+            },
+            {
+               "id":384,
+               "description":"Augment Beyond"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            100,
+            100,
+            100
+         ],
+         "creates":[
+            219341,
+            1,
+            1
+         ],
+         "displayName":"Glyph-Etched Gauntlets",
+         "id":441061,
+         "learnedat":100,
+         "level":0,
+         "name":"Glyph-Etched Gauntlets",
+         "nskillup":3,
+         "quality":4,
+         "reagents":[
+            [
+               221757,
+               1
+            ],
+            [
+               212667,
+               150
+            ],
+            [
+               219892,
+               3
+            ],
+            [
+               219898,
+               1
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            165
+         ],
+         "optionalReagents":[
+            {
+               "id":297,
+               "description":"Leyfused Hide"
+            },
+            {
+               "id":270,
+               "description":"Gloom Chitin"
+            },
+            {
+               "id":300,
+               "description":"Chitin Armor Banding"
+            },
+            {
+               "id":284,
+               "description":"Infuse with Power"
+            },
+            {
+               "id":281,
+               "description":"Add Embellishment"
+            },
+            {
+               "id":283,
+               "description":"Customize Secondary Stats"
+            },
+            {
+               "id":287,
+               "description":"Mail Armor"
+            },
+            {
+               "id":256,
+               "description":"Spark"
+            },
+            {
+               "id":346,
+               "description":"Artisan's Authenticity"
+            },
+            {
+               "id":384,
+               "description":"Augment Beyond"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            100,
+            100,
+            100
+         ],
+         "creates":[
+            219337,
+            1,
+            1
+         ],
+         "displayName":"Glyph-Etched Guise",
+         "id":441062,
+         "learnedat":100,
+         "level":0,
+         "name":"Glyph-Etched Guise",
+         "nskillup":3,
+         "quality":4,
+         "reagents":[
+            [
+               221757,
+               2
+            ],
+            [
+               212667,
+               150
+            ],
+            [
+               219886,
+               3
+            ],
+            [
+               219898,
+               1
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            165
+         ],
+         "optionalReagents":[
+            {
+               "id":295,
+               "description":"Writhing Hide"
+            },
+            {
+               "id":270,
+               "description":"Gloom Chitin"
+            },
+            {
+               "id":300,
+               "description":"Chitin Armor Banding"
+            },
+            {
+               "id":284,
+               "description":"Infuse with Power"
+            },
+            {
+               "id":281,
+               "description":"Add Embellishment"
+            },
+            {
+               "id":283,
+               "description":"Customize Secondary Stats"
+            },
+            {
+               "id":287,
+               "description":"Mail Armor"
+            },
+            {
+               "id":256,
+               "description":"Spark"
+            },
+            {
+               "id":346,
+               "description":"Artisan's Authenticity"
+            },
+            {
+               "id":363,
+               "description":"Socket"
+            },
+            {
+               "id":384,
+               "description":"Augment Beyond"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            100,
+            100,
+            100
+         ],
+         "creates":[
+            219340,
+            1,
+            1
+         ],
+         "displayName":"Glyph-Etched Cuisses",
+         "id":441063,
+         "learnedat":100,
+         "level":0,
+         "name":"Glyph-Etched Cuisses",
+         "nskillup":3,
+         "quality":4,
+         "reagents":[
+            [
+               221757,
+               2
+            ],
+            [
+               212667,
+               150
+            ],
+            [
+               219883,
+               3
+            ],
+            [
+               219898,
+               1
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            165
+         ],
+         "optionalReagents":[
+            {
+               "id":294,
+               "description":"Crystalfused Hide"
+            },
+            {
+               "id":270,
+               "description":"Gloom Chitin"
+            },
+            {
+               "id":300,
+               "description":"Chitin Armor Banding"
+            },
+            {
+               "id":284,
+               "description":"Infuse with Power"
+            },
+            {
+               "id":281,
+               "description":"Add Embellishment"
+            },
+            {
+               "id":283,
+               "description":"Customize Secondary Stats"
+            },
+            {
+               "id":287,
+               "description":"Mail Armor"
+            },
+            {
+               "id":256,
+               "description":"Spark"
+            },
+            {
+               "id":346,
+               "description":"Artisan's Authenticity"
+            },
+            {
+               "id":384,
+               "description":"Augment Beyond"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            100,
+            100,
+            100
+         ],
+         "creates":[
+            219338,
+            1,
+            1
+         ],
+         "displayName":"Glyph-Etched Epaulets",
+         "id":441064,
+         "learnedat":100,
+         "level":0,
+         "name":"Glyph-Etched Epaulets",
+         "nskillup":3,
+         "quality":4,
+         "reagents":[
+            [
+               221757,
+               1
+            ],
+            [
+               212667,
+               150
+            ],
+            [
+               219892,
+               3
+            ],
+            [
+               219898,
+               1
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            165
+         ],
+         "optionalReagents":[
+            {
+               "id":297,
+               "description":"Leyfused Hide"
+            },
+            {
+               "id":270,
+               "description":"Gloom Chitin"
+            },
+            {
+               "id":300,
+               "description":"Chitin Armor Banding"
+            },
+            {
+               "id":284,
+               "description":"Infuse with Power"
+            },
+            {
+               "id":281,
+               "description":"Add Embellishment"
+            },
+            {
+               "id":283,
+               "description":"Customize Secondary Stats"
+            },
+            {
+               "id":287,
+               "description":"Mail Armor"
+            },
+            {
+               "id":256,
+               "description":"Spark"
+            },
+            {
+               "id":346,
+               "description":"Artisan's Authenticity"
+            },
+            {
+               "id":384,
+               "description":"Augment Beyond"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            100,
+            100,
+            100
+         ],
+         "creates":[
+            219339,
+            1,
+            1
+         ],
+         "displayName":"Glyph-Etched Binding",
+         "id":441065,
+         "learnedat":100,
+         "level":0,
+         "name":"Glyph-Etched Binding",
+         "nskillup":3,
+         "quality":4,
+         "reagents":[
+            [
+               221757,
+               1
+            ],
+            [
+               212667,
+               150
+            ],
+            [
+               219883,
+               3
+            ],
+            [
+               219898,
+               1
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            165
+         ],
+         "optionalReagents":[
+            {
+               "id":294,
+               "description":"Crystalfused Hide"
+            },
+            {
+               "id":270,
+               "description":"Gloom Chitin"
+            },
+            {
+               "id":300,
+               "description":"Chitin Armor Banding"
+            },
+            {
+               "id":284,
+               "description":"Infuse with Power"
+            },
+            {
+               "id":281,
+               "description":"Add Embellishment"
+            },
+            {
+               "id":283,
+               "description":"Customize Secondary Stats"
+            },
+            {
+               "id":287,
+               "description":"Mail Armor"
+            },
+            {
+               "id":256,
+               "description":"Spark"
+            },
+            {
+               "id":346,
+               "description":"Artisan's Authenticity"
+            },
+            {
+               "id":363,
+               "description":"Socket"
+            },
+            {
+               "id":384,
+               "description":"Augment Beyond"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            100,
+            100,
+            100
+         ],
+         "creates":[
+            219342,
+            1,
+            1
+         ],
+         "displayName":"Glyph-Etched Vambraces",
+         "id":441066,
+         "learnedat":100,
+         "level":0,
+         "name":"Glyph-Etched Vambraces",
+         "nskillup":3,
+         "quality":4,
+         "reagents":[
+            [
+               221757,
+               2
+            ],
+            [
+               212667,
+               150
+            ],
+            [
+               219886,
+               3
+            ],
+            [
+               219898,
+               1
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            165
+         ],
+         "optionalReagents":[
+            {
+               "id":295,
+               "description":"Writhing Hide"
+            },
+            {
+               "id":270,
+               "description":"Gloom Chitin"
+            },
+            {
+               "id":300,
+               "description":"Chitin Armor Banding"
+            },
+            {
+               "id":284,
+               "description":"Infuse with Power"
+            },
+            {
+               "id":281,
+               "description":"Add Embellishment"
+            },
+            {
+               "id":283,
+               "description":"Customize Secondary Stats"
+            },
+            {
+               "id":287,
+               "description":"Mail Armor"
+            },
+            {
+               "id":256,
+               "description":"Spark"
+            },
+            {
+               "id":346,
+               "description":"Artisan's Authenticity"
+            },
+            {
+               "id":363,
+               "description":"Socket"
+            },
+            {
+               "id":384,
+               "description":"Augment Beyond"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            80,
+            90,
+            100
+         ],
+         "creates":[
+            219495,
+            1,
+            1
+         ],
+         "displayName":"Blessed Weapon Grip",
+         "id":441460,
+         "learnedat":80,
+         "level":0,
+         "name":"Blessed Weapon Grip",
+         "nskillup":1,
+         "quality":3,
+         "reagents":[
+            [
+               221758,
+               1
+            ],
+            [
+               219901,
+               1
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            165
+         ],
+         "optionalReagents":[
+            {
+               "id":299,
+               "description":"Storm-Touched Weapon Wrap"
+            },
+            {
+               "id":358,
+               "description":"Crafted Reagents"
+            },
+            {
+               "id":346,
+               "description":"Artisan's Authenticity"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            80,
+            90,
+            100
+         ],
+         "creates":[
+            219504,
+            1,
+            1
+         ],
+         "displayName":"Writhing Armor Banding",
+         "id":441461,
+         "learnedat":80,
+         "level":0,
+         "name":"Writhing Armor Banding",
+         "nskillup":1,
+         "quality":3,
+         "reagents":[
+            [
+               221756,
+               1
+            ],
+            [
+               219898,
+               1
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            165
+         ],
+         "optionalReagents":[
+            {
+               "id":300,
+               "description":"Chitin Armor Banding"
+            },
+            {
+               "id":358,
+               "description":"Crafted Reagents"
+            },
+            {
+               "id":346,
+               "description":"Artisan's Authenticity"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            10,
+            17,
+            25
+         ],
+         "creates":[
+            219474,
+            1,
+            1
+         ],
+         "displayName":"Tracker's Chitin Cuffs",
+         "id":443710,
+         "learnedat":10,
+         "level":0,
+         "name":"Tracker's Chitin Cuffs",
+         "nskillup":3,
+         "quality":3,
+         "reagents":[
+            [
+               212664,
+               5
+            ],
+            [
+               212667,
+               15
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            165
+         ],
+         "optionalReagents":[
+            {
+               "id":270,
+               "description":"Gloom Chitin"
+            },
+            {
+               "id":269,
+               "description":"Stormcharged Leather"
+            },
+            {
+               "id":368,
+               "description":"Empower"
+            },
+            {
+               "id":281,
+               "description":"Add Embellishment"
+            },
+            {
+               "id":283,
+               "description":"Customize Secondary Stats"
+            },
+            {
+               "id":287,
+               "description":"Mail Armor"
+            },
+            {
+               "id":364,
+               "description":"Socket"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            30,
+            37,
+            45
+         ],
+         "creates":[
+            219485,
+            1,
+            1
+         ],
+         "displayName":"Tracker's Toughened Girdle",
+         "id":443709,
+         "learnedat":30,
+         "level":0,
+         "name":"Tracker's Toughened Girdle",
+         "nskillup":3,
+         "quality":3,
+         "reagents":[
+            [
+               212664,
+               10
+            ],
+            [
+               212667,
+               30
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            165
+         ],
+         "source":[
+            6
+         ],
+         "trainingcost":880000,
+         "optionalReagents":[
+            {
+               "id":270,
+               "description":"Gloom Chitin"
+            },
+            {
+               "id":269,
+               "description":"Stormcharged Leather"
+            },
+            {
+               "id":342,
+               "description":"Empower"
+            },
+            {
+               "id":281,
+               "description":"Add Embellishment"
+            },
+            {
+               "id":283,
+               "description":"Customize Secondary Stats"
+            },
+            {
+               "id":287,
+               "description":"Mail Armor"
+            },
+            {
+               "id":364,
+               "description":"Socket"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            45,
+            52,
+            60
+         ],
+         "creates":[
+            219482,
+            1,
+            1
+         ],
+         "displayName":"Tracker's Toughened Shoulderguards",
+         "id":443708,
+         "learnedat":45,
+         "level":0,
+         "name":"Tracker's Toughened Shoulderguards",
+         "nskillup":3,
+         "quality":3,
+         "reagents":[
+            [
+               212667,
+               30
+            ],
+            [
+               212674,
+               1
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            165
+         ],
+         "source":[
+            6
+         ],
+         "trainingcost":1280000,
+         "optionalReagents":[
+            {
+               "id":270,
+               "description":"Gloom Chitin"
+            },
+            {
+               "id":272,
+               "description":"Sunless Carapace"
+            },
+            {
+               "id":342,
+               "description":"Empower"
+            },
+            {
+               "id":281,
+               "description":"Add Embellishment"
+            },
+            {
+               "id":283,
+               "description":"Customize Secondary Stats"
+            },
+            {
+               "id":287,
+               "description":"Mail Armor"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            55,
+            62,
+            70
+         ],
+         "creates":[
+            219484,
+            1,
+            1
+         ],
+         "displayName":"Tracker's Toughened Links",
+         "id":443707,
+         "learnedat":55,
+         "level":0,
+         "name":"Tracker's Toughened Links",
+         "nskillup":3,
+         "quality":3,
+         "reagents":[
+            [
+               212667,
+               30
+            ],
+            [
+               212674,
+               1
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            165
+         ],
+         "source":[
+            6
+         ],
+         "trainingcost":1360000,
+         "optionalReagents":[
+            {
+               "id":270,
+               "description":"Gloom Chitin"
+            },
+            {
+               "id":272,
+               "description":"Sunless Carapace"
+            },
+            {
+               "id":342,
+               "description":"Empower"
+            },
+            {
+               "id":281,
+               "description":"Add Embellishment"
+            },
+            {
+               "id":283,
+               "description":"Customize Secondary Stats"
+            },
+            {
+               "id":287,
+               "description":"Mail Armor"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            60,
+            67,
+            75
+         ],
+         "creates":[
+            219481,
+            1,
+            1
+         ],
+         "displayName":"Tracker's Toughened Headgear",
+         "id":443706,
+         "learnedat":60,
+         "level":0,
+         "name":"Tracker's Toughened Headgear",
+         "nskillup":3,
+         "quality":3,
+         "reagents":[
+            [
+               212667,
+               30
+            ],
+            [
+               212674,
+               1
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            165
+         ],
+         "source":[
+            6
+         ],
+         "trainingcost":1440000,
+         "optionalReagents":[
+            {
+               "id":270,
+               "description":"Gloom Chitin"
+            },
+            {
+               "id":272,
+               "description":"Sunless Carapace"
+            },
+            {
+               "id":342,
+               "description":"Empower"
+            },
+            {
+               "id":281,
+               "description":"Add Embellishment"
+            },
+            {
+               "id":283,
+               "description":"Customize Secondary Stats"
+            },
+            {
+               "id":287,
+               "description":"Mail Armor"
+            },
+            {
+               "id":364,
+               "description":"Socket"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            35,
+            42,
+            50
+         ],
+         "creates":[
+            219483,
+            1,
+            1
+         ],
+         "displayName":"Tracker's Toughened Handguards",
+         "id":443705,
+         "learnedat":35,
+         "level":0,
+         "name":"Tracker's Toughened Handguards",
+         "nskillup":3,
+         "quality":3,
+         "reagents":[
+            [
+               212664,
+               20
+            ],
+            [
+               212667,
+               25
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            165
+         ],
+         "source":[
+            6
+         ],
+         "trainingcost":1040000,
+         "optionalReagents":[
+            {
+               "id":270,
+               "description":"Gloom Chitin"
+            },
+            {
+               "id":269,
+               "description":"Stormcharged Leather"
+            },
+            {
+               "id":342,
+               "description":"Empower"
+            },
+            {
+               "id":281,
+               "description":"Add Embellishment"
+            },
+            {
+               "id":283,
+               "description":"Customize Secondary Stats"
+            },
+            {
+               "id":287,
+               "description":"Mail Armor"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            15,
+            22,
+            30
+         ],
+         "creates":[
+            219473,
+            1,
+            1
+         ],
+         "displayName":"Tracker's Chitin Galoshes",
+         "id":443704,
+         "learnedat":15,
+         "level":0,
+         "name":"Tracker's Chitin Galoshes",
+         "nskillup":3,
+         "quality":3,
+         "reagents":[
+            [
+               212664,
+               10
+            ],
+            [
+               212667,
+               20
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            165
+         ],
+         "source":[
+            6
+         ],
+         "trainingcost":480000,
+         "optionalReagents":[
+            {
+               "id":270,
+               "description":"Gloom Chitin"
+            },
+            {
+               "id":269,
+               "description":"Stormcharged Leather"
+            },
+            {
+               "id":368,
+               "description":"Empower"
+            },
+            {
+               "id":281,
+               "description":"Add Embellishment"
+            },
+            {
+               "id":283,
+               "description":"Customize Secondary Stats"
+            },
+            {
+               "id":287,
+               "description":"Mail Armor"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            20,
+            27,
+            35
+         ],
+         "creates":[
+            219475,
+            1,
+            1
+         ],
+         "displayName":"Tracker's Chitin Hauberk",
+         "id":443703,
+         "learnedat":20,
+         "level":0,
+         "name":"Tracker's Chitin Hauberk",
+         "nskillup":3,
+         "quality":3,
+         "reagents":[
+            [
+               212664,
+               15
+            ],
+            [
+               212667,
+               30
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            165
+         ],
+         "source":[
+            6
+         ],
+         "trainingcost":640000,
+         "optionalReagents":[
+            {
+               "id":270,
+               "description":"Gloom Chitin"
+            },
+            {
+               "id":269,
+               "description":"Stormcharged Leather"
+            },
+            {
+               "id":368,
+               "description":"Empower"
+            },
+            {
+               "id":281,
+               "description":"Add Embellishment"
+            },
+            {
+               "id":283,
+               "description":"Customize Secondary Stats"
+            },
+            {
+               "id":287,
+               "description":"Mail Armor"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            10,
+            17,
+            25
+         ],
+         "creates":[
+            219471,
+            1,
+            1
+         ],
+         "displayName":"Spelunker's Leather Bands",
+         "id":443702,
+         "learnedat":10,
+         "level":0,
+         "name":"Spelunker's Leather Bands",
+         "nskillup":3,
+         "quality":3,
+         "reagents":[
+            [
+               212664,
+               15
+            ],
+            [
+               212667,
+               5
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            165
+         ],
+         "optionalReagents":[
+            {
+               "id":269,
+               "description":"Stormcharged Leather"
+            },
+            {
+               "id":270,
+               "description":"Gloom Chitin"
+            },
+            {
+               "id":368,
+               "description":"Empower"
+            },
+            {
+               "id":281,
+               "description":"Add Embellishment"
+            },
+            {
+               "id":283,
+               "description":"Customize Secondary Stats"
+            },
+            {
+               "id":286,
+               "description":"Leather Armor"
+            },
+            {
+               "id":364,
+               "description":"Socket"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            30,
+            37,
+            45
+         ],
+         "creates":[
+            219480,
+            1,
+            1
+         ],
+         "displayName":"Spelunker's Practiced Sash",
+         "id":443701,
+         "learnedat":30,
+         "level":0,
+         "name":"Spelunker's Practiced Sash",
+         "nskillup":3,
+         "quality":3,
+         "reagents":[
+            [
+               212664,
+               30
+            ],
+            [
+               212667,
+               10
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            165
+         ],
+         "source":[
+            6
+         ],
+         "trainingcost":880000,
+         "optionalReagents":[
+            {
+               "id":269,
+               "description":"Stormcharged Leather"
+            },
+            {
+               "id":270,
+               "description":"Gloom Chitin"
+            },
+            {
+               "id":342,
+               "description":"Empower"
+            },
+            {
+               "id":281,
+               "description":"Add Embellishment"
+            },
+            {
+               "id":283,
+               "description":"Customize Secondary Stats"
+            },
+            {
+               "id":286,
+               "description":"Leather Armor"
+            },
+            {
+               "id":364,
+               "description":"Socket"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            50,
+            57,
+            65
+         ],
+         "creates":[
+            219477,
+            1,
+            1
+         ],
+         "displayName":"Spelunker's Practiced Shoulders",
+         "id":443700,
+         "learnedat":50,
+         "level":0,
+         "name":"Spelunker's Practiced Shoulders",
+         "nskillup":3,
+         "quality":3,
+         "reagents":[
+            [
+               212664,
+               30
+            ],
+            [
+               212670,
+               1
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            165
+         ],
+         "source":[
+            6
+         ],
+         "trainingcost":1280000,
+         "optionalReagents":[
+            {
+               "id":269,
+               "description":"Stormcharged Leather"
+            },
+            {
+               "id":271,
+               "description":"Thunderous Hide"
+            },
+            {
+               "id":342,
+               "description":"Empower"
+            },
+            {
+               "id":281,
+               "description":"Add Embellishment"
+            },
+            {
+               "id":283,
+               "description":"Customize Secondary Stats"
+            },
+            {
+               "id":286,
+               "description":"Leather Armor"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            55,
+            62,
+            70
+         ],
+         "creates":[
+            219479,
+            1,
+            1
+         ],
+         "displayName":"Spelunker's Practiced Britches",
+         "id":443699,
+         "learnedat":55,
+         "level":0,
+         "name":"Spelunker's Practiced Britches",
+         "nskillup":3,
+         "quality":3,
+         "reagents":[
+            [
+               212664,
+               30
+            ],
+            [
+               212670,
+               1
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            165
+         ],
+         "source":[
+            6
+         ],
+         "trainingcost":1360000,
+         "optionalReagents":[
+            {
+               "id":269,
+               "description":"Stormcharged Leather"
+            },
+            {
+               "id":271,
+               "description":"Thunderous Hide"
+            },
+            {
+               "id":342,
+               "description":"Empower"
+            },
+            {
+               "id":281,
+               "description":"Add Embellishment"
+            },
+            {
+               "id":283,
+               "description":"Customize Secondary Stats"
+            },
+            {
+               "id":286,
+               "description":"Leather Armor"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            60,
+            67,
+            75
+         ],
+         "creates":[
+            219476,
+            1,
+            1
+         ],
+         "displayName":"Spelunker's Practiced Hat",
+         "id":443698,
+         "learnedat":60,
+         "level":0,
+         "name":"Spelunker's Practiced Hat",
+         "nskillup":3,
+         "quality":3,
+         "reagents":[
+            [
+               212664,
+               30
+            ],
+            [
+               212670,
+               1
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            165
+         ],
+         "source":[
+            6
+         ],
+         "trainingcost":1440000,
+         "optionalReagents":[
+            {
+               "id":269,
+               "description":"Stormcharged Leather"
+            },
+            {
+               "id":271,
+               "description":"Thunderous Hide"
+            },
+            {
+               "id":342,
+               "description":"Empower"
+            },
+            {
+               "id":281,
+               "description":"Add Embellishment"
+            },
+            {
+               "id":283,
+               "description":"Customize Secondary Stats"
+            },
+            {
+               "id":286,
+               "description":"Leather Armor"
+            },
+            {
+               "id":364,
+               "description":"Socket"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            35,
+            42,
+            50
+         ],
+         "creates":[
+            219478,
+            1,
+            1
+         ],
+         "displayName":"Spelunker's Practiced Mitts",
+         "id":443697,
+         "learnedat":35,
+         "level":0,
+         "name":"Spelunker's Practiced Mitts",
+         "nskillup":3,
+         "quality":3,
+         "reagents":[
+            [
+               212664,
+               25
+            ],
+            [
+               212667,
+               20
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            165
+         ],
+         "source":[
+            6
+         ],
+         "trainingcost":1040000,
+         "optionalReagents":[
+            {
+               "id":269,
+               "description":"Stormcharged Leather"
+            },
+            {
+               "id":270,
+               "description":"Gloom Chitin"
+            },
+            {
+               "id":342,
+               "description":"Empower"
+            },
+            {
+               "id":281,
+               "description":"Add Embellishment"
+            },
+            {
+               "id":283,
+               "description":"Customize Secondary Stats"
+            },
+            {
+               "id":286,
+               "description":"Leather Armor"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            15,
+            22,
+            30
+         ],
+         "creates":[
+            219470,
+            1,
+            1
+         ],
+         "displayName":"Spelunker's Leather Footpads",
+         "id":443696,
+         "learnedat":15,
+         "level":0,
+         "name":"Spelunker's Leather Footpads",
+         "nskillup":3,
+         "quality":3,
+         "reagents":[
+            [
+               212664,
+               20
+            ],
+            [
+               212667,
+               10
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            165
+         ],
+         "source":[
+            6
+         ],
+         "trainingcost":480000,
+         "optionalReagents":[
+            {
+               "id":269,
+               "description":"Stormcharged Leather"
+            },
+            {
+               "id":270,
+               "description":"Gloom Chitin"
+            },
+            {
+               "id":368,
+               "description":"Empower"
+            },
+            {
+               "id":281,
+               "description":"Add Embellishment"
+            },
+            {
+               "id":283,
+               "description":"Customize Secondary Stats"
+            },
+            {
+               "id":286,
+               "description":"Leather Armor"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            20,
+            27,
+            35
+         ],
+         "creates":[
+            219472,
+            1,
+            1
+         ],
+         "displayName":"Spelunker's Leather Jerkin",
+         "id":443695,
+         "learnedat":20,
+         "level":0,
+         "name":"Spelunker's Leather Jerkin",
+         "nskillup":3,
+         "quality":3,
+         "reagents":[
+            [
+               212664,
+               30
+            ],
+            [
+               212667,
+               15
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            165
+         ],
+         "source":[
+            6
+         ],
+         "trainingcost":640000,
+         "optionalReagents":[
+            {
+               "id":269,
+               "description":"Stormcharged Leather"
+            },
+            {
+               "id":270,
+               "description":"Gloom Chitin"
+            },
+            {
+               "id":368,
+               "description":"Empower"
+            },
+            {
+               "id":281,
+               "description":"Add Embellishment"
+            },
+            {
+               "id":283,
+               "description":"Customize Secondary Stats"
+            },
+            {
+               "id":286,
+               "description":"Leather Armor"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            100,
+            100,
+            100
+         ],
+         "creates":[
+            219512,
+            1,
+            1
+         ],
+         "displayName":"Weathered Stormfront Vest",
+         "id":443951,
+         "learnedat":100,
+         "level":0,
+         "name":"Weathered Stormfront Vest",
+         "nskillup":3,
+         "quality":4,
+         "reagents":[
+            [
+               218338,
+               10
+            ],
+            [
+               219013,
+               1
+            ],
+            [
+               219889,
+               3
+            ],
+            [
+               219898,
+               1
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            165
+         ],
+         "optionalReagents":[
+            {
+               "id":296,
+               "description":"Sporecoated Hide"
+            },
+            {
+               "id":300,
+               "description":"Chitin Armor Banding"
+            },
+            {
+               "id":284,
+               "description":"Infuse with Power"
+            },
+            {
+               "id":256,
+               "description":"Spark"
+            },
+            {
+               "id":286,
+               "description":"Leather Armor"
+            },
+            {
+               "id":346,
+               "description":"Artisan's Authenticity"
+            },
+            {
+               "id":384,
+               "description":"Augment Beyond"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            100,
+            100,
+            100
+         ],
+         "creates":[
+            219511,
+            1,
+            1
+         ],
+         "displayName":"Rook Feather Wristwraps",
+         "id":443949,
+         "learnedat":100,
+         "level":0,
+         "name":"Rook Feather Wristwraps",
+         "nskillup":3,
+         "quality":4,
+         "reagents":[
+            [
+               218338,
+               10
+            ],
+            [
+               219013,
+               1
+            ],
+            [
+               219889,
+               2
+            ],
+            [
+               219898,
+               1
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            165
+         ],
+         "source":[
+            2
+         ],
+         "optionalReagents":[
+            {
+               "id":296,
+               "description":"Sporecoated Hide"
+            },
+            {
+               "id":300,
+               "description":"Chitin Armor Banding"
+            },
+            {
+               "id":284,
+               "description":"Infuse with Power"
+            },
+            {
+               "id":256,
+               "description":"Spark"
+            },
+            {
+               "id":286,
+               "description":"Leather Armor"
+            },
+            {
+               "id":346,
+               "description":"Artisan's Authenticity"
+            },
+            {
+               "id":363,
+               "description":"Socket"
+            },
+            {
+               "id":384,
+               "description":"Augment Beyond"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            100,
+            100,
+            100
+         ],
+         "creates":[
+            219513,
+            1,
+            1
+         ],
+         "displayName":"Roiling Thunderstrike Talons",
+         "id":443950,
+         "learnedat":100,
+         "level":0,
+         "name":"Roiling Thunderstrike Talons",
+         "nskillup":3,
+         "quality":4,
+         "reagents":[
+            [
+               218338,
+               10
+            ],
+            [
+               219013,
+               1
+            ],
+            [
+               219889,
+               2
+            ],
+            [
+               219898,
+               1
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            165
+         ],
+         "source":[
+            2,
+            16
+         ],
+         "optionalReagents":[
+            {
+               "id":296,
+               "description":"Sporecoated Hide"
+            },
+            {
+               "id":300,
+               "description":"Chitin Armor Banding"
+            },
+            {
+               "id":284,
+               "description":"Infuse with Power"
+            },
+            {
+               "id":256,
+               "description":"Spark"
+            },
+            {
+               "id":286,
+               "description":"Leather Armor"
+            },
+            {
+               "id":346,
+               "description":"Artisan's Authenticity"
+            },
+            {
+               "id":384,
+               "description":"Augment Beyond"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            100,
+            100,
+            100
+         ],
+         "creates":[
+            219507,
+            1,
+            1
+         ],
+         "displayName":"Smoldering Pollen Hauberk",
+         "id":443961,
+         "learnedat":100,
+         "level":0,
+         "name":"Smoldering Pollen Hauberk",
+         "nskillup":3,
+         "quality":4,
+         "reagents":[
+            [
+               218339,
+               10
+            ],
+            [
+               219013,
+               1
+            ],
+            [
+               219889,
+               3
+            ],
+            [
+               219898,
+               1
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            165
+         ],
+         "optionalReagents":[
+            {
+               "id":296,
+               "description":"Sporecoated Hide"
+            },
+            {
+               "id":300,
+               "description":"Chitin Armor Banding"
+            },
+            {
+               "id":284,
+               "description":"Infuse with Power"
+            },
+            {
+               "id":287,
+               "description":"Mail Armor"
+            },
+            {
+               "id":256,
+               "description":"Spark"
+            },
+            {
+               "id":346,
+               "description":"Artisan's Authenticity"
+            },
+            {
+               "id":384,
+               "description":"Augment Beyond"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            100,
+            100,
+            100
+         ],
+         "creates":[
+            219508,
+            1,
+            1
+         ],
+         "displayName":"Reinforced Setae Flyers",
+         "id":443960,
+         "learnedat":100,
+         "level":0,
+         "name":"Reinforced Setae Flyers",
+         "nskillup":3,
+         "quality":4,
+         "reagents":[
+            [
+               218339,
+               10
+            ],
+            [
+               219013,
+               1
+            ],
+            [
+               219889,
+               2
+            ],
+            [
+               219898,
+               1
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            165
+         ],
+         "source":[
+            2
+         ],
+         "optionalReagents":[
+            {
+               "id":296,
+               "description":"Sporecoated Hide"
+            },
+            {
+               "id":300,
+               "description":"Chitin Armor Banding"
+            },
+            {
+               "id":284,
+               "description":"Infuse with Power"
+            },
+            {
+               "id":287,
+               "description":"Mail Armor"
+            },
+            {
+               "id":256,
+               "description":"Spark"
+            },
+            {
+               "id":346,
+               "description":"Artisan's Authenticity"
+            },
+            {
+               "id":384,
+               "description":"Augment Beyond"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            100,
+            100,
+            100
+         ],
+         "creates":[
+            219509,
+            1,
+            1
+         ],
+         "displayName":"Busy Bee's Buckle",
+         "id":443958,
+         "learnedat":100,
+         "level":0,
+         "name":"Busy Bee's Buckle",
+         "nskillup":3,
+         "quality":4,
+         "reagents":[
+            [
+               218339,
+               10
+            ],
+            [
+               219013,
+               1
+            ],
+            [
+               219889,
+               2
+            ],
+            [
+               219898,
+               1
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            165
+         ],
+         "source":[
+            2
+         ],
+         "optionalReagents":[
+            {
+               "id":296,
+               "description":"Sporecoated Hide"
+            },
+            {
+               "id":300,
+               "description":"Chitin Armor Banding"
+            },
+            {
+               "id":284,
+               "description":"Infuse with Power"
+            },
+            {
+               "id":287,
+               "description":"Mail Armor"
+            },
+            {
+               "id":256,
+               "description":"Spark"
+            },
+            {
+               "id":346,
+               "description":"Artisan's Authenticity"
+            },
+            {
+               "id":363,
+               "description":"Socket"
+            },
+            {
+               "id":384,
+               "description":"Augment Beyond"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            100,
+            100,
+            100
+         ],
+         "creates":[
+            219501,
+            1,
+            1
+         ],
+         "displayName":"Vambraces of Deepening Darkness",
+         "id":444068,
+         "learnedat":100,
+         "level":0,
+         "name":"Vambraces of Deepening Darkness",
+         "nskillup":3,
+         "quality":4,
+         "reagents":[
+            [
+               221756,
+               2
+            ],
+            [
+               218336,
+               10
+            ],
+            [
+               219886,
+               2
+            ],
+            [
+               219898,
+               1
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            165
+         ],
+         "source":[
+            2
+         ],
+         "optionalReagents":[
+            {
+               "id":295,
+               "description":"Writhing Hide"
+            },
+            {
+               "id":300,
+               "description":"Chitin Armor Banding"
+            },
+            {
+               "id":284,
+               "description":"Infuse with Power"
+            },
+            {
+               "id":287,
+               "description":"Mail Armor"
+            },
+            {
+               "id":256,
+               "description":"Spark"
+            },
+            {
+               "id":346,
+               "description":"Artisan's Authenticity"
+            },
+            {
+               "id":363,
+               "description":"Socket"
+            },
+            {
+               "id":384,
+               "description":"Augment Beyond"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            100,
+            100,
+            100
+         ],
+         "creates":[
+            219502,
+            1,
+            1
+         ],
+         "displayName":"Adrenal Surge Clasp",
+         "id":444070,
+         "learnedat":100,
+         "level":0,
+         "name":"Adrenal Surge Clasp",
+         "nskillup":3,
+         "quality":4,
+         "reagents":[
+            [
+               221756,
+               2
+            ],
+            [
+               218336,
+               10
+            ],
+            [
+               219886,
+               2
+            ],
+            [
+               219898,
+               1
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            165
+         ],
+         "source":[
+            2,
+            16
+         ],
+         "optionalReagents":[
+            {
+               "id":295,
+               "description":"Writhing Hide"
+            },
+            {
+               "id":300,
+               "description":"Chitin Armor Banding"
+            },
+            {
+               "id":284,
+               "description":"Infuse with Power"
+            },
+            {
+               "id":256,
+               "description":"Spark"
+            },
+            {
+               "id":286,
+               "description":"Leather Armor"
+            },
+            {
+               "id":346,
+               "description":"Artisan's Authenticity"
+            },
+            {
+               "id":363,
+               "description":"Socket"
+            },
+            {
+               "id":384,
+               "description":"Augment Beyond"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            100,
+            100,
+            100
+         ],
+         "creates":[
+            219489,
+            1,
+            1
+         ],
+         "displayName":"Waders of the Unifying Flame",
+         "id":444071,
+         "learnedat":100,
+         "level":0,
+         "name":"Waders of the Unifying Flame",
+         "nskillup":3,
+         "quality":4,
+         "reagents":[
+            [
+               221758,
+               2
+            ],
+            [
+               212664,
+               150
+            ],
+            [
+               219883,
+               3
+            ],
+            [
+               219898,
+               1
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            165
+         ],
+         "source":[
+            2
+         ],
+         "optionalReagents":[
+            {
+               "id":294,
+               "description":"Crystalfused Hide"
+            },
+            {
+               "id":269,
+               "description":"Stormcharged Leather"
+            },
+            {
+               "id":300,
+               "description":"Chitin Armor Banding"
+            },
+            {
+               "id":284,
+               "description":"Infuse with Power"
+            },
+            {
+               "id":256,
+               "description":"Spark"
+            },
+            {
+               "id":286,
+               "description":"Leather Armor"
+            },
+            {
+               "id":346,
+               "description":"Artisan's Authenticity"
+            },
+            {
+               "id":384,
+               "description":"Augment Beyond"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            100,
+            100,
+            100
+         ],
+         "creates":[
+            219492,
+            1,
+            1
+         ],
+         "displayName":"Sanctified Torchbearer's Grips",
+         "id":444073,
+         "learnedat":100,
+         "level":0,
+         "name":"Sanctified Torchbearer's Grips",
+         "nskillup":3,
+         "quality":4,
+         "reagents":[
+            [
+               221758,
+               3
+            ],
+            [
+               212667,
+               150
+            ],
+            [
+               219883,
+               3
+            ],
+            [
+               219898,
+               1
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            165
+         ],
+         "source":[
+            2
+         ],
+         "optionalReagents":[
+            {
+               "id":294,
+               "description":"Crystalfused Hide"
+            },
+            {
+               "id":270,
+               "description":"Gloom Chitin"
+            },
+            {
+               "id":300,
+               "description":"Chitin Armor Banding"
+            },
+            {
+               "id":284,
+               "description":"Infuse with Power"
+            },
+            {
+               "id":287,
+               "description":"Mail Armor"
+            },
+            {
+               "id":256,
+               "description":"Spark"
+            },
+            {
+               "id":346,
+               "description":"Artisan's Authenticity"
+            },
+            {
+               "id":384,
+               "description":"Augment Beyond"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            35,
+            42,
+            50
+         ],
+         "creates":[
+            219880,
+            1,
+            1
+         ],
+         "displayName":"Carapace-Backed Hide",
+         "id":444075,
+         "learnedat":35,
+         "level":0,
+         "name":"Carapace-Backed Hide",
+         "nskillup":1,
+         "quality":3,
+         "reagents":[
+            [
+               218337,
+               5
+            ],
+            [
+               224764,
+               5
+            ],
+            [
+               212670,
+               1
+            ],
+            [
+               212674,
+               1
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            165
+         ],
+         "source":[
+            6
+         ],
+         "trainingcost":1040000,
+         "optionalReagents":[
+            {
+               "id":271,
+               "description":"Thunderous Hide"
+            },
+            {
+               "id":272,
+               "description":"Sunless Carapace"
+            },
+            {
+               "id":358,
+               "description":"Crafted Reagents"
+            },
+            {
+               "id":346,
+               "description":"Artisan's Authenticity"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            35,
+            42,
+            50
+         ],
+         "creates":[
+            219883,
+            1,
+            1
+         ],
+         "displayName":"Crystalfused Hide",
+         "id":444076,
+         "learnedat":35,
+         "level":0,
+         "name":"Crystalfused Hide",
+         "nskillup":1,
+         "quality":3,
+         "reagents":[
+            [
+               213610,
+               5
+            ],
+            [
+               219880,
+               1
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            165
+         ],
+         "source":[
+            6
+         ],
+         "trainingcost":1040000,
+         "optionalReagents":[
+            {
+               "id":293,
+               "description":"Carapace-Backed Hide"
+            },
+            {
+               "id":358,
+               "description":"Crafted Reagents"
+            },
+            {
+               "id":346,
+               "description":"Artisan's Authenticity"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            35,
+            42,
+            50
+         ],
+         "creates":[
+            219886,
+            1,
+            1
+         ],
+         "displayName":"Writhing Hide",
+         "id":444077,
+         "learnedat":35,
+         "level":0,
+         "name":"Writhing Hide",
+         "nskillup":1,
+         "quality":3,
+         "reagents":[
+            [
+               213611,
+               5
+            ],
+            [
+               219880,
+               1
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            165
+         ],
+         "source":[
+            6
+         ],
+         "trainingcost":1040000,
+         "optionalReagents":[
+            {
+               "id":293,
+               "description":"Carapace-Backed Hide"
+            },
+            {
+               "id":358,
+               "description":"Crafted Reagents"
+            },
+            {
+               "id":346,
+               "description":"Artisan's Authenticity"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            35,
+            42,
+            50
+         ],
+         "creates":[
+            219889,
+            1,
+            1
+         ],
+         "displayName":"Sporecoated Hide",
+         "id":444078,
+         "learnedat":35,
+         "level":0,
+         "name":"Sporecoated Hide",
+         "nskillup":1,
+         "quality":3,
+         "reagents":[
+            [
+               213612,
+               5
+            ],
+            [
+               219880,
+               1
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            165
+         ],
+         "source":[
+            6
+         ],
+         "trainingcost":1040000,
+         "optionalReagents":[
+            {
+               "id":293,
+               "description":"Carapace-Backed Hide"
+            },
+            {
+               "id":358,
+               "description":"Crafted Reagents"
+            },
+            {
+               "id":346,
+               "description":"Artisan's Authenticity"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            35,
+            42,
+            50
+         ],
+         "creates":[
+            219892,
+            1,
+            1
+         ],
+         "displayName":"Leyfused Hide",
+         "id":444079,
+         "learnedat":35,
+         "level":0,
+         "name":"Leyfused Hide",
+         "nskillup":1,
+         "quality":3,
+         "reagents":[
+            [
+               213613,
+               5
+            ],
+            [
+               219880,
+               1
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            165
+         ],
+         "source":[
+            6
+         ],
+         "trainingcost":1040000,
+         "optionalReagents":[
+            {
+               "id":293,
+               "description":"Carapace-Backed Hide"
+            },
+            {
+               "id":358,
+               "description":"Crafted Reagents"
+            },
+            {
+               "id":346,
+               "description":"Artisan's Authenticity"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            45,
+            52,
+            60
+         ],
+         "creates":[
+            219866,
+            1,
+            1
+         ],
+         "displayName":"Apothecary's Cap",
+         "id":444105,
+         "learnedat":45,
+         "level":0,
+         "name":"Apothecary's Cap",
+         "nskillup":3,
+         "quality":2,
+         "reagents":[
+            [
+               212664,
+               20
+            ],
+            [
+               212674,
+               1
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            165
+         ],
+         "source":[
+            6
+         ],
+         "trainingcost":1200000,
+         "optionalReagents":[
+            {
+               "id":272,
+               "description":"Sunless Carapace"
+            },
+            {
+               "id":269,
+               "description":"Stormcharged Leather"
+            },
+            {
+               "id":354,
+               "description":"Artisan's Authenticity"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            90,
+            100,
+            110
+         ],
+         "creates":[
+            219872,
+            1,
+            1
+         ],
+         "displayName":"Nerubian Alchemist's Hat",
+         "id":444106,
+         "learnedat":90,
+         "level":0,
+         "name":"Nerubian Alchemist's Hat",
+         "nskillup":2,
+         "quality":3,
+         "reagents":[
+            [
+               210814,
+               300
+            ],
+            [
+               221756,
+               1
+            ],
+            [
+               212664,
+               80
+            ],
+            [
+               219886,
+               3
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            165
+         ],
+         "source":[
+            5
+         ],
+         "optionalReagents":[
+            {
+               "id":295,
+               "description":"Writhing Hide"
+            },
+            {
+               "id":269,
+               "description":"Stormcharged Leather"
+            },
+            {
+               "id":354,
+               "description":"Artisan's Authenticity"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            45,
+            52,
+            60
+         ],
+         "creates":[
+            219873,
+            1,
+            1
+         ],
+         "displayName":"Steelsmith's Apron",
+         "id":444107,
+         "learnedat":45,
+         "level":0,
+         "name":"Steelsmith's Apron",
+         "nskillup":3,
+         "quality":2,
+         "reagents":[
+            [
+               212667,
+               20
+            ],
+            [
+               212670,
+               1
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            165
+         ],
+         "source":[
+            6
+         ],
+         "trainingcost":1200000,
+         "optionalReagents":[
+            {
+               "id":271,
+               "description":"Thunderous Hide"
+            },
+            {
+               "id":270,
+               "description":"Gloom Chitin"
+            },
+            {
+               "id":354,
+               "description":"Artisan's Authenticity"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            90,
+            100,
+            110
+         ],
+         "creates":[
+            219874,
+            1,
+            1
+         ],
+         "displayName":"Earthen Forgemaster's Apron",
+         "id":444108,
+         "learnedat":90,
+         "level":0,
+         "name":"Earthen Forgemaster's Apron",
+         "nskillup":2,
+         "quality":3,
+         "reagents":[
+            [
+               210814,
+               300
+            ],
+            [
+               221754,
+               1
+            ],
+            [
+               212667,
+               80
+            ],
+            [
+               219883,
+               3
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            165
+         ],
+         "source":[
+            5
+         ],
+         "optionalReagents":[
+            {
+               "id":294,
+               "description":"Crystalfused Hide"
+            },
+            {
+               "id":270,
+               "description":"Gloom Chitin"
+            },
+            {
+               "id":354,
+               "description":"Artisan's Authenticity"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            40,
+            47,
+            55
+         ],
+         "creates":[
+            219864,
+            1,
+            1
+         ],
+         "displayName":"Scrapsmith's Gloves",
+         "id":444110,
+         "learnedat":40,
+         "level":0,
+         "name":"Scrapsmith's Gloves",
+         "nskillup":3,
+         "quality":2,
+         "reagents":[
+            [
+               212664,
+               50
+            ],
+            [
+               212667,
+               50
+            ],
+            [
+               221856,
+               5
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            165
+         ],
+         "source":[
+            6
+         ],
+         "trainingcost":1120000,
+         "optionalReagents":[
+            {
+               "id":269,
+               "description":"Stormcharged Leather"
+            },
+            {
+               "id":270,
+               "description":"Gloom Chitin"
+            },
+            {
+               "id":305,
+               "description":"Whimsical Wiring"
+            },
+            {
+               "id":354,
+               "description":"Artisan's Authenticity"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            90,
+            100,
+            110
+         ],
+         "creates":[
+            219870,
+            1,
+            1
+         ],
+         "displayName":"Charged Scrapmaster's Gauntlets",
+         "id":444111,
+         "learnedat":90,
+         "level":0,
+         "name":"Charged Scrapmaster's Gauntlets",
+         "nskillup":2,
+         "quality":3,
+         "reagents":[
+            [
+               210814,
+               300
+            ],
+            [
+               221754,
+               1
+            ],
+            [
+               212667,
+               50
+            ],
+            [
+               219883,
+               3
+            ],
+            [
+               221856,
+               5
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            165
+         ],
+         "source":[
+            5
+         ],
+         "optionalReagents":[
+            {
+               "id":294,
+               "description":"Crystalfused Hide"
+            },
+            {
+               "id":270,
+               "description":"Gloom Chitin"
+            },
+            {
+               "id":305,
+               "description":"Whimsical Wiring"
+            },
+            {
+               "id":354,
+               "description":"Artisan's Authenticity"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            20,
+            27,
+            35
+         ],
+         "creates":[
+            219861,
+            1,
+            1
+         ],
+         "displayName":"Gardener's Basket",
+         "id":444112,
+         "learnedat":20,
+         "level":0,
+         "name":"Gardener's Basket",
+         "nskillup":3,
+         "quality":2,
+         "reagents":[
+            [
+               210796,
+               10
+            ],
+            [
+               212664,
+               20
+            ],
+            [
+               212670,
+               1
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            165
+         ],
+         "source":[
+            6
+         ],
+         "trainingcost":640000,
+         "optionalReagents":[
+            {
+               "id":271,
+               "description":"Thunderous Hide"
+            },
+            {
+               "id":269,
+               "description":"Stormcharged Leather"
+            },
+            {
+               "id":257,
+               "description":"Mycobloom"
+            },
+            {
+               "id":354,
+               "description":"Artisan's Authenticity"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            90,
+            100,
+            110
+         ],
+         "creates":[
+            219867,
+            1,
+            1
+         ],
+         "displayName":"Stonebound Herbalist's Pack",
+         "id":444113,
+         "learnedat":90,
+         "level":0,
+         "name":"Stonebound Herbalist's Pack",
+         "nskillup":2,
+         "quality":3,
+         "reagents":[
+            [
+               210814,
+               300
+            ],
+            [
+               221757,
+               1
+            ],
+            [
+               212563,
+               2
+            ],
+            [
+               212664,
+               60
+            ],
+            [
+               219889,
+               2
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            165
+         ],
+         "source":[
+            5
+         ],
+         "optionalReagents":[
+            {
+               "id":296,
+               "description":"Sporecoated Hide"
+            },
+            {
+               "id":269,
+               "description":"Stormcharged Leather"
+            },
+            {
+               "id":268,
+               "description":"Harmonious Horticulture"
+            },
+            {
+               "id":354,
+               "description":"Artisan's Authenticity"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            40,
+            47,
+            55
+         ],
+         "creates":[
+            219875,
+            1,
+            1
+         ],
+         "displayName":"Gemcutter's Apron",
+         "id":444114,
+         "learnedat":40,
+         "level":0,
+         "name":"Gemcutter's Apron",
+         "nskillup":3,
+         "quality":2,
+         "reagents":[
+            [
+               212664,
+               20
+            ],
+            [
+               212670,
+               1
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            165
+         ],
+         "source":[
+            6
+         ],
+         "trainingcost":1120000,
+         "optionalReagents":[
+            {
+               "id":271,
+               "description":"Thunderous Hide"
+            },
+            {
+               "id":269,
+               "description":"Stormcharged Leather"
+            },
+            {
+               "id":354,
+               "description":"Artisan's Authenticity"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            90,
+            100,
+            110
+         ],
+         "creates":[
+            219876,
+            1,
+            1
+         ],
+         "displayName":"Earthen Jeweler's Cover",
+         "id":444115,
+         "learnedat":90,
+         "level":0,
+         "name":"Earthen Jeweler's Cover",
+         "nskillup":2,
+         "quality":3,
+         "reagents":[
+            [
+               210814,
+               300
+            ],
+            [
+               221754,
+               1
+            ],
+            [
+               212664,
+               80
+            ],
+            [
+               219883,
+               3
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            165
+         ],
+         "source":[
+            5
+         ],
+         "optionalReagents":[
+            {
+               "id":294,
+               "description":"Crystalfused Hide"
+            },
+            {
+               "id":269,
+               "description":"Stormcharged Leather"
+            },
+            {
+               "id":354,
+               "description":"Artisan's Authenticity"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            35,
+            42,
+            50
+         ],
+         "creates":[
+            219865,
+            1,
+            1
+         ],
+         "displayName":"Hideshaper's Cover",
+         "id":444116,
+         "learnedat":35,
+         "level":0,
+         "name":"Hideshaper's Cover",
+         "nskillup":3,
+         "quality":2,
+         "reagents":[
+            [
+               212664,
+               50
+            ],
+            [
+               212667,
+               50
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            165
+         ],
+         "source":[
+            6
+         ],
+         "trainingcost":1040000,
+         "optionalReagents":[
+            {
+               "id":269,
+               "description":"Stormcharged Leather"
+            },
+            {
+               "id":270,
+               "description":"Gloom Chitin"
+            },
+            {
+               "id":354,
+               "description":"Artisan's Authenticity"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            90,
+            100,
+            110
+         ],
+         "creates":[
+            219871,
+            1,
+            1
+         ],
+         "displayName":"Arathi Leatherworker's Smock",
+         "id":444117,
+         "learnedat":90,
+         "level":0,
+         "name":"Arathi Leatherworker's Smock",
+         "nskillup":2,
+         "quality":3,
+         "reagents":[
+            [
+               210814,
+               300
+            ],
+            [
+               221758,
+               1
+            ],
+            [
+               212664,
+               80
+            ],
+            [
+               219889,
+               3
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            165
+         ],
+         "source":[
+            5
+         ],
+         "optionalReagents":[
+            {
+               "id":296,
+               "description":"Sporecoated Hide"
+            },
+            {
+               "id":269,
+               "description":"Stormcharged Leather"
+            },
+            {
+               "id":354,
+               "description":"Artisan's Authenticity"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            25,
+            32,
+            40
+         ],
+         "creates":[
+            219862,
+            1,
+            1
+         ],
+         "displayName":"Hideseeker's Pack",
+         "id":444118,
+         "learnedat":25,
+         "level":0,
+         "name":"Hideseeker's Pack",
+         "nskillup":3,
+         "quality":2,
+         "reagents":[
+            [
+               212664,
+               10
+            ],
+            [
+               212670,
+               1
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            165
+         ],
+         "source":[
+            6
+         ],
+         "trainingcost":800000,
+         "optionalReagents":[
+            {
+               "id":269,
+               "description":"Stormcharged Leather"
+            },
+            {
+               "id":271,
+               "description":"Thunderous Hide"
+            },
+            {
+               "id":354,
+               "description":"Artisan's Authenticity"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            90,
+            100,
+            110
+         ],
+         "creates":[
+            219868,
+            1,
+            1
+         ],
+         "displayName":"Deep Tracker's Pack",
+         "id":444119,
+         "learnedat":90,
+         "level":0,
+         "name":"Deep Tracker's Pack",
+         "nskillup":2,
+         "quality":3,
+         "reagents":[
+            [
+               210814,
+               300
+            ],
+            [
+               221757,
+               1
+            ],
+            [
+               212664,
+               80
+            ],
+            [
+               219889,
+               3
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            165
+         ],
+         "source":[
+            5
+         ],
+         "optionalReagents":[
+            {
+               "id":296,
+               "description":"Sporecoated Hide"
+            },
+            {
+               "id":269,
+               "description":"Stormcharged Leather"
+            },
+            {
+               "id":354,
+               "description":"Artisan's Authenticity"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            15,
+            22,
+            30
+         ],
+         "creates":[
+            219863,
+            1,
+            1
+         ],
+         "displayName":"Hideseeker's Hat",
+         "id":444120,
+         "learnedat":15,
+         "level":0,
+         "name":"Hideseeker's Hat",
+         "nskillup":3,
+         "quality":2,
+         "reagents":[
+            [
+               212664,
+               40
+            ],
+            [
+               212667,
+               40
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            165
+         ],
+         "source":[
+            6
+         ],
+         "trainingcost":480000,
+         "optionalReagents":[
+            {
+               "id":269,
+               "description":"Stormcharged Leather"
+            },
+            {
+               "id":270,
+               "description":"Gloom Chitin"
+            },
+            {
+               "id":354,
+               "description":"Artisan's Authenticity"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            90,
+            100,
+            110
+         ],
+         "creates":[
+            219869,
+            1,
+            1
+         ],
+         "displayName":"Deep Tracker's Cap",
+         "id":444121,
+         "learnedat":90,
+         "level":0,
+         "name":"Deep Tracker's Cap",
+         "nskillup":2,
+         "quality":3,
+         "reagents":[
+            [
+               210814,
+               300
+            ],
+            [
+               221757,
+               2
+            ],
+            [
+               212664,
+               80
+            ],
+            [
+               219889,
+               2
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            165
+         ],
+         "source":[
+            5
+         ],
+         "optionalReagents":[
+            {
+               "id":296,
+               "description":"Sporecoated Hide"
+            },
+            {
+               "id":269,
+               "description":"Stormcharged Leather"
+            },
+            {
+               "id":354,
+               "description":"Artisan's Authenticity"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            35,
+            42,
+            50
+         ],
+         "creates":[
+            219898,
+            1,
+            1
+         ],
+         "displayName":"Chitin Armor Banding",
+         "id":444086,
+         "learnedat":35,
+         "level":0,
+         "name":"Chitin Armor Banding",
+         "nskillup":1,
+         "quality":2,
+         "reagents":[
+            [
+               218336,
+               1
+            ],
+            [
+               212667,
+               30
+            ],
+            [
+               212674,
+               1
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            165
+         ],
+         "source":[
+            6
+         ],
+         "trainingcost":1040000,
+         "optionalReagents":[
+            {
+               "id":272,
+               "description":"Sunless Carapace"
+            },
+            {
+               "id":270,
+               "description":"Gloom Chitin"
+            },
+            {
+               "id":358,
+               "description":"Crafted Reagents"
+            },
+            {
+               "id":346,
+               "description":"Artisan's Authenticity"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            35,
+            42,
+            50
+         ],
+         "creates":[
+            219901,
+            1,
+            1
+         ],
+         "displayName":"Storm-Touched Weapon Wrap",
+         "id":444087,
+         "learnedat":35,
+         "level":0,
+         "name":"Storm-Touched Weapon Wrap",
+         "nskillup":1,
+         "quality":2,
+         "reagents":[
+            [
+               218338,
+               2
+            ],
+            [
+               212664,
+               30
+            ],
+            [
+               212670,
+               1
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            165
+         ],
+         "source":[
+            6
+         ],
+         "trainingcost":1040000,
+         "optionalReagents":[
+            {
+               "id":271,
+               "description":"Thunderous Hide"
+            },
+            {
+               "id":269,
+               "description":"Stormcharged Leather"
+            },
+            {
+               "id":358,
+               "description":"Crafted Reagents"
+            },
+            {
+               "id":346,
+               "description":"Artisan's Authenticity"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            80,
+            90,
+            100
+         ],
+         "creates":[
+            219906,
+            1,
+            1
+         ],
+         "displayName":"Defender's Armor Kit",
+         "id":444103,
+         "learnedat":80,
+         "level":0,
+         "name":"Defender's Armor Kit",
+         "nskillup":1,
+         "quality":1,
+         "reagents":[
+            [
+               221758,
+               1
+            ],
+            [
+               212667,
+               60
+            ],
+            [
+               219883,
+               2
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            165
+         ],
+         "source":[
+            5
+         ],
+         "optionalReagents":[
+            {
+               "id":294,
+               "description":"Crystalfused Hide"
+            },
+            {
+               "id":270,
+               "description":"Gloom Chitin"
+            },
+            {
+               "id":346,
+               "description":"Artisan's Authenticity"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            80,
+            90,
+            100
+         ],
+         "creates":[
+            219909,
+            1,
+            1
+         ],
+         "displayName":"Stormbound Armor Kit",
+         "id":444102,
+         "learnedat":80,
+         "level":0,
+         "name":"Stormbound Armor Kit",
+         "nskillup":1,
+         "quality":1,
+         "reagents":[
+            [
+               221757,
+               1
+            ],
+            [
+               212664,
+               60
+            ],
+            [
+               219883,
+               2
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            165
+         ],
+         "source":[
+            5
+         ],
+         "optionalReagents":[
+            {
+               "id":294,
+               "description":"Crystalfused Hide"
+            },
+            {
+               "id":269,
+               "description":"Stormcharged Leather"
+            },
+            {
+               "id":346,
+               "description":"Artisan's Authenticity"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            20,
+            27,
+            35
+         ],
+         "creates":[
+            219912,
+            1,
+            1
+         ],
+         "displayName":"Dual Layered Armor Kit",
+         "id":444104,
+         "learnedat":20,
+         "level":0,
+         "name":"Dual Layered Armor Kit",
+         "nskillup":1,
+         "quality":1,
+         "reagents":[
+            [
+               212664,
+               50
+            ],
+            [
+               212670,
+               1
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            165
+         ],
+         "source":[
+            6
+         ],
+         "trainingcost":640000,
+         "optionalReagents":[
+            {
+               "id":271,
+               "description":"Thunderous Hide"
+            },
+            {
+               "id":269,
+               "description":"Stormcharged Leather"
+            },
+            {
+               "id":346,
+               "description":"Artisan's Authenticity"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            60,
+            62,
+            65
+         ],
+         "creates":[
+            219905,
+            1,
+            1
+         ],
+         "displayName":"Thunderous Drums",
+         "id":444122,
+         "learnedat":60,
+         "level":0,
+         "name":"Thunderous Drums",
+         "nskillup":1,
+         "quality":2,
+         "reagents":[
+            [
+               213612,
+               5
+            ],
+            [
+               212664,
+               75
+            ],
+            [
+               212667,
+               75
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            165
+         ],
+         "source":[
+            6
+         ],
+         "trainingcost":800000,
+         "optionalReagents":[
+            {
+               "id":269,
+               "description":"Stormcharged Leather"
+            },
+            {
+               "id":270,
+               "description":"Gloom Chitin"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            80,
+            90,
+            100
+         ],
+         "creates":[
+            235335,
+            1,
+            1
+         ],
+         "displayName":"Charged Armor Kit",
+         "id":1216520,
+         "learnedat":80,
+         "level":0,
+         "name":"Charged Armor Kit",
+         "nskillup":1,
+         "quality":1,
+         "reagents":[
+            [
+               221757,
+               1
+            ],
+            [
+               212664,
+               60
+            ],
+            [
+               219883,
+               2
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            165
+         ],
+         "source":[
+            5
+         ],
+         "optionalReagents":[
+            {
+               "id":294,
+               "description":"Crystalfused Hide"
+            },
+            {
+               "id":269,
+               "description":"Stormcharged Leather"
+            },
+            {
+               "id":346,
+               "description":"Artisan's Authenticity"
+            }
+         ]
+      }
+   ]
+}
