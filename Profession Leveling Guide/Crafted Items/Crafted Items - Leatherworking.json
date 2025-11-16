@@ -1,10 +1,4 @@
 {
-   "template":"item",
-   "id":"crafted-items",
-   "name":"WH.TERMS.crafteditems_stc",
-   "tabs":"tabsRelated",
-   "parent":"lkljbjkb574",
-   "note":"<a href=\"\/items?filter=86;8;0\">Filter these results<\/a>",
    "data":[
       {
          "appearances":{

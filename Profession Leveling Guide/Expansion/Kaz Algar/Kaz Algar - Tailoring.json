@@ -1,20 +1,4 @@
 {
-   "template":"spell",
-   "id":"khaz-algar-patterns",
-   "name":"Khaz Algar Patterns",
-   "tabs":"tabsRelated",
-   "parent":"lkljbjkb574",
-   "note":"<a href=\"\/spells\/professions\/tailoring?filter=20;1;0\">Filter these results<\/a>",
-   "sort":[
-      "-skill",
-      "name"
-   ],
-   "hiddenCols":[
-      "slot"
-   ],
-   "visibleCols":[
-      "source"
-   ],
    "data":[
       {
          "cat":11,

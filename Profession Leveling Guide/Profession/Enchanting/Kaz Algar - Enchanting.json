@@ -1,20 +1,4 @@
 {
-   "template":"spell",
-   "id":"khaz-algar-formulas",
-   "name":"Khaz Algar Formulas",
-   "tabs":"tabsRelated",
-   "parent":"lkljbjkb574",
-   "note":"<a href=\"\/spells\/professions\/enchanting?filter=20;1;0\">Filter these results<\/a>",
-   "sort":[
-      "-skill",
-      "name"
-   ],
-   "hiddenCols":[
-      "slot"
-   ],
-   "visibleCols":[
-      "source"
-   ],
    "data":[
       {
          "cat":11,

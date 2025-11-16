@@ -1,20 +1,4 @@
 {
-   "template":"spell",
-   "id":"food-of-the-broken-isles",
-   "name":"Food of the Broken Isles",
-   "tabs":"tabsRelated",
-   "parent":"lkljbjkb574",
-   "note":"<a href=\"\/spells\/secondary-skills\/cooking?filter=20;1;0\">Filter these results<\/a>",
-   "sort":[
-      "-skill",
-      "name"
-   ],
-   "hiddenCols":[
-      "slot"
-   ],
-   "visibleCols":[
-      "source"
-   ],
    "data":[
       {
          "cat":9,

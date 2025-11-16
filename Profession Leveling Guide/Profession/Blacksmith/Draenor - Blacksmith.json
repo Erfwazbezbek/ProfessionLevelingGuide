@@ -1,20 +1,4 @@
 {
-   "template":"spell",
-   "id":"draenor-plans",
-   "name":"Draenor Plans",
-   "tabs":"tabsRelated",
-   "parent":"lkljbjkb574",
-   "note":"<a href=\"\/spells\/professions\/blacksmithing?filter=20;1;0\">Filter these results<\/a>",
-   "sort":[
-      "-skill",
-      "name"
-   ],
-   "hiddenCols":[
-      "slot"
-   ],
-   "visibleCols":[
-      "source"
-   ],
    "data":[
       {
          "cat":11,

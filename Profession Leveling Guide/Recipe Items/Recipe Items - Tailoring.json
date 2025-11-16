@@ -1,20 +1,4 @@
 {
-   "template":"item",
-   "id":"recipe-items",
-   "name":"WH.TERMS.recipeitems_stc",
-   "tabs":"tabsRelated",
-   "parent":"lkljbjkb574",
-   "note":"<a href=\"\/items\/recipes\/tailoring\">Filter these results<\/a>",
-   "visibleCols":[
-      "skill"
-   ],
-   "hiddenCols":[
-      "slot"
-   ],
-   "sort":[
-      "skill",
-      "name"
-   ],
    "data":[
       {
          "classs":9,

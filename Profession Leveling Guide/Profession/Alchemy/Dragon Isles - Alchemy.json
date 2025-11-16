@@ -1,20 +1,4 @@
 {
-   "template":"spell",
-   "id":"dragon-isles-alchemy",
-   "name":"Dragon Isles Alchemy",
-   "tabs":"tabsRelated",
-   "parent":"lkljbjkb574",
-   "note":"<a href=\"\/spells\/professions\/alchemy?filter=20;1;0\">Filter these results<\/a>",
-   "sort":[
-      "-skill",
-      "name"
-   ],
-   "hiddenCols":[
-      "slot"
-   ],
-   "visibleCols":[
-      "source"
-   ],
    "data":[
       {
          "cat":11,
