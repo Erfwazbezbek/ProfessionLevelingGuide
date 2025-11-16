@@ -1,0 +1,6001 @@
+{
+   "template":"spell",
+   "id":"khaz-algar-plans",
+   "name":"Khaz Algar Plans",
+   "tabs":"tabsRelated",
+   "parent":"lkljbjkb574",
+   "note":"<a href=\"\/spells\/professions\/blacksmithing?filter=20;1;0\">Filter these results<\/a>",
+   "sort":[
+      "-skill",
+      "name"
+   ],
+   "hiddenCols":[
+      "slot"
+   ],
+   "visibleCols":[
+      "source"
+   ],
+   "data":[
+      {
+         "cat":11,
+         "colors":[
+            0,
+            60,
+            65,
+            70
+         ],
+         "creates":[
+            217143,
+            1,
+            1
+         ],
+         "displayName":"Algari Competitor's Plate Breastplate",
+         "id":438914,
+         "learnedat":60,
+         "level":0,
+         "name":"Algari Competitor's Plate Breastplate",
+         "nskillup":2,
+         "quality":2,
+         "reagents":[
+            [
+               222417,
+               2
+            ],
+            [
+               222426,
+               6
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            164
+         ],
+         "source":[
+            2,
+            5
+         ],
+         "optionalReagents":[
+            {
+               "id":255,
+               "description":"Competitor's Heraldry"
+            },
+            {
+               "id":281,
+               "description":"Add Embellishment"
+            },
+            {
+               "id":283,
+               "description":"Customize Secondary Stats"
+            },
+            {
+               "id":346,
+               "description":"Artisan's Authenticity"
+            },
+            {
+               "id":317,
+               "description":"Forge Accessories"
+            },
+            {
+               "id":316,
+               "description":"Ironclaw Alloy"
+            },
+            {
+               "id":313,
+               "description":"Core Alloy"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            60,
+            65,
+            70
+         ],
+         "creates":[
+            217144,
+            1,
+            1
+         ],
+         "displayName":"Algari Competitor's Plate Sabatons",
+         "id":438915,
+         "learnedat":60,
+         "level":0,
+         "name":"Algari Competitor's Plate Sabatons",
+         "nskillup":2,
+         "quality":2,
+         "reagents":[
+            [
+               222417,
+               2
+            ],
+            [
+               222426,
+               4
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            164
+         ],
+         "source":[
+            2,
+            5
+         ],
+         "optionalReagents":[
+            {
+               "id":255,
+               "description":"Competitor's Heraldry"
+            },
+            {
+               "id":281,
+               "description":"Add Embellishment"
+            },
+            {
+               "id":283,
+               "description":"Customize Secondary Stats"
+            },
+            {
+               "id":346,
+               "description":"Artisan's Authenticity"
+            },
+            {
+               "id":317,
+               "description":"Forge Accessories"
+            },
+            {
+               "id":316,
+               "description":"Ironclaw Alloy"
+            },
+            {
+               "id":313,
+               "description":"Core Alloy"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            60,
+            65,
+            70
+         ],
+         "creates":[
+            217145,
+            1,
+            1
+         ],
+         "displayName":"Algari Competitor's Plate Gauntlets",
+         "id":438916,
+         "learnedat":60,
+         "level":0,
+         "name":"Algari Competitor's Plate Gauntlets",
+         "nskillup":2,
+         "quality":2,
+         "reagents":[
+            [
+               222417,
+               2
+            ],
+            [
+               222426,
+               4
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            164
+         ],
+         "source":[
+            2,
+            5
+         ],
+         "optionalReagents":[
+            {
+               "id":255,
+               "description":"Competitor's Heraldry"
+            },
+            {
+               "id":281,
+               "description":"Add Embellishment"
+            },
+            {
+               "id":283,
+               "description":"Customize Secondary Stats"
+            },
+            {
+               "id":346,
+               "description":"Artisan's Authenticity"
+            },
+            {
+               "id":317,
+               "description":"Forge Accessories"
+            },
+            {
+               "id":316,
+               "description":"Ironclaw Alloy"
+            },
+            {
+               "id":313,
+               "description":"Core Alloy"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            60,
+            65,
+            70
+         ],
+         "creates":[
+            217146,
+            1,
+            1
+         ],
+         "displayName":"Algari Competitor's Plate Helm",
+         "id":438917,
+         "learnedat":60,
+         "level":0,
+         "name":"Algari Competitor's Plate Helm",
+         "nskillup":2,
+         "quality":2,
+         "reagents":[
+            [
+               222417,
+               2
+            ],
+            [
+               222426,
+               6
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            164
+         ],
+         "source":[
+            2,
+            5
+         ],
+         "optionalReagents":[
+            {
+               "id":255,
+               "description":"Competitor's Heraldry"
+            },
+            {
+               "id":281,
+               "description":"Add Embellishment"
+            },
+            {
+               "id":283,
+               "description":"Customize Secondary Stats"
+            },
+            {
+               "id":346,
+               "description":"Artisan's Authenticity"
+            },
+            {
+               "id":317,
+               "description":"Forge Accessories"
+            },
+            {
+               "id":316,
+               "description":"Ironclaw Alloy"
+            },
+            {
+               "id":313,
+               "description":"Core Alloy"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            60,
+            65,
+            70
+         ],
+         "creates":[
+            217147,
+            1,
+            1
+         ],
+         "displayName":"Algari Competitor's Plate Greaves",
+         "id":438918,
+         "learnedat":60,
+         "level":0,
+         "name":"Algari Competitor's Plate Greaves",
+         "nskillup":2,
+         "quality":2,
+         "reagents":[
+            [
+               222417,
+               2
+            ],
+            [
+               222426,
+               6
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            164
+         ],
+         "source":[
+            2,
+            5
+         ],
+         "optionalReagents":[
+            {
+               "id":255,
+               "description":"Competitor's Heraldry"
+            },
+            {
+               "id":281,
+               "description":"Add Embellishment"
+            },
+            {
+               "id":283,
+               "description":"Customize Secondary Stats"
+            },
+            {
+               "id":346,
+               "description":"Artisan's Authenticity"
+            },
+            {
+               "id":317,
+               "description":"Forge Accessories"
+            },
+            {
+               "id":316,
+               "description":"Ironclaw Alloy"
+            },
+            {
+               "id":313,
+               "description":"Core Alloy"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            60,
+            65,
+            70
+         ],
+         "creates":[
+            217148,
+            1,
+            1
+         ],
+         "displayName":"Algari Competitor's Plate Pauldrons",
+         "id":438919,
+         "learnedat":60,
+         "level":0,
+         "name":"Algari Competitor's Plate Pauldrons",
+         "nskillup":2,
+         "quality":2,
+         "reagents":[
+            [
+               222417,
+               2
+            ],
+            [
+               222426,
+               4
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            164
+         ],
+         "source":[
+            2,
+            5
+         ],
+         "optionalReagents":[
+            {
+               "id":255,
+               "description":"Competitor's Heraldry"
+            },
+            {
+               "id":281,
+               "description":"Add Embellishment"
+            },
+            {
+               "id":283,
+               "description":"Customize Secondary Stats"
+            },
+            {
+               "id":346,
+               "description":"Artisan's Authenticity"
+            },
+            {
+               "id":317,
+               "description":"Forge Accessories"
+            },
+            {
+               "id":316,
+               "description":"Ironclaw Alloy"
+            },
+            {
+               "id":313,
+               "description":"Core Alloy"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            60,
+            65,
+            70
+         ],
+         "creates":[
+            217149,
+            1,
+            1
+         ],
+         "displayName":"Algari Competitor's Plate Waistguard",
+         "id":438920,
+         "learnedat":60,
+         "level":0,
+         "name":"Algari Competitor's Plate Waistguard",
+         "nskillup":2,
+         "quality":2,
+         "reagents":[
+            [
+               222417,
+               2
+            ],
+            [
+               222426,
+               4
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            164
+         ],
+         "source":[
+            2,
+            5
+         ],
+         "optionalReagents":[
+            {
+               "id":255,
+               "description":"Competitor's Heraldry"
+            },
+            {
+               "id":281,
+               "description":"Add Embellishment"
+            },
+            {
+               "id":283,
+               "description":"Customize Secondary Stats"
+            },
+            {
+               "id":346,
+               "description":"Artisan's Authenticity"
+            },
+            {
+               "id":317,
+               "description":"Forge Accessories"
+            },
+            {
+               "id":316,
+               "description":"Ironclaw Alloy"
+            },
+            {
+               "id":313,
+               "description":"Core Alloy"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            60,
+            65,
+            70
+         ],
+         "creates":[
+            217150,
+            1,
+            1
+         ],
+         "displayName":"Algari Competitor's Plate Armguards",
+         "id":438921,
+         "learnedat":60,
+         "level":0,
+         "name":"Algari Competitor's Plate Armguards",
+         "nskillup":2,
+         "quality":2,
+         "reagents":[
+            [
+               222417,
+               2
+            ],
+            [
+               222426,
+               2
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            164
+         ],
+         "source":[
+            2,
+            5
+         ],
+         "optionalReagents":[
+            {
+               "id":255,
+               "description":"Competitor's Heraldry"
+            },
+            {
+               "id":281,
+               "description":"Add Embellishment"
+            },
+            {
+               "id":283,
+               "description":"Customize Secondary Stats"
+            },
+            {
+               "id":346,
+               "description":"Artisan's Authenticity"
+            },
+            {
+               "id":317,
+               "description":"Forge Accessories"
+            },
+            {
+               "id":316,
+               "description":"Ironclaw Alloy"
+            },
+            {
+               "id":313,
+               "description":"Core Alloy"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            5,
+            10,
+            15
+         ],
+         "creates":[
+            222417,
+            1,
+            1
+         ],
+         "displayName":"Core Alloy",
+         "id":450216,
+         "learnedat":5,
+         "level":0,
+         "name":"Core Alloy",
+         "nskillup":1,
+         "quality":2,
+         "reagents":[
+            [
+               226202,
+               8
+            ],
+            [
+               210930,
+               10
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            164
+         ],
+         "source":[
+            6
+         ],
+         "optionalReagents":[
+            {
+               "id":262,
+               "description":"Bismuth"
+            },
+            {
+               "id":369,
+               "description":"Forge Accessories"
+            },
+            {
+               "id":346,
+               "description":"Artisan's Authenticity"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            25,
+            30,
+            35
+         ],
+         "creates":[
+            222420,
+            1,
+            1
+         ],
+         "displayName":"Charged Alloy",
+         "id":450217,
+         "learnedat":25,
+         "level":0,
+         "name":"Charged Alloy",
+         "nskillup":1,
+         "quality":3,
+         "reagents":[
+            [
+               226202,
+               5
+            ],
+            [
+               213610,
+               1
+            ],
+            [
+               210933,
+               5
+            ],
+            [
+               222417,
+               2
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            164
+         ],
+         "source":[
+            6
+         ],
+         "optionalReagents":[
+            {
+               "id":313,
+               "description":"Core Alloy"
+            },
+            {
+               "id":369,
+               "description":"Forge Accessories"
+            },
+            {
+               "id":346,
+               "description":"Artisan's Authenticity"
+            },
+            {
+               "id":263,
+               "description":"Aqirite"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            60,
+            70,
+            80
+         ],
+         "creates":[
+            222423,
+            2,
+            2
+         ],
+         "displayName":"Sanctified Alloy",
+         "id":450218,
+         "learnedat":60,
+         "level":0,
+         "name":"Sanctified Alloy",
+         "nskillup":1,
+         "quality":4,
+         "reagents":[
+            [
+               226202,
+               5
+            ],
+            [
+               221758,
+               1
+            ],
+            [
+               210939,
+               1
+            ],
+            [
+               210936,
+               2
+            ],
+            [
+               222417,
+               1
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            164
+         ],
+         "source":[
+            6
+         ],
+         "optionalReagents":[
+            {
+               "id":313,
+               "description":"Core Alloy"
+            },
+            {
+               "id":264,
+               "description":"Ironclaw Ore"
+            },
+            {
+               "id":369,
+               "description":"Forge Accessories"
+            },
+            {
+               "id":346,
+               "description":"Artisan's Authenticity"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            25,
+            30,
+            35
+         ],
+         "creates":[
+            222426,
+            1,
+            1
+         ],
+         "displayName":"Ironclaw Alloy",
+         "id":450219,
+         "learnedat":25,
+         "level":0,
+         "name":"Ironclaw Alloy",
+         "nskillup":1,
+         "quality":3,
+         "reagents":[
+            [
+               226202,
+               5
+            ],
+            [
+               213610,
+               1
+            ],
+            [
+               210936,
+               5
+            ],
+            [
+               222417,
+               2
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            164
+         ],
+         "source":[
+            6
+         ],
+         "optionalReagents":[
+            {
+               "id":313,
+               "description":"Core Alloy"
+            },
+            {
+               "id":264,
+               "description":"Ironclaw Ore"
+            },
+            {
+               "id":369,
+               "description":"Forge Accessories"
+            },
+            {
+               "id":346,
+               "description":"Artisan's Authenticity"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            100,
+            100,
+            100
+         ],
+         "creates":[
+            222429,
+            1,
+            1
+         ],
+         "displayName":"Everforged Sabatons",
+         "id":450220,
+         "learnedat":100,
+         "level":0,
+         "name":"Everforged Sabatons",
+         "nskillup":3,
+         "quality":4,
+         "reagents":[
+            [
+               222423,
+               6
+            ],
+            [
+               222426,
+               12
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            164
+         ],
+         "optionalReagents":[
+            {
+               "id":317,
+               "description":"Forge Accessories"
+            },
+            {
+               "id":283,
+               "description":"Customize Secondary Stats"
+            },
+            {
+               "id":256,
+               "description":"Spark"
+            },
+            {
+               "id":284,
+               "description":"Infuse with Power"
+            },
+            {
+               "id":312,
+               "description":"Add Embellishment"
+            },
+            {
+               "id":346,
+               "description":"Artisan's Authenticity"
+            },
+            {
+               "id":315,
+               "description":"Sanctified Alloy"
+            },
+            {
+               "id":316,
+               "description":"Ironclaw Alloy"
+            },
+            {
+               "id":384,
+               "description":"Augment Beyond"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            100,
+            100,
+            100
+         ],
+         "creates":[
+            222430,
+            1,
+            1
+         ],
+         "displayName":"Everforged Breastplate",
+         "id":450221,
+         "learnedat":100,
+         "level":0,
+         "name":"Everforged Breastplate",
+         "nskillup":3,
+         "quality":4,
+         "reagents":[
+            [
+               222423,
+               6
+            ],
+            [
+               222426,
+               12
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            164
+         ],
+         "optionalReagents":[
+            {
+               "id":317,
+               "description":"Forge Accessories"
+            },
+            {
+               "id":283,
+               "description":"Customize Secondary Stats"
+            },
+            {
+               "id":256,
+               "description":"Spark"
+            },
+            {
+               "id":284,
+               "description":"Infuse with Power"
+            },
+            {
+               "id":312,
+               "description":"Add Embellishment"
+            },
+            {
+               "id":346,
+               "description":"Artisan's Authenticity"
+            },
+            {
+               "id":315,
+               "description":"Sanctified Alloy"
+            },
+            {
+               "id":316,
+               "description":"Ironclaw Alloy"
+            },
+            {
+               "id":363,
+               "description":"Socket"
+            },
+            {
+               "id":384,
+               "description":"Augment Beyond"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            100,
+            100,
+            100
+         ],
+         "creates":[
+            222431,
+            1,
+            1
+         ],
+         "displayName":"Everforged Greatbelt",
+         "id":450222,
+         "learnedat":100,
+         "level":0,
+         "name":"Everforged Greatbelt",
+         "nskillup":3,
+         "quality":4,
+         "reagents":[
+            [
+               222423,
+               6
+            ],
+            [
+               222426,
+               10
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            164
+         ],
+         "optionalReagents":[
+            {
+               "id":317,
+               "description":"Forge Accessories"
+            },
+            {
+               "id":283,
+               "description":"Customize Secondary Stats"
+            },
+            {
+               "id":256,
+               "description":"Spark"
+            },
+            {
+               "id":284,
+               "description":"Infuse with Power"
+            },
+            {
+               "id":312,
+               "description":"Add Embellishment"
+            },
+            {
+               "id":346,
+               "description":"Artisan's Authenticity"
+            },
+            {
+               "id":315,
+               "description":"Sanctified Alloy"
+            },
+            {
+               "id":316,
+               "description":"Ironclaw Alloy"
+            },
+            {
+               "id":363,
+               "description":"Socket"
+            },
+            {
+               "id":384,
+               "description":"Augment Beyond"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            100,
+            100,
+            100
+         ],
+         "creates":[
+            222432,
+            1,
+            1
+         ],
+         "displayName":"Everforged Defender",
+         "id":450223,
+         "learnedat":100,
+         "level":0,
+         "name":"Everforged Defender",
+         "nskillup":3,
+         "quality":4,
+         "reagents":[
+            [
+               219901,
+               1
+            ],
+            [
+               222423,
+               6
+            ],
+            [
+               222426,
+               8
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            164
+         ],
+         "optionalReagents":[
+            {
+               "id":299,
+               "description":"Storm-Touched Weapon Wrap"
+            },
+            {
+               "id":317,
+               "description":"Forge Accessories"
+            },
+            {
+               "id":283,
+               "description":"Customize Secondary Stats"
+            },
+            {
+               "id":256,
+               "description":"Spark"
+            },
+            {
+               "id":284,
+               "description":"Infuse with Power"
+            },
+            {
+               "id":312,
+               "description":"Add Embellishment"
+            },
+            {
+               "id":346,
+               "description":"Artisan's Authenticity"
+            },
+            {
+               "id":315,
+               "description":"Sanctified Alloy"
+            },
+            {
+               "id":316,
+               "description":"Ironclaw Alloy"
+            },
+            {
+               "id":384,
+               "description":"Augment Beyond"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            100,
+            100,
+            100
+         ],
+         "creates":[
+            222433,
+            1,
+            1
+         ],
+         "displayName":"Everforged Helm",
+         "id":450224,
+         "learnedat":100,
+         "level":0,
+         "name":"Everforged Helm",
+         "nskillup":3,
+         "quality":4,
+         "reagents":[
+            [
+               222423,
+               6
+            ],
+            [
+               222426,
+               12
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            164
+         ],
+         "optionalReagents":[
+            {
+               "id":317,
+               "description":"Forge Accessories"
+            },
+            {
+               "id":283,
+               "description":"Customize Secondary Stats"
+            },
+            {
+               "id":256,
+               "description":"Spark"
+            },
+            {
+               "id":284,
+               "description":"Infuse with Power"
+            },
+            {
+               "id":312,
+               "description":"Add Embellishment"
+            },
+            {
+               "id":346,
+               "description":"Artisan's Authenticity"
+            },
+            {
+               "id":315,
+               "description":"Sanctified Alloy"
+            },
+            {
+               "id":316,
+               "description":"Ironclaw Alloy"
+            },
+            {
+               "id":363,
+               "description":"Socket"
+            },
+            {
+               "id":384,
+               "description":"Augment Beyond"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            100,
+            100,
+            100
+         ],
+         "creates":[
+            222434,
+            1,
+            1
+         ],
+         "displayName":"Everforged Legplates",
+         "id":450225,
+         "learnedat":100,
+         "level":0,
+         "name":"Everforged Legplates",
+         "nskillup":3,
+         "quality":4,
+         "reagents":[
+            [
+               222423,
+               5
+            ],
+            [
+               222426,
+               14
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            164
+         ],
+         "optionalReagents":[
+            {
+               "id":317,
+               "description":"Forge Accessories"
+            },
+            {
+               "id":283,
+               "description":"Customize Secondary Stats"
+            },
+            {
+               "id":256,
+               "description":"Spark"
+            },
+            {
+               "id":284,
+               "description":"Infuse with Power"
+            },
+            {
+               "id":312,
+               "description":"Add Embellishment"
+            },
+            {
+               "id":346,
+               "description":"Artisan's Authenticity"
+            },
+            {
+               "id":315,
+               "description":"Sanctified Alloy"
+            },
+            {
+               "id":316,
+               "description":"Ironclaw Alloy"
+            },
+            {
+               "id":384,
+               "description":"Augment Beyond"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            100,
+            100,
+            100
+         ],
+         "creates":[
+            222435,
+            1,
+            1
+         ],
+         "displayName":"Everforged Vambraces",
+         "id":450226,
+         "learnedat":100,
+         "level":0,
+         "name":"Everforged Vambraces",
+         "nskillup":3,
+         "quality":4,
+         "reagents":[
+            [
+               222423,
+               4
+            ],
+            [
+               222426,
+               12
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            164
+         ],
+         "optionalReagents":[
+            {
+               "id":317,
+               "description":"Forge Accessories"
+            },
+            {
+               "id":283,
+               "description":"Customize Secondary Stats"
+            },
+            {
+               "id":256,
+               "description":"Spark"
+            },
+            {
+               "id":284,
+               "description":"Infuse with Power"
+            },
+            {
+               "id":312,
+               "description":"Add Embellishment"
+            },
+            {
+               "id":346,
+               "description":"Artisan's Authenticity"
+            },
+            {
+               "id":315,
+               "description":"Sanctified Alloy"
+            },
+            {
+               "id":316,
+               "description":"Ironclaw Alloy"
+            },
+            {
+               "id":363,
+               "description":"Socket"
+            },
+            {
+               "id":384,
+               "description":"Augment Beyond"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            100,
+            100,
+            100
+         ],
+         "creates":[
+            222436,
+            1,
+            1
+         ],
+         "displayName":"Everforged Pauldrons",
+         "id":450227,
+         "learnedat":100,
+         "level":0,
+         "name":"Everforged Pauldrons",
+         "nskillup":3,
+         "quality":4,
+         "reagents":[
+            [
+               222423,
+               6
+            ],
+            [
+               222426,
+               8
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            164
+         ],
+         "optionalReagents":[
+            {
+               "id":317,
+               "description":"Forge Accessories"
+            },
+            {
+               "id":283,
+               "description":"Customize Secondary Stats"
+            },
+            {
+               "id":256,
+               "description":"Spark"
+            },
+            {
+               "id":284,
+               "description":"Infuse with Power"
+            },
+            {
+               "id":312,
+               "description":"Add Embellishment"
+            },
+            {
+               "id":346,
+               "description":"Artisan's Authenticity"
+            },
+            {
+               "id":315,
+               "description":"Sanctified Alloy"
+            },
+            {
+               "id":316,
+               "description":"Ironclaw Alloy"
+            },
+            {
+               "id":384,
+               "description":"Augment Beyond"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            100,
+            100,
+            100
+         ],
+         "creates":[
+            222437,
+            1,
+            1
+         ],
+         "displayName":"Everforged Gauntlets",
+         "id":450228,
+         "learnedat":100,
+         "level":0,
+         "name":"Everforged Gauntlets",
+         "nskillup":3,
+         "quality":4,
+         "reagents":[
+            [
+               222423,
+               6
+            ],
+            [
+               222426,
+               12
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            164
+         ],
+         "optionalReagents":[
+            {
+               "id":317,
+               "description":"Forge Accessories"
+            },
+            {
+               "id":283,
+               "description":"Customize Secondary Stats"
+            },
+            {
+               "id":256,
+               "description":"Spark"
+            },
+            {
+               "id":284,
+               "description":"Infuse with Power"
+            },
+            {
+               "id":312,
+               "description":"Add Embellishment"
+            },
+            {
+               "id":346,
+               "description":"Artisan's Authenticity"
+            },
+            {
+               "id":315,
+               "description":"Sanctified Alloy"
+            },
+            {
+               "id":316,
+               "description":"Ironclaw Alloy"
+            },
+            {
+               "id":384,
+               "description":"Augment Beyond"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            100,
+            100,
+            100
+         ],
+         "creates":[
+            222438,
+            1,
+            1
+         ],
+         "displayName":"Everforged Stabber",
+         "id":450229,
+         "learnedat":100,
+         "level":0,
+         "name":"Everforged Stabber",
+         "nskillup":3,
+         "quality":4,
+         "reagents":[
+            [
+               219013,
+               1
+            ],
+            [
+               219901,
+               1
+            ],
+            [
+               222423,
+               8
+            ],
+            [
+               222426,
+               6
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            164
+         ],
+         "optionalReagents":[
+            {
+               "id":299,
+               "description":"Storm-Touched Weapon Wrap"
+            },
+            {
+               "id":317,
+               "description":"Forge Accessories"
+            },
+            {
+               "id":283,
+               "description":"Customize Secondary Stats"
+            },
+            {
+               "id":256,
+               "description":"Spark"
+            },
+            {
+               "id":284,
+               "description":"Infuse with Power"
+            },
+            {
+               "id":340,
+               "description":"Add Embellishment"
+            },
+            {
+               "id":346,
+               "description":"Artisan's Authenticity"
+            },
+            {
+               "id":315,
+               "description":"Sanctified Alloy"
+            },
+            {
+               "id":316,
+               "description":"Ironclaw Alloy"
+            },
+            {
+               "id":384,
+               "description":"Augment Beyond"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            100,
+            100,
+            100
+         ],
+         "creates":[
+            222439,
+            1,
+            1
+         ],
+         "displayName":"Everforged Dagger",
+         "id":450230,
+         "learnedat":100,
+         "level":0,
+         "name":"Everforged Dagger",
+         "nskillup":3,
+         "quality":4,
+         "reagents":[
+            [
+               219013,
+               1
+            ],
+            [
+               219901,
+               1
+            ],
+            [
+               222423,
+               6
+            ],
+            [
+               222426,
+               8
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            164
+         ],
+         "optionalReagents":[
+            {
+               "id":299,
+               "description":"Storm-Touched Weapon Wrap"
+            },
+            {
+               "id":317,
+               "description":"Forge Accessories"
+            },
+            {
+               "id":283,
+               "description":"Customize Secondary Stats"
+            },
+            {
+               "id":256,
+               "description":"Spark"
+            },
+            {
+               "id":284,
+               "description":"Infuse with Power"
+            },
+            {
+               "id":340,
+               "description":"Add Embellishment"
+            },
+            {
+               "id":346,
+               "description":"Artisan's Authenticity"
+            },
+            {
+               "id":315,
+               "description":"Sanctified Alloy"
+            },
+            {
+               "id":316,
+               "description":"Ironclaw Alloy"
+            },
+            {
+               "id":384,
+               "description":"Augment Beyond"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            100,
+            100,
+            100
+         ],
+         "creates":[
+            222440,
+            1,
+            1
+         ],
+         "displayName":"Everforged Longsword",
+         "id":450231,
+         "learnedat":100,
+         "level":0,
+         "name":"Everforged Longsword",
+         "nskillup":3,
+         "quality":4,
+         "reagents":[
+            [
+               219013,
+               1
+            ],
+            [
+               219901,
+               1
+            ],
+            [
+               222423,
+               5
+            ],
+            [
+               222426,
+               12
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            164
+         ],
+         "optionalReagents":[
+            {
+               "id":299,
+               "description":"Storm-Touched Weapon Wrap"
+            },
+            {
+               "id":317,
+               "description":"Forge Accessories"
+            },
+            {
+               "id":283,
+               "description":"Customize Secondary Stats"
+            },
+            {
+               "id":256,
+               "description":"Spark"
+            },
+            {
+               "id":284,
+               "description":"Infuse with Power"
+            },
+            {
+               "id":340,
+               "description":"Add Embellishment"
+            },
+            {
+               "id":346,
+               "description":"Artisan's Authenticity"
+            },
+            {
+               "id":315,
+               "description":"Sanctified Alloy"
+            },
+            {
+               "id":316,
+               "description":"Ironclaw Alloy"
+            },
+            {
+               "id":384,
+               "description":"Augment Beyond"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            100,
+            100,
+            100
+         ],
+         "creates":[
+            222441,
+            1,
+            1
+         ],
+         "displayName":"Everforged Warglaive",
+         "id":450232,
+         "learnedat":100,
+         "level":0,
+         "name":"Everforged Warglaive",
+         "nskillup":3,
+         "quality":4,
+         "reagents":[
+            [
+               219013,
+               1
+            ],
+            [
+               219901,
+               1
+            ],
+            [
+               222423,
+               10
+            ],
+            [
+               222426,
+               3
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            164
+         ],
+         "optionalReagents":[
+            {
+               "id":299,
+               "description":"Storm-Touched Weapon Wrap"
+            },
+            {
+               "id":317,
+               "description":"Forge Accessories"
+            },
+            {
+               "id":283,
+               "description":"Customize Secondary Stats"
+            },
+            {
+               "id":256,
+               "description":"Spark"
+            },
+            {
+               "id":284,
+               "description":"Infuse with Power"
+            },
+            {
+               "id":340,
+               "description":"Add Embellishment"
+            },
+            {
+               "id":346,
+               "description":"Artisan's Authenticity"
+            },
+            {
+               "id":315,
+               "description":"Sanctified Alloy"
+            },
+            {
+               "id":316,
+               "description":"Ironclaw Alloy"
+            },
+            {
+               "id":384,
+               "description":"Augment Beyond"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            100,
+            100,
+            100
+         ],
+         "creates":[
+            222442,
+            1,
+            1
+         ],
+         "displayName":"Everforged Mace",
+         "id":450233,
+         "learnedat":100,
+         "level":0,
+         "name":"Everforged Mace",
+         "nskillup":3,
+         "quality":4,
+         "reagents":[
+            [
+               210939,
+               2
+            ],
+            [
+               219901,
+               1
+            ],
+            [
+               222423,
+               10
+            ],
+            [
+               222426,
+               3
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            164
+         ],
+         "optionalReagents":[
+            {
+               "id":299,
+               "description":"Storm-Touched Weapon Wrap"
+            },
+            {
+               "id":317,
+               "description":"Forge Accessories"
+            },
+            {
+               "id":283,
+               "description":"Customize Secondary Stats"
+            },
+            {
+               "id":256,
+               "description":"Spark"
+            },
+            {
+               "id":284,
+               "description":"Infuse with Power"
+            },
+            {
+               "id":340,
+               "description":"Add Embellishment"
+            },
+            {
+               "id":346,
+               "description":"Artisan's Authenticity"
+            },
+            {
+               "id":315,
+               "description":"Sanctified Alloy"
+            },
+            {
+               "id":316,
+               "description":"Ironclaw Alloy"
+            },
+            {
+               "id":384,
+               "description":"Augment Beyond"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            100,
+            100,
+            100
+         ],
+         "creates":[
+            222443,
+            1,
+            1
+         ],
+         "displayName":"Everforged Greataxe",
+         "id":450234,
+         "learnedat":100,
+         "level":0,
+         "name":"Everforged Greataxe",
+         "nskillup":3,
+         "quality":4,
+         "reagents":[
+            [
+               219013,
+               1
+            ],
+            [
+               219901,
+               1
+            ],
+            [
+               222423,
+               8
+            ],
+            [
+               222426,
+               2
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            164
+         ],
+         "optionalReagents":[
+            {
+               "id":299,
+               "description":"Storm-Touched Weapon Wrap"
+            },
+            {
+               "id":317,
+               "description":"Forge Accessories"
+            },
+            {
+               "id":283,
+               "description":"Customize Secondary Stats"
+            },
+            {
+               "id":256,
+               "description":"Spark"
+            },
+            {
+               "id":284,
+               "description":"Infuse with Power"
+            },
+            {
+               "id":340,
+               "description":"Add Embellishment"
+            },
+            {
+               "id":346,
+               "description":"Artisan's Authenticity"
+            },
+            {
+               "id":315,
+               "description":"Sanctified Alloy"
+            },
+            {
+               "id":316,
+               "description":"Ironclaw Alloy"
+            },
+            {
+               "id":384,
+               "description":"Augment Beyond"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            100,
+            100,
+            100
+         ],
+         "creates":[
+            222444,
+            1,
+            1
+         ],
+         "displayName":"Charged Hexsword",
+         "id":450235,
+         "learnedat":100,
+         "level":0,
+         "name":"Charged Hexsword",
+         "nskillup":3,
+         "quality":4,
+         "reagents":[
+            [
+               219013,
+               1
+            ],
+            [
+               219901,
+               1
+            ],
+            [
+               222420,
+               10
+            ],
+            [
+               222423,
+               5
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            164
+         ],
+         "optionalReagents":[
+            {
+               "id":299,
+               "description":"Storm-Touched Weapon Wrap"
+            },
+            {
+               "id":317,
+               "description":"Forge Accessories"
+            },
+            {
+               "id":283,
+               "description":"Customize Secondary Stats"
+            },
+            {
+               "id":256,
+               "description":"Spark"
+            },
+            {
+               "id":284,
+               "description":"Infuse with Power"
+            },
+            {
+               "id":340,
+               "description":"Add Embellishment"
+            },
+            {
+               "id":346,
+               "description":"Artisan's Authenticity"
+            },
+            {
+               "id":315,
+               "description":"Sanctified Alloy"
+            },
+            {
+               "id":314,
+               "description":"Charged Alloy"
+            },
+            {
+               "id":384,
+               "description":"Augment Beyond"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            100,
+            100,
+            100
+         ],
+         "creates":[
+            222445,
+            1,
+            1
+         ],
+         "displayName":"Charged Runeaxe",
+         "id":450236,
+         "learnedat":100,
+         "level":0,
+         "name":"Charged Runeaxe",
+         "nskillup":3,
+         "quality":4,
+         "reagents":[
+            [
+               219013,
+               1
+            ],
+            [
+               219901,
+               1
+            ],
+            [
+               222420,
+               10
+            ],
+            [
+               222423,
+               5
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            164
+         ],
+         "source":[
+            2
+         ],
+         "optionalReagents":[
+            {
+               "id":299,
+               "description":"Storm-Touched Weapon Wrap"
+            },
+            {
+               "id":317,
+               "description":"Forge Accessories"
+            },
+            {
+               "id":283,
+               "description":"Customize Secondary Stats"
+            },
+            {
+               "id":256,
+               "description":"Spark"
+            },
+            {
+               "id":284,
+               "description":"Infuse with Power"
+            },
+            {
+               "id":340,
+               "description":"Add Embellishment"
+            },
+            {
+               "id":346,
+               "description":"Artisan's Authenticity"
+            },
+            {
+               "id":315,
+               "description":"Sanctified Alloy"
+            },
+            {
+               "id":314,
+               "description":"Charged Alloy"
+            },
+            {
+               "id":384,
+               "description":"Augment Beyond"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            100,
+            100,
+            100
+         ],
+         "creates":[
+            222446,
+            1,
+            1
+         ],
+         "displayName":"Charged Facesmasher",
+         "id":450237,
+         "learnedat":100,
+         "level":0,
+         "name":"Charged Facesmasher",
+         "nskillup":3,
+         "quality":4,
+         "reagents":[
+            [
+               210939,
+               2
+            ],
+            [
+               219901,
+               1
+            ],
+            [
+               222420,
+               10
+            ],
+            [
+               222423,
+               6
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            164
+         ],
+         "source":[
+            5
+         ],
+         "optionalReagents":[
+            {
+               "id":299,
+               "description":"Storm-Touched Weapon Wrap"
+            },
+            {
+               "id":317,
+               "description":"Forge Accessories"
+            },
+            {
+               "id":283,
+               "description":"Customize Secondary Stats"
+            },
+            {
+               "id":256,
+               "description":"Spark"
+            },
+            {
+               "id":284,
+               "description":"Infuse with Power"
+            },
+            {
+               "id":340,
+               "description":"Add Embellishment"
+            },
+            {
+               "id":346,
+               "description":"Artisan's Authenticity"
+            },
+            {
+               "id":315,
+               "description":"Sanctified Alloy"
+            },
+            {
+               "id":314,
+               "description":"Charged Alloy"
+            },
+            {
+               "id":384,
+               "description":"Augment Beyond"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            100,
+            100,
+            100
+         ],
+         "creates":[
+            222447,
+            1,
+            1
+         ],
+         "displayName":"Charged Claymore",
+         "id":450238,
+         "learnedat":100,
+         "level":0,
+         "name":"Charged Claymore",
+         "nskillup":3,
+         "quality":4,
+         "reagents":[
+            [
+               219013,
+               1
+            ],
+            [
+               219901,
+               1
+            ],
+            [
+               222420,
+               12
+            ],
+            [
+               222423,
+               6
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            164
+         ],
+         "source":[
+            5
+         ],
+         "optionalReagents":[
+            {
+               "id":299,
+               "description":"Storm-Touched Weapon Wrap"
+            },
+            {
+               "id":317,
+               "description":"Forge Accessories"
+            },
+            {
+               "id":283,
+               "description":"Customize Secondary Stats"
+            },
+            {
+               "id":256,
+               "description":"Spark"
+            },
+            {
+               "id":284,
+               "description":"Infuse with Power"
+            },
+            {
+               "id":340,
+               "description":"Add Embellishment"
+            },
+            {
+               "id":346,
+               "description":"Artisan's Authenticity"
+            },
+            {
+               "id":315,
+               "description":"Sanctified Alloy"
+            },
+            {
+               "id":314,
+               "description":"Charged Alloy"
+            },
+            {
+               "id":384,
+               "description":"Augment Beyond"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            100,
+            100,
+            100
+         ],
+         "creates":[
+            222448,
+            1,
+            1
+         ],
+         "displayName":"Charged Halberd",
+         "id":450239,
+         "learnedat":100,
+         "level":0,
+         "name":"Charged Halberd",
+         "nskillup":3,
+         "quality":4,
+         "reagents":[
+            [
+               219013,
+               1
+            ],
+            [
+               219901,
+               1
+            ],
+            [
+               222420,
+               2
+            ],
+            [
+               222423,
+               8
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            164
+         ],
+         "optionalReagents":[
+            {
+               "id":299,
+               "description":"Storm-Touched Weapon Wrap"
+            },
+            {
+               "id":317,
+               "description":"Forge Accessories"
+            },
+            {
+               "id":283,
+               "description":"Customize Secondary Stats"
+            },
+            {
+               "id":256,
+               "description":"Spark"
+            },
+            {
+               "id":284,
+               "description":"Infuse with Power"
+            },
+            {
+               "id":340,
+               "description":"Add Embellishment"
+            },
+            {
+               "id":346,
+               "description":"Artisan's Authenticity"
+            },
+            {
+               "id":315,
+               "description":"Sanctified Alloy"
+            },
+            {
+               "id":314,
+               "description":"Charged Alloy"
+            },
+            {
+               "id":384,
+               "description":"Augment Beyond"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            100,
+            100,
+            100
+         ],
+         "creates":[
+            222449,
+            1,
+            1
+         ],
+         "displayName":"Charged Crusher",
+         "id":450240,
+         "learnedat":100,
+         "level":0,
+         "name":"Charged Crusher",
+         "nskillup":3,
+         "quality":4,
+         "reagents":[
+            [
+               210939,
+               2
+            ],
+            [
+               219901,
+               1
+            ],
+            [
+               222420,
+               10
+            ],
+            [
+               222423,
+               6
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            164
+         ],
+         "source":[
+            2
+         ],
+         "optionalReagents":[
+            {
+               "id":299,
+               "description":"Storm-Touched Weapon Wrap"
+            },
+            {
+               "id":317,
+               "description":"Forge Accessories"
+            },
+            {
+               "id":283,
+               "description":"Customize Secondary Stats"
+            },
+            {
+               "id":256,
+               "description":"Spark"
+            },
+            {
+               "id":284,
+               "description":"Infuse with Power"
+            },
+            {
+               "id":340,
+               "description":"Add Embellishment"
+            },
+            {
+               "id":346,
+               "description":"Artisan's Authenticity"
+            },
+            {
+               "id":315,
+               "description":"Sanctified Alloy"
+            },
+            {
+               "id":314,
+               "description":"Charged Alloy"
+            },
+            {
+               "id":384,
+               "description":"Augment Beyond"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            100,
+            100,
+            100
+         ],
+         "creates":[
+            222450,
+            1,
+            1
+         ],
+         "displayName":"Charged Invoker",
+         "id":450241,
+         "learnedat":100,
+         "level":0,
+         "name":"Charged Invoker",
+         "nskillup":3,
+         "quality":4,
+         "reagents":[
+            [
+               219013,
+               1
+            ],
+            [
+               219901,
+               1
+            ],
+            [
+               222420,
+               10
+            ],
+            [
+               222423,
+               5
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            164
+         ],
+         "optionalReagents":[
+            {
+               "id":299,
+               "description":"Storm-Touched Weapon Wrap"
+            },
+            {
+               "id":317,
+               "description":"Forge Accessories"
+            },
+            {
+               "id":283,
+               "description":"Customize Secondary Stats"
+            },
+            {
+               "id":256,
+               "description":"Spark"
+            },
+            {
+               "id":284,
+               "description":"Infuse with Power"
+            },
+            {
+               "id":340,
+               "description":"Add Embellishment"
+            },
+            {
+               "id":346,
+               "description":"Artisan's Authenticity"
+            },
+            {
+               "id":315,
+               "description":"Sanctified Alloy"
+            },
+            {
+               "id":314,
+               "description":"Charged Alloy"
+            },
+            {
+               "id":384,
+               "description":"Augment Beyond"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            100,
+            100,
+            100
+         ],
+         "creates":[
+            222451,
+            1,
+            1
+         ],
+         "displayName":"Charged Slicer",
+         "id":450242,
+         "learnedat":100,
+         "level":0,
+         "name":"Charged Slicer",
+         "nskillup":3,
+         "quality":4,
+         "reagents":[
+            [
+               219013,
+               1
+            ],
+            [
+               219901,
+               1
+            ],
+            [
+               222420,
+               10
+            ],
+            [
+               222423,
+               5
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            164
+         ],
+         "source":[
+            5
+         ],
+         "optionalReagents":[
+            {
+               "id":299,
+               "description":"Storm-Touched Weapon Wrap"
+            },
+            {
+               "id":317,
+               "description":"Forge Accessories"
+            },
+            {
+               "id":283,
+               "description":"Customize Secondary Stats"
+            },
+            {
+               "id":256,
+               "description":"Spark"
+            },
+            {
+               "id":284,
+               "description":"Infuse with Power"
+            },
+            {
+               "id":340,
+               "description":"Add Embellishment"
+            },
+            {
+               "id":346,
+               "description":"Artisan's Authenticity"
+            },
+            {
+               "id":315,
+               "description":"Sanctified Alloy"
+            },
+            {
+               "id":314,
+               "description":"Charged Alloy"
+            },
+            {
+               "id":384,
+               "description":"Augment Beyond"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            100,
+            100,
+            100
+         ],
+         "creates":[
+            222458,
+            1,
+            1
+         ],
+         "displayName":"Sanctified Steps",
+         "id":450245,
+         "learnedat":100,
+         "level":0,
+         "name":"Sanctified Steps",
+         "nskillup":3,
+         "quality":4,
+         "reagents":[
+            [
+               221758,
+               1
+            ],
+            [
+               221754,
+               1
+            ],
+            [
+               222423,
+               8
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            164
+         ],
+         "source":[
+            2
+         ],
+         "optionalReagents":[
+            {
+               "id":256,
+               "description":"Spark"
+            },
+            {
+               "id":315,
+               "description":"Sanctified Alloy"
+            },
+            {
+               "id":317,
+               "description":"Forge Accessories"
+            },
+            {
+               "id":284,
+               "description":"Infuse with Power"
+            },
+            {
+               "id":346,
+               "description":"Artisan's Authenticity"
+            },
+            {
+               "id":384,
+               "description":"Augment Beyond"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            100,
+            100,
+            100
+         ],
+         "creates":[
+            222459,
+            1,
+            1
+         ],
+         "displayName":"Beledar's Bulwark",
+         "id":450246,
+         "learnedat":100,
+         "level":0,
+         "name":"Beledar's Bulwark",
+         "nskillup":3,
+         "quality":4,
+         "reagents":[
+            [
+               221757,
+               1
+            ],
+            [
+               221754,
+               1
+            ],
+            [
+               222423,
+               8
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            164
+         ],
+         "source":[
+            2
+         ],
+         "optionalReagents":[
+            {
+               "id":256,
+               "description":"Spark"
+            },
+            {
+               "id":315,
+               "description":"Sanctified Alloy"
+            },
+            {
+               "id":317,
+               "description":"Forge Accessories"
+            },
+            {
+               "id":284,
+               "description":"Infuse with Power"
+            },
+            {
+               "id":346,
+               "description":"Artisan's Authenticity"
+            },
+            {
+               "id":384,
+               "description":"Augment Beyond"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            100,
+            100,
+            100
+         ],
+         "creates":[
+            222463,
+            1,
+            1
+         ],
+         "displayName":"Siphoning Stiletto",
+         "id":450250,
+         "learnedat":100,
+         "level":0,
+         "name":"Siphoning Stiletto",
+         "nskillup":3,
+         "quality":4,
+         "reagents":[
+            [
+               221756,
+               1
+            ],
+            [
+               221754,
+               1
+            ],
+            [
+               219013,
+               1
+            ],
+            [
+               222423,
+               8
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            164
+         ],
+         "source":[
+            2,
+            16
+         ],
+         "optionalReagents":[
+            {
+               "id":256,
+               "description":"Spark"
+            },
+            {
+               "id":315,
+               "description":"Sanctified Alloy"
+            },
+            {
+               "id":317,
+               "description":"Forge Accessories"
+            },
+            {
+               "id":284,
+               "description":"Infuse with Power"
+            },
+            {
+               "id":346,
+               "description":"Artisan's Authenticity"
+            },
+            {
+               "id":384,
+               "description":"Augment Beyond"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            30,
+            35,
+            40
+         ],
+         "creates":[
+            222464,
+            1,
+            1
+         ],
+         "displayName":"Ironclaw Stiletto",
+         "id":450251,
+         "learnedat":30,
+         "level":0,
+         "name":"Ironclaw Stiletto",
+         "nskillup":2,
+         "quality":3,
+         "reagents":[
+            [
+               210936,
+               5
+            ],
+            [
+               222417,
+               1
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            164
+         ],
+         "source":[
+            6
+         ],
+         "optionalReagents":[
+            {
+               "id":313,
+               "description":"Core Alloy"
+            },
+            {
+               "id":317,
+               "description":"Forge Accessories"
+            },
+            {
+               "id":283,
+               "description":"Customize Secondary Stats"
+            },
+            {
+               "id":340,
+               "description":"Add Embellishment"
+            },
+            {
+               "id":346,
+               "description":"Artisan's Authenticity"
+            },
+            {
+               "id":342,
+               "description":"Empower"
+            },
+            {
+               "id":264,
+               "description":"Ironclaw Ore"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            30,
+            35,
+            40
+         ],
+         "creates":[
+            222465,
+            1,
+            1
+         ],
+         "displayName":"Ironclaw Dirk",
+         "id":450252,
+         "learnedat":30,
+         "level":0,
+         "name":"Ironclaw Dirk",
+         "nskillup":2,
+         "quality":3,
+         "reagents":[
+            [
+               210936,
+               5
+            ],
+            [
+               222417,
+               1
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            164
+         ],
+         "source":[
+            6
+         ],
+         "optionalReagents":[
+            {
+               "id":264,
+               "description":"Ironclaw Ore"
+            },
+            {
+               "id":313,
+               "description":"Core Alloy"
+            },
+            {
+               "id":317,
+               "description":"Forge Accessories"
+            },
+            {
+               "id":283,
+               "description":"Customize Secondary Stats"
+            },
+            {
+               "id":340,
+               "description":"Add Embellishment"
+            },
+            {
+               "id":346,
+               "description":"Artisan's Authenticity"
+            },
+            {
+               "id":342,
+               "description":"Empower"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            35,
+            40,
+            45
+         ],
+         "creates":[
+            222466,
+            1,
+            1
+         ],
+         "displayName":"Ironclaw Sword",
+         "id":450253,
+         "learnedat":35,
+         "level":0,
+         "name":"Ironclaw Sword",
+         "nskillup":2,
+         "quality":3,
+         "reagents":[
+            [
+               210936,
+               8
+            ],
+            [
+               222417,
+               1
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            164
+         ],
+         "source":[
+            6
+         ],
+         "optionalReagents":[
+            {
+               "id":264,
+               "description":"Ironclaw Ore"
+            },
+            {
+               "id":313,
+               "description":"Core Alloy"
+            },
+            {
+               "id":317,
+               "description":"Forge Accessories"
+            },
+            {
+               "id":283,
+               "description":"Customize Secondary Stats"
+            },
+            {
+               "id":340,
+               "description":"Add Embellishment"
+            },
+            {
+               "id":346,
+               "description":"Artisan's Authenticity"
+            },
+            {
+               "id":342,
+               "description":"Empower"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            50,
+            55,
+            60
+         ],
+         "creates":[
+            222467,
+            1,
+            1
+         ],
+         "displayName":"Ironclaw Knuckles",
+         "id":450254,
+         "learnedat":50,
+         "level":0,
+         "name":"Ironclaw Knuckles",
+         "nskillup":2,
+         "quality":3,
+         "reagents":[
+            [
+               210936,
+               5
+            ],
+            [
+               222417,
+               1
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            164
+         ],
+         "source":[
+            6
+         ],
+         "optionalReagents":[
+            {
+               "id":264,
+               "description":"Ironclaw Ore"
+            },
+            {
+               "id":313,
+               "description":"Core Alloy"
+            },
+            {
+               "id":317,
+               "description":"Forge Accessories"
+            },
+            {
+               "id":283,
+               "description":"Customize Secondary Stats"
+            },
+            {
+               "id":340,
+               "description":"Add Embellishment"
+            },
+            {
+               "id":346,
+               "description":"Artisan's Authenticity"
+            },
+            {
+               "id":342,
+               "description":"Empower"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            50,
+            55,
+            60
+         ],
+         "creates":[
+            222468,
+            1,
+            1
+         ],
+         "displayName":"Ironclaw Great Mace",
+         "id":450255,
+         "learnedat":50,
+         "level":0,
+         "name":"Ironclaw Great Mace",
+         "nskillup":2,
+         "quality":3,
+         "reagents":[
+            [
+               210936,
+               10
+            ],
+            [
+               222417,
+               1
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            164
+         ],
+         "source":[
+            6
+         ],
+         "optionalReagents":[
+            {
+               "id":264,
+               "description":"Ironclaw Ore"
+            },
+            {
+               "id":313,
+               "description":"Core Alloy"
+            },
+            {
+               "id":317,
+               "description":"Forge Accessories"
+            },
+            {
+               "id":283,
+               "description":"Customize Secondary Stats"
+            },
+            {
+               "id":340,
+               "description":"Add Embellishment"
+            },
+            {
+               "id":346,
+               "description":"Artisan's Authenticity"
+            },
+            {
+               "id":342,
+               "description":"Empower"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            35,
+            40,
+            45
+         ],
+         "creates":[
+            222469,
+            1,
+            1
+         ],
+         "displayName":"Ironclaw Axe",
+         "id":450256,
+         "learnedat":35,
+         "level":0,
+         "name":"Ironclaw Axe",
+         "nskillup":2,
+         "quality":3,
+         "reagents":[
+            [
+               210936,
+               8
+            ],
+            [
+               222417,
+               1
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            164
+         ],
+         "source":[
+            6
+         ],
+         "optionalReagents":[
+            {
+               "id":264,
+               "description":"Ironclaw Ore"
+            },
+            {
+               "id":313,
+               "description":"Core Alloy"
+            },
+            {
+               "id":317,
+               "description":"Forge Accessories"
+            },
+            {
+               "id":283,
+               "description":"Customize Secondary Stats"
+            },
+            {
+               "id":340,
+               "description":"Add Embellishment"
+            },
+            {
+               "id":346,
+               "description":"Artisan's Authenticity"
+            },
+            {
+               "id":342,
+               "description":"Empower"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            30,
+            35,
+            40
+         ],
+         "creates":[
+            222470,
+            1,
+            1
+         ],
+         "displayName":"Ironclaw Great Axe",
+         "id":450257,
+         "learnedat":30,
+         "level":0,
+         "name":"Ironclaw Great Axe",
+         "nskillup":2,
+         "quality":3,
+         "reagents":[
+            [
+               210936,
+               10
+            ],
+            [
+               222417,
+               1
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            164
+         ],
+         "source":[
+            6
+         ],
+         "optionalReagents":[
+            {
+               "id":264,
+               "description":"Ironclaw Ore"
+            },
+            {
+               "id":313,
+               "description":"Core Alloy"
+            },
+            {
+               "id":317,
+               "description":"Forge Accessories"
+            },
+            {
+               "id":283,
+               "description":"Customize Secondary Stats"
+            },
+            {
+               "id":340,
+               "description":"Add Embellishment"
+            },
+            {
+               "id":346,
+               "description":"Artisan's Authenticity"
+            },
+            {
+               "id":342,
+               "description":"Empower"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            15,
+            20,
+            25
+         ],
+         "creates":[
+            222471,
+            1,
+            1
+         ],
+         "displayName":"Dredger's Plate Sabatons",
+         "id":450258,
+         "learnedat":15,
+         "level":0,
+         "name":"Dredger's Plate Sabatons",
+         "nskillup":2,
+         "quality":3,
+         "reagents":[
+            [
+               210930,
+               10
+            ],
+            [
+               222417,
+               1
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            164
+         ],
+         "source":[
+            6
+         ],
+         "optionalReagents":[
+            {
+               "id":262,
+               "description":"Bismuth"
+            },
+            {
+               "id":313,
+               "description":"Core Alloy"
+            },
+            {
+               "id":317,
+               "description":"Forge Accessories"
+            },
+            {
+               "id":283,
+               "description":"Customize Secondary Stats"
+            },
+            {
+               "id":312,
+               "description":"Add Embellishment"
+            },
+            {
+               "id":346,
+               "description":"Artisan's Authenticity"
+            },
+            {
+               "id":368,
+               "description":"Empower"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            20,
+            25,
+            30
+         ],
+         "creates":[
+            222472,
+            1,
+            1
+         ],
+         "displayName":"Dredger's Plate Breastplate",
+         "id":450259,
+         "learnedat":20,
+         "level":0,
+         "name":"Dredger's Plate Breastplate",
+         "nskillup":2,
+         "quality":3,
+         "reagents":[
+            [
+               210930,
+               1
+            ],
+            [
+               222417,
+               2
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            164
+         ],
+         "source":[
+            6
+         ],
+         "optionalReagents":[
+            {
+               "id":262,
+               "description":"Bismuth"
+            },
+            {
+               "id":313,
+               "description":"Core Alloy"
+            },
+            {
+               "id":317,
+               "description":"Forge Accessories"
+            },
+            {
+               "id":283,
+               "description":"Customize Secondary Stats"
+            },
+            {
+               "id":312,
+               "description":"Add Embellishment"
+            },
+            {
+               "id":346,
+               "description":"Artisan's Authenticity"
+            },
+            {
+               "id":368,
+               "description":"Empower"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            30,
+            35,
+            40
+         ],
+         "creates":[
+            222473,
+            1,
+            1
+         ],
+         "displayName":"Dredger's Developed Greatbelt",
+         "id":450260,
+         "learnedat":30,
+         "level":0,
+         "name":"Dredger's Developed Greatbelt",
+         "nskillup":2,
+         "quality":3,
+         "reagents":[
+            [
+               210930,
+               1
+            ],
+            [
+               222417,
+               2
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            164
+         ],
+         "source":[
+            6
+         ],
+         "optionalReagents":[
+            {
+               "id":262,
+               "description":"Bismuth"
+            },
+            {
+               "id":313,
+               "description":"Core Alloy"
+            },
+            {
+               "id":317,
+               "description":"Forge Accessories"
+            },
+            {
+               "id":283,
+               "description":"Customize Secondary Stats"
+            },
+            {
+               "id":312,
+               "description":"Add Embellishment"
+            },
+            {
+               "id":346,
+               "description":"Artisan's Authenticity"
+            },
+            {
+               "id":342,
+               "description":"Empower"
+            },
+            {
+               "id":364,
+               "description":"Socket"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            35,
+            40,
+            45
+         ],
+         "creates":[
+            222474,
+            1,
+            1
+         ],
+         "displayName":"Dredger's Developed Defender",
+         "id":450261,
+         "learnedat":35,
+         "level":0,
+         "name":"Dredger's Developed Defender",
+         "nskillup":2,
+         "quality":3,
+         "reagents":[
+            [
+               210930,
+               3
+            ],
+            [
+               222417,
+               2
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            164
+         ],
+         "source":[
+            6
+         ],
+         "optionalReagents":[
+            {
+               "id":262,
+               "description":"Bismuth"
+            },
+            {
+               "id":313,
+               "description":"Core Alloy"
+            },
+            {
+               "id":317,
+               "description":"Forge Accessories"
+            },
+            {
+               "id":283,
+               "description":"Customize Secondary Stats"
+            },
+            {
+               "id":312,
+               "description":"Add Embellishment"
+            },
+            {
+               "id":346,
+               "description":"Artisan's Authenticity"
+            },
+            {
+               "id":342,
+               "description":"Empower"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            40,
+            45,
+            50
+         ],
+         "creates":[
+            222475,
+            1,
+            1
+         ],
+         "displayName":"Dredger's Developed Helm",
+         "id":450262,
+         "learnedat":40,
+         "level":0,
+         "name":"Dredger's Developed Helm",
+         "nskillup":2,
+         "quality":3,
+         "reagents":[
+            [
+               210930,
+               4
+            ],
+            [
+               222417,
+               1
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            164
+         ],
+         "source":[
+            6
+         ],
+         "optionalReagents":[
+            {
+               "id":262,
+               "description":"Bismuth"
+            },
+            {
+               "id":313,
+               "description":"Core Alloy"
+            },
+            {
+               "id":317,
+               "description":"Forge Accessories"
+            },
+            {
+               "id":283,
+               "description":"Customize Secondary Stats"
+            },
+            {
+               "id":312,
+               "description":"Add Embellishment"
+            },
+            {
+               "id":346,
+               "description":"Artisan's Authenticity"
+            },
+            {
+               "id":342,
+               "description":"Empower"
+            },
+            {
+               "id":364,
+               "description":"Socket"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            45,
+            50,
+            55
+         ],
+         "creates":[
+            222476,
+            1,
+            1
+         ],
+         "displayName":"Dredger's Developed Legplates",
+         "id":450263,
+         "learnedat":45,
+         "level":0,
+         "name":"Dredger's Developed Legplates",
+         "nskillup":2,
+         "quality":3,
+         "reagents":[
+            [
+               210930,
+               6
+            ],
+            [
+               222417,
+               1
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            164
+         ],
+         "source":[
+            6
+         ],
+         "optionalReagents":[
+            {
+               "id":262,
+               "description":"Bismuth"
+            },
+            {
+               "id":313,
+               "description":"Core Alloy"
+            },
+            {
+               "id":317,
+               "description":"Forge Accessories"
+            },
+            {
+               "id":283,
+               "description":"Customize Secondary Stats"
+            },
+            {
+               "id":312,
+               "description":"Add Embellishment"
+            },
+            {
+               "id":346,
+               "description":"Artisan's Authenticity"
+            },
+            {
+               "id":342,
+               "description":"Empower"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            30,
+            35,
+            40
+         ],
+         "creates":[
+            222477,
+            1,
+            1
+         ],
+         "displayName":"Dredger's Plate Vambraces",
+         "id":450264,
+         "learnedat":30,
+         "level":0,
+         "name":"Dredger's Plate Vambraces",
+         "nskillup":2,
+         "quality":3,
+         "reagents":[
+            [
+               210930,
+               8
+            ],
+            [
+               222417,
+               1
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            164
+         ],
+         "source":[
+            6
+         ],
+         "optionalReagents":[
+            {
+               "id":262,
+               "description":"Bismuth"
+            },
+            {
+               "id":313,
+               "description":"Core Alloy"
+            },
+            {
+               "id":317,
+               "description":"Forge Accessories"
+            },
+            {
+               "id":283,
+               "description":"Customize Secondary Stats"
+            },
+            {
+               "id":312,
+               "description":"Add Embellishment"
+            },
+            {
+               "id":346,
+               "description":"Artisan's Authenticity"
+            },
+            {
+               "id":368,
+               "description":"Empower"
+            },
+            {
+               "id":364,
+               "description":"Socket"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            45,
+            50,
+            55
+         ],
+         "creates":[
+            222478,
+            1,
+            1
+         ],
+         "displayName":"Dredger's Developed Pauldrons",
+         "id":450265,
+         "learnedat":45,
+         "level":0,
+         "name":"Dredger's Developed Pauldrons",
+         "nskillup":2,
+         "quality":3,
+         "reagents":[
+            [
+               210930,
+               5
+            ],
+            [
+               222417,
+               2
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            164
+         ],
+         "source":[
+            6
+         ],
+         "optionalReagents":[
+            {
+               "id":262,
+               "description":"Bismuth"
+            },
+            {
+               "id":313,
+               "description":"Core Alloy"
+            },
+            {
+               "id":317,
+               "description":"Forge Accessories"
+            },
+            {
+               "id":283,
+               "description":"Customize Secondary Stats"
+            },
+            {
+               "id":312,
+               "description":"Add Embellishment"
+            },
+            {
+               "id":346,
+               "description":"Artisan's Authenticity"
+            },
+            {
+               "id":342,
+               "description":"Empower"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            40,
+            45,
+            50
+         ],
+         "creates":[
+            222479,
+            1,
+            1
+         ],
+         "displayName":"Dredger's Developed Gauntlets",
+         "id":450266,
+         "learnedat":40,
+         "level":0,
+         "name":"Dredger's Developed Gauntlets",
+         "nskillup":2,
+         "quality":3,
+         "reagents":[
+            [
+               210930,
+               4
+            ],
+            [
+               222417,
+               1
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            164
+         ],
+         "source":[
+            6
+         ],
+         "optionalReagents":[
+            {
+               "id":262,
+               "description":"Bismuth"
+            },
+            {
+               "id":313,
+               "description":"Core Alloy"
+            },
+            {
+               "id":317,
+               "description":"Forge Accessories"
+            },
+            {
+               "id":283,
+               "description":"Customize Secondary Stats"
+            },
+            {
+               "id":312,
+               "description":"Add Embellishment"
+            },
+            {
+               "id":346,
+               "description":"Artisan's Authenticity"
+            },
+            {
+               "id":342,
+               "description":"Empower"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            20,
+            25,
+            30
+         ],
+         "creates":[
+            222480,
+            1,
+            1
+         ],
+         "displayName":"Proficient Sickle",
+         "id":450267,
+         "learnedat":20,
+         "level":0,
+         "name":"Proficient Sickle",
+         "nskillup":1,
+         "quality":2,
+         "reagents":[
+            [
+               213610,
+               3
+            ],
+            [
+               222417,
+               2
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            164
+         ],
+         "source":[
+            6
+         ],
+         "optionalReagents":[
+            {
+               "id":313,
+               "description":"Core Alloy"
+            },
+            {
+               "id":317,
+               "description":"Forge Accessories"
+            },
+            {
+               "id":353,
+               "description":"Customize Gathering Stat"
+            },
+            {
+               "id":346,
+               "description":"Artisan's Authenticity"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            20,
+            25,
+            30
+         ],
+         "creates":[
+            222481,
+            1,
+            1
+         ],
+         "displayName":"Proficient Pickaxe",
+         "id":450268,
+         "learnedat":20,
+         "level":0,
+         "name":"Proficient Pickaxe",
+         "nskillup":1,
+         "quality":2,
+         "reagents":[
+            [
+               213610,
+               5
+            ],
+            [
+               222417,
+               1
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            164
+         ],
+         "source":[
+            6
+         ],
+         "optionalReagents":[
+            {
+               "id":313,
+               "description":"Core Alloy"
+            },
+            {
+               "id":317,
+               "description":"Forge Accessories"
+            },
+            {
+               "id":353,
+               "description":"Customize Gathering Stat"
+            },
+            {
+               "id":346,
+               "description":"Artisan's Authenticity"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            20,
+            25,
+            30
+         ],
+         "creates":[
+            222482,
+            1,
+            1
+         ],
+         "displayName":"Proficient Skinning Knife",
+         "id":450269,
+         "learnedat":20,
+         "level":0,
+         "name":"Proficient Skinning Knife",
+         "nskillup":1,
+         "quality":2,
+         "reagents":[
+            [
+               213610,
+               5
+            ],
+            [
+               222417,
+               1
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            164
+         ],
+         "source":[
+            6
+         ],
+         "optionalReagents":[
+            {
+               "id":313,
+               "description":"Core Alloy"
+            },
+            {
+               "id":317,
+               "description":"Forge Accessories"
+            },
+            {
+               "id":353,
+               "description":"Customize Gathering Stat"
+            },
+            {
+               "id":346,
+               "description":"Artisan's Authenticity"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            35,
+            40,
+            45
+         ],
+         "creates":[
+            222483,
+            1,
+            1
+         ],
+         "displayName":"Proficient Needle Set",
+         "id":450270,
+         "learnedat":35,
+         "level":0,
+         "name":"Proficient Needle Set",
+         "nskillup":1,
+         "quality":2,
+         "reagents":[
+            [
+               222417,
+               2
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            164
+         ],
+         "source":[
+            6
+         ],
+         "optionalReagents":[
+            {
+               "id":313,
+               "description":"Core Alloy"
+            },
+            {
+               "id":317,
+               "description":"Forge Accessories"
+            },
+            {
+               "id":346,
+               "description":"Artisan's Authenticity"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            30,
+            35,
+            40
+         ],
+         "creates":[
+            222484,
+            1,
+            1
+         ],
+         "displayName":"Proficient Leatherworker's Knife",
+         "id":450271,
+         "learnedat":30,
+         "level":0,
+         "name":"Proficient Leatherworker's Knife",
+         "nskillup":1,
+         "quality":2,
+         "reagents":[
+            [
+               210939,
+               1
+            ],
+            [
+               222417,
+               1
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            164
+         ],
+         "source":[
+            6
+         ],
+         "optionalReagents":[
+            {
+               "id":313,
+               "description":"Core Alloy"
+            },
+            {
+               "id":317,
+               "description":"Forge Accessories"
+            },
+            {
+               "id":352,
+               "description":"Customize Crafting Stat"
+            },
+            {
+               "id":346,
+               "description":"Artisan's Authenticity"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            35,
+            40,
+            45
+         ],
+         "creates":[
+            222485,
+            1,
+            1
+         ],
+         "displayName":"Proficient Leatherworker's Toolset",
+         "id":450272,
+         "learnedat":35,
+         "level":0,
+         "name":"Proficient Leatherworker's Toolset",
+         "nskillup":1,
+         "quality":2,
+         "reagents":[
+            [
+               210939,
+               1
+            ],
+            [
+               222417,
+               1
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            164
+         ],
+         "source":[
+            6
+         ],
+         "optionalReagents":[
+            {
+               "id":313,
+               "description":"Core Alloy"
+            },
+            {
+               "id":317,
+               "description":"Forge Accessories"
+            },
+            {
+               "id":346,
+               "description":"Artisan's Authenticity"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            30,
+            35,
+            40
+         ],
+         "creates":[
+            222486,
+            1,
+            1
+         ],
+         "displayName":"Proficient Blacksmith's Hammer",
+         "id":450273,
+         "learnedat":30,
+         "level":0,
+         "name":"Proficient Blacksmith's Hammer",
+         "nskillup":1,
+         "quality":2,
+         "reagents":[
+            [
+               222417,
+               1
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            164
+         ],
+         "source":[
+            6
+         ],
+         "optionalReagents":[
+            {
+               "id":313,
+               "description":"Core Alloy"
+            },
+            {
+               "id":317,
+               "description":"Forge Accessories"
+            },
+            {
+               "id":352,
+               "description":"Customize Crafting Stat"
+            },
+            {
+               "id":346,
+               "description":"Artisan's Authenticity"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            35,
+            40,
+            45
+         ],
+         "creates":[
+            222487,
+            1,
+            1
+         ],
+         "displayName":"Proficient Blacksmith's Toolbox",
+         "id":450274,
+         "learnedat":35,
+         "level":0,
+         "name":"Proficient Blacksmith's Toolbox",
+         "nskillup":1,
+         "quality":2,
+         "reagents":[
+            [
+               222417,
+               1
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            164
+         ],
+         "source":[
+            6
+         ],
+         "optionalReagents":[
+            {
+               "id":313,
+               "description":"Core Alloy"
+            },
+            {
+               "id":317,
+               "description":"Forge Accessories"
+            },
+            {
+               "id":346,
+               "description":"Artisan's Authenticity"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            90,
+            100,
+            110
+         ],
+         "creates":[
+            222488,
+            1,
+            1
+         ],
+         "displayName":"Artisan Sickle",
+         "id":450275,
+         "learnedat":90,
+         "level":0,
+         "name":"Artisan Sickle",
+         "nskillup":1,
+         "quality":3,
+         "reagents":[
+            [
+               210814,
+               300
+            ],
+            [
+               221754,
+               1
+            ],
+            [
+               210939,
+               5
+            ],
+            [
+               222426,
+               5
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            164
+         ],
+         "source":[
+            5
+         ],
+         "optionalReagents":[
+            {
+               "id":316,
+               "description":"Ironclaw Alloy"
+            },
+            {
+               "id":317,
+               "description":"Forge Accessories"
+            },
+            {
+               "id":353,
+               "description":"Customize Gathering Stat"
+            },
+            {
+               "id":346,
+               "description":"Artisan's Authenticity"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            90,
+            100,
+            110
+         ],
+         "creates":[
+            222489,
+            1,
+            1
+         ],
+         "displayName":"Artisan Pickaxe",
+         "id":450276,
+         "learnedat":90,
+         "level":0,
+         "name":"Artisan Pickaxe",
+         "nskillup":1,
+         "quality":3,
+         "reagents":[
+            [
+               210814,
+               300
+            ],
+            [
+               221754,
+               1
+            ],
+            [
+               210939,
+               5
+            ],
+            [
+               222426,
+               5
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            164
+         ],
+         "source":[
+            5
+         ],
+         "optionalReagents":[
+            {
+               "id":316,
+               "description":"Ironclaw Alloy"
+            },
+            {
+               "id":317,
+               "description":"Forge Accessories"
+            },
+            {
+               "id":353,
+               "description":"Customize Gathering Stat"
+            },
+            {
+               "id":346,
+               "description":"Artisan's Authenticity"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            90,
+            100,
+            110
+         ],
+         "creates":[
+            222490,
+            1,
+            1
+         ],
+         "displayName":"Artisan Skinning Knife",
+         "id":450277,
+         "learnedat":90,
+         "level":0,
+         "name":"Artisan Skinning Knife",
+         "nskillup":1,
+         "quality":3,
+         "reagents":[
+            [
+               210814,
+               300
+            ],
+            [
+               221754,
+               1
+            ],
+            [
+               210939,
+               5
+            ],
+            [
+               222426,
+               5
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            164
+         ],
+         "source":[
+            2
+         ],
+         "optionalReagents":[
+            {
+               "id":316,
+               "description":"Ironclaw Alloy"
+            },
+            {
+               "id":317,
+               "description":"Forge Accessories"
+            },
+            {
+               "id":353,
+               "description":"Customize Gathering Stat"
+            },
+            {
+               "id":346,
+               "description":"Artisan's Authenticity"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            90,
+            100,
+            110
+         ],
+         "creates":[
+            222491,
+            1,
+            1
+         ],
+         "displayName":"Artisan Needle Set",
+         "id":450278,
+         "learnedat":90,
+         "level":0,
+         "name":"Artisan Needle Set",
+         "nskillup":1,
+         "quality":3,
+         "reagents":[
+            [
+               210814,
+               300
+            ],
+            [
+               221754,
+               1
+            ],
+            [
+               210939,
+               5
+            ],
+            [
+               222426,
+               5
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            164
+         ],
+         "source":[
+            5
+         ],
+         "optionalReagents":[
+            {
+               "id":316,
+               "description":"Ironclaw Alloy"
+            },
+            {
+               "id":317,
+               "description":"Forge Accessories"
+            },
+            {
+               "id":346,
+               "description":"Artisan's Authenticity"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            90,
+            100,
+            110
+         ],
+         "creates":[
+            222492,
+            1,
+            1
+         ],
+         "displayName":"Artisan Leatherworker's Knife",
+         "id":450279,
+         "learnedat":90,
+         "level":0,
+         "name":"Artisan Leatherworker's Knife",
+         "nskillup":1,
+         "quality":3,
+         "reagents":[
+            [
+               210814,
+               300
+            ],
+            [
+               213610,
+               20
+            ],
+            [
+               210939,
+               5
+            ],
+            [
+               222426,
+               5
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            164
+         ],
+         "source":[
+            5
+         ],
+         "optionalReagents":[
+            {
+               "id":316,
+               "description":"Ironclaw Alloy"
+            },
+            {
+               "id":317,
+               "description":"Forge Accessories"
+            },
+            {
+               "id":352,
+               "description":"Customize Crafting Stat"
+            },
+            {
+               "id":346,
+               "description":"Artisan's Authenticity"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            90,
+            100,
+            110
+         ],
+         "creates":[
+            222493,
+            1,
+            1
+         ],
+         "displayName":"Artisan Leatherworker's Toolset",
+         "id":450280,
+         "learnedat":90,
+         "level":0,
+         "name":"Artisan Leatherworker's Toolset",
+         "nskillup":1,
+         "quality":3,
+         "reagents":[
+            [
+               210814,
+               300
+            ],
+            [
+               213610,
+               10
+            ],
+            [
+               210939,
+               5
+            ],
+            [
+               222426,
+               7
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            164
+         ],
+         "source":[
+            5
+         ],
+         "optionalReagents":[
+            {
+               "id":316,
+               "description":"Ironclaw Alloy"
+            },
+            {
+               "id":317,
+               "description":"Forge Accessories"
+            },
+            {
+               "id":346,
+               "description":"Artisan's Authenticity"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            90,
+            100,
+            110
+         ],
+         "creates":[
+            222494,
+            1,
+            1
+         ],
+         "displayName":"Artisan Blacksmith's Hammer",
+         "id":450281,
+         "learnedat":90,
+         "level":0,
+         "name":"Artisan Blacksmith's Hammer",
+         "nskillup":1,
+         "quality":3,
+         "reagents":[
+            [
+               210814,
+               300
+            ],
+            [
+               221754,
+               1
+            ],
+            [
+               222426,
+               5
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            164
+         ],
+         "optionalReagents":[
+            {
+               "id":316,
+               "description":"Ironclaw Alloy"
+            },
+            {
+               "id":317,
+               "description":"Forge Accessories"
+            },
+            {
+               "id":352,
+               "description":"Customize Crafting Stat"
+            },
+            {
+               "id":346,
+               "description":"Artisan's Authenticity"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            90,
+            100,
+            110
+         ],
+         "creates":[
+            222495,
+            1,
+            1
+         ],
+         "displayName":"Artisan Blacksmith's Toolbox",
+         "id":450282,
+         "learnedat":90,
+         "level":0,
+         "name":"Artisan Blacksmith's Toolbox",
+         "nskillup":1,
+         "quality":3,
+         "reagents":[
+            [
+               210814,
+               300
+            ],
+            [
+               221754,
+               1
+            ],
+            [
+               222426,
+               4
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            164
+         ],
+         "optionalReagents":[
+            {
+               "id":316,
+               "description":"Ironclaw Alloy"
+            },
+            {
+               "id":317,
+               "description":"Forge Accessories"
+            },
+            {
+               "id":346,
+               "description":"Artisan's Authenticity"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            1,
+            1,
+            1
+         ],
+         "creates":[
+            225660,
+            1,
+            1
+         ],
+         "displayName":"Earthen Master's Hammer",
+         "id":450283,
+         "learnedat":1,
+         "level":0,
+         "name":"Earthen Master's Hammer",
+         "nskillup":1,
+         "quality":4,
+         "reagents":[
+            [
+               221754,
+               2
+            ],
+            [
+               222420,
+               10
+            ],
+            [
+               222423,
+               10
+            ],
+            [
+               222426,
+               10
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            164
+         ],
+         "optionalReagents":[
+            {
+               "id":314,
+               "description":"Charged Alloy"
+            },
+            {
+               "id":316,
+               "description":"Ironclaw Alloy"
+            },
+            {
+               "id":315,
+               "description":"Sanctified Alloy"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            60,
+            65,
+            70
+         ],
+         "creates":[
+            222499,
+            1,
+            1
+         ],
+         "displayName":"Forged Framework",
+         "id":450284,
+         "learnedat":60,
+         "level":0,
+         "name":"Forged Framework",
+         "nskillup":1,
+         "quality":2,
+         "reagents":[
+            [
+               213610,
+               1
+            ],
+            [
+               222417,
+               1
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            164
+         ],
+         "source":[
+            6
+         ],
+         "optionalReagents":[
+            {
+               "id":313,
+               "description":"Core Alloy"
+            },
+            {
+               "id":369,
+               "description":"Forge Accessories"
+            },
+            {
+               "id":346,
+               "description":"Artisan's Authenticity"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            5,
+            10,
+            15
+         ],
+         "creates":[
+            222502,
+            4,
+            4
+         ],
+         "displayName":"Ironclaw Whetstone",
+         "id":450285,
+         "learnedat":5,
+         "level":0,
+         "name":"Ironclaw Whetstone",
+         "nskillup":1,
+         "quality":2,
+         "reagents":[
+            [
+               213610,
+               1
+            ],
+            [
+               210939,
+               1
+            ],
+            [
+               222417,
+               1
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            164
+         ],
+         "optionalReagents":[
+            {
+               "id":313,
+               "description":"Core Alloy"
+            },
+            {
+               "id":369,
+               "description":"Forge Accessories"
+            },
+            {
+               "id":346,
+               "description":"Artisan's Authenticity"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            60,
+            65,
+            70
+         ],
+         "creates":[
+            222505,
+            1,
+            1
+         ],
+         "displayName":"Ironclaw Razorstone",
+         "id":450286,
+         "learnedat":60,
+         "level":0,
+         "name":"Ironclaw Razorstone",
+         "nskillup":1,
+         "quality":2,
+         "reagents":[
+            [
+               213610,
+               1
+            ],
+            [
+               210939,
+               1
+            ],
+            [
+               222417,
+               1
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            164
+         ],
+         "optionalReagents":[
+            {
+               "id":313,
+               "description":"Core Alloy"
+            },
+            {
+               "id":369,
+               "description":"Forge Accessories"
+            },
+            {
+               "id":346,
+               "description":"Artisan's Authenticity"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            5,
+            10,
+            15
+         ],
+         "creates":[
+            222508,
+            4,
+            4
+         ],
+         "displayName":"Ironclaw Weightstone",
+         "id":450287,
+         "learnedat":5,
+         "level":0,
+         "name":"Ironclaw Weightstone",
+         "nskillup":1,
+         "quality":2,
+         "reagents":[
+            [
+               213610,
+               1
+            ],
+            [
+               210939,
+               1
+            ],
+            [
+               222417,
+               1
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            164
+         ],
+         "source":[
+            6
+         ],
+         "optionalReagents":[
+            {
+               "id":313,
+               "description":"Core Alloy"
+            },
+            {
+               "id":369,
+               "description":"Forge Accessories"
+            },
+            {
+               "id":346,
+               "description":"Artisan's Authenticity"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            50,
+            55,
+            60
+         ],
+         "creates":[
+            222511,
+            1,
+            1
+         ],
+         "displayName":"Adjustable Framework",
+         "id":450288,
+         "learnedat":50,
+         "level":0,
+         "name":"Adjustable Framework",
+         "nskillup":1,
+         "quality":2,
+         "reagents":[
+            [
+               213610,
+               1
+            ],
+            [
+               222417,
+               1
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            164
+         ],
+         "source":[
+            6
+         ],
+         "optionalReagents":[
+            {
+               "id":313,
+               "description":"Core Alloy"
+            },
+            {
+               "id":369,
+               "description":"Forge Accessories"
+            },
+            {
+               "id":346,
+               "description":"Artisan's Authenticity"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            50,
+            55,
+            60
+         ],
+         "creates":[
+            222514,
+            1,
+            1
+         ],
+         "displayName":"Tempered Framework",
+         "id":450289,
+         "learnedat":50,
+         "level":0,
+         "name":"Tempered Framework",
+         "nskillup":1,
+         "quality":2,
+         "reagents":[
+            [
+               213610,
+               1
+            ],
+            [
+               222417,
+               1
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            164
+         ],
+         "source":[
+            6
+         ],
+         "optionalReagents":[
+            {
+               "id":313,
+               "description":"Core Alloy"
+            },
+            {
+               "id":369,
+               "description":"Forge Accessories"
+            },
+            {
+               "id":346,
+               "description":"Artisan's Authenticity"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            15,
+            20,
+            25
+         ],
+         "creates":[
+            222520,
+            1,
+            1
+         ],
+         "displayName":"Coreforged Repair Hammer",
+         "id":450291,
+         "learnedat":15,
+         "level":0,
+         "name":"Coreforged Repair Hammer",
+         "nskillup":1,
+         "quality":2,
+         "reagents":[
+            [
+               210930,
+               10
+            ],
+            [
+               210936,
+               2
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            164
+         ],
+         "source":[
+            6
+         ],
+         "optionalReagents":[
+            {
+               "id":262,
+               "description":"Bismuth"
+            },
+            {
+               "id":382,
+               "description":"Forge Accessories"
+            },
+            {
+               "id":264,
+               "description":"Ironclaw Ore"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            5,
+            10,
+            15
+         ],
+         "creates":[
+            222523,
+            1,
+            1
+         ],
+         "displayName":"Coreforged Skeleton Key",
+         "id":450292,
+         "learnedat":5,
+         "level":0,
+         "name":"Coreforged Skeleton Key",
+         "nskillup":1,
+         "quality":2,
+         "reagents":[
+            [
+               210930,
+               8
+            ],
+            [
+               210936,
+               4
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            164
+         ],
+         "source":[
+            5
+         ],
+         "optionalReagents":[
+            {
+               "id":262,
+               "description":"Bismuth"
+            },
+            {
+               "id":382,
+               "description":"Forge Accessories"
+            },
+            {
+               "id":264,
+               "description":"Ironclaw Ore"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            90,
+            95,
+            100
+         ],
+         "creates":[
+            224765,
+            1,
+            1
+         ],
+         "displayName":"Everburning Ignition",
+         "id":453727,
+         "learnedat":90,
+         "level":0,
+         "name":"Everburning Ignition",
+         "nskillup":1,
+         "quality":3,
+         "reagents":[
+            [
+               210814,
+               1
+            ],
+            [
+               213610,
+               5
+            ],
+            [
+               222417,
+               1
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            164
+         ],
+         "optionalReagents":[
+            {
+               "id":313,
+               "description":"Core Alloy"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            60,
+            65,
+            70
+         ],
+         "creates":[
+            225366,
+            1,
+            1
+         ],
+         "displayName":"Algari Competitor's Pickaxe",
+         "id":454997,
+         "learnedat":60,
+         "level":0,
+         "name":"Algari Competitor's Pickaxe",
+         "nskillup":2,
+         "quality":2,
+         "reagents":[
+            [
+               222417,
+               3
+            ],
+            [
+               222420,
+               4
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            164
+         ],
+         "source":[
+            2,
+            5
+         ],
+         "optionalReagents":[
+            {
+               "id":255,
+               "description":"Competitor's Heraldry"
+            },
+            {
+               "id":340,
+               "description":"Add Embellishment"
+            },
+            {
+               "id":283,
+               "description":"Customize Secondary Stats"
+            },
+            {
+               "id":317,
+               "description":"Forge Accessories"
+            },
+            {
+               "id":346,
+               "description":"Artisan's Authenticity"
+            },
+            {
+               "id":314,
+               "description":"Charged Alloy"
+            },
+            {
+               "id":313,
+               "description":"Core Alloy"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            60,
+            65,
+            70
+         ],
+         "creates":[
+            225367,
+            1,
+            1
+         ],
+         "displayName":"Algari Competitor's Dagger",
+         "id":454998,
+         "learnedat":60,
+         "level":0,
+         "name":"Algari Competitor's Dagger",
+         "nskillup":2,
+         "quality":2,
+         "reagents":[
+            [
+               222417,
+               3
+            ],
+            [
+               222420,
+               4
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            164
+         ],
+         "source":[
+            2,
+            5
+         ],
+         "optionalReagents":[
+            {
+               "id":255,
+               "description":"Competitor's Heraldry"
+            },
+            {
+               "id":340,
+               "description":"Add Embellishment"
+            },
+            {
+               "id":283,
+               "description":"Customize Secondary Stats"
+            },
+            {
+               "id":317,
+               "description":"Forge Accessories"
+            },
+            {
+               "id":346,
+               "description":"Artisan's Authenticity"
+            },
+            {
+               "id":314,
+               "description":"Charged Alloy"
+            },
+            {
+               "id":313,
+               "description":"Core Alloy"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            60,
+            65,
+            70
+         ],
+         "creates":[
+            225371,
+            1,
+            1
+         ],
+         "displayName":"Algari Competitor's Scepter",
+         "id":454999,
+         "learnedat":60,
+         "level":0,
+         "name":"Algari Competitor's Scepter",
+         "nskillup":2,
+         "quality":2,
+         "reagents":[
+            [
+               222417,
+               3
+            ],
+            [
+               222420,
+               6
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            164
+         ],
+         "source":[
+            2,
+            5
+         ],
+         "optionalReagents":[
+            {
+               "id":255,
+               "description":"Competitor's Heraldry"
+            },
+            {
+               "id":340,
+               "description":"Add Embellishment"
+            },
+            {
+               "id":283,
+               "description":"Customize Secondary Stats"
+            },
+            {
+               "id":317,
+               "description":"Forge Accessories"
+            },
+            {
+               "id":346,
+               "description":"Artisan's Authenticity"
+            },
+            {
+               "id":314,
+               "description":"Charged Alloy"
+            },
+            {
+               "id":313,
+               "description":"Core Alloy"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            60,
+            65,
+            70
+         ],
+         "creates":[
+            225373,
+            1,
+            1
+         ],
+         "displayName":"Algari Competitor's Shield",
+         "id":455000,
+         "learnedat":60,
+         "level":0,
+         "name":"Algari Competitor's Shield",
+         "nskillup":2,
+         "quality":2,
+         "reagents":[
+            [
+               222417,
+               3
+            ],
+            [
+               222420,
+               2
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            164
+         ],
+         "source":[
+            2,
+            5
+         ],
+         "optionalReagents":[
+            {
+               "id":255,
+               "description":"Competitor's Heraldry"
+            },
+            {
+               "id":340,
+               "description":"Add Embellishment"
+            },
+            {
+               "id":283,
+               "description":"Customize Secondary Stats"
+            },
+            {
+               "id":317,
+               "description":"Forge Accessories"
+            },
+            {
+               "id":346,
+               "description":"Artisan's Authenticity"
+            },
+            {
+               "id":314,
+               "description":"Charged Alloy"
+            },
+            {
+               "id":313,
+               "description":"Core Alloy"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            60,
+            65,
+            70
+         ],
+         "creates":[
+            225374,
+            1,
+            1
+         ],
+         "displayName":"Algari Competitor's Axe",
+         "id":455001,
+         "learnedat":60,
+         "level":0,
+         "name":"Algari Competitor's Axe",
+         "nskillup":2,
+         "quality":2,
+         "reagents":[
+            [
+               222417,
+               3
+            ],
+            [
+               222420,
+               4
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            164
+         ],
+         "source":[
+            2,
+            5
+         ],
+         "optionalReagents":[
+            {
+               "id":255,
+               "description":"Competitor's Heraldry"
+            },
+            {
+               "id":340,
+               "description":"Add Embellishment"
+            },
+            {
+               "id":283,
+               "description":"Customize Secondary Stats"
+            },
+            {
+               "id":317,
+               "description":"Forge Accessories"
+            },
+            {
+               "id":346,
+               "description":"Artisan's Authenticity"
+            },
+            {
+               "id":314,
+               "description":"Charged Alloy"
+            },
+            {
+               "id":313,
+               "description":"Core Alloy"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            60,
+            65,
+            70
+         ],
+         "creates":[
+            225375,
+            1,
+            1
+         ],
+         "displayName":"Algari Competitor's Skewer",
+         "id":455002,
+         "learnedat":60,
+         "level":0,
+         "name":"Algari Competitor's Skewer",
+         "nskillup":2,
+         "quality":2,
+         "reagents":[
+            [
+               222417,
+               3
+            ],
+            [
+               222420,
+               6
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            164
+         ],
+         "source":[
+            2,
+            5
+         ],
+         "optionalReagents":[
+            {
+               "id":255,
+               "description":"Competitor's Heraldry"
+            },
+            {
+               "id":340,
+               "description":"Add Embellishment"
+            },
+            {
+               "id":283,
+               "description":"Customize Secondary Stats"
+            },
+            {
+               "id":317,
+               "description":"Forge Accessories"
+            },
+            {
+               "id":346,
+               "description":"Artisan's Authenticity"
+            },
+            {
+               "id":314,
+               "description":"Charged Alloy"
+            },
+            {
+               "id":313,
+               "description":"Core Alloy"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            60,
+            65,
+            70
+         ],
+         "creates":[
+            225376,
+            1,
+            1
+         ],
+         "displayName":"Algari Competitor's Greatsword",
+         "id":455003,
+         "learnedat":60,
+         "level":0,
+         "name":"Algari Competitor's Greatsword",
+         "nskillup":2,
+         "quality":2,
+         "reagents":[
+            [
+               222417,
+               3
+            ],
+            [
+               222420,
+               8
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            164
+         ],
+         "source":[
+            2,
+            5
+         ],
+         "optionalReagents":[
+            {
+               "id":255,
+               "description":"Competitor's Heraldry"
+            },
+            {
+               "id":340,
+               "description":"Add Embellishment"
+            },
+            {
+               "id":283,
+               "description":"Customize Secondary Stats"
+            },
+            {
+               "id":317,
+               "description":"Forge Accessories"
+            },
+            {
+               "id":346,
+               "description":"Artisan's Authenticity"
+            },
+            {
+               "id":314,
+               "description":"Charged Alloy"
+            },
+            {
+               "id":313,
+               "description":"Core Alloy"
+            }
+         ]
+      },
+      {
+         "cat":11,
+         "colors":[
+            0,
+            60,
+            65,
+            70
+         ],
+         "creates":[
+            225377,
+            1,
+            1
+         ],
+         "displayName":"Algari Competitor's Sword",
+         "id":455004,
+         "learnedat":60,
+         "level":0,
+         "name":"Algari Competitor's Sword",
+         "nskillup":2,
+         "quality":2,
+         "reagents":[
+            [
+               222417,
+               3
+            ],
+            [
+               222420,
+               4
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            164
+         ],
+         "source":[
+            2,
+            5
+         ],
+         "optionalReagents":[
+            {
+               "id":255,
+               "description":"Competitor's Heraldry"
+            },
+            {
+               "id":340,
+               "description":"Add Embellishment"
+            },
+            {
+               "id":283,
+               "description":"Customize Secondary Stats"
+            },
+            {
+               "id":317,
+               "description":"Forge Accessories"
+            },
+            {
+               "id":346,
+               "description":"Artisan's Authenticity"
+            },
+            {
+               "id":314,
+               "description":"Charged Alloy"
+            },
+            {
+               "id":313,
+               "description":"Core Alloy"
+            }
+         ]
+      }
+   ]
+}
