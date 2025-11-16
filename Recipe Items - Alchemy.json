@@ -1,0 +1,7677 @@
+{
+   "template":"item",
+   "id":"recipe-items",
+   "name":"WH.TERMS.recipeitems_stc",
+   "tabs":"tabsRelated",
+   "parent":"lkljbjkb574",
+   "note":"<a href=\"\/items\/recipes\/alchemy\">Filter these results<\/a>",
+   "visibleCols":[
+      "skill"
+   ],
+   "hiddenCols":[
+      "slot"
+   ],
+   "sort":[
+      "skill",
+      "name"
+   ],
+   "data":[
+      {
+         "classs":9,
+         "commondrop":true,
+         "displayName":"Recipe: Elixir of Minor Agility",
+         "flags2":8192,
+         "id":2553,
+         "level":1,
+         "name":"Recipe: Elixir of Minor Agility",
+         "quality":2,
+         "skill":50,
+         "slot":0,
+         "source":[
+            2
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "commondrop":true,
+         "displayName":"Recipe: Swiftness Potion",
+         "flags2":8192,
+         "id":2555,
+         "level":1,
+         "name":"Recipe: Swiftness Potion",
+         "quality":2,
+         "skill":60,
+         "slot":0,
+         "source":[
+            2
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "commondrop":true,
+         "displayName":"Recipe: Potion of Curing",
+         "flags2":8192,
+         "id":3394,
+         "level":1,
+         "name":"Recipe: Potion of Curing",
+         "quality":1,
+         "skill":120,
+         "slot":0,
+         "source":[
+            2
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "commondrop":true,
+         "displayName":"Recipe: Limited Invulnerability Potion",
+         "flags2":8192,
+         "id":3395,
+         "level":1,
+         "name":"Recipe: Limited Invulnerability Potion",
+         "quality":2,
+         "skill":250,
+         "slot":0,
+         "source":[
+            2
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Elixir of Lesser Agility",
+         "flags2":8192,
+         "id":3396,
+         "level":1,
+         "name":"Recipe: Elixir of Lesser Agility",
+         "quality":2,
+         "skill":140,
+         "slot":0,
+         "source":[
+            2,
+            16
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Elixir of Fortitude",
+         "flags2":8192,
+         "id":3830,
+         "level":1,
+         "name":"Recipe: Elixir of Fortitude",
+         "quality":1,
+         "skill":175,
+         "slot":0,
+         "source":[
+            2,
+            16
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "commondrop":true,
+         "displayName":"Recipe: Major Troll's Blood Elixir",
+         "flags2":8192,
+         "id":3831,
+         "level":1,
+         "name":"Recipe: Major Troll's Blood Elixir",
+         "quality":2,
+         "skill":180,
+         "slot":0,
+         "source":[
+            2,
+            16
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "commondrop":true,
+         "displayName":"Recipe: Elixir of Detect Lesser Invisibility",
+         "flags2":8192,
+         "id":3832,
+         "level":1,
+         "name":"Recipe: Elixir of Detect Lesser Invisibility",
+         "quality":2,
+         "skill":195,
+         "slot":0,
+         "source":[
+            2,
+            16
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Discolored Healing Potion",
+         "flags2":8192,
+         "id":4597,
+         "level":1,
+         "name":"Recipe: Discolored Healing Potion",
+         "quality":2,
+         "skill":50,
+         "slot":0,
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Lesser Stoneshield Potion",
+         "flags2":8192,
+         "id":4624,
+         "level":1,
+         "name":"Recipe: Lesser Stoneshield Potion",
+         "quality":1,
+         "skill":215,
+         "slot":0,
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Rage Potion",
+         "flags2":8192,
+         "id":5640,
+         "level":1,
+         "name":"Recipe: Rage Potion",
+         "quality":1,
+         "skill":60,
+         "slot":0,
+         "source":[
+            5
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Free Action Potion",
+         "flags2":8192,
+         "id":5642,
+         "level":1,
+         "name":"Recipe: Free Action Potion",
+         "quality":1,
+         "skill":150,
+         "slot":0,
+         "source":[
+            5
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Great Rage Potion",
+         "flags2":8192,
+         "id":5643,
+         "level":1,
+         "name":"Recipe: Great Rage Potion",
+         "quality":1,
+         "skill":175,
+         "slot":0,
+         "source":[
+            5
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Holy Protection Potion",
+         "flags2":8192,
+         "id":6053,
+         "level":1,
+         "name":"Recipe: Holy Protection Potion",
+         "quality":1,
+         "skill":100,
+         "slot":0,
+         "source":[
+            5
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Shadow Protection Potion",
+         "flags2":8192,
+         "id":6054,
+         "level":1,
+         "name":"Recipe: Shadow Protection Potion",
+         "quality":1,
+         "skill":135,
+         "slot":0,
+         "source":[
+            5
+         ],
+         "sourcemore":[
+            {
+               "n":"Christoph Jeffcoat",
+               "t":1,
+               "ti":2393,
+               "z":267
+            }
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Fire Protection Potion",
+         "flags2":8192,
+         "id":6055,
+         "level":1,
+         "name":"Recipe: Fire Protection Potion",
+         "quality":1,
+         "skill":165,
+         "slot":0,
+         "source":[
+            5
+         ],
+         "sourcemore":[
+            {
+               "n":"Jeeda",
+               "t":1,
+               "ti":4083,
+               "z":406
+            }
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Frost Protection Potion",
+         "flags2":8192,
+         "id":6056,
+         "level":1,
+         "name":"Recipe: Frost Protection Potion",
+         "quality":1,
+         "skill":190,
+         "slot":0,
+         "source":[
+            5
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Nature Protection Potion",
+         "flags2":8192,
+         "id":6057,
+         "level":1,
+         "name":"Recipe: Nature Protection Potion",
+         "quality":1,
+         "skill":190,
+         "slot":0,
+         "source":[
+            5
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Shadow Oil",
+         "flags2":8192,
+         "id":6068,
+         "level":1,
+         "name":"Recipe: Shadow Oil",
+         "quality":1,
+         "skill":165,
+         "slot":0,
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Elixir of Ogre's Strength",
+         "flags2":8192,
+         "id":6211,
+         "level":1,
+         "name":"Recipe: Elixir of Ogre's Strength",
+         "quality":1,
+         "skill":150,
+         "slot":0,
+         "source":[
+            2
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Manual: Strong Anti-Venom",
+         "flags2":8192,
+         "id":6454,
+         "level":12,
+         "name":"Manual: Strong Anti-Venom",
+         "quality":2,
+         "skill":1,
+         "slot":0,
+         "source":[
+            2,
+            16
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Elixir of Giant Growth",
+         "flags2":8192,
+         "id":6663,
+         "level":1,
+         "name":"Recipe: Elixir of Giant Growth",
+         "quality":2,
+         "skill":90,
+         "slot":0,
+         "source":[
+            2
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Wildvine Potion",
+         "flags2":8192,
+         "id":9294,
+         "level":1,
+         "name":"Recipe: Wildvine Potion",
+         "quality":2,
+         "skill":225,
+         "slot":0,
+         "source":[
+            2
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "commondrop":true,
+         "displayName":"Recipe: Invisibility Potion",
+         "flags2":8192,
+         "id":9295,
+         "level":1,
+         "name":"Recipe: Invisibility Potion",
+         "quality":2,
+         "skill":235,
+         "slot":0,
+         "source":[
+            2
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Gift of Arthas",
+         "flags2":8192,
+         "id":9296,
+         "level":1,
+         "name":"Recipe: Gift of Arthas",
+         "quality":2,
+         "skill":240,
+         "slot":0,
+         "source":[
+            2
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Elixir of Dream Vision",
+         "flags2":8192,
+         "id":9297,
+         "level":1,
+         "name":"Recipe: Elixir of Dream Vision",
+         "quality":2,
+         "skill":240,
+         "slot":0,
+         "source":[
+            2
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "commondrop":true,
+         "displayName":"Recipe: Elixir of Giants",
+         "flags2":8192,
+         "id":9298,
+         "level":1,
+         "name":"Recipe: Elixir of Giants",
+         "quality":2,
+         "skill":245,
+         "slot":0,
+         "source":[
+            2
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Elixir of Demonslaying",
+         "flags2":8192,
+         "id":9300,
+         "level":1,
+         "name":"Recipe: Elixir of Demonslaying",
+         "quality":1,
+         "skill":250,
+         "slot":0,
+         "source":[
+            5
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Elixir of Shadow Power",
+         "flags2":8192,
+         "id":9301,
+         "level":1,
+         "name":"Recipe: Elixir of Shadow Power",
+         "quality":2,
+         "skill":250,
+         "slot":0,
+         "source":[
+            5
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Ghost Dye",
+         "flags2":8192,
+         "id":9302,
+         "level":1,
+         "name":"Recipe: Ghost Dye",
+         "quality":1,
+         "skill":245,
+         "slot":0,
+         "source":[
+            5
+         ],
+         "sourcemore":[
+            {
+               "z":357
+            }
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Philosopher's Stone",
+         "flags2":8192,
+         "id":9303,
+         "level":1,
+         "name":"Recipe: Philosopher's Stone",
+         "quality":1,
+         "skill":50,
+         "slot":0,
+         "source":[
+            5
+         ],
+         "sourcemore":[
+            {
+               "z":440
+            }
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Transmute Iron to Gold",
+         "flags2":8192,
+         "id":9304,
+         "level":1,
+         "name":"Recipe: Transmute Iron to Gold",
+         "quality":1,
+         "skill":225,
+         "slot":0,
+         "source":[
+            5
+         ],
+         "sourcemore":[
+            {
+               "z":440
+            }
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Transmute Mithril to Truesilver",
+         "flags2":8192,
+         "id":9305,
+         "level":1,
+         "name":"Recipe: Transmute Mithril to Truesilver",
+         "quality":1,
+         "skill":225,
+         "slot":0,
+         "source":[
+            5
+         ],
+         "sourcemore":[
+            {
+               "z":440
+            }
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Goblin Rocket Fuel",
+         "flags2":8192,
+         "id":10644,
+         "level":1,
+         "name":"Recipe: Goblin Rocket Fuel",
+         "quality":1,
+         "skill":210,
+         "slot":0,
+         "source":[
+            1
+         ],
+         "sourcemore":[
+            {
+               "c":11,
+               "icon":"inv_scroll_03",
+               "n":"Goblin Rocket Fuel Recipe",
+               "s":202,
+               "t":6,
+               "ti":12715
+            }
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Transmute Arcanite",
+         "flags2":8192,
+         "id":12958,
+         "level":1,
+         "name":"Recipe: Transmute Arcanite",
+         "quality":1,
+         "skill":275,
+         "slot":0,
+         "source":[
+            5
+         ],
+         "sourcemore":[
+            {
+               "z":440
+            }
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Mighty Rage Potion",
+         "flags2":8192,
+         "id":13476,
+         "level":1,
+         "name":"Recipe: Mighty Rage Potion",
+         "quality":2,
+         "skill":255,
+         "slot":0,
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Superior Mana Potion",
+         "flags2":8192,
+         "id":13477,
+         "level":1,
+         "name":"Recipe: Superior Mana Potion",
+         "quality":1,
+         "skill":260,
+         "slot":0,
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Elixir of Superior Defense",
+         "flags2":8192,
+         "id":13478,
+         "level":1,
+         "name":"Recipe: Elixir of Superior Defense",
+         "quality":1,
+         "skill":265,
+         "slot":0,
+         "source":[
+            5
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Elixir of the Sages",
+         "flags2":8192,
+         "id":13479,
+         "level":1,
+         "name":"Recipe: Elixir of the Sages",
+         "quality":2,
+         "skill":270,
+         "slot":0,
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Major Healing Potion",
+         "flags2":8192,
+         "id":13480,
+         "level":1,
+         "name":"Recipe: Major Healing Potion",
+         "quality":1,
+         "skill":275,
+         "slot":0,
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Elixir of Brute Force",
+         "flags2":8192,
+         "id":13481,
+         "level":1,
+         "name":"Recipe: Elixir of Brute Force",
+         "quality":2,
+         "skill":275,
+         "slot":0,
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Transmute Air to Fire",
+         "flags2":8192,
+         "id":13482,
+         "level":1,
+         "name":"Recipe: Transmute Air to Fire",
+         "quality":2,
+         "skill":275,
+         "slot":0,
+         "source":[
+            5
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Transmute Fire to Earth",
+         "flags2":8192,
+         "id":13483,
+         "level":1,
+         "name":"Recipe: Transmute Fire to Earth",
+         "quality":2,
+         "skill":275,
+         "slot":0,
+         "source":[
+            5
+         ],
+         "sourcemore":[
+            {
+               "z":1584
+            }
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Transmute Earth to Water",
+         "flags2":8192,
+         "id":13484,
+         "level":1,
+         "name":"Recipe: Transmute Earth to Water",
+         "quality":2,
+         "skill":275,
+         "slot":0,
+         "source":[
+            5
+         ],
+         "sourcemore":[
+            {
+               "n":"Meilosh",
+               "t":1,
+               "ti":11557,
+               "z":361
+            }
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Transmute Water to Air",
+         "flags2":8192,
+         "id":13485,
+         "level":1,
+         "name":"Recipe: Transmute Water to Air",
+         "quality":2,
+         "skill":275,
+         "slot":0,
+         "source":[
+            5
+         ],
+         "sourcemore":[
+            {
+               "n":"Magnus Frostwake",
+               "t":1,
+               "ti":11278,
+               "z":28
+            }
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Transmute Undeath to Water",
+         "flags2":8192,
+         "id":13486,
+         "level":1,
+         "name":"Recipe: Transmute Undeath to Water",
+         "quality":2,
+         "skill":275,
+         "slot":0,
+         "source":[
+            2
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Transmute Water to Undeath",
+         "flags2":8192,
+         "id":13487,
+         "level":1,
+         "name":"Recipe: Transmute Water to Undeath",
+         "quality":2,
+         "skill":275,
+         "slot":0,
+         "source":[
+            2
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Transmute Life to Earth",
+         "flags2":8192,
+         "id":13488,
+         "level":1,
+         "name":"Recipe: Transmute Life to Earth",
+         "quality":2,
+         "skill":275,
+         "slot":0,
+         "source":[
+            2
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Transmute Earth to Life",
+         "flags2":8192,
+         "id":13489,
+         "level":1,
+         "name":"Recipe: Transmute Earth to Life",
+         "quality":2,
+         "skill":275,
+         "slot":0,
+         "source":[
+            2
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "commondrop":true,
+         "displayName":"Recipe: Greater Stoneshield Potion",
+         "flags2":8192,
+         "id":13490,
+         "level":1,
+         "name":"Recipe: Greater Stoneshield Potion",
+         "quality":2,
+         "skill":280,
+         "slot":0,
+         "source":[
+            2
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Elixir of the Mongoose",
+         "flags2":8192,
+         "id":13491,
+         "level":1,
+         "name":"Recipe: Elixir of the Mongoose",
+         "quality":2,
+         "skill":280,
+         "slot":0,
+         "source":[
+            2
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Purification Potion",
+         "flags2":8192,
+         "id":13492,
+         "level":1,
+         "name":"Recipe: Purification Potion",
+         "quality":2,
+         "skill":285,
+         "slot":0,
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Greater Arcane Elixir",
+         "flags2":8192,
+         "id":13493,
+         "level":1,
+         "name":"Recipe: Greater Arcane Elixir",
+         "quality":2,
+         "skill":285,
+         "slot":0,
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Greater Fire Protection Potion",
+         "flags2":8192,
+         "id":13494,
+         "level":1,
+         "name":"Recipe: Greater Fire Protection Potion",
+         "quality":2,
+         "skill":290,
+         "slot":0,
+         "source":[
+            2
+         ],
+         "sourcemore":[
+            {
+               "dd":-1,
+               "z":1583
+            }
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Greater Frost Protection Potion",
+         "flags2":8192,
+         "id":13495,
+         "level":1,
+         "name":"Recipe: Greater Frost Protection Potion",
+         "quality":2,
+         "skill":290,
+         "slot":0,
+         "source":[
+            2
+         ],
+         "sourcemore":[
+            {
+               "z":618
+            }
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Greater Nature Protection Potion",
+         "flags2":8192,
+         "id":13496,
+         "level":1,
+         "name":"Recipe: Greater Nature Protection Potion",
+         "quality":2,
+         "skill":290,
+         "slot":0,
+         "source":[
+            2,
+            5
+         ],
+         "sourcemore":[
+            {
+               "n":"Calandrath",
+               "t":1,
+               "ti":15174,
+               "z":1377
+            }
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Greater Arcane Protection Potion",
+         "flags2":8192,
+         "id":13497,
+         "level":1,
+         "name":"Recipe: Greater Arcane Protection Potion",
+         "quality":2,
+         "skill":290,
+         "slot":0,
+         "source":[
+            2,
+            5
+         ],
+         "sourcemore":[
+            {
+               "n":"Cobalt Mageweaver",
+               "t":1,
+               "ti":7437
+            },
+            {
+               "n":"Kiatke",
+               "t":1,
+               "ti":101759
+            }
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Greater Shadow Protection Potion",
+         "flags2":8192,
+         "id":13499,
+         "level":1,
+         "name":"Recipe: Greater Shadow Protection Potion",
+         "quality":2,
+         "skill":290,
+         "slot":0,
+         "source":[
+            2
+         ],
+         "sourcemore":[
+            {
+               "z":139
+            }
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Major Mana Potion",
+         "flags2":8192,
+         "id":13501,
+         "level":1,
+         "name":"Recipe: Major Mana Potion",
+         "quality":2,
+         "skill":295,
+         "slot":0,
+         "source":[
+            2,
+            5
+         ],
+         "sourcemore":[
+            {
+               "dd":-1,
+               "n":"Darkmaster Gandling",
+               "t":1,
+               "ti":1853,
+               "z":2057
+            },
+            {
+               "n":"Magnus Frostwake",
+               "t":1,
+               "ti":11278,
+               "z":28
+            }
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Alchemist Stone",
+         "flags2":8192,
+         "id":13517,
+         "level":27,
+         "name":"Recipe: Alchemist Stone",
+         "quality":1,
+         "skill":50,
+         "slot":0,
+         "source":[
+            5
+         ],
+         "sourcemore":[
+            {
+               "n":"Almaador",
+               "t":1,
+               "ti":21432,
+               "z":3703
+            }
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Potion of Petrification",
+         "flags2":8192,
+         "id":13518,
+         "level":25,
+         "name":"Recipe: Potion of Petrification",
+         "quality":2,
+         "skill":300,
+         "slot":0,
+         "source":[
+            2
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Flask of the Titans",
+         "flags2":8192,
+         "id":13519,
+         "level":25,
+         "name":"Recipe: Flask of the Titans",
+         "quality":2,
+         "skill":300,
+         "slot":0,
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Flask of Distilled Wisdom",
+         "flags2":8192,
+         "id":13520,
+         "level":25,
+         "name":"Recipe: Flask of Distilled Wisdom",
+         "quality":2,
+         "skill":300,
+         "slot":0,
+         "source":[
+            2
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Flask of Supreme Power",
+         "flags2":8192,
+         "id":13521,
+         "level":25,
+         "name":"Recipe: Flask of Supreme Power",
+         "quality":2,
+         "skill":300,
+         "slot":0,
+         "source":[
+            2
+         ],
+         "sourcemore":[
+            {
+               "dd":-1,
+               "n":"Ras Frostwhisper",
+               "t":1,
+               "ti":10508,
+               "z":2057
+            }
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Frost Oil",
+         "flags2":8192,
+         "id":14634,
+         "level":1,
+         "name":"Recipe: Frost Oil",
+         "quality":2,
+         "skill":200,
+         "slot":0,
+         "source":[
+            5
+         ],
+         "sourcemore":[
+            {
+               "n":"Bro'kin",
+               "t":1,
+               "ti":2480,
+               "z":267
+            }
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Elixir of Frost Power",
+         "flags2":8192,
+         "id":17709,
+         "level":1,
+         "name":"Recipe: Elixir of Frost Power",
+         "quality":1,
+         "skill":190,
+         "slot":0,
+         "source":[
+            2
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Major Rejuvenation Potion",
+         "flags2":8192,
+         "id":18257,
+         "level":25,
+         "name":"Recipe: Major Rejuvenation Potion",
+         "quality":3,
+         "skill":300,
+         "slot":0,
+         "source":[
+            2
+         ],
+         "sourcemore":[
+            {
+               "bd":1,
+               "z":2717
+            }
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Powerful Anti-Venom",
+         "flags2":8192,
+         "id":19442,
+         "level":1,
+         "name":"Recipe: Powerful Anti-Venom",
+         "quality":1,
+         "skill":1,
+         "slot":0,
+         "source":[
+            5
+         ],
+         "subclass":6
+      },
+      {
+         "attainable":2,
+         "classs":9,
+         "displayName":"Recipe: Mageblood Elixir",
+         "flags2":8192,
+         "id":20011,
+         "level":1,
+         "name":"Recipe: Mageblood Elixir",
+         "quality":1,
+         "skill":275,
+         "slot":0,
+         "source":[
+            5
+         ],
+         "sourcemore":[
+            {
+               "n":"Rin'wosho the Trader",
+               "t":1,
+               "ti":143138
+            }
+         ],
+         "subclass":6
+      },
+      {
+         "attainable":2,
+         "classs":9,
+         "displayName":"Recipe: Greater Dreamless Sleep Potion",
+         "flags2":8192,
+         "id":20012,
+         "level":1,
+         "name":"Recipe: Greater Dreamless Sleep Potion",
+         "quality":1,
+         "skill":275,
+         "slot":0,
+         "source":[
+            5
+         ],
+         "sourcemore":[
+            {
+               "n":"Rin'wosho the Trader",
+               "t":1,
+               "ti":143138
+            }
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Living Action Potion",
+         "flags2":8192,
+         "id":20013,
+         "level":1,
+         "name":"Recipe: Living Action Potion",
+         "quality":1,
+         "skill":285,
+         "slot":0,
+         "source":[
+            5
+         ],
+         "subclass":6
+      },
+      {
+         "attainable":2,
+         "classs":9,
+         "displayName":"Recipe: Mighty Troll's Blood Elixir",
+         "flags2":8192,
+         "id":20014,
+         "level":1,
+         "name":"Recipe: Mighty Troll's Blood Elixir",
+         "quality":1,
+         "skill":290,
+         "slot":0,
+         "source":[
+            5
+         ],
+         "sourcemore":[
+            {
+               "n":"Rin'wosho the Trader",
+               "t":1,
+               "ti":143138
+            }
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Transmute Elemental Fire",
+         "flags2":8192,
+         "id":20761,
+         "level":25,
+         "name":"Recipe: Transmute Elemental Fire",
+         "quality":1,
+         "skill":300,
+         "slot":0,
+         "source":[
+            5
+         ],
+         "sourcemore":[
+            {
+               "n":"Lokhtos Darkbargainer",
+               "t":1,
+               "ti":12944,
+               "z":1584
+            }
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Elixir of Greater Firepower",
+         "flags2":8192,
+         "id":21547,
+         "level":1,
+         "name":"Recipe: Elixir of Greater Firepower",
+         "quality":2,
+         "skill":250,
+         "slot":0,
+         "source":[
+            2
+         ],
+         "sourcemore":[
+            {
+               "z":51
+            }
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Elixir of Camouflage",
+         "flags2":8192,
+         "id":22900,
+         "level":1,
+         "name":"Recipe: Elixir of Camouflage",
+         "quality":1,
+         "skill":5,
+         "slot":0,
+         "source":[
+            5
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Sneaking Potion",
+         "flags2":8192,
+         "id":22901,
+         "level":1,
+         "name":"Recipe: Sneaking Potion",
+         "quality":1,
+         "skill":15,
+         "slot":0,
+         "source":[
+            5
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Elixir of Major Frost Power",
+         "flags2":8192,
+         "id":22902,
+         "level":1,
+         "name":"Recipe: Elixir of Major Frost Power",
+         "quality":1,
+         "skill":20,
+         "slot":0,
+         "source":[
+            5
+         ],
+         "sourcemore":[
+            {
+               "z":3521
+            }
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "commondrop":true,
+         "displayName":"Recipe: Insane Strength Potion",
+         "flags2":8192,
+         "id":22903,
+         "level":1,
+         "name":"Recipe: Insane Strength Potion",
+         "quality":2,
+         "skill":20,
+         "slot":0,
+         "source":[
+            2
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "commondrop":true,
+         "displayName":"Recipe: Elixir of the Searching Eye",
+         "flags2":8192,
+         "id":22904,
+         "level":1,
+         "name":"Recipe: Elixir of the Searching Eye",
+         "quality":2,
+         "skill":25,
+         "slot":0,
+         "source":[
+            2
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Elixir of Major Agility",
+         "flags2":8194,
+         "id":22905,
+         "level":1,
+         "name":"Recipe: Elixir of Major Agility",
+         "quality":1,
+         "side":1,
+         "skill":30,
+         "slot":0,
+         "source":[
+            5
+         ],
+         "sourcemore":[
+            {
+               "n":"Logistics Officer Ulrike",
+               "t":1,
+               "ti":17657,
+               "z":3483
+            }
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Shrouding Potion",
+         "flags2":8192,
+         "id":22906,
+         "level":1,
+         "name":"Recipe: Shrouding Potion",
+         "quality":2,
+         "skill":35,
+         "slot":0,
+         "source":[
+            5
+         ],
+         "sourcemore":[
+            {
+               "n":"Mycah",
+               "t":1,
+               "ti":18382,
+               "z":3521
+            }
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Super Mana Potion",
+         "flags2":8192,
+         "id":22907,
+         "level":1,
+         "name":"Recipe: Super Mana Potion",
+         "quality":1,
+         "skill":40,
+         "slot":0,
+         "source":[
+            5
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Elixir of Major Firepower",
+         "flags2":8192,
+         "id":22908,
+         "level":1,
+         "name":"Recipe: Elixir of Major Firepower",
+         "quality":2,
+         "skill":45,
+         "slot":0,
+         "source":[
+            5
+         ],
+         "sourcemore":[
+            {
+               "n":"Quartermaster Enuril",
+               "t":1,
+               "ti":19331,
+               "z":3703
+            }
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Elixir of Major Defense",
+         "flags2":8192,
+         "id":22909,
+         "level":1,
+         "name":"Recipe: Elixir of Major Defense",
+         "quality":1,
+         "skill":45,
+         "slot":0,
+         "source":[
+            5
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Elixir of Major Shadow Power",
+         "flags2":8192,
+         "id":22910,
+         "level":27,
+         "name":"Recipe: Elixir of Major Shadow Power",
+         "quality":2,
+         "skill":50,
+         "slot":0,
+         "source":[
+            5
+         ],
+         "sourcemore":[
+            {
+               "n":"Nakodu",
+               "t":1,
+               "ti":21655,
+               "z":3703
+            }
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Major Dreamless Sleep Potion",
+         "flags2":8192,
+         "id":22911,
+         "level":27,
+         "name":"Recipe: Major Dreamless Sleep Potion",
+         "quality":1,
+         "skill":50,
+         "slot":0,
+         "source":[
+            5
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "commondrop":true,
+         "displayName":"Recipe: Heroic Potion",
+         "flags2":8192,
+         "id":22912,
+         "level":27,
+         "name":"Recipe: Heroic Potion",
+         "quality":2,
+         "skill":50,
+         "slot":0,
+         "source":[
+            2
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Haste Potion",
+         "flags2":8192,
+         "id":22913,
+         "level":27,
+         "name":"Recipe: Haste Potion",
+         "quality":2,
+         "skill":50,
+         "slot":0,
+         "source":[
+            2
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Destruction Potion",
+         "flags2":8192,
+         "id":22914,
+         "level":27,
+         "name":"Recipe: Destruction Potion",
+         "quality":2,
+         "skill":50,
+         "slot":0,
+         "source":[
+            2
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Transmute Primal Air to Fire",
+         "flags2":8192,
+         "id":22915,
+         "level":27,
+         "name":"Recipe: Transmute Primal Air to Fire",
+         "quality":2,
+         "skill":50,
+         "slot":0,
+         "source":[
+            5
+         ],
+         "sourcemore":[
+            {
+               "n":"Almaador",
+               "t":1,
+               "ti":21432,
+               "z":3703
+            }
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Transmute Primal Earth to Water",
+         "flags2":8192,
+         "id":22916,
+         "level":27,
+         "name":"Recipe: Transmute Primal Earth to Water",
+         "quality":2,
+         "skill":50,
+         "slot":0,
+         "source":[
+            5
+         ],
+         "sourcemore":[
+            {
+               "n":"Mycah",
+               "t":1,
+               "ti":18382,
+               "z":3521
+            }
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Transmute Primal Fire to Earth",
+         "flags2":8193,
+         "id":22917,
+         "level":27,
+         "name":"Recipe: Transmute Primal Fire to Earth",
+         "quality":2,
+         "side":2,
+         "skill":50,
+         "slot":0,
+         "source":[
+            5
+         ],
+         "sourcemore":[
+            {
+               "n":"Provisioner Nasela",
+               "t":1,
+               "ti":20241,
+               "z":3518
+            }
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Transmute Primal Water to Air",
+         "flags2":8192,
+         "id":22918,
+         "level":27,
+         "name":"Recipe: Transmute Primal Water to Air",
+         "quality":2,
+         "skill":50,
+         "slot":0,
+         "source":[
+            5
+         ],
+         "sourcemore":[
+            {
+               "n":"Fedryen Swiftspear",
+               "t":1,
+               "ti":17904,
+               "z":3521
+            }
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Elixir of Major Mageblood",
+         "flags2":8192,
+         "id":22919,
+         "level":1,
+         "name":"Recipe: Elixir of Major Mageblood",
+         "quality":2,
+         "skill":55,
+         "slot":0,
+         "source":[
+            2
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Major Fire Protection Potion",
+         "flags2":8192,
+         "id":22920,
+         "level":1,
+         "name":"Recipe: Major Fire Protection Potion",
+         "quality":2,
+         "skill":60,
+         "slot":0,
+         "source":[
+            2
+         ],
+         "sourcemore":[
+            {
+               "z":3849
+            }
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Major Frost Protection Potion",
+         "flags2":8192,
+         "id":22921,
+         "level":1,
+         "name":"Recipe: Major Frost Protection Potion",
+         "quality":2,
+         "skill":60,
+         "slot":0,
+         "source":[
+            2
+         ],
+         "sourcemore":[
+            {
+               "bd":1,
+               "n":"Nexus-Prince Shaffar",
+               "t":1,
+               "ti":18344,
+               "z":3792
+            }
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Major Nature Protection Potion",
+         "flags2":8192,
+         "id":22922,
+         "level":1,
+         "name":"Recipe: Major Nature Protection Potion",
+         "quality":1,
+         "skill":60,
+         "slot":0,
+         "source":[
+            5
+         ],
+         "sourcemore":[
+            {
+               "n":"Fedryen Swiftspear",
+               "t":1,
+               "ti":17904,
+               "z":3521
+            }
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Major Arcane Protection Potion",
+         "flags2":8192,
+         "id":22923,
+         "level":1,
+         "name":"Recipe: Major Arcane Protection Potion",
+         "quality":2,
+         "skill":60,
+         "slot":0,
+         "source":[
+            2
+         ],
+         "sourcemore":[
+            {
+               "n":"Vir'aani Arcanist",
+               "t":1,
+               "ti":17150,
+               "z":3518
+            }
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Major Shadow Protection Potion",
+         "flags2":8192,
+         "id":22924,
+         "level":1,
+         "name":"Recipe: Major Shadow Protection Potion",
+         "quality":2,
+         "skill":60,
+         "slot":0,
+         "source":[
+            2
+         ],
+         "sourcemore":[
+            {
+               "n":"Shadow Council Warlock",
+               "t":1,
+               "ti":21302,
+               "z":3520
+            }
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Major Holy Protection Potion",
+         "flags2":8192,
+         "id":22925,
+         "level":1,
+         "name":"Recipe: Major Holy Protection Potion",
+         "quality":2,
+         "skill":60,
+         "slot":0,
+         "source":[
+            2
+         ],
+         "sourcemore":[
+            {
+               "n":"Abyssal Flamebringer",
+               "t":1,
+               "ti":19973,
+               "z":3522
+            }
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "commondrop":true,
+         "displayName":"Recipe: Elixir of Empowerment",
+         "flags2":8192,
+         "id":22926,
+         "level":1,
+         "name":"Recipe: Elixir of Empowerment",
+         "quality":2,
+         "skill":65,
+         "slot":0,
+         "source":[
+            2
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Ironshield Potion",
+         "flags2":8192,
+         "id":22927,
+         "level":1,
+         "name":"Recipe: Ironshield Potion",
+         "quality":2,
+         "skill":65,
+         "slot":0,
+         "source":[
+            2
+         ],
+         "sourcemore":[
+            {
+               "bd":1,
+               "n":"Captain Skarloc",
+               "t":1,
+               "ti":17862,
+               "z":2367
+            }
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Transmute Primal Might",
+         "flags2":8192,
+         "id":23574,
+         "level":27,
+         "name":"Recipe: Transmute Primal Might",
+         "quality":2,
+         "skill":50,
+         "slot":0,
+         "source":[
+            5
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Elixir of Major Agility",
+         "flags2":8193,
+         "id":24001,
+         "level":1,
+         "name":"Recipe: Elixir of Major Agility",
+         "quality":1,
+         "side":2,
+         "skill":30,
+         "slot":0,
+         "source":[
+            5
+         ],
+         "sourcemore":[
+            {
+               "n":"Quartermaster Urgronn",
+               "t":1,
+               "ti":17585,
+               "z":3483
+            }
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Transmute Earthstorm Diamond",
+         "flags2":8192,
+         "id":25869,
+         "level":27,
+         "name":"Recipe: Transmute Earthstorm Diamond",
+         "quality":1,
+         "skill":50,
+         "slot":0,
+         "source":[
+            5
+         ],
+         "sourcemore":[
+            {
+               "n":"Fedryen Swiftspear",
+               "t":1,
+               "ti":17904,
+               "z":3521
+            }
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Transmute Skyfire Diamond",
+         "flags2":8194,
+         "id":25870,
+         "level":27,
+         "name":"Recipe: Transmute Skyfire Diamond",
+         "quality":1,
+         "side":1,
+         "skill":50,
+         "slot":0,
+         "source":[
+            5
+         ],
+         "sourcemore":[
+            {
+               "n":"Logistics Officer Ulrike",
+               "t":1,
+               "ti":17657,
+               "z":3483
+            }
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Transmute Skyfire Diamond",
+         "flags2":8193,
+         "id":29232,
+         "level":27,
+         "name":"Recipe: Transmute Skyfire Diamond",
+         "quality":1,
+         "side":2,
+         "skill":50,
+         "slot":0,
+         "source":[
+            5
+         ],
+         "sourcemore":[
+            {
+               "n":"Quartermaster Urgronn",
+               "t":1,
+               "ti":17585,
+               "z":3483
+            }
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Transmute Primal Fire to Earth",
+         "flags2":8194,
+         "id":30443,
+         "level":27,
+         "name":"Recipe: Transmute Primal Fire to Earth",
+         "quality":2,
+         "side":1,
+         "skill":50,
+         "slot":0,
+         "source":[
+            5
+         ],
+         "sourcemore":[
+            {
+               "n":"Trader Narasu",
+               "t":1,
+               "ti":20240,
+               "z":3518
+            }
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Flask of the Titans",
+         "flags2":8192,
+         "id":31354,
+         "level":25,
+         "name":"Recipe: Flask of the Titans",
+         "quality":2,
+         "skill":300,
+         "slot":0,
+         "source":[
+            5
+         ],
+         "sourcemore":[
+            {
+               "n":"Almaador",
+               "t":1,
+               "ti":21432,
+               "z":3703
+            }
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Flask of Supreme Power",
+         "flags2":8192,
+         "id":31355,
+         "level":25,
+         "name":"Recipe: Flask of Supreme Power",
+         "quality":2,
+         "skill":300,
+         "slot":0,
+         "source":[
+            5
+         ],
+         "sourcemore":[
+            {
+               "n":"Alurmi",
+               "t":1,
+               "ti":21643,
+               "z":440
+            }
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Flask of Distilled Wisdom",
+         "flags2":8192,
+         "id":31356,
+         "level":25,
+         "name":"Recipe: Flask of Distilled Wisdom",
+         "quality":2,
+         "skill":300,
+         "slot":0,
+         "source":[
+            5
+         ],
+         "sourcemore":[
+            {
+               "n":"Fedryen Swiftspear",
+               "t":1,
+               "ti":17904,
+               "z":3521
+            }
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Fel Strength Elixir",
+         "flags2":8192,
+         "id":31680,
+         "level":1,
+         "name":"Recipe: Fel Strength Elixir",
+         "quality":3,
+         "skill":35,
+         "slot":0,
+         "source":[
+            2
+         ],
+         "sourcemore":[
+            {
+               "z":3520
+            }
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Fel Regeneration Potion",
+         "flags2":8192,
+         "id":31681,
+         "level":1,
+         "name":"Recipe: Fel Regeneration Potion",
+         "quality":3,
+         "skill":45,
+         "slot":0,
+         "source":[
+            2
+         ],
+         "sourcemore":[
+            {
+               "z":3520
+            }
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Fel Mana Potion",
+         "flags2":8192,
+         "id":31682,
+         "level":1,
+         "name":"Recipe: Fel Mana Potion",
+         "quality":3,
+         "skill":60,
+         "slot":0,
+         "source":[
+            2
+         ],
+         "sourcemore":[
+            {
+               "z":3520
+            }
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Earthen Elixir",
+         "flags2":8192,
+         "id":32070,
+         "level":1,
+         "name":"Recipe: Earthen Elixir",
+         "quality":1,
+         "skill":20,
+         "slot":0,
+         "source":[
+            5
+         ],
+         "sourcemore":[
+            {
+               "n":"Fedryen Swiftspear",
+               "t":1,
+               "ti":17904,
+               "z":3521
+            }
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Elixir of Ironskin",
+         "flags2":8192,
+         "id":32071,
+         "level":1,
+         "name":"Recipe: Elixir of Ironskin",
+         "quality":1,
+         "skill":30,
+         "slot":0,
+         "source":[
+            5
+         ],
+         "sourcemore":[
+            {
+               "z":3518
+            }
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Elixir of Empowerment",
+         "flags2":8192,
+         "id":35294,
+         "level":1,
+         "name":"Recipe: Elixir of Empowerment",
+         "quality":2,
+         "skill":65,
+         "slot":0,
+         "source":[
+            2
+         ],
+         "sourcemore":[
+            {
+               "bd":1,
+               "n":"Kael'thas Sunstrider",
+               "t":1,
+               "ti":24664,
+               "z":4131
+            }
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Haste Potion",
+         "flags2":8192,
+         "id":35295,
+         "level":27,
+         "name":"Recipe: Haste Potion",
+         "quality":2,
+         "skill":50,
+         "slot":0,
+         "source":[
+            2
+         ],
+         "sourcemore":[
+            {
+               "bd":1,
+               "n":"Kael'thas Sunstrider",
+               "t":1,
+               "ti":24664,
+               "z":4131
+            }
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Guardian's Alchemist Stone",
+         "flags2":8192,
+         "id":35752,
+         "level":27,
+         "name":"Recipe: Guardian's Alchemist Stone",
+         "quality":1,
+         "skill":75,
+         "slot":0,
+         "source":[
+            5
+         ],
+         "sourcemore":[
+            {
+               "n":"Eldara Dawnrunner",
+               "t":1,
+               "ti":25032,
+               "z":4080
+            }
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Sorcerer's Alchemist Stone",
+         "flags2":8192,
+         "id":35753,
+         "level":27,
+         "name":"Recipe: Sorcerer's Alchemist Stone",
+         "quality":1,
+         "skill":75,
+         "slot":0,
+         "source":[
+            5
+         ],
+         "sourcemore":[
+            {
+               "n":"Eldara Dawnrunner",
+               "t":1,
+               "ti":25032,
+               "z":4080
+            }
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Redeemer's Alchemist Stone",
+         "flags2":8192,
+         "id":35754,
+         "level":27,
+         "name":"Recipe: Redeemer's Alchemist Stone",
+         "quality":1,
+         "skill":75,
+         "slot":0,
+         "source":[
+            5
+         ],
+         "sourcemore":[
+            {
+               "n":"Eldara Dawnrunner",
+               "t":1,
+               "ti":25032,
+               "z":4080
+            }
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Assassin's Alchemist Stone",
+         "flags2":8192,
+         "id":35755,
+         "level":27,
+         "name":"Recipe: Assassin's Alchemist Stone",
+         "quality":1,
+         "skill":75,
+         "slot":0,
+         "source":[
+            5
+         ],
+         "sourcemore":[
+            {
+               "n":"Eldara Dawnrunner",
+               "t":1,
+               "ti":25032,
+               "z":4080
+            }
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Mighty Arcane Protection Potion",
+         "flags2":8192,
+         "id":44564,
+         "level":1,
+         "name":"Recipe: Mighty Arcane Protection Potion",
+         "quality":2,
+         "skill":25,
+         "slot":0,
+         "source":[
+            2
+         ],
+         "sourcemore":[
+            {
+               "z":210
+            }
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Mighty Fire Protection Potion",
+         "flags2":8192,
+         "id":44565,
+         "level":1,
+         "name":"Recipe: Mighty Fire Protection Potion",
+         "quality":2,
+         "skill":25,
+         "slot":0,
+         "source":[
+            2
+         ],
+         "sourcemore":[
+            {
+               "z":210
+            }
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Mighty Frost Protection Potion",
+         "flags2":8192,
+         "id":44566,
+         "level":1,
+         "name":"Recipe: Mighty Frost Protection Potion",
+         "quality":2,
+         "skill":25,
+         "slot":0,
+         "source":[
+            2
+         ],
+         "sourcemore":[
+            {
+               "n":"Damned Apothecary",
+               "t":1,
+               "ti":32289,
+               "z":210
+            }
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Mighty Nature Protection Potion",
+         "flags2":8192,
+         "id":44567,
+         "level":1,
+         "name":"Recipe: Mighty Nature Protection Potion",
+         "quality":2,
+         "skill":25,
+         "slot":0,
+         "source":[
+            2
+         ],
+         "sourcemore":[
+            {
+               "n":"Cult Alchemist",
+               "t":1,
+               "ti":32290,
+               "z":210
+            }
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Mighty Shadow Protection Potion",
+         "flags2":8192,
+         "id":44568,
+         "level":1,
+         "name":"Recipe: Mighty Shadow Protection Potion",
+         "quality":2,
+         "skill":25,
+         "slot":0,
+         "source":[
+            2
+         ],
+         "sourcemore":[
+            {
+               "n":"Cultist Shard Watcher",
+               "t":1,
+               "ti":32349
+            }
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Cauldron of Battle",
+         "flags2":8192,
+         "id":65435,
+         "level":1,
+         "name":"Recipe: Cauldron of Battle",
+         "quality":1,
+         "skill":75,
+         "slot":0,
+         "source":[
+            5,
+            12
+         ],
+         "sourcemore":[
+            {
+               "n":"Mix Master",
+               "s":-1,
+               "t":10,
+               "ti":5465
+            }
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Big Cauldron of Battle",
+         "flags2":8192,
+         "id":65498,
+         "level":32,
+         "name":"Recipe: Big Cauldron of Battle",
+         "quality":1,
+         "skill":75,
+         "slot":0,
+         "source":[
+            5,
+            12
+         ],
+         "sourcemore":[
+            {
+               "n":"Better Leveling Through Chemistry",
+               "s":-1,
+               "t":10,
+               "ti":5024
+            }
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Vial of the Sands",
+         "flags2":8192,
+         "id":67538,
+         "level":32,
+         "name":"Recipe: Vial of the Sands",
+         "quality":4,
+         "skill":75,
+         "slot":0,
+         "source":[
+            2
+         ],
+         "sourcemore":[
+            {
+               "icon":"trade_archaeology_uldumcanopicjar",
+               "n":"Canopic Jar",
+               "q":1,
+               "t":3,
+               "ti":64657
+            }
+         ],
+         "subclass":6
+      },
+      {
+         "attainable":2,
+         "classs":9,
+         "displayName":"Recipe: Transmute Deepholm Iolite",
+         "flags2":8192,
+         "id":71955,
+         "level":32,
+         "name":"Recipe: Transmute Deepholm Iolite",
+         "quality":3,
+         "skill":75,
+         "slot":0,
+         "subclass":6
+      },
+      {
+         "attainable":2,
+         "classs":9,
+         "displayName":"Recipe: Transmute Elven Peridot",
+         "flags2":8192,
+         "id":71956,
+         "level":32,
+         "name":"Recipe: Transmute Elven Peridot",
+         "quality":3,
+         "skill":75,
+         "slot":0,
+         "subclass":6
+      },
+      {
+         "attainable":2,
+         "classs":9,
+         "displayName":"Recipe: Transmute Lightstone",
+         "flags2":8192,
+         "id":71957,
+         "level":32,
+         "name":"Recipe: Transmute Lightstone",
+         "quality":3,
+         "skill":75,
+         "slot":0,
+         "subclass":6
+      },
+      {
+         "attainable":2,
+         "classs":9,
+         "displayName":"Recipe: Transmute Lava Coral",
+         "flags2":8192,
+         "id":71958,
+         "level":32,
+         "name":"Recipe: Transmute Lava Coral",
+         "quality":3,
+         "skill":75,
+         "slot":0,
+         "subclass":6
+      },
+      {
+         "attainable":2,
+         "classs":9,
+         "displayName":"Recipe: Transmute Shadow Spinel",
+         "flags2":8192,
+         "id":71959,
+         "level":32,
+         "name":"Recipe: Transmute Shadow Spinel",
+         "quality":3,
+         "skill":75,
+         "slot":0,
+         "subclass":6
+      },
+      {
+         "attainable":2,
+         "classs":9,
+         "displayName":"Recipe: Transmute Queen's Garnet",
+         "flags2":8192,
+         "id":71960,
+         "level":32,
+         "name":"Recipe: Transmute Queen's Garnet",
+         "quality":3,
+         "skill":75,
+         "slot":0,
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"A Treatise on the Alchemy of Draenor",
+         "flags2":8192,
+         "id":109558,
+         "level":40,
+         "name":"A Treatise on the Alchemy of Draenor",
+         "quality":3,
+         "reqlevel":10,
+         "skill":1,
+         "slot":0,
+         "source":[
+            4,
+            5
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Mighty Shadow Protection Potion",
+         "flags2":8192,
+         "id":112022,
+         "level":1,
+         "name":"Recipe: Mighty Shadow Protection Potion",
+         "quality":1,
+         "reqlevel":10,
+         "skill":400,
+         "slot":0,
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Draenic Philosopher's Stone",
+         "flags2":24576,
+         "id":112023,
+         "level":40,
+         "name":"Recipe: Draenic Philosopher's Stone",
+         "quality":1,
+         "reqlevel":10,
+         "skill":1,
+         "slot":0,
+         "source":[
+            5
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Draenic Agility Flask",
+         "flags2":8192,
+         "id":112024,
+         "level":40,
+         "name":"Recipe: Draenic Agility Flask",
+         "quality":1,
+         "reqlevel":10,
+         "skill":1,
+         "slot":0,
+         "source":[
+            5
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Draenic Intellect Flask",
+         "flags2":8192,
+         "id":112026,
+         "level":40,
+         "name":"Recipe: Draenic Intellect Flask",
+         "quality":1,
+         "reqlevel":10,
+         "skill":1,
+         "slot":0,
+         "source":[
+            5
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Draenic Strength Flask",
+         "flags2":8192,
+         "id":112027,
+         "level":40,
+         "name":"Recipe: Draenic Strength Flask",
+         "quality":1,
+         "reqlevel":10,
+         "skill":1,
+         "slot":0,
+         "source":[
+            5
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Draenic Stamina Flask",
+         "flags2":8192,
+         "id":112030,
+         "level":40,
+         "name":"Recipe: Draenic Stamina Flask",
+         "quality":1,
+         "reqlevel":10,
+         "skill":1,
+         "slot":0,
+         "source":[
+            5
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Greater Draenic Agility Flask",
+         "flags2":24576,
+         "id":112031,
+         "level":40,
+         "name":"Recipe: Greater Draenic Agility Flask",
+         "quality":1,
+         "reqlevel":10,
+         "skill":1,
+         "slot":0,
+         "source":[
+            5
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Greater Draenic Intellect Flask",
+         "flags2":24576,
+         "id":112033,
+         "level":40,
+         "name":"Recipe: Greater Draenic Intellect Flask",
+         "quality":1,
+         "reqlevel":10,
+         "skill":1,
+         "slot":0,
+         "source":[
+            5
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Greater Draenic Strength Flask",
+         "flags2":24576,
+         "id":112034,
+         "level":40,
+         "name":"Recipe: Greater Draenic Strength Flask",
+         "quality":1,
+         "reqlevel":10,
+         "skill":1,
+         "slot":0,
+         "source":[
+            5
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Greater Draenic Stamina Flask",
+         "flags2":24576,
+         "id":112037,
+         "level":40,
+         "name":"Recipe: Greater Draenic Stamina Flask",
+         "quality":1,
+         "reqlevel":10,
+         "skill":1,
+         "slot":0,
+         "source":[
+            5
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Draenic Agility Potion",
+         "flags2":8192,
+         "id":112038,
+         "level":40,
+         "name":"Recipe: Draenic Agility Potion",
+         "quality":1,
+         "reqlevel":10,
+         "skill":1,
+         "slot":0,
+         "source":[
+            5
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Draenic Intellect Potion",
+         "flags2":8192,
+         "id":112039,
+         "level":40,
+         "name":"Recipe: Draenic Intellect Potion",
+         "quality":1,
+         "reqlevel":10,
+         "skill":1,
+         "slot":0,
+         "source":[
+            5
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Draenic Strength Potion",
+         "flags2":8192,
+         "id":112040,
+         "level":40,
+         "name":"Recipe: Draenic Strength Potion",
+         "quality":1,
+         "reqlevel":10,
+         "skill":1,
+         "slot":0,
+         "source":[
+            5
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Draenic Armor Potion",
+         "flags2":8192,
+         "id":112041,
+         "level":40,
+         "name":"Recipe: Draenic Armor Potion",
+         "quality":1,
+         "reqlevel":10,
+         "skill":1,
+         "slot":0,
+         "source":[
+            5
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Draenic Channeled Mana Potion",
+         "flags2":8192,
+         "id":112042,
+         "level":40,
+         "name":"Recipe: Draenic Channeled Mana Potion",
+         "quality":1,
+         "reqlevel":10,
+         "skill":1,
+         "slot":0,
+         "source":[
+            5
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Draenic Mana Potion",
+         "flags2":8192,
+         "id":112043,
+         "level":40,
+         "name":"Recipe: Draenic Mana Potion",
+         "quality":1,
+         "reqlevel":10,
+         "skill":1,
+         "slot":0,
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Draenic Rejuvenation Potion",
+         "flags2":8192,
+         "id":112045,
+         "level":40,
+         "name":"Recipe: Draenic Rejuvenation Potion",
+         "quality":1,
+         "reqlevel":10,
+         "skill":1,
+         "slot":0,
+         "source":[
+            5
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Transmorphic Tincture",
+         "flags2":8192,
+         "id":112047,
+         "level":40,
+         "name":"Recipe: Transmorphic Tincture",
+         "quality":1,
+         "reqlevel":10,
+         "skill":1,
+         "slot":0,
+         "source":[
+            5
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Draenor Blacksmithing",
+         "flags2":8192,
+         "id":115356,
+         "level":40,
+         "name":"Draenor Blacksmithing",
+         "quality":3,
+         "reqlevel":10,
+         "skill":1,
+         "slot":0,
+         "source":[
+            4,
+            5
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Draenor Tailoring",
+         "flags2":8192,
+         "id":115357,
+         "level":40,
+         "name":"Draenor Tailoring",
+         "quality":3,
+         "reqlevel":10,
+         "skill":1,
+         "slot":0,
+         "source":[
+            4,
+            5
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Draenor Leatherworking",
+         "flags2":8192,
+         "id":115358,
+         "level":40,
+         "name":"Draenor Leatherworking",
+         "quality":3,
+         "reqlevel":10,
+         "skill":1,
+         "slot":0,
+         "source":[
+            4,
+            5
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Draenor Jewelcrafting",
+         "flags2":8192,
+         "id":115359,
+         "level":40,
+         "name":"Draenor Jewelcrafting",
+         "quality":3,
+         "reqlevel":10,
+         "skill":1,
+         "slot":0,
+         "source":[
+            4,
+            5
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Secrets of Draenor Alchemy",
+         "flags2":24576,
+         "id":120132,
+         "level":40,
+         "name":"Recipe: Secrets of Draenor Alchemy",
+         "quality":1,
+         "reqlevel":10,
+         "skill":1,
+         "slot":0,
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Tome of Sorcerous Elements",
+         "flags2":8192,
+         "id":122599,
+         "level":40,
+         "name":"Tome of Sorcerous Elements",
+         "quality":1,
+         "reqlevel":10,
+         "skill":1,
+         "slot":0,
+         "source":[
+            5
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Savage Blood",
+         "flags2":8192,
+         "id":122600,
+         "level":40,
+         "name":"Recipe: Savage Blood",
+         "quality":1,
+         "reqlevel":10,
+         "skill":1,
+         "slot":0,
+         "source":[
+            5
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Tome of the Stones",
+         "flags2":8192,
+         "id":122605,
+         "level":40,
+         "name":"Tome of the Stones",
+         "quality":1,
+         "reqlevel":10,
+         "skill":1,
+         "slot":0,
+         "source":[
+            5
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Primal Alchemy",
+         "flags2":8192,
+         "id":122710,
+         "level":40,
+         "name":"Recipe: Primal Alchemy",
+         "quality":1,
+         "reqlevel":10,
+         "skill":1,
+         "slot":0,
+         "source":[
+            5
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Ancient Healing Potion",
+         "flags2":8192,
+         "id":127898,
+         "level":1,
+         "name":"Recipe: Ancient Healing Potion",
+         "namedesc":"Rank 1",
+         "quality":1,
+         "reqlevel":10,
+         "skill":1,
+         "slot":0,
+         "source":[
+            5
+         ],
+         "sourcemore":[
+            {
+               "n":"Patricia Egan",
+               "t":1,
+               "ti":92457,
+               "z":7502
+            }
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Ancient Mana Potion",
+         "flags2":8192,
+         "id":127899,
+         "level":1,
+         "name":"Recipe: Ancient Mana Potion",
+         "namedesc":"Rank 1",
+         "quality":1,
+         "reqlevel":10,
+         "skill":1,
+         "slot":0,
+         "source":[
+            5
+         ],
+         "sourcemore":[
+            {
+               "n":"Patricia Egan",
+               "t":1,
+               "ti":92457,
+               "z":7502
+            }
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Ancient Rejuvenation Potion",
+         "flags2":8192,
+         "id":127900,
+         "level":1,
+         "name":"Recipe: Ancient Rejuvenation Potion",
+         "namedesc":"Rank 1",
+         "quality":1,
+         "reqlevel":10,
+         "skill":1,
+         "slot":0,
+         "source":[
+            5
+         ],
+         "sourcemore":[
+            {
+               "n":"Patricia Egan",
+               "t":1,
+               "ti":92457,
+               "z":7502
+            }
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Draught of Raw Magic",
+         "flags2":8192,
+         "id":127901,
+         "level":1,
+         "name":"Recipe: Draught of Raw Magic",
+         "namedesc":"Rank 1",
+         "quality":1,
+         "reqlevel":10,
+         "skill":1,
+         "slot":0,
+         "source":[
+            5
+         ],
+         "sourcemore":[
+            {
+               "n":"Patricia Egan",
+               "t":1,
+               "ti":92457,
+               "z":7502
+            }
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Sylvan Elixir",
+         "flags2":8192,
+         "id":127902,
+         "level":1,
+         "name":"Recipe: Sylvan Elixir",
+         "namedesc":"Rank 1",
+         "quality":1,
+         "reqlevel":10,
+         "skill":1,
+         "slot":0,
+         "source":[
+            5
+         ],
+         "sourcemore":[
+            {
+               "n":"Patricia Egan",
+               "t":1,
+               "ti":92457,
+               "z":7502
+            }
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Avalanche Elixir",
+         "flags2":8192,
+         "id":127903,
+         "level":1,
+         "name":"Recipe: Avalanche Elixir",
+         "namedesc":"Rank 1",
+         "quality":1,
+         "reqlevel":10,
+         "skill":1,
+         "slot":0,
+         "source":[
+            5
+         ],
+         "sourcemore":[
+            {
+               "n":"Patricia Egan",
+               "t":1,
+               "ti":92457,
+               "z":7502
+            }
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Skaggldrynk",
+         "flags2":8192,
+         "id":127904,
+         "level":1,
+         "name":"Recipe: Skaggldrynk",
+         "namedesc":"Rank 1",
+         "quality":1,
+         "reqlevel":10,
+         "skill":1,
+         "slot":0,
+         "source":[
+            5
+         ],
+         "sourcemore":[
+            {
+               "n":"Patricia Egan",
+               "t":1,
+               "ti":92457,
+               "z":7502
+            }
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Skystep Potion",
+         "flags2":8192,
+         "id":127905,
+         "level":1,
+         "name":"Recipe: Skystep Potion",
+         "namedesc":"Rank 1",
+         "quality":1,
+         "reqlevel":10,
+         "skill":1,
+         "slot":0,
+         "source":[
+            5
+         ],
+         "sourcemore":[
+            {
+               "n":"Patricia Egan",
+               "t":1,
+               "ti":92457,
+               "z":7502
+            }
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Infernal Alchemist Stone",
+         "flags2":8192,
+         "id":127906,
+         "level":1,
+         "name":"Recipe: Infernal Alchemist Stone",
+         "namedesc":"Rank 1",
+         "quality":1,
+         "reqlevel":10,
+         "skill":1,
+         "slot":0,
+         "source":[
+            5
+         ],
+         "sourcemore":[
+            {
+               "n":"Patricia Egan",
+               "t":1,
+               "ti":92457,
+               "z":7502
+            }
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Potion of Deadly Grace",
+         "flags2":8192,
+         "id":127907,
+         "level":1,
+         "name":"Recipe: Potion of Deadly Grace",
+         "namedesc":"Rank 1",
+         "quality":1,
+         "reqlevel":10,
+         "skill":1,
+         "slot":0,
+         "source":[
+            5
+         ],
+         "sourcemore":[
+            {
+               "n":"Patricia Egan",
+               "t":1,
+               "ti":92457,
+               "z":7502
+            }
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Potion of the Old War",
+         "flags2":8192,
+         "id":127908,
+         "level":1,
+         "name":"Recipe: Potion of the Old War",
+         "namedesc":"Rank 1",
+         "quality":1,
+         "reqlevel":10,
+         "skill":1,
+         "slot":0,
+         "source":[
+            5
+         ],
+         "sourcemore":[
+            {
+               "n":"Patricia Egan",
+               "t":1,
+               "ti":92457,
+               "z":7502
+            }
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Unbending Potion",
+         "flags2":8192,
+         "id":127909,
+         "level":1,
+         "name":"Recipe: Unbending Potion",
+         "namedesc":"Rank 1",
+         "quality":1,
+         "reqlevel":10,
+         "skill":1,
+         "slot":0,
+         "source":[
+            5
+         ],
+         "sourcemore":[
+            {
+               "n":"Patricia Egan",
+               "t":1,
+               "ti":92457,
+               "z":7502
+            }
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Leytorrent Potion",
+         "flags2":8192,
+         "id":127910,
+         "level":1,
+         "name":"Recipe: Leytorrent Potion",
+         "namedesc":"Rank 1",
+         "quality":1,
+         "reqlevel":10,
+         "skill":1,
+         "slot":0,
+         "source":[
+            5
+         ],
+         "sourcemore":[
+            {
+               "n":"Patricia Egan",
+               "t":1,
+               "ti":92457,
+               "z":7502
+            }
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Flask of the Whispered Pact",
+         "flags2":8192,
+         "id":127911,
+         "level":1,
+         "name":"Recipe: Flask of the Whispered Pact",
+         "namedesc":"Rank 1",
+         "quality":1,
+         "reqlevel":10,
+         "skill":1,
+         "slot":0,
+         "source":[
+            5
+         ],
+         "sourcemore":[
+            {
+               "n":"Patricia Egan",
+               "t":1,
+               "ti":92457,
+               "z":7502
+            }
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Flask of the Seventh Demon",
+         "flags2":8192,
+         "id":127912,
+         "level":1,
+         "name":"Recipe: Flask of the Seventh Demon",
+         "namedesc":"Rank 1",
+         "quality":1,
+         "reqlevel":10,
+         "skill":1,
+         "slot":0,
+         "source":[
+            5
+         ],
+         "sourcemore":[
+            {
+               "n":"Patricia Egan",
+               "t":1,
+               "ti":92457,
+               "z":7502
+            }
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Flask of the Countless Armies",
+         "flags2":8192,
+         "id":127913,
+         "level":1,
+         "name":"Recipe: Flask of the Countless Armies",
+         "namedesc":"Rank 1",
+         "quality":1,
+         "reqlevel":10,
+         "skill":1,
+         "slot":0,
+         "source":[
+            5
+         ],
+         "sourcemore":[
+            {
+               "n":"Patricia Egan",
+               "t":1,
+               "ti":92457,
+               "z":7502
+            }
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Flask of Ten Thousand Scars",
+         "flags2":8192,
+         "id":127914,
+         "level":1,
+         "name":"Recipe: Flask of Ten Thousand Scars",
+         "namedesc":"Rank 1",
+         "quality":1,
+         "reqlevel":10,
+         "skill":1,
+         "slot":0,
+         "source":[
+            5
+         ],
+         "sourcemore":[
+            {
+               "n":"Patricia Egan",
+               "t":1,
+               "ti":92457,
+               "z":7502
+            }
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Spirit Cauldron",
+         "flags2":24576,
+         "id":127915,
+         "level":1,
+         "name":"Recipe: Spirit Cauldron",
+         "namedesc":"Rank 1",
+         "quality":1,
+         "reqlevel":10,
+         "skill":100,
+         "slot":0,
+         "source":[
+            5
+         ],
+         "sourcemore":[
+            {
+               "n":"Patricia Egan",
+               "t":1,
+               "ti":92457,
+               "z":7502
+            }
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Ancient Healing Potion",
+         "flags2":8192,
+         "id":127917,
+         "level":1,
+         "name":"Recipe: Ancient Healing Potion",
+         "namedesc":"Rank 2",
+         "quality":1,
+         "reqlevel":10,
+         "skill":1,
+         "slot":0,
+         "source":[
+            5
+         ],
+         "sourcemore":[
+            {
+               "n":"Patricia Egan",
+               "t":1,
+               "ti":92457,
+               "z":7502
+            }
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Ancient Mana Potion",
+         "flags2":8192,
+         "id":127918,
+         "level":1,
+         "name":"Recipe: Ancient Mana Potion",
+         "namedesc":"Rank 2",
+         "quality":1,
+         "reqlevel":10,
+         "skill":1,
+         "slot":0,
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Ancient Rejuvenation Potion",
+         "flags2":8192,
+         "id":127919,
+         "level":1,
+         "name":"Recipe: Ancient Rejuvenation Potion",
+         "namedesc":"Rank 2",
+         "quality":1,
+         "reqlevel":10,
+         "skill":1,
+         "slot":0,
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Draught of Raw Magic",
+         "flags2":8192,
+         "id":127920,
+         "level":1,
+         "name":"Recipe: Draught of Raw Magic",
+         "namedesc":"Rank 2",
+         "quality":1,
+         "reqlevel":10,
+         "skill":1,
+         "slot":0,
+         "source":[
+            4
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Sylvan Elixir",
+         "flags2":8192,
+         "id":127921,
+         "level":1,
+         "name":"Recipe: Sylvan Elixir",
+         "namedesc":"Rank 2",
+         "quality":1,
+         "reqlevel":10,
+         "skill":1,
+         "slot":0,
+         "source":[
+            4
+         ],
+         "sourcemore":[
+            {
+               "c":7558,
+               "c2":14,
+               "n":"Work Order: Sylvan Elixirs",
+               "t":5,
+               "ti":41658
+            }
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Avalanche Elixir",
+         "flags2":8192,
+         "id":127922,
+         "level":1,
+         "name":"Recipe: Avalanche Elixir",
+         "namedesc":"Rank 2",
+         "quality":1,
+         "reqlevel":10,
+         "skill":1,
+         "slot":0,
+         "source":[
+            4
+         ],
+         "sourcemore":[
+            {
+               "c":7503,
+               "c2":14,
+               "n":"Work Order: Avalanche Elixirs",
+               "t":5,
+               "ti":41659
+            }
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Skaggldrynk",
+         "flags2":8192,
+         "id":127923,
+         "level":1,
+         "name":"Recipe: Skaggldrynk",
+         "namedesc":"Rank 2",
+         "quality":1,
+         "reqlevel":10,
+         "skill":1,
+         "slot":0,
+         "source":[
+            4
+         ],
+         "sourcemore":[
+            {
+               "c":7541,
+               "c2":14,
+               "n":"Work Order: Skaggldrynk",
+               "t":5,
+               "ti":41660
+            }
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Skystep Potion",
+         "flags2":8192,
+         "id":127924,
+         "level":1,
+         "name":"Recipe: Skystep Potion",
+         "namedesc":"Rank 2",
+         "quality":1,
+         "reqlevel":10,
+         "skill":1,
+         "slot":0,
+         "source":[
+            4
+         ],
+         "sourcemore":[
+            {
+               "c":7637,
+               "c2":14,
+               "n":"Work Order: Skystep Potions",
+               "t":5,
+               "ti":41661
+            }
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "commondrop":true,
+         "displayName":"Recipe: Infernal Alchemist Stone",
+         "flags2":8192,
+         "id":127925,
+         "level":1,
+         "name":"Recipe: Infernal Alchemist Stone",
+         "namedesc":"Rank 2",
+         "quality":1,
+         "reqlevel":10,
+         "skill":1,
+         "slot":0,
+         "source":[
+            2
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Potion of Deadly Grace",
+         "flags2":8192,
+         "id":127926,
+         "level":1,
+         "name":"Recipe: Potion of Deadly Grace",
+         "namedesc":"Rank 2",
+         "quality":1,
+         "reqlevel":10,
+         "skill":1,
+         "slot":0,
+         "source":[
+            2
+         ],
+         "sourcemore":[
+            {
+               "z":8079
+            }
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Potion of the Old War",
+         "flags2":8192,
+         "id":127927,
+         "level":1,
+         "name":"Recipe: Potion of the Old War",
+         "namedesc":"Rank 2",
+         "quality":1,
+         "reqlevel":10,
+         "skill":1,
+         "slot":0,
+         "source":[
+            2
+         ],
+         "sourcemore":[
+            {
+               "z":7855
+            }
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Unbending Potion",
+         "flags2":8192,
+         "id":127928,
+         "level":1,
+         "name":"Recipe: Unbending Potion",
+         "namedesc":"Rank 2",
+         "quality":1,
+         "reqlevel":10,
+         "skill":1,
+         "slot":0,
+         "source":[
+            2
+         ],
+         "sourcemore":[
+            {
+               "z":7546
+            }
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Leytorrent Potion",
+         "flags2":8192,
+         "id":127929,
+         "level":1,
+         "name":"Recipe: Leytorrent Potion",
+         "namedesc":"Rank 2",
+         "quality":1,
+         "reqlevel":10,
+         "skill":1,
+         "slot":0,
+         "source":[
+            2
+         ],
+         "sourcemore":[
+            {
+               "bd":1,
+               "n":"Wrath of Azshara",
+               "t":1,
+               "ti":96028,
+               "z":8040
+            }
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Flask of the Whispered Pact",
+         "flags2":8192,
+         "id":127930,
+         "level":1,
+         "name":"Recipe: Flask of the Whispered Pact",
+         "namedesc":"Rank 2",
+         "quality":1,
+         "reqlevel":10,
+         "skill":1,
+         "slot":0,
+         "source":[
+            2
+         ],
+         "sourcemore":[
+            {
+               "z":7805
+            }
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Flask of the Seventh Demon",
+         "flags2":8192,
+         "id":127931,
+         "level":1,
+         "name":"Recipe: Flask of the Seventh Demon",
+         "namedesc":"Rank 2",
+         "quality":1,
+         "reqlevel":10,
+         "skill":1,
+         "slot":0,
+         "source":[
+            2
+         ],
+         "sourcemore":[
+            {
+               "n":"Cordana Felsong",
+               "t":1,
+               "ti":95888,
+               "z":7787
+            }
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Flask of the Countless Armies",
+         "flags2":8192,
+         "id":127932,
+         "level":1,
+         "name":"Recipe: Flask of the Countless Armies",
+         "namedesc":"Rank 2",
+         "quality":1,
+         "reqlevel":10,
+         "skill":1,
+         "slot":0,
+         "source":[
+            2
+         ],
+         "sourcemore":[
+            {
+               "bd":1,
+               "n":"Waterlogged Cache of Ancient Relics",
+               "t":2,
+               "ti":246036,
+               "z":7812
+            }
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Flask of Ten Thousand Scars",
+         "flags2":8192,
+         "id":127933,
+         "level":1,
+         "name":"Recipe: Flask of Ten Thousand Scars",
+         "namedesc":"Rank 2",
+         "quality":1,
+         "reqlevel":10,
+         "skill":1,
+         "slot":0,
+         "source":[
+            2
+         ],
+         "sourcemore":[
+            {
+               "bd":1,
+               "n":"Spoils of the Worthy",
+               "t":2,
+               "ti":245847,
+               "z":7672
+            }
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Spirit Cauldron",
+         "flags2":8192,
+         "id":127934,
+         "level":1,
+         "name":"Recipe: Spirit Cauldron",
+         "namedesc":"Rank 2",
+         "quality":1,
+         "reqlevel":10,
+         "skill":100,
+         "slot":0,
+         "source":[
+            2
+         ],
+         "sourcemore":[
+            {
+               "bd":1,
+               "n":"Spoils of the Nightmare",
+               "t":2,
+               "ti":254168,
+               "z":8026
+            }
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Ancient Healing Potion",
+         "flags2":8192,
+         "id":127935,
+         "level":1,
+         "name":"Recipe: Ancient Healing Potion",
+         "namedesc":"Rank 3",
+         "quality":1,
+         "reqlevel":10,
+         "skill":1,
+         "slot":0,
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Ancient Mana Potion",
+         "flags2":8192,
+         "id":127936,
+         "level":1,
+         "name":"Recipe: Ancient Mana Potion",
+         "namedesc":"Rank 3",
+         "quality":1,
+         "reqlevel":10,
+         "skill":1,
+         "slot":0,
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Ancient Rejuvenation Potion",
+         "flags2":8192,
+         "id":127937,
+         "level":1,
+         "name":"Recipe: Ancient Rejuvenation Potion",
+         "namedesc":"Rank 3",
+         "quality":1,
+         "reqlevel":10,
+         "skill":1,
+         "slot":0,
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Draught of Raw Magic",
+         "flags2":8192,
+         "id":127938,
+         "level":1,
+         "name":"Recipe: Draught of Raw Magic",
+         "namedesc":"Rank 3",
+         "quality":1,
+         "reqlevel":10,
+         "skill":1,
+         "slot":0,
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Sylvan Elixir",
+         "flags2":8192,
+         "id":127939,
+         "level":1,
+         "name":"Recipe: Sylvan Elixir",
+         "namedesc":"Rank 3",
+         "quality":1,
+         "reqlevel":10,
+         "skill":1,
+         "slot":0,
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Avalanche Elixir",
+         "flags2":8192,
+         "id":127940,
+         "level":1,
+         "name":"Recipe: Avalanche Elixir",
+         "namedesc":"Rank 3",
+         "quality":1,
+         "reqlevel":10,
+         "skill":1,
+         "slot":0,
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Skaggldrynk",
+         "flags2":8192,
+         "id":127941,
+         "level":1,
+         "name":"Recipe: Skaggldrynk",
+         "namedesc":"Rank 3",
+         "quality":1,
+         "reqlevel":10,
+         "skill":1,
+         "slot":0,
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Skystep Potion",
+         "flags2":8192,
+         "id":127942,
+         "level":1,
+         "name":"Recipe: Skystep Potion",
+         "namedesc":"Rank 3",
+         "quality":1,
+         "reqlevel":10,
+         "skill":1,
+         "slot":0,
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Infernal Alchemist Stone",
+         "flags2":8192,
+         "id":127943,
+         "level":1,
+         "name":"Recipe: Infernal Alchemist Stone",
+         "namedesc":"Rank 3",
+         "quality":1,
+         "reqlevel":10,
+         "skill":1,
+         "slot":0,
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Potion of Deadly Grace",
+         "flags2":8192,
+         "id":127944,
+         "level":1,
+         "name":"Recipe: Potion of Deadly Grace",
+         "namedesc":"Rank 3",
+         "quality":1,
+         "reqlevel":10,
+         "skill":1,
+         "slot":0,
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Potion of the Old War",
+         "flags2":8192,
+         "id":127945,
+         "level":1,
+         "name":"Recipe: Potion of the Old War",
+         "namedesc":"Rank 3",
+         "quality":1,
+         "reqlevel":10,
+         "skill":1,
+         "slot":0,
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Unbending Potion",
+         "flags2":8192,
+         "id":127946,
+         "level":1,
+         "name":"Recipe: Unbending Potion",
+         "namedesc":"Rank 3",
+         "quality":1,
+         "reqlevel":10,
+         "skill":1,
+         "slot":0,
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Leytorrent Potion",
+         "flags2":8192,
+         "id":127947,
+         "level":1,
+         "name":"Recipe: Leytorrent Potion",
+         "namedesc":"Rank 3",
+         "quality":1,
+         "reqlevel":10,
+         "skill":1,
+         "slot":0,
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Flask of the Whispered Pact",
+         "flags2":8192,
+         "id":127948,
+         "level":1,
+         "name":"Recipe: Flask of the Whispered Pact",
+         "namedesc":"Rank 3",
+         "quality":1,
+         "reqlevel":10,
+         "skill":1,
+         "slot":0,
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Flask of the Seventh Demon",
+         "flags2":8192,
+         "id":127949,
+         "level":1,
+         "name":"Recipe: Flask of the Seventh Demon",
+         "namedesc":"Rank 3",
+         "quality":1,
+         "reqlevel":10,
+         "skill":1,
+         "slot":0,
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Flask of the Countless Armies",
+         "flags2":8192,
+         "id":127950,
+         "level":1,
+         "name":"Recipe: Flask of the Countless Armies",
+         "namedesc":"Rank 3",
+         "quality":1,
+         "reqlevel":10,
+         "skill":1,
+         "slot":0,
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Flask of Ten Thousand Scars",
+         "flags2":8192,
+         "id":127951,
+         "level":1,
+         "name":"Recipe: Flask of Ten Thousand Scars",
+         "namedesc":"Rank 3",
+         "quality":1,
+         "reqlevel":10,
+         "skill":1,
+         "slot":0,
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Spirit Cauldron",
+         "flags2":8192,
+         "id":127952,
+         "level":1,
+         "name":"Recipe: Spirit Cauldron",
+         "namedesc":"Rank 3",
+         "quality":1,
+         "reqlevel":10,
+         "skill":100,
+         "slot":0,
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Wild Transmutation",
+         "flags2":8192,
+         "id":128209,
+         "level":1,
+         "name":"Recipe: Wild Transmutation",
+         "namedesc":"Rank 1",
+         "quality":1,
+         "reqlevel":10,
+         "skill":1,
+         "slot":0,
+         "source":[
+            5
+         ],
+         "sourcemore":[
+            {
+               "n":"Patricia Egan",
+               "t":1,
+               "ti":92457,
+               "z":7502
+            }
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Wild Transmutation",
+         "flags2":8192,
+         "id":128210,
+         "level":1,
+         "name":"Recipe: Wild Transmutation",
+         "namedesc":"Rank 2",
+         "quality":1,
+         "reqlevel":10,
+         "skill":1,
+         "slot":0,
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Wild Transmutation",
+         "flags2":8192,
+         "id":128211,
+         "level":1,
+         "name":"Recipe: Wild Transmutation",
+         "namedesc":"Rank 3",
+         "quality":1,
+         "reqlevel":10,
+         "skill":1,
+         "slot":0,
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "commondrop":true,
+         "displayName":"Recipe: Potion of Prolonged Power",
+         "flags2":8192,
+         "id":142119,
+         "level":1,
+         "name":"Recipe: Potion of Prolonged Power",
+         "namedesc":"Rank 1",
+         "quality":1,
+         "reqlevel":10,
+         "skill":1,
+         "slot":0,
+         "source":[
+            2
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Potion of Prolonged Power",
+         "flags2":8192,
+         "id":142120,
+         "level":1,
+         "name":"Recipe: Potion of Prolonged Power",
+         "namedesc":"Rank 2",
+         "quality":1,
+         "reqlevel":10,
+         "skill":1,
+         "slot":0,
+         "source":[
+            5
+         ],
+         "sourcemore":[
+            {
+               "z":7637
+            }
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Potion of Prolonged Power",
+         "flags2":8192,
+         "id":142121,
+         "level":1,
+         "name":"Recipe: Potion of Prolonged Power",
+         "namedesc":"Rank 3",
+         "quality":1,
+         "reqlevel":10,
+         "skill":1,
+         "slot":0,
+         "source":[
+            2
+         ],
+         "sourcemore":[
+            {
+               "z":7637
+            }
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Lightblood Elixir",
+         "flags2":8192,
+         "id":151657,
+         "level":1,
+         "name":"Recipe: Lightblood Elixir",
+         "namedesc":"Rank 1",
+         "quality":1,
+         "reqlevel":10,
+         "skill":1,
+         "slot":0,
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Lightblood Elixir",
+         "flags2":8192,
+         "id":151658,
+         "level":1,
+         "name":"Recipe: Lightblood Elixir",
+         "namedesc":"Rank 2",
+         "quality":1,
+         "reqlevel":10,
+         "skill":1,
+         "slot":0,
+         "source":[
+            4
+         ],
+         "sourcemore":[
+            {
+               "c":8574,
+               "c2":14,
+               "n":"Work Order: Lightblood Elixirs",
+               "t":5,
+               "ti":48318
+            }
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Lightblood Elixir",
+         "flags2":8192,
+         "id":151659,
+         "level":1,
+         "name":"Recipe: Lightblood Elixir",
+         "namedesc":"Rank 3",
+         "quality":1,
+         "reqlevel":10,
+         "skill":1,
+         "slot":0,
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Tears of the Naaru",
+         "flags2":8192,
+         "id":151703,
+         "level":1,
+         "name":"Recipe: Tears of the Naaru",
+         "namedesc":"Rank 1",
+         "quality":1,
+         "reqlevel":10,
+         "skill":1,
+         "slot":0,
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Tears of the Naaru",
+         "flags2":8192,
+         "id":151704,
+         "level":1,
+         "name":"Recipe: Tears of the Naaru",
+         "namedesc":"Rank 2",
+         "quality":1,
+         "reqlevel":10,
+         "skill":1,
+         "slot":0,
+         "source":[
+            4
+         ],
+         "sourcemore":[
+            {
+               "c":8574,
+               "c2":14,
+               "n":"Work Order: Tears of the Naaru",
+               "t":5,
+               "ti":48323
+            }
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Tears of the Naaru",
+         "flags2":8192,
+         "id":151705,
+         "level":1,
+         "name":"Recipe: Tears of the Naaru",
+         "namedesc":"Rank 3",
+         "quality":1,
+         "reqlevel":10,
+         "skill":1,
+         "slot":0,
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Astral Alchemist Stone",
+         "flags2":8192,
+         "id":151706,
+         "level":1,
+         "name":"Recipe: Astral Alchemist Stone",
+         "namedesc":"Rank 1",
+         "quality":1,
+         "reqlevel":10,
+         "skill":1,
+         "slot":0,
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Astral Alchemist Stone",
+         "flags2":24576,
+         "id":151707,
+         "level":1,
+         "name":"Recipe: Astral Alchemist Stone",
+         "namedesc":"Rank 2",
+         "quality":1,
+         "reqlevel":10,
+         "skill":1,
+         "slot":0,
+         "source":[
+            5
+         ],
+         "sourcemore":[
+            {
+               "n":"Toraan the Revered",
+               "t":1,
+               "ti":127151
+            }
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Astral Alchemist Stone",
+         "flags2":24576,
+         "id":151708,
+         "level":1,
+         "name":"Recipe: Astral Alchemist Stone",
+         "namedesc":"Rank 3",
+         "quality":1,
+         "reqlevel":10,
+         "skill":1,
+         "slot":0,
+         "source":[
+            5
+         ],
+         "sourcemore":[
+            {
+               "n":"Toraan the Revered",
+               "t":1,
+               "ti":127151
+            }
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Transmute Primal Sargerite",
+         "flags2":8192,
+         "id":151710,
+         "level":1,
+         "name":"Recipe: Transmute Primal Sargerite",
+         "quality":1,
+         "reqlevel":10,
+         "skill":1,
+         "slot":0,
+         "source":[
+            5
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Astral Healing Potion",
+         "flags2":8192,
+         "id":152616,
+         "level":1,
+         "name":"Recipe: Astral Healing Potion",
+         "namedesc":"Rank 1",
+         "quality":1,
+         "reqlevel":10,
+         "skill":1,
+         "slot":0,
+         "source":[
+            5
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Astral Healing Potion",
+         "flags2":8192,
+         "id":152617,
+         "level":1,
+         "name":"Recipe: Astral Healing Potion",
+         "namedesc":"Rank 2",
+         "quality":1,
+         "reqlevel":10,
+         "skill":1,
+         "slot":0,
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Astral Healing Potion",
+         "flags2":24576,
+         "id":152618,
+         "level":1,
+         "name":"Recipe: Astral Healing Potion",
+         "namedesc":"Rank 3",
+         "quality":1,
+         "reqlevel":10,
+         "skill":1,
+         "slot":0,
+         "source":[
+            5
+         ],
+         "sourcemore":[
+            {
+               "n":"Toraan the Revered",
+               "t":1,
+               "ti":127151
+            }
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Astral Mana Potion",
+         "flags2":8192,
+         "id":152620,
+         "level":1,
+         "name":"Recipe: Astral Mana Potion",
+         "namedesc":"Rank 1",
+         "quality":1,
+         "reqlevel":10,
+         "skill":1,
+         "slot":0,
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Astral Mana Potion",
+         "flags2":8192,
+         "id":152621,
+         "level":1,
+         "name":"Recipe: Astral Mana Potion",
+         "namedesc":"Rank 2",
+         "quality":1,
+         "reqlevel":10,
+         "skill":1,
+         "slot":0,
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Astral Mana Potion",
+         "flags2":24576,
+         "id":152622,
+         "level":1,
+         "name":"Recipe: Astral Mana Potion",
+         "namedesc":"Rank 3",
+         "quality":1,
+         "reqlevel":10,
+         "skill":1,
+         "slot":0,
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Fire Ammonite Oil",
+         "flags2":8192,
+         "id":160661,
+         "level":40,
+         "name":"Recipe: Fire Ammonite Oil",
+         "quality":1,
+         "reqlevel":10,
+         "skill":1,
+         "slot":0,
+         "source":[
+            5
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Blackwater Anti-Venom",
+         "flags2":8192,
+         "id":160662,
+         "level":40,
+         "name":"Recipe: Blackwater Anti-Venom",
+         "quality":1,
+         "reqlevel":10,
+         "skill":1,
+         "slot":0,
+         "source":[
+            5
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Healing Tonic",
+         "flags2":8192,
+         "id":160663,
+         "level":40,
+         "name":"Recipe: Healing Tonic",
+         "quality":1,
+         "reqlevel":10,
+         "skill":1,
+         "slot":0,
+         "source":[
+            5
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Silvery Salve",
+         "flags2":24576,
+         "id":160664,
+         "level":1,
+         "name":"Recipe: Silvery Salve",
+         "quality":1,
+         "reqlevel":10,
+         "skill":30,
+         "slot":0,
+         "source":[
+            5
+         ],
+         "sourcemore":[
+            {
+               "n":"Patricia Egan",
+               "t":1,
+               "ti":92457,
+               "z":7502
+            }
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Steelskin Potion",
+         "flags2":24576,
+         "id":162128,
+         "level":1,
+         "name":"Recipe: Steelskin Potion",
+         "namedesc":"Rank 3",
+         "quality":1,
+         "reqlevel":10,
+         "skill":1,
+         "slot":0,
+         "source":[
+            5
+         ],
+         "sourcemore":[
+            {
+               "n":"Vindicator Jaelaana",
+               "t":1,
+               "ti":135446,
+               "z":8568
+            }
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Potion of Replenishment",
+         "flags2":24576,
+         "id":162129,
+         "level":1,
+         "name":"Recipe: Potion of Replenishment",
+         "namedesc":"Rank 3",
+         "quality":1,
+         "reqlevel":10,
+         "skill":1,
+         "slot":0,
+         "source":[
+            5
+         ],
+         "sourcemore":[
+            {
+               "n":"Sister Lilyana",
+               "t":1,
+               "ti":135800,
+               "z":9042
+            }
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Potion of Bursting Blood",
+         "flags2":24576,
+         "id":162130,
+         "level":1,
+         "name":"Recipe: Potion of Bursting Blood",
+         "namedesc":"Rank 3",
+         "quality":1,
+         "reqlevel":10,
+         "skill":1,
+         "slot":0,
+         "source":[
+            5
+         ],
+         "sourcemore":[
+            {
+               "n":"Provisioner Fray",
+               "t":1,
+               "ti":135808,
+               "z":8568
+            }
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Potion of Rising Death",
+         "flags2":24576,
+         "id":162131,
+         "level":1,
+         "name":"Recipe: Potion of Rising Death",
+         "namedesc":"Rank 3",
+         "quality":1,
+         "reqlevel":10,
+         "skill":1,
+         "slot":0,
+         "source":[
+            5
+         ],
+         "sourcemore":[
+            {
+               "n":"Quartermaster Alcorn",
+               "t":1,
+               "ti":135815,
+               "z":8721
+            }
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Flask of the Currents",
+         "flags2":24576,
+         "id":162132,
+         "level":1,
+         "name":"Recipe: Flask of the Currents",
+         "namedesc":"Rank 3",
+         "quality":1,
+         "reqlevel":10,
+         "skill":1,
+         "slot":0,
+         "source":[
+            5
+         ],
+         "sourcemore":[
+            {
+               "n":"Vindicator Jaelaana",
+               "t":1,
+               "ti":135446,
+               "z":8568
+            }
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Flask of Endless Fathoms",
+         "flags2":24576,
+         "id":162133,
+         "level":1,
+         "name":"Recipe: Flask of Endless Fathoms",
+         "namedesc":"Rank 3",
+         "quality":1,
+         "reqlevel":10,
+         "skill":1,
+         "slot":0,
+         "source":[
+            5
+         ],
+         "sourcemore":[
+            {
+               "n":"Sister Lilyana",
+               "t":1,
+               "ti":135800,
+               "z":9042
+            }
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Flask of the Vast Horizon",
+         "flags2":24576,
+         "id":162134,
+         "level":1,
+         "name":"Recipe: Flask of the Vast Horizon",
+         "namedesc":"Rank 3",
+         "quality":1,
+         "reqlevel":10,
+         "skill":1,
+         "slot":0,
+         "source":[
+            5
+         ],
+         "sourcemore":[
+            {
+               "n":"Provisioner Fray",
+               "t":1,
+               "ti":135808,
+               "z":8568
+            }
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Flask of the Undertow",
+         "flags2":24576,
+         "id":162135,
+         "level":1,
+         "name":"Recipe: Flask of the Undertow",
+         "namedesc":"Rank 3",
+         "quality":1,
+         "reqlevel":10,
+         "skill":1,
+         "slot":0,
+         "source":[
+            5
+         ],
+         "sourcemore":[
+            {
+               "n":"Quartermaster Alcorn",
+               "t":1,
+               "ti":135815,
+               "z":8721
+            }
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Endless Tincture of Renewed Combat",
+         "flags2":24576,
+         "id":162136,
+         "level":1,
+         "name":"Recipe: Endless Tincture of Renewed Combat",
+         "namedesc":"Rank 3",
+         "quality":1,
+         "reqlevel":10,
+         "skill":1,
+         "slot":0,
+         "source":[
+            5
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Siren's Alchemist Stone",
+         "flags2":24576,
+         "id":162137,
+         "level":1,
+         "name":"Recipe: Siren's Alchemist Stone",
+         "namedesc":"Rank 3",
+         "quality":1,
+         "reqlevel":10,
+         "skill":1,
+         "slot":0,
+         "source":[
+            5
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Endless Tincture of Fractional Power",
+         "flags2":24576,
+         "id":162138,
+         "level":1,
+         "name":"Recipe: Endless Tincture of Fractional Power",
+         "namedesc":"Rank 3",
+         "quality":1,
+         "reqlevel":10,
+         "skill":1,
+         "slot":0,
+         "source":[
+            5
+         ],
+         "sourcemore":[
+            {
+               "n":"Vindicator Jaelaana",
+               "t":1,
+               "ti":135446,
+               "z":8568
+            }
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Surging Alchemist Stone",
+         "flags2":24576,
+         "id":162139,
+         "level":1,
+         "name":"Recipe: Surging Alchemist Stone",
+         "namedesc":"Rank 3",
+         "quality":1,
+         "reqlevel":10,
+         "skill":1,
+         "slot":0,
+         "source":[
+            5
+         ],
+         "sourcemore":[
+            {
+               "n":"Vindicator Jaelaana",
+               "t":1,
+               "ti":135446,
+               "z":8568
+            }
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Coastal Mana Potion",
+         "flags2":24576,
+         "id":162254,
+         "level":1,
+         "name":"Recipe: Coastal Mana Potion",
+         "namedesc":"Rank 3",
+         "quality":1,
+         "reqlevel":10,
+         "skill":1,
+         "slot":0,
+         "source":[
+            5
+         ],
+         "sourcemore":[
+            {
+               "n":"Provisioner Fray",
+               "t":1,
+               "ti":135808,
+               "z":8568
+            }
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Coastal Healing Potion",
+         "flags2":24576,
+         "id":162255,
+         "level":1,
+         "name":"Recipe: Coastal Healing Potion",
+         "namedesc":"Rank 3",
+         "quality":1,
+         "reqlevel":10,
+         "skill":1,
+         "slot":0,
+         "source":[
+            5
+         ],
+         "sourcemore":[
+            {
+               "n":"Sister Lilyana",
+               "t":1,
+               "ti":135800,
+               "z":9042
+            }
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Coastal Rejuvenation Potion",
+         "flags2":24576,
+         "id":162256,
+         "level":1,
+         "name":"Recipe: Coastal Rejuvenation Potion",
+         "namedesc":"Rank 3",
+         "quality":1,
+         "reqlevel":10,
+         "skill":1,
+         "slot":0,
+         "source":[
+            5
+         ],
+         "sourcemore":[
+            {
+               "n":"Quartermaster Alcorn",
+               "t":1,
+               "ti":135815,
+               "z":8721
+            }
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Demitri's Draught of Deception",
+         "flags2":24576,
+         "id":162257,
+         "level":1,
+         "name":"Recipe: Demitri's Draught of Deception",
+         "namedesc":"Rank 3",
+         "quality":1,
+         "reqlevel":10,
+         "skill":1,
+         "slot":0,
+         "source":[
+            4
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Lightfoot Potion",
+         "flags2":24576,
+         "id":162258,
+         "level":1,
+         "name":"Recipe: Lightfoot Potion",
+         "namedesc":"Rank 3",
+         "quality":1,
+         "reqlevel":10,
+         "skill":1,
+         "slot":0,
+         "source":[
+            4
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Sea Mist Potion",
+         "flags2":24576,
+         "id":162259,
+         "level":1,
+         "name":"Recipe: Sea Mist Potion",
+         "namedesc":"Rank 3",
+         "quality":1,
+         "reqlevel":10,
+         "skill":1,
+         "slot":0,
+         "source":[
+            4
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Potion of Concealment",
+         "flags2":24576,
+         "id":162260,
+         "level":1,
+         "name":"Recipe: Potion of Concealment",
+         "namedesc":"Rank 3",
+         "quality":1,
+         "reqlevel":10,
+         "skill":1,
+         "slot":0,
+         "source":[
+            4
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Mystical Cauldron",
+         "flags2":24576,
+         "id":162520,
+         "level":1,
+         "name":"Recipe: Mystical Cauldron",
+         "namedesc":"Rank 2",
+         "quality":1,
+         "reqlevel":10,
+         "skill":1,
+         "slot":0,
+         "source":[
+            2
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Mystical Cauldron",
+         "flags2":24576,
+         "id":162521,
+         "level":1,
+         "name":"Recipe: Mystical Cauldron",
+         "namedesc":"Rank 3",
+         "quality":1,
+         "reqlevel":10,
+         "skill":1,
+         "slot":0,
+         "source":[
+            2
+         ],
+         "sourcemore":[
+            {
+               "z":9389
+            }
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Steelskin Potion",
+         "flags2":24576,
+         "id":162691,
+         "level":1,
+         "name":"Recipe: Steelskin Potion",
+         "namedesc":"Rank 3",
+         "quality":1,
+         "reqlevel":10,
+         "skill":1,
+         "slot":0,
+         "source":[
+            5
+         ],
+         "sourcemore":[
+            {
+               "n":"Ransa Greyfeather",
+               "t":1,
+               "ti":135447,
+               "z":8499
+            }
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Potion of Replenishment",
+         "flags2":24576,
+         "id":162692,
+         "level":1,
+         "name":"Recipe: Potion of Replenishment",
+         "namedesc":"Rank 3",
+         "quality":1,
+         "reqlevel":10,
+         "skill":1,
+         "slot":0,
+         "source":[
+            5
+         ],
+         "sourcemore":[
+            {
+               "n":"Natal'hakata",
+               "t":1,
+               "ti":131287,
+               "z":8670
+            }
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Potion of Bursting Blood",
+         "flags2":24576,
+         "id":162693,
+         "level":1,
+         "name":"Recipe: Potion of Bursting Blood",
+         "namedesc":"Rank 3",
+         "quality":1,
+         "reqlevel":10,
+         "skill":1,
+         "slot":0,
+         "source":[
+            5
+         ],
+         "sourcemore":[
+            {
+               "n":"Provisioner Lija",
+               "t":1,
+               "ti":135459,
+               "z":8500
+            }
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Potion of Rising Death",
+         "flags2":24576,
+         "id":162694,
+         "level":1,
+         "name":"Recipe: Potion of Rising Death",
+         "namedesc":"Rank 3",
+         "quality":1,
+         "reqlevel":10,
+         "skill":1,
+         "slot":0,
+         "source":[
+            5
+         ],
+         "sourcemore":[
+            {
+               "n":"Hoarder Jena",
+               "t":1,
+               "ti":135804,
+               "z":8501
+            }
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Flask of the Currents",
+         "flags2":24576,
+         "id":162695,
+         "level":1,
+         "name":"Recipe: Flask of the Currents",
+         "namedesc":"Rank 3",
+         "quality":1,
+         "reqlevel":10,
+         "skill":1,
+         "slot":0,
+         "source":[
+            5
+         ],
+         "sourcemore":[
+            {
+               "n":"Ransa Greyfeather",
+               "t":1,
+               "ti":135447,
+               "z":8499
+            }
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Flask of Endless Fathoms",
+         "flags2":24576,
+         "id":162696,
+         "level":1,
+         "name":"Recipe: Flask of Endless Fathoms",
+         "namedesc":"Rank 3",
+         "quality":1,
+         "reqlevel":10,
+         "skill":1,
+         "slot":0,
+         "source":[
+            5
+         ],
+         "sourcemore":[
+            {
+               "n":"Natal'hakata",
+               "t":1,
+               "ti":131287,
+               "z":8670
+            }
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Flask of the Vast Horizon",
+         "flags2":24576,
+         "id":162697,
+         "level":1,
+         "name":"Recipe: Flask of the Vast Horizon",
+         "namedesc":"Rank 3",
+         "quality":1,
+         "reqlevel":10,
+         "skill":1,
+         "slot":0,
+         "source":[
+            5
+         ],
+         "sourcemore":[
+            {
+               "n":"Provisioner Lija",
+               "t":1,
+               "ti":135459,
+               "z":8500
+            }
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Flask of the Undertow",
+         "flags2":24576,
+         "id":162698,
+         "level":1,
+         "name":"Recipe: Flask of the Undertow",
+         "namedesc":"Rank 3",
+         "quality":1,
+         "reqlevel":10,
+         "skill":1,
+         "slot":0,
+         "source":[
+            5
+         ],
+         "sourcemore":[
+            {
+               "n":"Hoarder Jena",
+               "t":1,
+               "ti":135804,
+               "z":8501
+            }
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Endless Tincture of Fractional Power",
+         "flags2":24576,
+         "id":162701,
+         "level":1,
+         "name":"Recipe: Endless Tincture of Fractional Power",
+         "namedesc":"Rank 3",
+         "quality":1,
+         "reqlevel":10,
+         "skill":1,
+         "slot":0,
+         "source":[
+            5
+         ],
+         "sourcemore":[
+            {
+               "n":"Ransa Greyfeather",
+               "t":1,
+               "ti":135447,
+               "z":8499
+            }
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Surging Alchemist Stone",
+         "flags2":24576,
+         "id":162702,
+         "level":1,
+         "name":"Recipe: Surging Alchemist Stone",
+         "namedesc":"Rank 3",
+         "quality":1,
+         "reqlevel":10,
+         "skill":1,
+         "slot":0,
+         "source":[
+            5
+         ],
+         "sourcemore":[
+            {
+               "n":"Ransa Greyfeather",
+               "t":1,
+               "ti":135447,
+               "z":8499
+            }
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Coastal Mana Potion",
+         "flags2":24576,
+         "id":162703,
+         "level":1,
+         "name":"Recipe: Coastal Mana Potion",
+         "namedesc":"Rank 3",
+         "quality":1,
+         "reqlevel":10,
+         "skill":1,
+         "slot":0,
+         "source":[
+            5
+         ],
+         "sourcemore":[
+            {
+               "n":"Provisioner Lija",
+               "t":1,
+               "ti":135459,
+               "z":8500
+            }
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Coastal Healing Potion",
+         "flags2":24576,
+         "id":162704,
+         "level":1,
+         "name":"Recipe: Coastal Healing Potion",
+         "namedesc":"Rank 3",
+         "quality":1,
+         "reqlevel":10,
+         "skill":1,
+         "slot":0,
+         "source":[
+            5
+         ],
+         "sourcemore":[
+            {
+               "n":"Natal'hakata",
+               "t":1,
+               "ti":131287,
+               "z":8670
+            }
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Coastal Rejuvenation Potion",
+         "flags2":24576,
+         "id":162705,
+         "level":1,
+         "name":"Recipe: Coastal Rejuvenation Potion",
+         "namedesc":"Rank 3",
+         "quality":1,
+         "reqlevel":10,
+         "skill":1,
+         "slot":0,
+         "source":[
+            5
+         ],
+         "sourcemore":[
+            {
+               "n":"Hoarder Jena",
+               "t":1,
+               "ti":135804,
+               "z":8501
+            }
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Battle Potion of Agility",
+         "flags2":24576,
+         "id":163313,
+         "level":1,
+         "name":"Recipe: Battle Potion of Agility",
+         "namedesc":"Rank 3",
+         "quality":1,
+         "reqlevel":10,
+         "skill":1,
+         "slot":0,
+         "source":[
+            5
+         ],
+         "sourcemore":[
+            {
+               "n":"Hoarder Jena",
+               "t":1,
+               "ti":135804,
+               "z":8501
+            }
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Battle Potion of Agility",
+         "flags2":24576,
+         "id":163314,
+         "level":1,
+         "name":"Recipe: Battle Potion of Agility",
+         "namedesc":"Rank 3",
+         "quality":1,
+         "reqlevel":10,
+         "skill":1,
+         "slot":0,
+         "source":[
+            5
+         ],
+         "sourcemore":[
+            {
+               "n":"Quartermaster Alcorn",
+               "t":1,
+               "ti":135815,
+               "z":8721
+            }
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Battle Potion of Intellect",
+         "flags2":24576,
+         "id":163315,
+         "level":1,
+         "name":"Recipe: Battle Potion of Intellect",
+         "namedesc":"Rank 3",
+         "quality":1,
+         "reqlevel":10,
+         "skill":1,
+         "slot":0,
+         "source":[
+            5
+         ],
+         "sourcemore":[
+            {
+               "n":"Provisioner Lija",
+               "t":1,
+               "ti":135459,
+               "z":8500
+            }
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Battle Potion of Intellect",
+         "flags2":24576,
+         "id":163316,
+         "level":1,
+         "name":"Recipe: Battle Potion of Intellect",
+         "namedesc":"Rank 3",
+         "quality":1,
+         "reqlevel":10,
+         "skill":1,
+         "slot":0,
+         "source":[
+            5
+         ],
+         "sourcemore":[
+            {
+               "n":"Provisioner Fray",
+               "t":1,
+               "ti":135808,
+               "z":8568
+            }
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Battle Potion of Stamina",
+         "flags2":24576,
+         "id":163317,
+         "level":1,
+         "name":"Recipe: Battle Potion of Stamina",
+         "namedesc":"Rank 3",
+         "quality":1,
+         "reqlevel":10,
+         "skill":1,
+         "slot":0,
+         "source":[
+            5
+         ],
+         "sourcemore":[
+            {
+               "n":"Natal'hakata",
+               "t":1,
+               "ti":131287,
+               "z":8670
+            }
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Battle Potion of Stamina",
+         "flags2":24576,
+         "id":163318,
+         "level":1,
+         "name":"Recipe: Battle Potion of Stamina",
+         "namedesc":"Rank 3",
+         "quality":1,
+         "reqlevel":10,
+         "skill":1,
+         "slot":0,
+         "source":[
+            5
+         ],
+         "sourcemore":[
+            {
+               "n":"Sister Lilyana",
+               "t":1,
+               "ti":135800,
+               "z":9042
+            }
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Battle Potion of Strength",
+         "flags2":24576,
+         "id":163319,
+         "level":1,
+         "name":"Recipe: Battle Potion of Strength",
+         "namedesc":"Rank 3",
+         "quality":1,
+         "reqlevel":10,
+         "skill":1,
+         "slot":0,
+         "source":[
+            5
+         ],
+         "sourcemore":[
+            {
+               "n":"Ransa Greyfeather",
+               "t":1,
+               "ti":135447,
+               "z":8499
+            }
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Battle Potion of Strength",
+         "flags2":24576,
+         "id":163320,
+         "level":1,
+         "name":"Recipe: Battle Potion of Strength",
+         "namedesc":"Rank 3",
+         "quality":1,
+         "reqlevel":10,
+         "skill":1,
+         "slot":0,
+         "source":[
+            5
+         ],
+         "sourcemore":[
+            {
+               "n":"Vindicator Jaelaana",
+               "t":1,
+               "ti":135446,
+               "z":8568
+            }
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Spirited Alchemist Stone",
+         "flags2":24576,
+         "id":165929,
+         "level":1,
+         "name":"Recipe: Spirited Alchemist Stone",
+         "quality":2,
+         "reqlevel":10,
+         "skill":130,
+         "slot":0,
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Eternal Alchemist Stone",
+         "flags2":24576,
+         "id":165930,
+         "level":1,
+         "name":"Recipe: Eternal Alchemist Stone",
+         "quality":2,
+         "reqlevel":10,
+         "skill":130,
+         "slot":0,
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Potion of the Unveiling Eye",
+         "flags2":24576,
+         "id":166271,
+         "level":1,
+         "name":"Recipe: Potion of the Unveiling Eye",
+         "namedesc":"Rank 3",
+         "quality":1,
+         "reqlevel":10,
+         "skill":1,
+         "slot":0,
+         "source":[
+            5
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Potion of the Unveiling Eye",
+         "flags2":24576,
+         "id":166272,
+         "level":1,
+         "name":"Recipe: Potion of the Unveiling Eye",
+         "namedesc":"Rank 2",
+         "quality":1,
+         "reqlevel":10,
+         "skill":1,
+         "slot":0,
+         "source":[
+            5
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Silas' Sphere of Transmutation",
+         "flags2":24576,
+         "id":166422,
+         "level":1,
+         "name":"Recipe: Silas' Sphere of Transmutation",
+         "quality":3,
+         "reqlevel":10,
+         "skill":150,
+         "slot":0,
+         "source":[
+            5
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Imbued Alchemist Stone",
+         "flags2":24576,
+         "id":166977,
+         "level":1,
+         "name":"Recipe: Imbued Alchemist Stone",
+         "quality":2,
+         "reqlevel":10,
+         "skill":100,
+         "slot":0,
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Emblazoned Alchemist Stone",
+         "flags2":24576,
+         "id":166978,
+         "level":1,
+         "name":"Recipe: Emblazoned Alchemist Stone",
+         "quality":2,
+         "reqlevel":10,
+         "skill":100,
+         "slot":0,
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Crushing Alchemist Stone",
+         "flags2":24576,
+         "id":168757,
+         "level":1,
+         "name":"Recipe: Crushing Alchemist Stone",
+         "quality":4,
+         "reqlevel":10,
+         "skill":165,
+         "slot":0,
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Ascended Alchemist Stone",
+         "flags2":24576,
+         "id":168758,
+         "level":1,
+         "name":"Recipe: Ascended Alchemist Stone",
+         "quality":4,
+         "reqlevel":10,
+         "skill":165,
+         "slot":0,
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Potion of Empowered Proximity",
+         "flags2":24576,
+         "id":169492,
+         "level":1,
+         "name":"Recipe: Potion of Empowered Proximity",
+         "namedesc":"Rank 3",
+         "quality":4,
+         "reqlevel":10,
+         "skill":170,
+         "slot":0,
+         "source":[
+            5
+         ],
+         "sourcemore":[
+            {
+               "n":"Speaker Utia",
+               "t":1,
+               "ti":154140,
+               "z":10052
+            }
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Potion of Reconstitution",
+         "flags2":24576,
+         "id":169493,
+         "level":1,
+         "name":"Recipe: Potion of Reconstitution",
+         "namedesc":"Rank 3",
+         "quality":4,
+         "reqlevel":10,
+         "skill":170,
+         "slot":0,
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Potion of Focused Resolve",
+         "flags2":24576,
+         "id":169494,
+         "level":1,
+         "name":"Recipe: Potion of Focused Resolve",
+         "namedesc":"Rank 3",
+         "quality":4,
+         "reqlevel":10,
+         "skill":170,
+         "slot":0,
+         "source":[
+            5
+         ],
+         "sourcemore":[
+            {
+               "n":"Speaker Utia",
+               "t":1,
+               "ti":154140,
+               "z":10052
+            }
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Superior Battle Potion of Agility",
+         "flags2":24576,
+         "id":169495,
+         "level":1,
+         "name":"Recipe: Superior Battle Potion of Agility",
+         "namedesc":"Rank 3",
+         "quality":4,
+         "reqlevel":10,
+         "skill":175,
+         "slot":0,
+         "source":[
+            2
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Superior Steelskin Potion",
+         "flags2":24576,
+         "id":169496,
+         "level":1,
+         "name":"Recipe: Superior Steelskin Potion",
+         "namedesc":"Rank 3",
+         "quality":4,
+         "reqlevel":10,
+         "skill":175,
+         "slot":0,
+         "source":[
+            2
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Superior Battle Potion of Intellect",
+         "flags2":24576,
+         "id":169497,
+         "level":1,
+         "name":"Recipe: Superior Battle Potion of Intellect",
+         "namedesc":"Rank 3",
+         "quality":4,
+         "reqlevel":10,
+         "skill":175,
+         "slot":0,
+         "source":[
+            2
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Superior Battle Potion of Stamina",
+         "flags2":24576,
+         "id":169498,
+         "level":1,
+         "name":"Recipe: Superior Battle Potion of Stamina",
+         "namedesc":"Rank 3",
+         "quality":4,
+         "reqlevel":10,
+         "skill":175,
+         "slot":0,
+         "source":[
+            2
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Superior Battle Potion of Strength",
+         "flags2":24576,
+         "id":169499,
+         "level":1,
+         "name":"Recipe: Superior Battle Potion of Strength",
+         "namedesc":"Rank 3",
+         "quality":4,
+         "reqlevel":10,
+         "skill":175,
+         "slot":0,
+         "source":[
+            2
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Greater Flask of the Currents",
+         "flags2":24576,
+         "id":169500,
+         "level":1,
+         "name":"Recipe: Greater Flask of the Currents",
+         "namedesc":"Rank 3",
+         "quality":4,
+         "reqlevel":10,
+         "skill":175,
+         "slot":0,
+         "source":[
+            4
+         ],
+         "sourcemore":[
+            {
+               "z":10052
+            }
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Greater Flask of Endless Fathoms",
+         "flags2":24576,
+         "id":169501,
+         "level":1,
+         "name":"Recipe: Greater Flask of Endless Fathoms",
+         "namedesc":"Rank 3",
+         "quality":4,
+         "reqlevel":10,
+         "skill":175,
+         "slot":0,
+         "source":[
+            4
+         ],
+         "sourcemore":[
+            {
+               "z":10052
+            }
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Greater Flask of the Vast Horizon",
+         "flags2":24576,
+         "id":169502,
+         "level":1,
+         "name":"Recipe: Greater Flask of the Vast Horizon",
+         "namedesc":"Rank 3",
+         "quality":4,
+         "reqlevel":10,
+         "skill":175,
+         "slot":0,
+         "source":[
+            4
+         ],
+         "sourcemore":[
+            {
+               "z":10052
+            }
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Greater Flask of the Undertow",
+         "flags2":24576,
+         "id":169503,
+         "level":1,
+         "name":"Recipe: Greater Flask of the Undertow",
+         "namedesc":"Rank 3",
+         "quality":4,
+         "reqlevel":10,
+         "skill":175,
+         "slot":0,
+         "source":[
+            4
+         ],
+         "sourcemore":[
+            {
+               "z":10052
+            }
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Greater Mystical Cauldron",
+         "flags2":24576,
+         "id":169504,
+         "level":1,
+         "name":"Recipe: Greater Mystical Cauldron",
+         "namedesc":"Rank 3",
+         "quality":4,
+         "reqlevel":10,
+         "skill":175,
+         "slot":0,
+         "source":[
+            5
+         ],
+         "sourcemore":[
+            {
+               "n":"Speaker Utia",
+               "t":1,
+               "ti":154140,
+               "z":10052
+            }
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Potion of Empowered Proximity",
+         "flags2":24576,
+         "id":169600,
+         "level":1,
+         "name":"Recipe: Potion of Empowered Proximity",
+         "namedesc":"Rank 3",
+         "quality":4,
+         "reqlevel":10,
+         "skill":170,
+         "slot":0,
+         "source":[
+            5
+         ],
+         "sourcemore":[
+            {
+               "n":"Atolia Seapearl",
+               "t":1,
+               "ti":154002,
+               "z":10052
+            }
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Potion of Reconstitution",
+         "flags2":24576,
+         "id":169601,
+         "level":1,
+         "name":"Recipe: Potion of Reconstitution",
+         "namedesc":"Rank 3",
+         "quality":4,
+         "reqlevel":10,
+         "skill":170,
+         "slot":0,
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Potion of Focused Resolve",
+         "flags2":24576,
+         "id":169602,
+         "level":1,
+         "name":"Recipe: Potion of Focused Resolve",
+         "namedesc":"Rank 3",
+         "quality":4,
+         "reqlevel":10,
+         "skill":170,
+         "slot":0,
+         "source":[
+            5
+         ],
+         "sourcemore":[
+            {
+               "n":"Atolia Seapearl",
+               "t":1,
+               "ti":154002,
+               "z":10052
+            }
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Greater Mystical Cauldron",
+         "flags2":24576,
+         "id":169603,
+         "level":1,
+         "name":"Recipe: Greater Mystical Cauldron",
+         "namedesc":"Rank 3",
+         "quality":4,
+         "reqlevel":10,
+         "skill":175,
+         "slot":0,
+         "source":[
+            5
+         ],
+         "sourcemore":[
+            {
+               "n":"Atolia Seapearl",
+               "t":1,
+               "ti":154002,
+               "z":10052
+            }
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Potion of Unbridled Fury",
+         "flags2":24576,
+         "id":170208,
+         "level":1,
+         "name":"Recipe: Potion of Unbridled Fury",
+         "namedesc":"Rank 3",
+         "quality":2,
+         "reqlevel":10,
+         "skill":170,
+         "slot":0,
+         "source":[
+            2
+         ],
+         "sourcemore":[
+            {
+               "z":10225
+            }
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Potion of Wild Mending",
+         "flags2":24576,
+         "id":170209,
+         "level":1,
+         "name":"Recipe: Potion of Wild Mending",
+         "namedesc":"Rank 3",
+         "quality":2,
+         "reqlevel":10,
+         "skill":170,
+         "slot":0,
+         "source":[
+            2
+         ],
+         "sourcemore":[
+            {
+               "z":10225
+            }
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Abyssal Healing Potion",
+         "flags2":24576,
+         "id":170210,
+         "level":1,
+         "name":"Recipe: Abyssal Healing Potion",
+         "namedesc":"Rank 3",
+         "quality":2,
+         "reqlevel":10,
+         "skill":170,
+         "slot":0,
+         "source":[
+            2
+         ],
+         "sourcemore":[
+            {
+               "z":10225
+            }
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Peerless Alchemist Stone",
+         "flags2":24576,
+         "id":171084,
+         "level":1,
+         "name":"Recipe: Peerless Alchemist Stone",
+         "quality":4,
+         "reqlevel":10,
+         "skill":175,
+         "slot":0,
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Awakened Alchemist Stone",
+         "flags2":24576,
+         "id":171086,
+         "level":1,
+         "name":"Recipe: Awakened Alchemist Stone",
+         "quality":4,
+         "reqlevel":10,
+         "skill":170,
+         "slot":0,
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Unbound Alchemist Stone",
+         "flags2":24576,
+         "id":171318,
+         "level":1,
+         "name":"Recipe: Unbound Alchemist Stone",
+         "quality":3,
+         "reqlevel":10,
+         "skill":165,
+         "slot":0,
+         "source":[
+            2
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Red Noggin Candle",
+         "flags2":8192,
+         "id":180780,
+         "level":1,
+         "name":"Recipe: Red Noggin Candle",
+         "quality":1,
+         "reqlevel":10,
+         "skill":1,
+         "slot":0,
+         "source":[
+            5
+         ],
+         "sourcemore":[
+            {
+               "n":"Bored Dredger",
+               "t":1,
+               "ti":159088,
+               "z":10413
+            }
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Shadestone",
+         "flags2":24576,
+         "id":182660,
+         "level":1,
+         "name":"Recipe: Shadestone",
+         "quality":2,
+         "skill":170,
+         "slot":0,
+         "source":[
+            5
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Sins to Virtue",
+         "flags2":24576,
+         "id":182665,
+         "level":1,
+         "name":"Recipe: Sins to Virtue",
+         "quality":1,
+         "skill":150,
+         "slot":0,
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Eternal Cauldron",
+         "flags2":24576,
+         "id":183106,
+         "level":1,
+         "name":"Recipe: Eternal Cauldron",
+         "quality":4,
+         "skill":175,
+         "slot":0,
+         "source":[
+            5
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"[DNT][REUSE ME] Recipe: Crafter's Mark III",
+         "flags2":26624,
+         "id":183868,
+         "level":1,
+         "name":"[DNT][REUSE ME] Recipe: Crafter's Mark III",
+         "quality":3,
+         "skill":100,
+         "slot":0,
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Widow Burst",
+         "flags2":24576,
+         "id":186986,
+         "level":1,
+         "name":"Recipe: Widow Burst",
+         "quality":1,
+         "skill":95,
+         "slot":0,
+         "source":[
+            2
+         ],
+         "sourcemore":[
+            {
+               "n":"Invasive Mawshroom",
+               "t":2,
+               "ti":369327,
+               "z":13570
+            }
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Torch Burst",
+         "flags2":24576,
+         "id":186987,
+         "level":1,
+         "name":"Recipe: Torch Burst",
+         "quality":1,
+         "skill":95,
+         "slot":0,
+         "source":[
+            2
+         ],
+         "sourcemore":[
+            {
+               "n":"Invasive Mawshroom",
+               "t":2,
+               "ti":369330,
+               "z":13570
+            }
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Glory Burst",
+         "flags2":24576,
+         "id":186988,
+         "level":1,
+         "name":"Recipe: Glory Burst",
+         "quality":1,
+         "skill":95,
+         "slot":0,
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Marrow Burst",
+         "flags2":24576,
+         "id":186989,
+         "level":1,
+         "name":"Recipe: Marrow Burst",
+         "quality":1,
+         "skill":95,
+         "slot":0,
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Blossom Burst",
+         "flags2":24576,
+         "id":186990,
+         "level":1,
+         "name":"Recipe: Blossom Burst",
+         "quality":1,
+         "skill":95,
+         "slot":0,
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Transmute: Stones to Ore",
+         "flags2":8192,
+         "id":186991,
+         "level":1,
+         "name":"Recipe: Transmute: Stones to Ore",
+         "quality":1,
+         "skill":160,
+         "slot":0,
+         "source":[
+            5
+         ],
+         "sourcemore":[
+            {
+               "n":"Archivist Roh-Suir",
+               "t":1,
+               "ti":178257,
+               "z":13570
+            }
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Infusion: Corpse Purification",
+         "flags2":24576,
+         "id":187828,
+         "level":1,
+         "name":"Recipe: Infusion: Corpse Purification",
+         "quality":3,
+         "skill":100,
+         "slot":0,
+         "source":[
+            2
+         ],
+         "sourcemore":[
+            {
+               "n":"Xy'rath the Covetous",
+               "t":1,
+               "ti":183737,
+               "z":13536
+            }
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Sustaining Armor Polish",
+         "flags2":24576,
+         "id":187848,
+         "level":1,
+         "name":"Recipe: Sustaining Armor Polish",
+         "quality":3,
+         "skill":100,
+         "slot":0,
+         "source":[
+            2
+         ],
+         "sourcemore":[
+            {
+               "z":13536
+            }
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Phial of the Eye in the Storm",
+         "flags2":24576,
+         "id":191429,
+         "level":1,
+         "name":"Recipe: Phial of the Eye in the Storm",
+         "quality":3,
+         "skill":10,
+         "slot":0,
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Phial of Still Air",
+         "flags2":24576,
+         "id":191430,
+         "level":1,
+         "name":"Recipe: Phial of Still Air",
+         "quality":3,
+         "skill":10,
+         "slot":0,
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Phial of Icy Preservation",
+         "flags2":24576,
+         "id":191431,
+         "level":1,
+         "name":"Recipe: Phial of Icy Preservation",
+         "quality":3,
+         "skill":10,
+         "slot":0,
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Iced Phial of Corrupting Rage",
+         "flags2":24576,
+         "id":191432,
+         "level":1,
+         "name":"Recipe: Iced Phial of Corrupting Rage",
+         "quality":3,
+         "skill":10,
+         "slot":0,
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Phial of Charged Isolation",
+         "flags2":24576,
+         "id":191433,
+         "level":1,
+         "name":"Recipe: Phial of Charged Isolation",
+         "quality":3,
+         "skill":10,
+         "slot":0,
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Phial of Glacial Fury",
+         "flags2":24576,
+         "id":191434,
+         "level":1,
+         "name":"Recipe: Phial of Glacial Fury",
+         "quality":3,
+         "skill":10,
+         "slot":0,
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Phial of Static Empowerment",
+         "flags2":24576,
+         "id":191435,
+         "level":1,
+         "name":"Recipe: Phial of Static Empowerment",
+         "quality":3,
+         "skill":10,
+         "slot":0,
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Phial of Tepid Versatility",
+         "flags2":24576,
+         "id":191436,
+         "level":1,
+         "name":"Recipe: Phial of Tepid Versatility",
+         "quality":3,
+         "skill":10,
+         "slot":0,
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Aerated Phial of Deftness",
+         "flags2":24576,
+         "id":191437,
+         "level":1,
+         "name":"Recipe: Aerated Phial of Deftness",
+         "quality":3,
+         "skill":10,
+         "slot":0,
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Steaming Phial of Finesse",
+         "flags2":24576,
+         "id":191438,
+         "level":1,
+         "name":"Recipe: Steaming Phial of Finesse",
+         "quality":3,
+         "skill":10,
+         "slot":0,
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Charged Phial of Alacrity",
+         "flags2":24576,
+         "id":191439,
+         "level":1,
+         "name":"Recipe: Charged Phial of Alacrity",
+         "quality":3,
+         "skill":10,
+         "slot":0,
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Potion of Frozen Fatality",
+         "flags2":24576,
+         "id":191440,
+         "level":1,
+         "name":"Recipe: Potion of Frozen Fatality",
+         "quality":3,
+         "skill":10,
+         "slot":0,
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Crystalline Phial of Perception",
+         "flags2":24576,
+         "id":191441,
+         "level":1,
+         "name":"Recipe: Crystalline Phial of Perception",
+         "quality":3,
+         "skill":10,
+         "slot":0,
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Phial of Elemental Chaos",
+         "flags2":24576,
+         "id":191442,
+         "level":1,
+         "name":"Recipe: Phial of Elemental Chaos",
+         "quality":3,
+         "skill":10,
+         "slot":0,
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Bottled Putrescence",
+         "flags2":24576,
+         "id":191443,
+         "level":1,
+         "name":"Recipe: Bottled Putrescence",
+         "quality":3,
+         "skill":10,
+         "slot":0,
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Potion of Frozen Focus",
+         "flags2":24576,
+         "id":191444,
+         "level":1,
+         "name":"Recipe: Potion of Frozen Focus",
+         "quality":3,
+         "skill":10,
+         "slot":0,
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Potion of Chilled Clarity",
+         "flags2":24576,
+         "id":191445,
+         "level":1,
+         "name":"Recipe: Potion of Chilled Clarity",
+         "quality":3,
+         "skill":10,
+         "slot":0,
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Potion of Withering Vitality",
+         "flags2":24576,
+         "id":191446,
+         "level":1,
+         "name":"Recipe: Potion of Withering Vitality",
+         "quality":3,
+         "skill":10,
+         "slot":0,
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Residual Neural Channeling Agent",
+         "flags2":24576,
+         "id":191447,
+         "level":1,
+         "name":"Recipe: Residual Neural Channeling Agent",
+         "quality":3,
+         "skill":10,
+         "slot":0,
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Delicate Suspension of Spores",
+         "flags2":24576,
+         "id":191448,
+         "level":1,
+         "name":"Recipe: Delicate Suspension of Spores",
+         "quality":3,
+         "skill":10,
+         "slot":0,
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Refreshing Healing Potion",
+         "flags2":24576,
+         "id":191449,
+         "level":1,
+         "name":"Recipe: Refreshing Healing Potion",
+         "quality":3,
+         "skill":1,
+         "slot":0,
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Elemental Potion of Ultimate Power",
+         "flags2":24576,
+         "id":191450,
+         "level":1,
+         "name":"Recipe: Elemental Potion of Ultimate Power",
+         "quality":3,
+         "skill":50,
+         "slot":0,
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Aerated Mana Potion",
+         "flags2":24576,
+         "id":191451,
+         "level":1,
+         "name":"Recipe: Aerated Mana Potion",
+         "quality":3,
+         "skill":5,
+         "slot":0,
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Elemental Potion of Power",
+         "flags2":24576,
+         "id":191452,
+         "level":1,
+         "name":"Recipe: Elemental Potion of Power",
+         "quality":3,
+         "skill":25,
+         "slot":0,
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Potion of the Hushed Zephyr",
+         "flags2":24576,
+         "id":191454,
+         "level":1,
+         "name":"Recipe: Potion of the Hushed Zephyr",
+         "quality":3,
+         "skill":10,
+         "slot":0,
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Potion of Gusts",
+         "flags2":24576,
+         "id":191455,
+         "level":1,
+         "name":"Recipe: Potion of Gusts",
+         "quality":3,
+         "skill":10,
+         "slot":0,
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Potion of Shocking Disclosure",
+         "flags2":24576,
+         "id":191456,
+         "level":1,
+         "name":"Recipe: Potion of Shocking Disclosure",
+         "quality":3,
+         "skill":10,
+         "slot":0,
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Potion Cauldron of Power",
+         "flags2":24576,
+         "id":191542,
+         "level":1,
+         "name":"Recipe: Potion Cauldron of Power",
+         "quality":3,
+         "skill":50,
+         "slot":0,
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Potion Cauldron of Ultimate Power",
+         "flags2":24576,
+         "id":191543,
+         "level":1,
+         "name":"Recipe: Potion Cauldron of Ultimate Power",
+         "quality":3,
+         "skill":50,
+         "slot":0,
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Cauldron of the Pooka",
+         "flags2":24576,
+         "id":191544,
+         "level":1,
+         "name":"Recipe: Cauldron of the Pooka",
+         "quality":3,
+         "skill":50,
+         "slot":0,
+         "source":[
+            2
+         ],
+         "sourcemore":[
+            {
+               "icon":"inv_cooking_100_messagebottle_color02",
+               "n":"Draconic Recipe in a Bottle",
+               "q":3,
+               "t":3,
+               "ti":198438
+            }
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Sustaining Alchemist's Stone",
+         "flags2":24576,
+         "id":191545,
+         "level":1,
+         "name":"Recipe: Sustaining Alchemist's Stone",
+         "quality":4,
+         "skill":25,
+         "slot":0,
+         "source":[
+            5
+         ],
+         "sourcemore":[
+            {
+               "z":13862
+            }
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Alacritous Alchemist Stone",
+         "flags2":24576,
+         "id":191547,
+         "level":1,
+         "name":"Recipe: Alacritous Alchemist Stone",
+         "quality":4,
+         "skill":50,
+         "slot":0,
+         "source":[
+            5
+         ],
+         "sourcemore":[
+            {
+               "n":"Quartermaster Huseng",
+               "t":1,
+               "ti":196707,
+               "z":13645
+            }
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Transmute: Awakened Fire",
+         "flags2":24576,
+         "id":191578,
+         "level":1,
+         "name":"Recipe: Transmute: Awakened Fire",
+         "quality":3,
+         "skill":50,
+         "slot":0,
+         "source":[
+            2
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Transmute: Awakened Frost",
+         "flags2":24576,
+         "id":191579,
+         "level":1,
+         "name":"Recipe: Transmute: Awakened Frost",
+         "quality":3,
+         "skill":50,
+         "slot":0,
+         "source":[
+            5
+         ],
+         "sourcemore":[
+            {
+               "n":"Steiz",
+               "t":1,
+               "ti":196862,
+               "z":13646
+            }
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Transmute: Awakened Earth",
+         "flags2":24576,
+         "id":191580,
+         "level":1,
+         "name":"Recipe: Transmute: Awakened Earth",
+         "quality":3,
+         "skill":50,
+         "slot":0,
+         "source":[
+            2
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Transmute: Awakened Air",
+         "flags2":24576,
+         "id":191581,
+         "level":1,
+         "name":"Recipe: Transmute: Awakened Air",
+         "quality":3,
+         "skill":50,
+         "slot":0,
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Transmute: Decay to Elements",
+         "flags2":24576,
+         "id":191582,
+         "level":1,
+         "name":"Recipe: Transmute: Decay to Elements",
+         "quality":3,
+         "skill":25,
+         "slot":0,
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Transmute: Order to Elements",
+         "flags2":24576,
+         "id":191583,
+         "level":1,
+         "name":"Recipe: Transmute: Order to Elements",
+         "quality":3,
+         "skill":25,
+         "slot":0,
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Primal Convergent",
+         "flags2":24576,
+         "id":191584,
+         "level":1,
+         "name":"Recipe: Primal Convergent",
+         "quality":3,
+         "skill":20,
+         "slot":0,
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Omnium Draconis",
+         "flags2":24576,
+         "id":191585,
+         "level":1,
+         "name":"Recipe: Omnium Draconis",
+         "quality":3,
+         "skill":20,
+         "slot":0,
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Sagacious Incense",
+         "flags2":24576,
+         "id":191586,
+         "level":1,
+         "name":"Recipe: Sagacious Incense",
+         "quality":3,
+         "skill":50,
+         "slot":0,
+         "source":[
+            5
+         ],
+         "sourcemore":[
+            {
+               "n":"Rabul",
+               "t":1,
+               "ti":194057,
+               "z":13862
+            }
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Somniferous Incense",
+         "flags2":24576,
+         "id":191587,
+         "level":1,
+         "name":"Recipe: Somniferous Incense",
+         "quality":3,
+         "skill":50,
+         "slot":0,
+         "source":[
+            2
+         ],
+         "sourcemore":[
+            {
+               "icon":"inv_cooking_100_messagebottle_color02",
+               "n":"Draconic Recipe in a Bottle",
+               "q":3,
+               "t":3,
+               "ti":198438
+            }
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Exultant Incense",
+         "flags2":24576,
+         "id":191588,
+         "level":1,
+         "name":"Recipe: Exultant Incense",
+         "quality":3,
+         "skill":50,
+         "slot":0,
+         "source":[
+            5
+         ],
+         "sourcemore":[
+            {
+               "n":"Quartermaster Huseng",
+               "t":1,
+               "ti":196707,
+               "z":13645
+            }
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Fervid Incense",
+         "flags2":24576,
+         "id":191589,
+         "level":1,
+         "name":"Recipe: Fervid Incense",
+         "quality":3,
+         "skill":50,
+         "slot":0,
+         "source":[
+            2
+         ],
+         "sourcemore":[
+            {
+               "icon":"inv_cooking_100_messagebottle_color02",
+               "n":"Draconic Recipe in a Bottle",
+               "q":3,
+               "t":3,
+               "ti":198438
+            }
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Stable Fluidic Draconium",
+         "flags2":24576,
+         "id":191590,
+         "level":61,
+         "name":"Recipe: Stable Fluidic Draconium",
+         "quality":3,
+         "skill":50,
+         "slot":0,
+         "source":[
+            5
+         ],
+         "sourcemore":[
+            {
+               "n":"Rabul",
+               "t":1,
+               "ti":194057,
+               "z":13862
+            }
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Brood Salt",
+         "flags2":24576,
+         "id":191591,
+         "level":61,
+         "name":"Recipe: Brood Salt",
+         "quality":3,
+         "skill":30,
+         "slot":0,
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Writhefire Oil",
+         "flags2":24576,
+         "id":191592,
+         "level":61,
+         "name":"Recipe: Writhefire Oil",
+         "quality":3,
+         "skill":15,
+         "slot":0,
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Agitating Potion Augmentation",
+         "flags2":24576,
+         "id":191593,
+         "level":61,
+         "name":"Recipe: Agitating Potion Augmentation",
+         "quality":3,
+         "skill":50,
+         "slot":0,
+         "source":[
+            5
+         ],
+         "sourcemore":[
+            {
+               "n":"Rabul",
+               "t":1,
+               "ti":194057,
+               "z":13862
+            }
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Reactive Phial Embellishment",
+         "flags2":24576,
+         "id":191594,
+         "level":61,
+         "name":"Recipe: Reactive Phial Embellishment",
+         "quality":3,
+         "skill":50,
+         "slot":0,
+         "source":[
+            5
+         ],
+         "sourcemore":[
+            {
+               "n":"Rabul",
+               "t":1,
+               "ti":194057,
+               "z":13862
+            }
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"zzOldRecipe: Minor Essence of Tyr",
+         "flags2":26624,
+         "id":191595,
+         "level":1,
+         "name":"zzOldRecipe: Minor Essence of Tyr",
+         "quality":3,
+         "skill":25,
+         "slot":0,
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Illustrious Insight",
+         "flags2":24576,
+         "id":191596,
+         "level":61,
+         "name":"Recipe: Illustrious Insight",
+         "quality":3,
+         "skill":25,
+         "slot":0,
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Potion Absorption Inhibitor",
+         "flags2":24576,
+         "id":191597,
+         "level":1,
+         "name":"Recipe: Potion Absorption Inhibitor",
+         "quality":3,
+         "skill":50,
+         "slot":0,
+         "source":[
+            2
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"zzOldRecipe: Alchemical Flavor Pocket",
+         "flags2":10240,
+         "id":191598,
+         "level":60,
+         "name":"zzOldRecipe: Alchemical Flavor Pocket",
+         "quality":3,
+         "skill":25,
+         "slot":0,
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Basic Potion Experimentation",
+         "flags2":24576,
+         "id":191599,
+         "level":1,
+         "name":"Recipe: Basic Potion Experimentation",
+         "quality":3,
+         "skill":10,
+         "slot":0,
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Advanced Potion Experimentation",
+         "flags2":24576,
+         "id":191600,
+         "level":1,
+         "name":"Recipe: Advanced Potion Experimentation",
+         "quality":3,
+         "skill":25,
+         "slot":0,
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Basic Phial Experimentation",
+         "flags2":24576,
+         "id":191601,
+         "level":1,
+         "name":"Recipe: Basic Phial Experimentation",
+         "quality":3,
+         "skill":10,
+         "slot":0,
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Advanced Phial Experimentation",
+         "flags2":24576,
+         "id":191602,
+         "level":1,
+         "name":"Recipe: Advanced Phial Experimentation",
+         "quality":3,
+         "skill":25,
+         "slot":0,
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Basic Phial Alchemical Experimentation",
+         "flags2":12288,
+         "id":192180,
+         "level":1,
+         "name":"Basic Phial Alchemical Experimentation",
+         "quality":2,
+         "skill":0,
+         "slot":0,
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Basic Potion Alchemical Experimentation",
+         "flags2":12288,
+         "id":193365,
+         "level":1,
+         "name":"Basic Potion Alchemical Experimentation",
+         "quality":2,
+         "skill":0,
+         "slot":0,
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Advanced Phial Alchemical Experimentation",
+         "flags2":12288,
+         "id":193366,
+         "level":1,
+         "name":"Advanced Phial Alchemical Experimentation",
+         "quality":3,
+         "skill":0,
+         "slot":0,
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Advanced Potion Alchemical Experimentation",
+         "flags2":12288,
+         "id":193367,
+         "level":1,
+         "name":"Advanced Potion Alchemical Experimentation",
+         "quality":3,
+         "skill":0,
+         "slot":0,
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Reclaim Concoctions",
+         "flags2":12288,
+         "id":194973,
+         "level":1,
+         "name":"Reclaim Concoctions",
+         "quality":3,
+         "skill":0,
+         "slot":0,
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Aerated Phial of Quick Hands",
+         "flags2":24576,
+         "id":198533,
+         "level":1,
+         "name":"Recipe: Aerated Phial of Quick Hands",
+         "quality":3,
+         "skill":10,
+         "slot":0,
+         "source":[
+            5
+         ],
+         "sourcemore":[
+            {
+               "n":"Rabul",
+               "t":1,
+               "ti":194057,
+               "z":13862
+            }
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Elemental Codex of Ultimate Power",
+         "flags2":24576,
+         "id":201740,
+         "level":1,
+         "name":"Elemental Codex of Ultimate Power",
+         "quality":4,
+         "skill":50,
+         "slot":0,
+         "source":[
+            2
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Draconic Suppression Powder",
+         "flags2":8192,
+         "id":203420,
+         "level":1,
+         "name":"Recipe: Draconic Suppression Powder",
+         "quality":3,
+         "skill":50,
+         "slot":0,
+         "source":[
+            5
+         ],
+         "sourcemore":[
+            {
+               "n":"Trader Hag'arth",
+               "t":1,
+               "ti":202445,
+               "z":14433
+            }
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Transmute: Dracothyst",
+         "flags2":24576,
+         "id":204631,
+         "level":1,
+         "name":"Recipe: Transmute: Dracothyst",
+         "quality":3,
+         "skill":25,
+         "slot":0,
+         "source":[
+            5
+         ],
+         "sourcemore":[
+            {
+               "n":"Mistie",
+               "t":1,
+               "ti":203607,
+               "z":14022
+            }
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Cauldron of Extracted Putrescence",
+         "flags2":24576,
+         "id":204695,
+         "level":1,
+         "name":"Recipe: Cauldron of Extracted Putrescence",
+         "quality":3,
+         "skill":50,
+         "slot":0,
+         "source":[
+            2
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Draconic Phial Cauldron",
+         "flags2":24576,
+         "id":204696,
+         "level":1,
+         "name":"Recipe: Draconic Phial Cauldron",
+         "quality":3,
+         "skill":50,
+         "slot":0,
+         "source":[
+            2
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Stinky Bright Potion",
+         "flags2":24576,
+         "id":204984,
+         "level":1,
+         "name":"Recipe: Stinky Bright Potion",
+         "quality":3,
+         "skill":25,
+         "slot":0,
+         "source":[
+            5
+         ],
+         "sourcemore":[
+            {
+               "n":"Mistie",
+               "t":1,
+               "ti":203607,
+               "z":14022
+            }
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Dreamwalker's Healing Potion",
+         "flags2":24576,
+         "id":210241,
+         "level":1,
+         "name":"Recipe: Dreamwalker's Healing Potion",
+         "quality":3,
+         "skill":50,
+         "slot":0,
+         "source":[
+            2
+         ],
+         "sourcemore":[
+            {
+               "z":14529
+            }
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Wild Experimentation",
+         "flags2":12288,
+         "id":210813,
+         "level":1,
+         "name":"Wild Experimentation",
+         "quality":3,
+         "skill":0,
+         "slot":0,
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Neutralize Concoctions",
+         "flags2":12288,
+         "id":210829,
+         "level":1,
+         "name":"Neutralize Concoctions",
+         "quality":3,
+         "skill":0,
+         "slot":0,
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Thaumaturgy",
+         "flags2":12288,
+         "id":211796,
+         "level":1,
+         "name":"Thaumaturgy",
+         "quality":3,
+         "skill":0,
+         "slot":0,
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Meticulous Experimentation",
+         "flags2":12288,
+         "id":211958,
+         "level":1,
+         "name":"Meticulous Experimentation",
+         "quality":3,
+         "skill":0,
+         "slot":0,
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Algari Alchemist Stone",
+         "flags2":24576,
+         "id":223080,
+         "level":1,
+         "name":"Recipe: Algari Alchemist Stone",
+         "quality":3,
+         "skill":20,
+         "slot":0,
+         "source":[
+            5
+         ],
+         "sourcemore":[
+            {
+               "z":14752
+            }
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Mercurial Transmutation",
+         "flags2":12288,
+         "id":223883,
+         "level":1,
+         "name":"Mercurial Transmutation",
+         "quality":3,
+         "skill":0,
+         "slot":0,
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Volatile Transmutation",
+         "flags2":12288,
+         "id":223884,
+         "level":1,
+         "name":"Volatile Transmutation",
+         "quality":3,
+         "skill":0,
+         "slot":0,
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Ominous Transmutation",
+         "flags2":12288,
+         "id":223885,
+         "level":1,
+         "name":"Ominous Transmutation",
+         "quality":3,
+         "skill":0,
+         "slot":0,
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Mercurial Herbs",
+         "flags2":12288,
+         "id":223886,
+         "level":1,
+         "name":"Mercurial Herbs",
+         "quality":3,
+         "skill":0,
+         "slot":0,
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Ominous Herbs",
+         "flags2":12288,
+         "id":223887,
+         "level":1,
+         "name":"Ominous Herbs",
+         "quality":3,
+         "skill":0,
+         "slot":0,
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Vicious Flask of Honor",
+         "flags2":24576,
+         "id":224017,
+         "level":1,
+         "name":"Recipe: Vicious Flask of Honor",
+         "quality":3,
+         "skill":50,
+         "slot":0,
+         "source":[
+            2,
+            5
+         ],
+         "sourcemore":[
+            {
+               "n":"Hotharn",
+               "t":1,
+               "ti":219215,
+               "z":14771
+            }
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Vicious Flask of Classical Spirits",
+         "flags2":24576,
+         "id":224018,
+         "level":1,
+         "name":"Recipe: Vicious Flask of Classical Spirits",
+         "quality":3,
+         "skill":50,
+         "slot":0,
+         "source":[
+            2,
+            5
+         ],
+         "sourcemore":[
+            {
+               "n":"Hotharn",
+               "t":1,
+               "ti":219215,
+               "z":14771
+            }
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Vicious Flask of Manifested Fury",
+         "flags2":24576,
+         "id":224019,
+         "level":1,
+         "name":"Recipe: Vicious Flask of Manifested Fury",
+         "quality":3,
+         "skill":50,
+         "slot":0,
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Vicious Flask of the Wrecking Ball",
+         "flags2":24576,
+         "id":224020,
+         "level":1,
+         "name":"Recipe: Vicious Flask of the Wrecking Ball",
+         "quality":3,
+         "skill":50,
+         "slot":0,
+         "source":[
+            2,
+            5
+         ],
+         "sourcemore":[
+            {
+               "n":"Hotharn",
+               "t":1,
+               "ti":219215,
+               "z":14771
+            }
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Invigorating Healing Potion",
+         "flags2":24576,
+         "id":244841,
+         "level":1,
+         "name":"Recipe: Invigorating Healing Potion",
+         "quality":3,
+         "skill":25,
+         "slot":0,
+         "source":[
+            5
+         ],
+         "sourcemore":[
+            {
+               "n":"Om'sirik",
+               "t":1,
+               "ti":235252,
+               "z":15781
+            }
+         ],
+         "subclass":6
+      },
+      {
+         "classs":9,
+         "displayName":"Recipe: Umbral Essentia",
+         "flags2":24576,
+         "id":248550,
+         "level":1,
+         "name":"Recipe: Umbral Essentia",
+         "quality":3,
+         "skill":25,
+         "slot":0,
+         "source":[
+            5
+         ],
+         "sourcemore":[
+            {
+               "n":"Om'sirik",
+               "t":1,
+               "ti":235252,
+               "z":15781
+            }
+         ],
+         "subclass":6
+      }
+   ]
+}
