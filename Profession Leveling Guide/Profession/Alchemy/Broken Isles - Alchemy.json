@@ -1,4874 +1,3412 @@
-[
- {
-   "data": {
-      "cat": 2479,
-      "colors": [
-         0,
-         20,
-         30,
-         40
-      ],
-      "creates": [
-         127834,
-         1,
-         1
-      ],
-      "displayName": "Ancient Healing Potion",
-      "id": 188297,
-      "learnedat": 20,
-      "level": 0,
-      "name": "Ancient Healing Potion",
-      "nskillup": 1,
-      "quality": 1,
-      "reagents": [
-         [
-            128304,
-            4
+{
+   "data":[
+      {
+         "cat":2479,
+         "colors":[
+            0,
+            20,
+            30,
+            40
          ],
-         [
-            3371,
-            1
-         ],
-         [
-            null,
-            null
-         ],
-         [
-            null,
-            null
-         ],
-         [
-            null,
-            null
-         ],
-         [
-            null,
-            null
-         ]
-      ],
-      "schools": 1,
-      "skill": [
-         171
-      ],
-      "source": [
-         5
-      ],
-      "rank": "",
-      "trainingcost": null
-   }
-},
- {
-   "data": {
-      "cat": 2479,
-      "colors": [
-         0,
-         40,
-         50,
-         60
-      ],
-      "creates": [
-         127834,
-         1,
-         1
-      ],
-      "displayName": "Ancient Healing Potion",
-      "id": 188299,
-      "learnedat": 40,
-      "level": 0,
-      "name": "Ancient Healing Potion",
-      "nskillup": 1,
-      "quality": 1,
-      "reagents": [
-         [
-            128304,
-            4
-         ],
-         [
-            3371,
-            1
-         ],
-         [
-            null,
-            null
-         ],
-         [
-            null,
-            null
-         ],
-         [
-            null,
-            null
-         ],
-         [
-            null,
-            null
-         ]
-      ],
-      "schools": 1,
-      "skill": [
-         171
-      ],
-      "source": [
-         5
-      ],
-      "rank": "",
-      "trainingcost": null
-   }
-},
- {
-   "data": {
-      "cat": 2479,
-      "colors": [
-         0,
-         60,
-         70,
-         80
-      ],
-      "creates": [
-         127834,
-         1,
-         1
-      ],
-      "displayName": "Ancient Healing Potion",
-      "id": 188300,
-      "learnedat": 60,
-      "level": 0,
-      "name": "Ancient Healing Potion",
-      "nskillup": 1,
-      "quality": 1,
-      "reagents": [
-         [
-            128304,
-            4
-         ],
-         [
-            3371,
-            1
-         ],
-         [
-            null,
-            null
-         ],
-         [
-            null,
-            null
-         ],
-         [
-            null,
-            null
-         ],
-         [
-            null,
-            null
-         ]
-      ],
-      "schools": 1,
-      "skill": [
-         171
-      ],
-      "source": [
-         null
-      ],
-      "rank": "",
-      "trainingcost": null
-   }
-},
- {
-   "data": {
-      "cat": 2479,
-      "colors": [
-         0,
-         20,
-         30,
-         40
-      ],
-      "creates": [
-         127835,
-         1,
-         1
-      ],
-      "displayName": "Ancient Mana Potion",
-      "id": 188301,
-      "learnedat": 20,
-      "level": 0,
-      "name": "Ancient Mana Potion",
-      "nskillup": 1,
-      "quality": 1,
-      "reagents": [
-         [
-            128304,
-            5
-         ],
-         [
-            3371,
-            1
-         ],
-         [
-            null,
-            null
-         ],
-         [
-            null,
-            null
-         ],
-         [
-            null,
-            null
-         ],
-         [
-            null,
-            null
-         ]
-      ],
-      "schools": 1,
-      "skill": [
-         171
-      ],
-      "source": [
-         5
-      ],
-      "rank": "",
-      "trainingcost": null
-   }
-},
- {
-   "data": {
-      "cat": 2479,
-      "colors": [
-         0,
-         40,
-         50,
-         60
-      ],
-      "creates": [
-         127835,
-         1,
-         1
-      ],
-      "displayName": "Ancient Mana Potion",
-      "id": 188302,
-      "learnedat": 40,
-      "level": 0,
-      "name": "Ancient Mana Potion",
-      "nskillup": 1,
-      "quality": 1,
-      "reagents": [
-         [
-            128304,
-            5
-         ],
-         [
-            3371,
-            1
-         ],
-         [
-            null,
-            null
-         ],
-         [
-            null,
-            null
-         ],
-         [
-            null,
-            null
-         ],
-         [
-            null,
-            null
-         ]
-      ],
-      "schools": 1,
-      "skill": [
-         171
-      ],
-      "source": [
-         null
-      ],
-      "rank": "",
-      "trainingcost": null
-   }
-},
- {
-   "data": {
-      "cat": 2479,
-      "colors": [
-         0,
-         60,
-         70,
-         80
-      ],
-      "creates": [
-         127835,
-         1,
-         1
-      ],
-      "displayName": "Ancient Mana Potion",
-      "id": 188303,
-      "learnedat": 60,
-      "level": 0,
-      "name": "Ancient Mana Potion",
-      "nskillup": 1,
-      "quality": 1,
-      "reagents": [
-         [
-            128304,
-            5
-         ],
-         [
-            3371,
-            1
-         ],
-         [
-            null,
-            null
-         ],
-         [
-            null,
-            null
-         ],
-         [
-            null,
-            null
-         ],
-         [
-            null,
-            null
-         ]
-      ],
-      "schools": 1,
-      "skill": [
-         171
-      ],
-      "source": [
-         null
-      ],
-      "rank": "",
-      "trainingcost": null
-   }
-},
- {
-   "data": {
-      "cat": 2479,
-      "colors": [
-         0,
-         20,
-         30,
-         40
-      ],
-      "creates": [
-         127836,
-         1,
-         1
-      ],
-      "displayName": "Ancient Rejuvenation Potion",
-      "id": 188304,
-      "learnedat": 20,
-      "level": 0,
-      "name": "Ancient Rejuvenation Potion",
-      "nskillup": 1,
-      "quality": 1,
-      "reagents": [
-         [
+         "creates":[
             127834,
-            1
-         ],
-         [
-            127835,
-            1
-         ],
-         [
-            null,
-            null
-         ],
-         [
-            null,
-            null
-         ],
-         [
-            null,
-            null
-         ],
-         [
-            null,
-            null
-         ]
-      ],
-      "schools": 1,
-      "skill": [
-         171
-      ],
-      "source": [
-         5
-      ],
-      "rank": "",
-      "trainingcost": null
-   }
-},
- {
-   "data": {
-      "cat": 2479,
-      "colors": [
-         0,
-         40,
-         50,
-         60
-      ],
-      "creates": [
-         127836,
-         1,
-         1
-      ],
-      "displayName": "Ancient Rejuvenation Potion",
-      "id": 188305,
-      "learnedat": 40,
-      "level": 0,
-      "name": "Ancient Rejuvenation Potion",
-      "nskillup": 1,
-      "quality": 1,
-      "reagents": [
-         [
-            127834,
-            1
-         ],
-         [
-            127835,
-            1
-         ],
-         [
-            null,
-            null
-         ],
-         [
-            null,
-            null
-         ],
-         [
-            null,
-            null
-         ],
-         [
-            null,
-            null
-         ]
-      ],
-      "schools": 1,
-      "skill": [
-         171
-      ],
-      "source": [
-         null
-      ],
-      "rank": "",
-      "trainingcost": null
-   }
-},
- {
-   "data": {
-      "cat": 2479,
-      "colors": [
-         0,
-         60,
-         70,
-         80
-      ],
-      "creates": [
-         127836,
-         1,
-         1
-      ],
-      "displayName": "Ancient Rejuvenation Potion",
-      "id": 188306,
-      "learnedat": 60,
-      "level": 0,
-      "name": "Ancient Rejuvenation Potion",
-      "nskillup": 1,
-      "quality": 1,
-      "reagents": [
-         [
-            127834,
-            1
-         ],
-         [
-            127835,
-            1
-         ],
-         [
-            null,
-            null
-         ],
-         [
-            null,
-            null
-         ],
-         [
-            null,
-            null
-         ],
-         [
-            null,
-            null
-         ]
-      ],
-      "schools": 1,
-      "skill": [
-         171
-      ],
-      "source": [
-         null
-      ],
-      "rank": "",
-      "trainingcost": null
-   }
-},
- {
-   "data": {
-      "cat": 2479,
-      "colors": [
-         0,
-         20,
-         30,
-         40
-      ],
-      "creates": [
-         127837,
-         1,
-         1
-      ],
-      "displayName": "Draught of Raw Magic",
-      "id": 188307,
-      "learnedat": 20,
-      "level": 0,
-      "name": "Draught of Raw Magic",
-      "nskillup": 1,
-      "quality": 1,
-      "reagents": [
-         [
-            124101,
-            20
-         ],
-         [
-            127834,
-            1
-         ],
-         [
-            null,
-            null
-         ],
-         [
-            null,
-            null
-         ],
-         [
-            null,
-            null
-         ],
-         [
-            null,
-            null
-         ]
-      ],
-      "schools": 1,
-      "skill": [
-         171
-      ],
-      "source": [
-         5
-      ],
-      "rank": "",
-      "trainingcost": null
-   }
-},
- {
-   "data": {
-      "cat": 2479,
-      "colors": [
-         0,
-         40,
-         50,
-         60
-      ],
-      "creates": [
-         127837,
-         1,
-         1
-      ],
-      "displayName": "Draught of Raw Magic",
-      "id": 188308,
-      "learnedat": 40,
-      "level": 0,
-      "name": "Draught of Raw Magic",
-      "nskillup": 1,
-      "quality": 1,
-      "reagents": [
-         [
-            124101,
-            20
-         ],
-         [
-            127834,
-            1
-         ],
-         [
-            null,
-            null
-         ],
-         [
-            null,
-            null
-         ],
-         [
-            null,
-            null
-         ],
-         [
-            null,
-            null
-         ]
-      ],
-      "schools": 1,
-      "skill": [
-         171
-      ],
-      "source": [
-         4
-      ],
-      "rank": "",
-      "trainingcost": null
-   }
-},
- {
-   "data": {
-      "cat": 2479,
-      "colors": [
-         0,
-         60,
-         70,
-         80
-      ],
-      "creates": [
-         127837,
-         1,
-         1
-      ],
-      "displayName": "Draught of Raw Magic",
-      "id": 188309,
-      "learnedat": 60,
-      "level": 0,
-      "name": "Draught of Raw Magic",
-      "nskillup": 1,
-      "quality": 1,
-      "reagents": [
-         [
-            124101,
-            20
-         ],
-         [
-            127834,
-            1
-         ],
-         [
-            null,
-            null
-         ],
-         [
-            null,
-            null
-         ],
-         [
-            null,
-            null
-         ],
-         [
-            null,
-            null
-         ]
-      ],
-      "schools": 1,
-      "skill": [
-         171
-      ],
-      "source": [
-         null
-      ],
-      "rank": "",
-      "trainingcost": null
-   }
-},
- {
-   "data": {
-      "cat": 2479,
-      "colors": [
-         0,
-         20,
-         30,
-         40
-      ],
-      "creates": [
-         127838,
-         1,
-         1
-      ],
-      "displayName": "Sylvan Elixir",
-      "id": 188310,
-      "learnedat": 20,
-      "level": 0,
-      "name": "Sylvan Elixir",
-      "nskillup": 1,
-      "quality": 1,
-      "reagents": [
-         [
-            124102,
-            5
-         ],
-         [
-            127834,
-            1
-         ],
-         [
-            null,
-            null
-         ],
-         [
-            null,
-            null
-         ],
-         [
-            null,
-            null
-         ],
-         [
-            null,
-            null
-         ]
-      ],
-      "schools": 1,
-      "skill": [
-         171
-      ],
-      "source": [
-         5
-      ],
-      "rank": "",
-      "trainingcost": null
-   }
-},
- {
-   "data": {
-      "cat": 2479,
-      "colors": [
-         0,
-         40,
-         50,
-         60
-      ],
-      "creates": [
-         127838,
-         1,
-         1
-      ],
-      "displayName": "Sylvan Elixir",
-      "id": 188311,
-      "learnedat": 40,
-      "level": 0,
-      "name": "Sylvan Elixir",
-      "nskillup": 1,
-      "quality": 1,
-      "reagents": [
-         [
-            124102,
-            5
-         ],
-         [
-            127834,
-            1
-         ],
-         [
-            null,
-            null
-         ],
-         [
-            null,
-            null
-         ],
-         [
-            null,
-            null
-         ],
-         [
-            null,
-            null
-         ]
-      ],
-      "schools": 1,
-      "skill": [
-         171
-      ],
-      "source": [
-         4
-      ],
-      "rank": "",
-      "trainingcost": null
-   }
-},
- {
-   "data": {
-      "cat": 2479,
-      "colors": [
-         0,
-         60,
-         70,
-         80
-      ],
-      "creates": [
-         127838,
-         1,
-         1
-      ],
-      "displayName": "Sylvan Elixir",
-      "id": 188312,
-      "learnedat": 60,
-      "level": 0,
-      "name": "Sylvan Elixir",
-      "nskillup": 1,
-      "quality": 1,
-      "reagents": [
-         [
-            124102,
-            5
-         ],
-         [
-            127834,
-            1
-         ],
-         [
-            null,
-            null
-         ],
-         [
-            null,
-            null
-         ],
-         [
-            null,
-            null
-         ],
-         [
-            null,
-            null
-         ]
-      ],
-      "schools": 1,
-      "skill": [
-         171
-      ],
-      "source": [
-         null
-      ],
-      "rank": "",
-      "trainingcost": null
-   }
-},
- {
-   "data": {
-      "cat": 2479,
-      "colors": [
-         0,
-         20,
-         30,
-         40
-      ],
-      "creates": [
-         127839,
-         1,
-         1
-      ],
-      "displayName": "Avalanche Elixir",
-      "id": 188313,
-      "learnedat": 20,
-      "level": 0,
-      "name": "Avalanche Elixir",
-      "nskillup": 1,
-      "quality": 1,
-      "reagents": [
-         [
-            124103,
-            5
-         ],
-         [
-            127835,
-            1
-         ],
-         [
-            null,
-            null
-         ],
-         [
-            null,
-            null
-         ],
-         [
-            null,
-            null
-         ],
-         [
-            null,
-            null
-         ]
-      ],
-      "schools": 1,
-      "skill": [
-         171
-      ],
-      "source": [
-         5
-      ],
-      "rank": "",
-      "trainingcost": null
-   }
-},
- {
-   "data": {
-      "cat": 2479,
-      "colors": [
-         0,
-         40,
-         50,
-         60
-      ],
-      "creates": [
-         127839,
-         1,
-         1
-      ],
-      "displayName": "Avalanche Elixir",
-      "id": 188314,
-      "learnedat": 40,
-      "level": 0,
-      "name": "Avalanche Elixir",
-      "nskillup": 1,
-      "quality": 1,
-      "reagents": [
-         [
-            124103,
-            5
-         ],
-         [
-            127835,
-            1
-         ],
-         [
-            null,
-            null
-         ],
-         [
-            null,
-            null
-         ],
-         [
-            null,
-            null
-         ],
-         [
-            null,
-            null
-         ]
-      ],
-      "schools": 1,
-      "skill": [
-         171
-      ],
-      "source": [
-         4
-      ],
-      "rank": "",
-      "trainingcost": null
-   }
-},
- {
-   "data": {
-      "cat": 2479,
-      "colors": [
-         0,
-         60,
-         70,
-         80
-      ],
-      "creates": [
-         127839,
-         1,
-         1
-      ],
-      "displayName": "Avalanche Elixir",
-      "id": 188315,
-      "learnedat": 60,
-      "level": 0,
-      "name": "Avalanche Elixir",
-      "nskillup": 1,
-      "quality": 1,
-      "reagents": [
-         [
-            124103,
-            5
-         ],
-         [
-            127835,
-            1
-         ],
-         [
-            null,
-            null
-         ],
-         [
-            null,
-            null
-         ],
-         [
-            null,
-            null
-         ],
-         [
-            null,
-            null
-         ]
-      ],
-      "schools": 1,
-      "skill": [
-         171
-      ],
-      "source": [
-         null
-      ],
-      "rank": "",
-      "trainingcost": null
-   }
-},
- {
-   "data": {
-      "cat": 2479,
-      "colors": [
-         0,
-         20,
-         30,
-         40
-      ],
-      "creates": [
-         127840,
-         1,
-         1
-      ],
-      "displayName": "Skaggldrynk",
-      "id": 188316,
-      "learnedat": 20,
-      "level": 0,
-      "name": "Skaggldrynk",
-      "nskillup": 1,
-      "quality": 1,
-      "reagents": [
-         [
-            124104,
-            5
-         ],
-         [
-            127835,
-            1
-         ],
-         [
-            null,
-            null
-         ],
-         [
-            null,
-            null
-         ],
-         [
-            null,
-            null
-         ],
-         [
-            null,
-            null
-         ]
-      ],
-      "schools": 1,
-      "skill": [
-         171
-      ],
-      "source": [
-         5
-      ],
-      "rank": "",
-      "trainingcost": null
-   }
-},
- {
-   "data": {
-      "cat": 2479,
-      "colors": [
-         0,
-         40,
-         50,
-         60
-      ],
-      "creates": [
-         127840,
-         1,
-         1
-      ],
-      "displayName": "Skaggldrynk",
-      "id": 188317,
-      "learnedat": 40,
-      "level": 0,
-      "name": "Skaggldrynk",
-      "nskillup": 1,
-      "quality": 1,
-      "reagents": [
-         [
-            124104,
-            5
-         ],
-         [
-            127835,
-            1
-         ],
-         [
-            null,
-            null
-         ],
-         [
-            null,
-            null
-         ],
-         [
-            null,
-            null
-         ],
-         [
-            null,
-            null
-         ]
-      ],
-      "schools": 1,
-      "skill": [
-         171
-      ],
-      "source": [
-         4
-      ],
-      "rank": "",
-      "trainingcost": null
-   }
-},
- {
-   "data": {
-      "cat": 2479,
-      "colors": [
-         0,
-         60,
-         70,
-         80
-      ],
-      "creates": [
-         127840,
-         1,
-         1
-      ],
-      "displayName": "Skaggldrynk",
-      "id": 188318,
-      "learnedat": 60,
-      "level": 0,
-      "name": "Skaggldrynk",
-      "nskillup": 1,
-      "quality": 1,
-      "reagents": [
-         [
-            124104,
-            5
-         ],
-         [
-            127835,
-            1
-         ],
-         [
-            null,
-            null
-         ],
-         [
-            null,
-            null
-         ],
-         [
-            null,
-            null
-         ],
-         [
-            null,
-            null
-         ]
-      ],
-      "schools": 1,
-      "skill": [
-         171
-      ],
-      "source": [
-         null
-      ],
-      "rank": "",
-      "trainingcost": null
-   }
-},
- {
-   "data": {
-      "cat": 2479,
-      "colors": [
-         0,
-         20,
-         30,
-         40
-      ],
-      "creates": [
-         127841,
-         1,
-         1
-      ],
-      "displayName": "Skystep Potion",
-      "id": 188319,
-      "learnedat": 20,
-      "level": 0,
-      "name": "Skystep Potion",
-      "nskillup": 1,
-      "quality": 1,
-      "reagents": [
-         [
-            124105,
-            4
-         ],
-         [
-            127836,
-            1
-         ],
-         [
-            null,
-            null
-         ],
-         [
-            null,
-            null
-         ],
-         [
-            null,
-            null
-         ],
-         [
-            null,
-            null
-         ]
-      ],
-      "schools": 1,
-      "skill": [
-         171
-      ],
-      "source": [
-         5
-      ],
-      "rank": "",
-      "trainingcost": null
-   }
-},
- {
-   "data": {
-      "cat": 2479,
-      "colors": [
-         0,
-         40,
-         50,
-         60
-      ],
-      "creates": [
-         127841,
-         1,
-         1
-      ],
-      "displayName": "Skystep Potion",
-      "id": 188320,
-      "learnedat": 40,
-      "level": 0,
-      "name": "Skystep Potion",
-      "nskillup": 1,
-      "quality": 1,
-      "reagents": [
-         [
-            124105,
-            4
-         ],
-         [
-            127836,
-            1
-         ],
-         [
-            null,
-            null
-         ],
-         [
-            null,
-            null
-         ],
-         [
-            null,
-            null
-         ],
-         [
-            null,
-            null
-         ]
-      ],
-      "schools": 1,
-      "skill": [
-         171
-      ],
-      "source": [
-         4
-      ],
-      "rank": "",
-      "trainingcost": null
-   }
-},
- {
-   "data": {
-      "cat": 2479,
-      "colors": [
-         0,
-         60,
-         70,
-         80
-      ],
-      "creates": [
-         127841,
-         1,
-         1
-      ],
-      "displayName": "Skystep Potion",
-      "id": 188321,
-      "learnedat": 60,
-      "level": 0,
-      "name": "Skystep Potion",
-      "nskillup": 1,
-      "quality": 1,
-      "reagents": [
-         [
-            124105,
-            4
-         ],
-         [
-            127836,
-            1
-         ],
-         [
-            null,
-            null
-         ],
-         [
-            null,
-            null
-         ],
-         [
-            null,
-            null
-         ],
-         [
-            null,
-            null
-         ]
-      ],
-      "schools": 1,
-      "skill": [
-         171
-      ],
-      "source": [
-         null
-      ],
-      "rank": "",
-      "trainingcost": null
-   }
-},
- {
-   "data": {
-      "cat": 2479,
-      "colors": [
-         0,
-         40,
-         50,
-         60
-      ],
-      "creates": [
-         127842,
-         1,
-         1
-      ],
-      "displayName": "Infernal Alchemist Stone",
-      "id": 188322,
-      "learnedat": 40,
-      "level": 0,
-      "name": "Infernal Alchemist Stone",
-      "nskillup": 1,
-      "quality": 4,
-      "reagents": [
-         [
-            124444,
-            1
-         ],
-         [
-            124106,
-            5
-         ],
-         [
-            124124,
-            3
-         ],
-         [
-            null,
-            null
-         ],
-         [
-            null,
-            null
-         ],
-         [
-            null,
-            null
-         ]
-      ],
-      "schools": 1,
-      "skill": [
-         171
-      ],
-      "source": [
-         5
-      ],
-      "rank": "",
-      "trainingcost": null
-   }
-},
- {
-   "data": {
-      "cat": 2479,
-      "colors": [
-         0,
-         60,
-         70,
-         80
-      ],
-      "creates": [
-         127842,
-         1,
-         1
-      ],
-      "displayName": "Infernal Alchemist Stone",
-      "id": 188323,
-      "learnedat": 60,
-      "level": 0,
-      "name": "Infernal Alchemist Stone",
-      "nskillup": 1,
-      "quality": 4,
-      "reagents": [
-         [
-            124444,
-            1
-         ],
-         [
-            124106,
-            5
-         ],
-         [
-            124124,
-            3
-         ],
-         [
-            null,
-            null
-         ],
-         [
-            null,
-            null
-         ],
-         [
-            null,
-            null
-         ]
-      ],
-      "schools": 1,
-      "skill": [
-         171
-      ],
-      "source": [
-         2
-      ],
-      "rank": "",
-      "trainingcost": null
-   }
-},
- {
-   "data": {
-      "cat": 2479,
-      "colors": [
-         0,
-         80,
-         90,
-         100
-      ],
-      "creates": [
-         127842,
-         1,
-         1
-      ],
-      "displayName": "Infernal Alchemist Stone",
-      "id": 188324,
-      "learnedat": 80,
-      "level": 0,
-      "name": "Infernal Alchemist Stone",
-      "nskillup": 1,
-      "quality": 4,
-      "reagents": [
-         [
-            124444,
-            1
-         ],
-         [
-            124106,
-            4
-         ],
-         [
-            124124,
-            2
-         ],
-         [
-            null,
-            null
-         ],
-         [
-            null,
-            null
-         ],
-         [
-            null,
-            null
-         ]
-      ],
-      "schools": 1,
-      "skill": [
-         171
-      ],
-      "source": [
-         null
-      ],
-      "rank": "",
-      "trainingcost": null
-   }
-},
- {
-   "data": {
-      "cat": 2479,
-      "colors": [
-         0,
-         40,
-         50,
-         60
-      ],
-      "creates": [
-         127843,
-         1,
-         1
-      ],
-      "displayName": "Potion of Deadly Grace",
-      "id": 188325,
-      "learnedat": 40,
-      "level": 0,
-      "name": "Potion of Deadly Grace",
-      "nskillup": 1,
-      "quality": 1,
-      "reagents": [
-         [
-            124105,
-            1
-         ],
-         [
-            124104,
-            2
-         ],
-         [
-            124102,
-            2
-         ],
-         [
-            3371,
-            1
-         ],
-         [
-            null,
-            null
-         ],
-         [
-            null,
-            null
-         ]
-      ],
-      "schools": 1,
-      "skill": [
-         171
-      ],
-      "source": [
-         5
-      ],
-      "rank": "",
-      "trainingcost": null
-   }
-},
- {
-   "data": {
-      "cat": 2479,
-      "colors": [
-         0,
-         60,
-         70,
-         80
-      ],
-      "creates": [
-         127843,
-         1,
-         1
-      ],
-      "displayName": "Potion of Deadly Grace",
-      "id": 188326,
-      "learnedat": 60,
-      "level": 0,
-      "name": "Potion of Deadly Grace",
-      "nskillup": 1,
-      "quality": 1,
-      "reagents": [
-         [
-            124105,
-            1
-         ],
-         [
-            124104,
-            2
-         ],
-         [
-            124102,
-            2
-         ],
-         [
-            3371,
-            1
-         ],
-         [
-            null,
-            null
-         ],
-         [
-            null,
-            null
-         ]
-      ],
-      "schools": 1,
-      "skill": [
-         171
-      ],
-      "source": [
-         2
-      ],
-      "rank": "",
-      "trainingcost": null
-   }
-},
- {
-   "data": {
-      "cat": 2479,
-      "colors": [
-         0,
-         80,
-         90,
-         100
-      ],
-      "creates": [
-         127843,
-         1,
-         1
-      ],
-      "displayName": "Potion of Deadly Grace",
-      "id": 188327,
-      "learnedat": 80,
-      "level": 0,
-      "name": "Potion of Deadly Grace",
-      "nskillup": 1,
-      "quality": 1,
-      "reagents": [
-         [
-            124105,
-            1
-         ],
-         [
-            124104,
-            2
-         ],
-         [
-            124102,
-            2
-         ],
-         [
-            3371,
-            1
-         ],
-         [
-            null,
-            null
-         ],
-         [
-            null,
-            null
-         ]
-      ],
-      "schools": 1,
-      "skill": [
-         171
-      ],
-      "source": [
-         null
-      ],
-      "rank": "",
-      "trainingcost": null
-   }
-},
- {
-   "data": {
-      "cat": 2479,
-      "colors": [
-         0,
-         40,
-         50,
-         60
-      ],
-      "creates": [
-         127844,
-         1,
-         1
-      ],
-      "displayName": "Potion of the Old War",
-      "id": 188328,
-      "learnedat": 40,
-      "level": 0,
-      "name": "Potion of the Old War",
-      "nskillup": 1,
-      "quality": 1,
-      "reagents": [
-         [
-            124105,
-            1
-         ],
-         [
-            124103,
-            2
-         ],
-         [
-            124104,
-            2
-         ],
-         [
-            3371,
-            1
-         ],
-         [
-            null,
-            null
-         ],
-         [
-            null,
-            null
-         ]
-      ],
-      "schools": 1,
-      "skill": [
-         171
-      ],
-      "source": [
-         5
-      ],
-      "rank": "",
-      "trainingcost": null
-   }
-},
- {
-   "data": {
-      "cat": 2479,
-      "colors": [
-         0,
-         60,
-         70,
-         80
-      ],
-      "creates": [
-         127844,
-         1,
-         1
-      ],
-      "displayName": "Potion of the Old War",
-      "id": 188329,
-      "learnedat": 60,
-      "level": 0,
-      "name": "Potion of the Old War",
-      "nskillup": 1,
-      "quality": 1,
-      "reagents": [
-         [
-            124105,
-            1
-         ],
-         [
-            124103,
-            2
-         ],
-         [
-            124104,
-            2
-         ],
-         [
-            3371,
-            1
-         ],
-         [
-            null,
-            null
-         ],
-         [
-            null,
-            null
-         ]
-      ],
-      "schools": 1,
-      "skill": [
-         171
-      ],
-      "source": [
-         2
-      ],
-      "rank": "",
-      "trainingcost": null
-   }
-},
- {
-   "data": {
-      "cat": 2479,
-      "colors": [
-         0,
-         80,
-         90,
-         100
-      ],
-      "creates": [
-         127844,
-         1,
-         1
-      ],
-      "displayName": "Potion of the Old War",
-      "id": 188330,
-      "learnedat": 80,
-      "level": 0,
-      "name": "Potion of the Old War",
-      "nskillup": 1,
-      "quality": 1,
-      "reagents": [
-         [
-            124105,
-            1
-         ],
-         [
-            124103,
-            2
-         ],
-         [
-            124104,
-            2
-         ],
-         [
-            3371,
-            1
-         ],
-         [
-            null,
-            null
-         ],
-         [
-            null,
-            null
-         ]
-      ],
-      "schools": 1,
-      "skill": [
-         171
-      ],
-      "source": [
-         null
-      ],
-      "rank": "",
-      "trainingcost": null
-   }
-},
- {
-   "data": {
-      "cat": 2479,
-      "colors": [
-         0,
-         40,
-         50,
-         60
-      ],
-      "creates": [
-         127845,
-         1,
-         1
-      ],
-      "displayName": "Unbending Potion",
-      "id": 188331,
-      "learnedat": 40,
-      "level": 0,
-      "name": "Unbending Potion",
-      "nskillup": 1,
-      "quality": 1,
-      "reagents": [
-         [
-            124105,
-            1
-         ],
-         [
-            124101,
-            2
-         ],
-         [
-            124103,
-            2
-         ],
-         [
-            3371,
-            1
-         ],
-         [
-            null,
-            null
-         ],
-         [
-            null,
-            null
-         ]
-      ],
-      "schools": 1,
-      "skill": [
-         171
-      ],
-      "source": [
-         5
-      ],
-      "rank": "",
-      "trainingcost": null
-   }
-},
- {
-   "data": {
-      "cat": 2479,
-      "colors": [
-         0,
-         60,
-         70,
-         80
-      ],
-      "creates": [
-         127845,
-         1,
-         1
-      ],
-      "displayName": "Unbending Potion",
-      "id": 188332,
-      "learnedat": 60,
-      "level": 0,
-      "name": "Unbending Potion",
-      "nskillup": 1,
-      "quality": 1,
-      "reagents": [
-         [
-            124105,
-            1
-         ],
-         [
-            124101,
-            2
-         ],
-         [
-            124103,
-            2
-         ],
-         [
-            3371,
-            1
-         ],
-         [
-            null,
-            null
-         ],
-         [
-            null,
-            null
-         ]
-      ],
-      "schools": 1,
-      "skill": [
-         171
-      ],
-      "source": [
-         2
-      ],
-      "rank": "",
-      "trainingcost": null
-   }
-},
- {
-   "data": {
-      "cat": 2479,
-      "colors": [
-         0,
-         80,
-         90,
-         100
-      ],
-      "creates": [
-         127845,
-         1,
-         1
-      ],
-      "displayName": "Unbending Potion",
-      "id": 188333,
-      "learnedat": 80,
-      "level": 0,
-      "name": "Unbending Potion",
-      "nskillup": 1,
-      "quality": 1,
-      "reagents": [
-         [
-            124105,
-            1
-         ],
-         [
-            124101,
-            2
-         ],
-         [
-            124103,
-            2
-         ],
-         [
-            3371,
-            1
-         ],
-         [
-            null,
-            null
-         ],
-         [
-            null,
-            null
-         ]
-      ],
-      "schools": 1,
-      "skill": [
-         171
-      ],
-      "source": [
-         null
-      ],
-      "rank": "",
-      "trainingcost": null
-   }
-},
- {
-   "data": {
-      "cat": 2479,
-      "colors": [
-         0,
-         40,
-         50,
-         60
-      ],
-      "creates": [
-         127846,
-         1,
-         1
-      ],
-      "displayName": "Leytorrent Potion",
-      "id": 188334,
-      "learnedat": 40,
-      "level": 0,
-      "name": "Leytorrent Potion",
-      "nskillup": 1,
-      "quality": 1,
-      "reagents": [
-         [
-            124105,
-            1
-         ],
-         [
-            124101,
-            2
-         ],
-         [
-            124102,
-            2
-         ],
-         [
-            3371,
-            1
-         ],
-         [
-            null,
-            null
-         ],
-         [
-            null,
-            null
-         ]
-      ],
-      "schools": 1,
-      "skill": [
-         171
-      ],
-      "source": [
-         5
-      ],
-      "rank": "",
-      "trainingcost": null
-   }
-},
- {
-   "data": {
-      "cat": 2479,
-      "colors": [
-         0,
-         60,
-         70,
-         80
-      ],
-      "creates": [
-         127846,
-         1,
-         1
-      ],
-      "displayName": "Leytorrent Potion",
-      "id": 188335,
-      "learnedat": 60,
-      "level": 0,
-      "name": "Leytorrent Potion",
-      "nskillup": 1,
-      "quality": 1,
-      "reagents": [
-         [
-            124105,
-            1
-         ],
-         [
-            124101,
-            2
-         ],
-         [
-            124102,
-            2
-         ],
-         [
-            3371,
-            1
-         ],
-         [
-            null,
-            null
-         ],
-         [
-            null,
-            null
-         ]
-      ],
-      "schools": 1,
-      "skill": [
-         171
-      ],
-      "source": [
-         2
-      ],
-      "rank": "",
-      "trainingcost": null
-   }
-},
- {
-   "data": {
-      "cat": 2479,
-      "colors": [
-         0,
-         80,
-         90,
-         100
-      ],
-      "creates": [
-         127846,
-         1,
-         1
-      ],
-      "displayName": "Leytorrent Potion",
-      "id": 188336,
-      "learnedat": 80,
-      "level": 0,
-      "name": "Leytorrent Potion",
-      "nskillup": 1,
-      "quality": 1,
-      "reagents": [
-         [
-            124105,
-            1
-         ],
-         [
-            124101,
-            2
-         ],
-         [
-            124102,
-            2
-         ],
-         [
-            3371,
-            1
-         ],
-         [
-            null,
-            null
-         ],
-         [
-            null,
-            null
-         ]
-      ],
-      "schools": 1,
-      "skill": [
-         171
-      ],
-      "source": [
-         null
-      ],
-      "rank": "",
-      "trainingcost": null
-   }
-},
- {
-   "data": {
-      "cat": 2479,
-      "colors": [
-         0,
-         60,
-         70,
-         80
-      ],
-      "creates": [
-         127847,
-         1,
-         1
-      ],
-      "displayName": "Flask of the Whispered Pact",
-      "id": 188337,
-      "learnedat": 60,
-      "level": 0,
-      "name": "Flask of the Whispered Pact",
-      "nskillup": 1,
-      "quality": 1,
-      "reagents": [
-         [
-            124105,
-            7
-         ],
-         [
-            124104,
-            10
-         ],
-         [
-            124102,
-            10
-         ],
-         [
-            3371,
-            1
-         ],
-         [
-            null,
-            null
-         ],
-         [
-            null,
-            null
-         ]
-      ],
-      "schools": 1,
-      "skill": [
-         171
-      ],
-      "source": [
-         5
-      ],
-      "rank": "",
-      "trainingcost": null
-   }
-},
- {
-   "data": {
-      "cat": 2479,
-      "colors": [
-         0,
-         80,
-         90,
-         100
-      ],
-      "creates": [
-         127847,
-         1,
-         1
-      ],
-      "displayName": "Flask of the Whispered Pact",
-      "id": 188338,
-      "learnedat": 80,
-      "level": 0,
-      "name": "Flask of the Whispered Pact",
-      "nskillup": 1,
-      "quality": 1,
-      "reagents": [
-         [
-            124105,
-            7
-         ],
-         [
-            124104,
-            10
-         ],
-         [
-            124102,
-            10
-         ],
-         [
-            3371,
-            1
-         ],
-         [
-            null,
-            null
-         ],
-         [
-            null,
-            null
-         ]
-      ],
-      "schools": 1,
-      "skill": [
-         171
-      ],
-      "source": [
-         2
-      ],
-      "rank": "",
-      "trainingcost": null
-   }
-},
- {
-   "data": {
-      "cat": 2479,
-      "colors": [
-         0,
-         100,
-         100,
-         100
-      ],
-      "creates": [
-         127847,
-         1,
-         1
-      ],
-      "displayName": "Flask of the Whispered Pact",
-      "id": 188339,
-      "learnedat": 100,
-      "level": 0,
-      "name": "Flask of the Whispered Pact",
-      "nskillup": 1,
-      "quality": 1,
-      "reagents": [
-         [
-            124105,
-            7
-         ],
-         [
-            124104,
-            10
-         ],
-         [
-            124102,
-            10
-         ],
-         [
-            3371,
-            1
-         ],
-         [
-            null,
-            null
-         ],
-         [
-            null,
-            null
-         ]
-      ],
-      "schools": 1,
-      "skill": [
-         171
-      ],
-      "source": [
-         null
-      ],
-      "rank": "",
-      "trainingcost": null
-   }
-},
- {
-   "data": {
-      "cat": 2479,
-      "colors": [
-         0,
-         60,
-         70,
-         80
-      ],
-      "creates": [
-         127848,
-         1,
-         1
-      ],
-      "displayName": "Flask of the Seventh Demon",
-      "id": 188340,
-      "learnedat": 60,
-      "level": 0,
-      "name": "Flask of the Seventh Demon",
-      "nskillup": 1,
-      "quality": 1,
-      "reagents": [
-         [
-            124105,
-            7
-         ],
-         [
-            124103,
-            10
-         ],
-         [
-            124104,
-            10
-         ],
-         [
-            3371,
-            1
-         ],
-         [
-            null,
-            null
-         ],
-         [
-            null,
-            null
-         ]
-      ],
-      "schools": 1,
-      "skill": [
-         171
-      ],
-      "source": [
-         5
-      ],
-      "rank": "",
-      "trainingcost": null
-   }
-},
- {
-   "data": {
-      "cat": 2479,
-      "colors": [
-         0,
-         80,
-         90,
-         100
-      ],
-      "creates": [
-         127848,
-         1,
-         1
-      ],
-      "displayName": "Flask of the Seventh Demon",
-      "id": 188341,
-      "learnedat": 80,
-      "level": 0,
-      "name": "Flask of the Seventh Demon",
-      "nskillup": 1,
-      "quality": 1,
-      "reagents": [
-         [
-            124105,
-            7
-         ],
-         [
-            124103,
-            10
-         ],
-         [
-            124104,
-            10
-         ],
-         [
-            3371,
-            1
-         ],
-         [
-            null,
-            null
-         ],
-         [
-            null,
-            null
-         ]
-      ],
-      "schools": 1,
-      "skill": [
-         171
-      ],
-      "source": [
-         2
-      ],
-      "rank": "",
-      "trainingcost": null
-   }
-},
- {
-   "data": {
-      "cat": 2479,
-      "colors": [
-         0,
-         100,
-         100,
-         100
-      ],
-      "creates": [
-         127848,
-         1,
-         1
-      ],
-      "displayName": "Flask of the Seventh Demon",
-      "id": 188342,
-      "learnedat": 100,
-      "level": 0,
-      "name": "Flask of the Seventh Demon",
-      "nskillup": 1,
-      "quality": 1,
-      "reagents": [
-         [
-            124105,
-            7
-         ],
-         [
-            124103,
-            10
-         ],
-         [
-            124104,
-            10
-         ],
-         [
-            3371,
-            1
-         ],
-         [
-            null,
-            null
-         ],
-         [
-            null,
-            null
-         ]
-      ],
-      "schools": 1,
-      "skill": [
-         171
-      ],
-      "source": [
-         null
-      ],
-      "rank": "",
-      "trainingcost": null
-   }
-},
- {
-   "data": {
-      "cat": 2479,
-      "colors": [
-         0,
-         60,
-         70,
-         80
-      ],
-      "creates": [
-         127849,
-         1,
-         1
-      ],
-      "displayName": "Flask of the Countless Armies",
-      "id": 188343,
-      "learnedat": 60,
-      "level": 0,
-      "name": "Flask of the Countless Armies",
-      "nskillup": 1,
-      "quality": 1,
-      "reagents": [
-         [
-            124105,
-            7
-         ],
-         [
-            124101,
-            10
-         ],
-         [
-            124103,
-            10
-         ],
-         [
-            3371,
-            1
-         ],
-         [
-            null,
-            null
-         ],
-         [
-            null,
-            null
-         ]
-      ],
-      "schools": 1,
-      "skill": [
-         171
-      ],
-      "source": [
-         5
-      ],
-      "rank": "",
-      "trainingcost": null
-   }
-},
- {
-   "data": {
-      "cat": 2479,
-      "colors": [
-         0,
-         80,
-         90,
-         100
-      ],
-      "creates": [
-         127849,
-         1,
-         1
-      ],
-      "displayName": "Flask of the Countless Armies",
-      "id": 188344,
-      "learnedat": 80,
-      "level": 0,
-      "name": "Flask of the Countless Armies",
-      "nskillup": 1,
-      "quality": 1,
-      "reagents": [
-         [
-            124105,
-            7
-         ],
-         [
-            124101,
-            10
-         ],
-         [
-            124103,
-            10
-         ],
-         [
-            3371,
-            1
-         ],
-         [
-            null,
-            null
-         ],
-         [
-            null,
-            null
-         ]
-      ],
-      "schools": 1,
-      "skill": [
-         171
-      ],
-      "source": [
-         2
-      ],
-      "rank": "",
-      "trainingcost": null
-   }
-},
- {
-   "data": {
-      "cat": 2479,
-      "colors": [
-         0,
-         100,
-         100,
-         100
-      ],
-      "creates": [
-         127849,
-         1,
-         1
-      ],
-      "displayName": "Flask of the Countless Armies",
-      "id": 188345,
-      "learnedat": 100,
-      "level": 0,
-      "name": "Flask of the Countless Armies",
-      "nskillup": 1,
-      "quality": 1,
-      "reagents": [
-         [
-            124105,
-            7
-         ],
-         [
-            124101,
-            10
-         ],
-         [
-            124103,
-            10
-         ],
-         [
-            3371,
-            1
-         ],
-         [
-            null,
-            null
-         ],
-         [
-            null,
-            null
-         ]
-      ],
-      "schools": 1,
-      "skill": [
-         171
-      ],
-      "source": [
-         null
-      ],
-      "rank": "",
-      "trainingcost": null
-   }
-},
- {
-   "data": {
-      "cat": 2479,
-      "colors": [
-         0,
-         60,
-         70,
-         80
-      ],
-      "creates": [
-         127850,
-         1,
-         1
-      ],
-      "displayName": "Flask of Ten Thousand Scars",
-      "id": 188346,
-      "learnedat": 60,
-      "level": 0,
-      "name": "Flask of Ten Thousand Scars",
-      "nskillup": 1,
-      "quality": 1,
-      "reagents": [
-         [
-            124105,
-            7
-         ],
-         [
-            124101,
-            10
-         ],
-         [
-            124102,
-            10
-         ],
-         [
-            3371,
-            1
-         ],
-         [
-            null,
-            null
-         ],
-         [
-            null,
-            null
-         ]
-      ],
-      "schools": 1,
-      "skill": [
-         171
-      ],
-      "source": [
-         5
-      ],
-      "rank": "",
-      "trainingcost": null
-   }
-},
- {
-   "data": {
-      "cat": 2479,
-      "colors": [
-         0,
-         80,
-         90,
-         100
-      ],
-      "creates": [
-         127850,
-         1,
-         1
-      ],
-      "displayName": "Flask of Ten Thousand Scars",
-      "id": 188347,
-      "learnedat": 80,
-      "level": 0,
-      "name": "Flask of Ten Thousand Scars",
-      "nskillup": 1,
-      "quality": 1,
-      "reagents": [
-         [
-            124105,
-            7
-         ],
-         [
-            124101,
-            10
-         ],
-         [
-            124102,
-            10
-         ],
-         [
-            3371,
-            1
-         ],
-         [
-            null,
-            null
-         ],
-         [
-            null,
-            null
-         ]
-      ],
-      "schools": 1,
-      "skill": [
-         171
-      ],
-      "source": [
-         2
-      ],
-      "rank": "",
-      "trainingcost": null
-   }
-},
- {
-   "data": {
-      "cat": 2479,
-      "colors": [
-         0,
-         100,
-         100,
-         100
-      ],
-      "creates": [
-         127850,
-         1,
-         1
-      ],
-      "displayName": "Flask of Ten Thousand Scars",
-      "id": 188348,
-      "learnedat": 100,
-      "level": 0,
-      "name": "Flask of Ten Thousand Scars",
-      "nskillup": 1,
-      "quality": 1,
-      "reagents": [
-         [
-            124105,
-            7
-         ],
-         [
-            124101,
-            10
-         ],
-         [
-            124102,
-            10
-         ],
-         [
-            3371,
-            1
-         ],
-         [
-            null,
-            null
-         ],
-         [
-            null,
-            null
-         ]
-      ],
-      "schools": 1,
-      "skill": [
-         171
-      ],
-      "source": [
-         null
-      ],
-      "rank": "",
-      "trainingcost": null
-   }
-},
- {
-   "data": {
-      "cat": 2479,
-      "colors": [
-         0,
-         60,
-         70,
-         80
-      ],
-      "creates": [
-         127851,
-         1,
-         1
-      ],
-      "displayName": "Spirit Cauldron",
-      "id": 188349,
-      "learnedat": 60,
-      "level": 0,
-      "name": "Spirit Cauldron",
-      "nskillup": 1,
-      "quality": 1,
-      "reagents": [
-         [
-            127847,
-            5
-         ],
-         [
-            127848,
-            5
-         ],
-         [
-            127849,
-            5
-         ],
-         [
-            127850,
-            5
-         ],
-         [
-            124124,
-            1
-         ],
-         [
-            null,
-            null
-         ]
-      ],
-      "schools": 1,
-      "skill": [
-         171
-      ],
-      "source": [
-         5
-      ],
-      "rank": "",
-      "trainingcost": null
-   }
-},
- {
-   "data": {
-      "cat": 2479,
-      "colors": [
-         0,
-         80,
-         90,
-         100
-      ],
-      "creates": [
-         127851,
-         1,
-         1
-      ],
-      "displayName": "Spirit Cauldron",
-      "id": 188350,
-      "learnedat": 80,
-      "level": 0,
-      "name": "Spirit Cauldron",
-      "nskillup": 1,
-      "quality": 1,
-      "reagents": [
-         [
-            127847,
-            5
-         ],
-         [
-            127848,
-            5
-         ],
-         [
-            127849,
-            5
-         ],
-         [
-            127850,
-            5
-         ],
-         [
-            124124,
-            1
-         ],
-         [
-            null,
-            null
-         ]
-      ],
-      "schools": 1,
-      "skill": [
-         171
-      ],
-      "source": [
-         2
-      ],
-      "rank": "",
-      "trainingcost": null
-   }
-},
- {
-   "data": {
-      "cat": 2479,
-      "colors": [
-         0,
-         100,
-         100,
-         100
-      ],
-      "creates": [
-         127851,
-         1,
-         1
-      ],
-      "displayName": "Spirit Cauldron",
-      "id": 188351,
-      "learnedat": 100,
-      "level": 0,
-      "name": "Spirit Cauldron",
-      "nskillup": 1,
-      "quality": 1,
-      "reagents": [
-         [
-            127847,
-            5
-         ],
-         [
-            127848,
-            5
-         ],
-         [
-            127849,
-            5
-         ],
-         [
-            127850,
-            5
-         ],
-         [
-            124124,
-            1
-         ],
-         [
-            null,
-            null
-         ]
-      ],
-      "schools": 1,
-      "skill": [
-         171
-      ],
-      "source": [
-         null
-      ],
-      "rank": "",
-      "trainingcost": null
-   }
-},
- {
-   "data": {
-      "cat": 2479,
-      "colors": [
-         0,
-         20,
-         50,
-         80
-      ],
-      "creates": [
-         141323,
-         1,
-         1
-      ],
-      "displayName": "Wild Transmutation",
-      "id": 188800,
-      "learnedat": 20,
-      "level": 0,
-      "name": "Wild Transmutation",
-      "nskillup": 1,
-      "quality": 1,
-      "reagents": [
-         [
-            124101,
-            10
-         ],
-         [
-            124102,
-            10
-         ],
-         [
-            124103,
-            10
-         ],
-         [
-            124104,
-            10
-         ],
-         [
-            124105,
-            1
-         ],
-         [
-            null,
-            null
-         ]
-      ],
-      "schools": 1,
-      "skill": [
-         171
-      ],
-      "source": [
-         5
-      ],
-      "rank": "",
-      "trainingcost": null
-   }
-},
- {
-   "data": {
-      "cat": 2479,
-      "colors": [
-         0,
-         20,
-         50,
-         80
-      ],
-      "creates": [
-         141323,
-         1,
-         1
-      ],
-      "displayName": "Wild Transmutation",
-      "id": 188801,
-      "learnedat": 20,
-      "level": 0,
-      "name": "Wild Transmutation",
-      "nskillup": 1,
-      "quality": 1,
-      "reagents": [
-         [
-            124101,
-            7
-         ],
-         [
-            124102,
-            7
-         ],
-         [
-            124103,
-            7
-         ],
-         [
-            124104,
-            7
-         ],
-         [
-            124105,
-            1
-         ],
-         [
-            null,
-            null
-         ]
-      ],
-      "schools": 1,
-      "skill": [
-         171
-      ],
-      "source": [
-         null
-      ],
-      "rank": "",
-      "trainingcost": null
-   }
-},
- {
-   "data": {
-      "cat": 2479,
-      "colors": [
-         0,
-         20,
-         50,
-         80
-      ],
-      "creates": [
-         141323,
-         1,
-         1
-      ],
-      "displayName": "Wild Transmutation",
-      "id": 188802,
-      "learnedat": 20,
-      "level": 0,
-      "name": "Wild Transmutation",
-      "nskillup": 1,
-      "quality": 1,
-      "reagents": [
-         [
-            124101,
-            5
-         ],
-         [
-            124102,
-            5
-         ],
-         [
-            124103,
-            5
-         ],
-         [
-            124104,
-            5
-         ],
-         [
-            124105,
-            1
-         ],
-         [
-            null,
-            null
-         ]
-      ],
-      "schools": 1,
-      "skill": [
-         171
-      ],
-      "source": [
-         null
-      ],
-      "rank": "",
-      "trainingcost": null
-   }
-},
- {
-   "data": {
-      "cat": 2479,
-      "colors": [
-         0,
-         20,
-         50,
-         80
-      ],
-      "creates": [
-         137590,
-         1,
-         1
-      ],
-      "displayName": "Transmute: Ore to Cloth",
-      "id": 213248,
-      "learnedat": 20,
-      "level": 0,
-      "name": "Transmute: Ore to Cloth",
-      "nskillup": 1,
-      "quality": 1,
-      "reagents": [
-         [
-            123918,
-            5
-         ],
-         [
-            123919,
-            5
-         ],
-         [
-            null,
-            null
-         ],
-         [
-            null,
-            null
-         ],
-         [
-            null,
-            null
-         ],
-         [
-            null,
-            null
-         ]
-      ],
-      "schools": 1,
-      "skill": [
-         171
-      ],
-      "source": [
-         null
-      ],
-      "rank": "",
-      "trainingcost": null
-   }
-},
- {
-   "data": {
-      "cat": 2479,
-      "colors": [
-         0,
-         20,
-         50,
-         80
-      ],
-      "creates": [
-         137591,
-         1,
-         1
-      ],
-      "displayName": "Transmute: Cloth to Skins",
-      "id": 213249,
-      "learnedat": 20,
-      "level": 0,
-      "name": "Transmute: Cloth to Skins",
-      "nskillup": 1,
-      "quality": 1,
-      "reagents": [
-         [
-            124437,
-            10
-         ],
-         [
-            null,
-            null
-         ],
-         [
-            null,
-            null
-         ],
-         [
-            null,
-            null
-         ],
-         [
-            null,
-            null
-         ],
-         [
-            null,
-            null
-         ]
-      ],
-      "schools": 1,
-      "skill": [
-         171
-      ],
-      "source": [
-         null
-      ],
-      "rank": "",
-      "trainingcost": null
-   }
-},
- {
-   "data": {
-      "cat": 2479,
-      "colors": [
-         0,
-         20,
-         50,
-         80
-      ],
-      "creates": [
-         137592,
-         1,
-         1
-      ],
-      "displayName": "Transmute: Skins to Ore",
-      "id": 213250,
-      "learnedat": 20,
-      "level": 0,
-      "name": "Transmute: Skins to Ore",
-      "nskillup": 1,
-      "quality": 1,
-      "reagents": [
-         [
-            124113,
-            5
-         ],
-         [
-            124115,
-            5
-         ],
-         [
-            null,
-            null
-         ],
-         [
-            null,
-            null
-         ],
-         [
-            null,
-            null
-         ],
-         [
-            null,
-            null
-         ]
-      ],
-      "schools": 1,
-      "skill": [
-         171
-      ],
-      "source": [
-         null
-      ],
-      "rank": "",
-      "trainingcost": null
-   }
-},
- {
-   "data": {
-      "cat": 2479,
-      "colors": [
-         0,
-         20,
-         50,
-         80
-      ],
-      "creates": [
-         137593,
-         1,
-         1
-      ],
-      "displayName": "Transmute: Ore to Herbs",
-      "id": 213251,
-      "learnedat": 20,
-      "level": 0,
-      "name": "Transmute: Ore to Herbs",
-      "nskillup": 1,
-      "quality": 1,
-      "reagents": [
-         [
-            123918,
-            5
-         ],
-         [
-            123919,
-            5
-         ],
-         [
-            null,
-            null
-         ],
-         [
-            null,
-            null
-         ],
-         [
-            null,
-            null
-         ],
-         [
-            null,
-            null
-         ]
-      ],
-      "schools": 1,
-      "skill": [
-         171
-      ],
-      "source": [
-         null
-      ],
-      "rank": "",
-      "trainingcost": null
-   }
-},
- {
-   "data": {
-      "cat": 2479,
-      "colors": [
-         0,
-         20,
-         50,
-         80
-      ],
-      "creates": [
-         137593,
-         1,
-         1
-      ],
-      "displayName": "Transmute: Cloth to Herbs",
-      "id": 213252,
-      "learnedat": 20,
-      "level": 0,
-      "name": "Transmute: Cloth to Herbs",
-      "nskillup": 1,
-      "quality": 1,
-      "reagents": [
-         [
-            124437,
-            10
-         ],
-         [
-            null,
-            null
-         ],
-         [
-            null,
-            null
-         ],
-         [
-            null,
-            null
-         ],
-         [
-            null,
-            null
-         ],
-         [
-            null,
-            null
-         ]
-      ],
-      "schools": 1,
-      "skill": [
-         171
-      ],
-      "source": [
-         null
-      ],
-      "rank": "",
-      "trainingcost": null
-   }
-},
- {
-   "data": {
-      "cat": 2479,
-      "colors": [
-         0,
-         20,
-         50,
-         80
-      ],
-      "creates": [
-         137593,
-         1,
-         1
-      ],
-      "displayName": "Transmute: Skins to Herbs",
-      "id": 213253,
-      "learnedat": 20,
-      "level": 0,
-      "name": "Transmute: Skins to Herbs",
-      "nskillup": 1,
-      "quality": 1,
-      "reagents": [
-         [
-            124113,
-            5
-         ],
-         [
-            124115,
-            5
-         ],
-         [
-            null,
-            null
-         ],
-         [
-            null,
-            null
-         ],
-         [
-            null,
-            null
-         ],
-         [
-            null,
-            null
-         ]
-      ],
-      "schools": 1,
-      "skill": [
-         171
-      ],
-      "source": [
-         null
-      ],
-      "rank": "",
-      "trainingcost": null
-   }
-},
- {
-   "data": {
-      "cat": 2479,
-      "colors": [
-         0,
-         20,
-         50,
-         80
-      ],
-      "creates": [
-         137594,
-         1,
-         1
-      ],
-      "displayName": "Transmute: Fish to Gems",
-      "id": 213254,
-      "learnedat": 20,
-      "level": 0,
-      "name": "Transmute: Fish to Gems",
-      "nskillup": 1,
-      "quality": 1,
-      "reagents": [
-         [
-            124107,
-            5
-         ],
-         [
-            124108,
-            5
-         ],
-         [
-            124109,
-            5
-         ],
-         [
-            124110,
-            5
-         ],
-         [
-            124111,
-            5
-         ],
-         [
-            124112,
+            1,
+            1
+         ],
+         "displayName":"Ancient Healing Potion",
+         "id":188297,
+         "learnedat":20,
+         "level":0,
+         "name":"Ancient Healing Potion",
+         "nskillup":1,
+         "quality":1,
+         "reagents":[
+            [
+               128304,
+               4
+            ],
+            [
+               3371,
+               1
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            171
+         ],
+         "source":[
             5
          ]
-      ],
-      "schools": 1,
-      "skill": [
-         171
-      ],
-      "source": [
-         null
-      ],
-      "rank": "",
-      "trainingcost": null
-   }
-},
- {
-   "data": {
-      "cat": 2479,
-      "colors": [
-         0,
-         20,
-         50,
-         80
-      ],
-      "creates": [
-         137600,
-         1,
-         1
-      ],
-      "displayName": "Transmute: Meat to Pants",
-      "id": 213255,
-      "learnedat": 20,
-      "level": 0,
-      "name": "Transmute: Meat to Pants",
-      "nskillup": 1,
-      "quality": 1,
-      "reagents": [
-         [
-            124117,
-            5
-         ],
-         [
-            124118,
-            5
-         ],
-         [
-            124119,
-            5
-         ],
-         [
-            124120,
-            5
-         ],
-         [
-            124121,
-            5
-         ],
-         [
-            null,
-            null
-         ]
-      ],
-      "schools": 1,
-      "skill": [
-         171
-      ],
-      "source": [
-         null
-      ],
-      "rank": "",
-      "trainingcost": null
-   }
-},
- {
-   "data": {
-      "cat": 2479,
-      "colors": [
-         0,
-         20,
-         50,
-         80
-      ],
-      "creates": [
-         137599,
-         1,
-         1
-      ],
-      "displayName": "Transmute: Meat to Pet",
-      "id": 213256,
-      "learnedat": 20,
-      "level": 0,
-      "name": "Transmute: Meat to Pet",
-      "nskillup": 1,
-      "quality": 2,
-      "reagents": [
-         [
-            124118,
-            3
-         ],
-         [
-            124438,
-            20
-         ],
-         [
-            124439,
-            20
-         ],
-         [
-            137595,
-            1
-         ],
-         [
-            137596,
-            1
-         ],
-         [
-            137597,
-            1
-         ]
-      ],
-      "schools": 1,
-      "skill": [
-         171
-      ],
-      "source": [
-         null
-      ],
-      "rank": "",
-      "trainingcost": null
-   }
-},
- {
-   "data": {
-      "cat": 2479,
-      "colors": [
-         0,
-         20,
-         50,
-         80
-      ],
-      "creates": [
-         124124,
-         1,
-         1
-      ],
-      "displayName": "Transmute: Blood of Sargeras",
-      "id": 213257,
-      "learnedat": 20,
-      "level": 0,
-      "name": "Transmute: Blood of Sargeras",
-      "nskillup": 1,
-      "quality": 3,
-      "reagents": [
-         [
-            137596,
-            5
-         ],
-         [
-            137595,
-            4
-         ],
-         [
-            137597,
-            3
-         ],
-         [
-            null,
-            null
-         ],
-         [
-            null,
-            null
-         ],
-         [
-            null,
-            null
-         ]
-      ],
-      "schools": 1,
-      "skill": [
-         171
-      ],
-      "source": [
-         null
-      ],
-      "rank": "",
-      "trainingcost": null
-   }
-},
- {
-   "data": {
-      "cat": 2479,
-      "colors": [
-         0,
-         60,
-         70,
-         80
-      ],
-      "creates": [
-         142117,
-         10,
-         10
-      ],
-      "displayName": "Potion of Prolonged Power",
-      "id": 229217,
-      "learnedat": 60,
-      "level": 0,
-      "name": "Potion of Prolonged Power",
-      "nskillup": 1,
-      "quality": 1,
-      "reagents": [
-         [
-            124124,
-            1
-         ],
-         [
-            3371,
-            10
-         ],
-         [
-            null,
-            null
-         ],
-         [
-            null,
-            null
-         ],
-         [
-            null,
-            null
-         ],
-         [
-            null,
-            null
-         ]
-      ],
-      "schools": 1,
-      "skill": [
-         171
-      ],
-      "source": [
-         2
-      ],
-      "rank": "",
-      "trainingcost": null
-   }
-},
- {
-   "data": {
-      "cat": 2479,
-      "colors": [
-         0,
-         80,
-         90,
-         100
-      ],
-      "creates": [
-         142117,
-         10,
-         10
-      ],
-      "displayName": "Potion of Prolonged Power",
-      "id": 229218,
-      "learnedat": 80,
-      "level": 0,
-      "name": "Potion of Prolonged Power",
-      "nskillup": 1,
-      "quality": 1,
-      "reagents": [
-         [
-            124124,
-            1
-         ],
-         [
-            3371,
-            10
-         ],
-         [
-            null,
-            null
-         ],
-         [
-            null,
-            null
-         ],
-         [
-            null,
-            null
-         ],
-         [
-            null,
-            null
-         ]
-      ],
-      "schools": 1,
-      "skill": [
-         171
-      ],
-      "source": [
-         5
-      ],
-      "rank": "",
-      "trainingcost": null
-   }
-},
- {
-   "data": {
-      "cat": 2479,
-      "colors": [
-         0,
-         100,
-         100,
-         100
-      ],
-      "creates": [
-         142117,
-         10,
-         10
-      ],
-      "displayName": "Potion of Prolonged Power",
-      "id": 229220,
-      "learnedat": 100,
-      "level": 0,
-      "name": "Potion of Prolonged Power",
-      "nskillup": 1,
-      "quality": 1,
-      "reagents": [
-         [
-            124124,
-            1
-         ],
-         [
-            3371,
-            10
-         ],
-         [
-            null,
-            null
-         ],
-         [
-            null,
-            null
-         ],
-         [
-            null,
-            null
-         ],
-         [
-            null,
-            null
-         ]
-      ],
-      "schools": 1,
-      "skill": [
-         171
-      ],
-      "source": [
-         2
-      ],
-      "rank": "",
-      "trainingcost": null
-   }
-},
- {
-   "data": {
-      "cat": 2479,
-      "colors": [
-         0,
-         80,
-         90,
-         100
-      ],
-      "creates": [
-         151608,
-         1,
-         1
-      ],
-      "displayName": "Lightblood Elixir",
-      "id": 247619,
-      "learnedat": 80,
-      "level": 0,
-      "name": "Lightblood Elixir",
-      "nskillup": 1,
-      "quality": 1,
-      "reagents": [
-         [
-            151565,
-            25
-         ],
-         [
-            151568,
-            1
-         ],
-         [
-            3371,
-            1
-         ],
-         [
-            null,
-            null
-         ],
-         [
-            null,
-            null
-         ],
-         [
-            null,
-            null
-         ]
-      ],
-      "schools": 1,
-      "skill": [
-         171
-      ],
-      "source": [
-         null
-      ],
-      "rank": "",
-      "trainingcost": null
-   }
-},
- {
-   "data": {
-      "cat": 2479,
-      "colors": [
-         0,
-         80,
-         90,
-         100
-      ],
-      "creates": [
-         151608,
-         1,
-         1
-      ],
-      "displayName": "Lightblood Elixir",
-      "id": 247620,
-      "learnedat": 80,
-      "level": 0,
-      "name": "Lightblood Elixir",
-      "nskillup": 1,
-      "quality": 1,
-      "reagents": [
-         [
-            151565,
-            20
-         ],
-         [
-            3371,
-            1
-         ],
-         [
-            null,
-            null
-         ],
-         [
-            null,
-            null
-         ],
-         [
-            null,
-            null
-         ],
-         [
-            null,
-            null
-         ]
-      ],
-      "schools": 1,
-      "skill": [
-         171
-      ],
-      "source": [
-         4
-      ],
-      "rank": "",
-      "trainingcost": null
-   }
-},
- {
-   "data": {
-      "cat": 2479,
-      "colors": [
-         0,
-         80,
-         90,
-         100
-      ],
-      "creates": [
-         151608,
-         1,
-         1
-      ],
-      "displayName": "Lightblood Elixir",
-      "id": 247622,
-      "learnedat": 80,
-      "level": 0,
-      "name": "Lightblood Elixir",
-      "nskillup": 1,
-      "quality": 1,
-      "reagents": [
-         [
-            151565,
-            15
-         ],
-         [
-            3371,
-            1
-         ],
-         [
-            null,
-            null
-         ],
-         [
-            null,
-            null
-         ],
-         [
-            null,
-            null
-         ],
-         [
-            null,
-            null
-         ]
-      ],
-      "schools": 1,
-      "skill": [
-         171
-      ],
-      "source": [
-         null
-      ],
-      "rank": "",
-      "trainingcost": null
-   }
-},
- {
-   "data": {
-      "cat": 2479,
-      "colors": [
-         0,
-         80,
-         90,
-         100
-      ],
-      "creates": [
-         151609,
-         1,
-         1
-      ],
-      "displayName": "Tears of the Naaru",
-      "id": 247688,
-      "learnedat": 80,
-      "level": 0,
-      "name": "Tears of the Naaru",
-      "nskillup": 1,
-      "quality": 1,
-      "reagents": [
-         [
-            151565,
-            20
-         ],
-         [
-            151568,
-            1
-         ],
-         [
-            3371,
-            1
-         ],
-         [
-            null,
-            null
-         ],
-         [
-            null,
-            null
-         ],
-         [
-            null,
-            null
-         ]
-      ],
-      "schools": 1,
-      "skill": [
-         171
-      ],
-      "source": [
-         null
-      ],
-      "rank": "",
-      "trainingcost": null
-   }
-},
- {
-   "data": {
-      "cat": 2479,
-      "colors": [
-         0,
-         80,
-         90,
-         100
-      ],
-      "creates": [
-         151609,
-         1,
-         1
-      ],
-      "displayName": "Tears of the Naaru",
-      "id": 247690,
-      "learnedat": 80,
-      "level": 0,
-      "name": "Tears of the Naaru",
-      "nskillup": 1,
-      "quality": 1,
-      "reagents": [
-         [
-            151565,
-            15
-         ],
-         [
-            3371,
-            1
-         ],
-         [
-            null,
-            null
-         ],
-         [
-            null,
-            null
-         ],
-         [
-            null,
-            null
-         ],
-         [
-            null,
-            null
-         ]
-      ],
-      "schools": 1,
-      "skill": [
-         171
-      ],
-      "source": [
-         4
-      ],
-      "rank": "",
-      "trainingcost": null
-   }
-},
- {
-   "data": {
-      "cat": 2479,
-      "colors": [
-         0,
-         80,
-         90,
-         100
-      ],
-      "creates": [
-         151609,
-         1,
-         1
-      ],
-      "displayName": "Tears of the Naaru",
-      "id": 247691,
-      "learnedat": 80,
-      "level": 0,
-      "name": "Tears of the Naaru",
-      "nskillup": 1,
-      "quality": 1,
-      "reagents": [
-         [
-            151565,
-            10
-         ],
-         [
-            3371,
-            1
-         ],
-         [
-            null,
-            null
-         ],
-         [
-            null,
-            null
-         ],
-         [
-            null,
-            null
-         ],
-         [
-            null,
-            null
-         ]
-      ],
-      "schools": 1,
-      "skill": [
-         171
-      ],
-      "source": [
-         null
-      ],
-      "rank": "",
-      "trainingcost": null
-   }
-},
- {
-   "data": {
-      "cat": 2479,
-      "colors": [
-         0,
-         90,
-         95,
-         100
-      ],
-      "creates": [
-         151607,
-         1,
-         1
-      ],
-      "displayName": "Astral Alchemist Stone",
-      "id": 247694,
-      "learnedat": 90,
-      "level": 0,
-      "name": "Astral Alchemist Stone",
-      "nskillup": 1,
-      "quality": 4,
-      "reagents": [
-         [
-            151565,
-            75
-         ],
-         [
-            127842,
-            1
-         ],
-         [
-            151568,
-            5
-         ],
-         [
-            null,
-            null
-         ],
-         [
-            null,
-            null
-         ],
-         [
-            null,
-            null
-         ]
-      ],
-      "schools": 1,
-      "skill": [
-         171
-      ],
-      "source": [
-         null
-      ],
-      "rank": "",
-      "trainingcost": null
-   }
-},
- {
-   "data": {
-      "cat": 2479,
-      "colors": [
-         0,
-         90,
-         95,
-         100
-      ],
-      "creates": [
-         151607,
-         1,
-         1
-      ],
-      "displayName": "Astral Alchemist Stone",
-      "id": 247695,
-      "learnedat": 90,
-      "level": 0,
-      "name": "Astral Alchemist Stone",
-      "nskillup": 1,
-      "quality": 4,
-      "reagents": [
-         [
-            151565,
+      },
+      {
+         "cat":2479,
+         "colors":[
+            0,
+            40,
+            50,
             60
          ],
-         [
-            127842,
+         "creates":[
+            127834,
+            1,
             1
          ],
-         [
-            151568,
+         "displayName":"Ancient Healing Potion",
+         "id":188299,
+         "learnedat":40,
+         "level":0,
+         "name":"Ancient Healing Potion",
+         "nskillup":1,
+         "quality":1,
+         "reagents":[
+            [
+               128304,
+               4
+            ],
+            [
+               3371,
+               1
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            171
+         ],
+         "source":[
+            5
+         ]
+      },
+      {
+         "cat":2479,
+         "colors":[
+            0,
+            60,
+            70,
+            80
+         ],
+         "creates":[
+            127834,
+            1,
+            1
+         ],
+         "displayName":"Ancient Healing Potion",
+         "id":188300,
+         "learnedat":60,
+         "level":0,
+         "name":"Ancient Healing Potion",
+         "nskillup":1,
+         "quality":1,
+         "reagents":[
+            [
+               128304,
+               4
+            ],
+            [
+               3371,
+               1
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            171
+         ]
+      },
+      {
+         "cat":2479,
+         "colors":[
+            0,
+            20,
+            30,
+            40
+         ],
+         "creates":[
+            127835,
+            1,
+            1
+         ],
+         "displayName":"Ancient Mana Potion",
+         "id":188301,
+         "learnedat":20,
+         "level":0,
+         "name":"Ancient Mana Potion",
+         "nskillup":1,
+         "quality":1,
+         "reagents":[
+            [
+               128304,
+               5
+            ],
+            [
+               3371,
+               1
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            171
+         ],
+         "source":[
+            5
+         ]
+      },
+      {
+         "cat":2479,
+         "colors":[
+            0,
+            40,
+            50,
+            60
+         ],
+         "creates":[
+            127835,
+            1,
+            1
+         ],
+         "displayName":"Ancient Mana Potion",
+         "id":188302,
+         "learnedat":40,
+         "level":0,
+         "name":"Ancient Mana Potion",
+         "nskillup":1,
+         "quality":1,
+         "reagents":[
+            [
+               128304,
+               5
+            ],
+            [
+               3371,
+               1
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            171
+         ]
+      },
+      {
+         "cat":2479,
+         "colors":[
+            0,
+            60,
+            70,
+            80
+         ],
+         "creates":[
+            127835,
+            1,
+            1
+         ],
+         "displayName":"Ancient Mana Potion",
+         "id":188303,
+         "learnedat":60,
+         "level":0,
+         "name":"Ancient Mana Potion",
+         "nskillup":1,
+         "quality":1,
+         "reagents":[
+            [
+               128304,
+               5
+            ],
+            [
+               3371,
+               1
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            171
+         ]
+      },
+      {
+         "cat":2479,
+         "colors":[
+            0,
+            20,
+            30,
+            40
+         ],
+         "creates":[
+            127836,
+            1,
+            1
+         ],
+         "displayName":"Ancient Rejuvenation Potion",
+         "id":188304,
+         "learnedat":20,
+         "level":0,
+         "name":"Ancient Rejuvenation Potion",
+         "nskillup":1,
+         "quality":1,
+         "reagents":[
+            [
+               127834,
+               1
+            ],
+            [
+               127835,
+               1
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            171
+         ],
+         "source":[
+            5
+         ]
+      },
+      {
+         "cat":2479,
+         "colors":[
+            0,
+            40,
+            50,
+            60
+         ],
+         "creates":[
+            127836,
+            1,
+            1
+         ],
+         "displayName":"Ancient Rejuvenation Potion",
+         "id":188305,
+         "learnedat":40,
+         "level":0,
+         "name":"Ancient Rejuvenation Potion",
+         "nskillup":1,
+         "quality":1,
+         "reagents":[
+            [
+               127834,
+               1
+            ],
+            [
+               127835,
+               1
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            171
+         ]
+      },
+      {
+         "cat":2479,
+         "colors":[
+            0,
+            60,
+            70,
+            80
+         ],
+         "creates":[
+            127836,
+            1,
+            1
+         ],
+         "displayName":"Ancient Rejuvenation Potion",
+         "id":188306,
+         "learnedat":60,
+         "level":0,
+         "name":"Ancient Rejuvenation Potion",
+         "nskillup":1,
+         "quality":1,
+         "reagents":[
+            [
+               127834,
+               1
+            ],
+            [
+               127835,
+               1
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            171
+         ]
+      },
+      {
+         "cat":2479,
+         "colors":[
+            0,
+            20,
+            30,
+            40
+         ],
+         "creates":[
+            127837,
+            1,
+            1
+         ],
+         "displayName":"Draught of Raw Magic",
+         "id":188307,
+         "learnedat":20,
+         "level":0,
+         "name":"Draught of Raw Magic",
+         "nskillup":1,
+         "quality":1,
+         "reagents":[
+            [
+               124101,
+               20
+            ],
+            [
+               127834,
+               1
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            171
+         ],
+         "source":[
+            5
+         ]
+      },
+      {
+         "cat":2479,
+         "colors":[
+            0,
+            40,
+            50,
+            60
+         ],
+         "creates":[
+            127837,
+            1,
+            1
+         ],
+         "displayName":"Draught of Raw Magic",
+         "id":188308,
+         "learnedat":40,
+         "level":0,
+         "name":"Draught of Raw Magic",
+         "nskillup":1,
+         "quality":1,
+         "reagents":[
+            [
+               124101,
+               20
+            ],
+            [
+               127834,
+               1
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            171
+         ],
+         "source":[
             4
-         ],
-         [
-            null,
-            null
-         ],
-         [
-            null,
-            null
-         ],
-         [
-            null,
-            null
          ]
-      ],
-      "schools": 1,
-      "skill": [
-         171
-      ],
-      "source": [
-         5
-      ],
-      "rank": "",
-      "trainingcost": null
-   }
-},
- {
-   "data": {
-      "cat": 2479,
-      "colors": [
-         0,
-         90,
-         95,
-         100
-      ],
-      "creates": [
-         151607,
-         1,
-         1
-      ],
-      "displayName": "Astral Alchemist Stone",
-      "id": 247696,
-      "learnedat": 90,
-      "level": 0,
-      "name": "Astral Alchemist Stone",
-      "nskillup": 1,
-      "quality": 4,
-      "reagents": [
-         [
-            151565,
-            50
+      },
+      {
+         "cat":2479,
+         "colors":[
+            0,
+            60,
+            70,
+            80
          ],
-         [
+         "creates":[
+            127837,
+            1,
+            1
+         ],
+         "displayName":"Draught of Raw Magic",
+         "id":188309,
+         "learnedat":60,
+         "level":0,
+         "name":"Draught of Raw Magic",
+         "nskillup":1,
+         "quality":1,
+         "reagents":[
+            [
+               124101,
+               20
+            ],
+            [
+               127834,
+               1
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            171
+         ]
+      },
+      {
+         "cat":2479,
+         "colors":[
+            0,
+            20,
+            30,
+            40
+         ],
+         "creates":[
+            127838,
+            1,
+            1
+         ],
+         "displayName":"Sylvan Elixir",
+         "id":188310,
+         "learnedat":20,
+         "level":0,
+         "name":"Sylvan Elixir",
+         "nskillup":1,
+         "quality":1,
+         "reagents":[
+            [
+               124102,
+               5
+            ],
+            [
+               127834,
+               1
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            171
+         ],
+         "source":[
+            5
+         ]
+      },
+      {
+         "cat":2479,
+         "colors":[
+            0,
+            40,
+            50,
+            60
+         ],
+         "creates":[
+            127838,
+            1,
+            1
+         ],
+         "displayName":"Sylvan Elixir",
+         "id":188311,
+         "learnedat":40,
+         "level":0,
+         "name":"Sylvan Elixir",
+         "nskillup":1,
+         "quality":1,
+         "reagents":[
+            [
+               124102,
+               5
+            ],
+            [
+               127834,
+               1
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            171
+         ],
+         "source":[
+            4
+         ]
+      },
+      {
+         "cat":2479,
+         "colors":[
+            0,
+            60,
+            70,
+            80
+         ],
+         "creates":[
+            127838,
+            1,
+            1
+         ],
+         "displayName":"Sylvan Elixir",
+         "id":188312,
+         "learnedat":60,
+         "level":0,
+         "name":"Sylvan Elixir",
+         "nskillup":1,
+         "quality":1,
+         "reagents":[
+            [
+               124102,
+               5
+            ],
+            [
+               127834,
+               1
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            171
+         ]
+      },
+      {
+         "cat":2479,
+         "colors":[
+            0,
+            20,
+            30,
+            40
+         ],
+         "creates":[
+            127839,
+            1,
+            1
+         ],
+         "displayName":"Avalanche Elixir",
+         "id":188313,
+         "learnedat":20,
+         "level":0,
+         "name":"Avalanche Elixir",
+         "nskillup":1,
+         "quality":1,
+         "reagents":[
+            [
+               124103,
+               5
+            ],
+            [
+               127835,
+               1
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            171
+         ],
+         "source":[
+            5
+         ]
+      },
+      {
+         "cat":2479,
+         "colors":[
+            0,
+            40,
+            50,
+            60
+         ],
+         "creates":[
+            127839,
+            1,
+            1
+         ],
+         "displayName":"Avalanche Elixir",
+         "id":188314,
+         "learnedat":40,
+         "level":0,
+         "name":"Avalanche Elixir",
+         "nskillup":1,
+         "quality":1,
+         "reagents":[
+            [
+               124103,
+               5
+            ],
+            [
+               127835,
+               1
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            171
+         ],
+         "source":[
+            4
+         ]
+      },
+      {
+         "cat":2479,
+         "colors":[
+            0,
+            60,
+            70,
+            80
+         ],
+         "creates":[
+            127839,
+            1,
+            1
+         ],
+         "displayName":"Avalanche Elixir",
+         "id":188315,
+         "learnedat":60,
+         "level":0,
+         "name":"Avalanche Elixir",
+         "nskillup":1,
+         "quality":1,
+         "reagents":[
+            [
+               124103,
+               5
+            ],
+            [
+               127835,
+               1
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            171
+         ]
+      },
+      {
+         "cat":2479,
+         "colors":[
+            0,
+            20,
+            30,
+            40
+         ],
+         "creates":[
+            127840,
+            1,
+            1
+         ],
+         "displayName":"Skaggldrynk",
+         "id":188316,
+         "learnedat":20,
+         "level":0,
+         "name":"Skaggldrynk",
+         "nskillup":1,
+         "quality":1,
+         "reagents":[
+            [
+               124104,
+               5
+            ],
+            [
+               127835,
+               1
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            171
+         ],
+         "source":[
+            5
+         ]
+      },
+      {
+         "cat":2479,
+         "colors":[
+            0,
+            40,
+            50,
+            60
+         ],
+         "creates":[
+            127840,
+            1,
+            1
+         ],
+         "displayName":"Skaggldrynk",
+         "id":188317,
+         "learnedat":40,
+         "level":0,
+         "name":"Skaggldrynk",
+         "nskillup":1,
+         "quality":1,
+         "reagents":[
+            [
+               124104,
+               5
+            ],
+            [
+               127835,
+               1
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            171
+         ],
+         "source":[
+            4
+         ]
+      },
+      {
+         "cat":2479,
+         "colors":[
+            0,
+            60,
+            70,
+            80
+         ],
+         "creates":[
+            127840,
+            1,
+            1
+         ],
+         "displayName":"Skaggldrynk",
+         "id":188318,
+         "learnedat":60,
+         "level":0,
+         "name":"Skaggldrynk",
+         "nskillup":1,
+         "quality":1,
+         "reagents":[
+            [
+               124104,
+               5
+            ],
+            [
+               127835,
+               1
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            171
+         ]
+      },
+      {
+         "cat":2479,
+         "colors":[
+            0,
+            20,
+            30,
+            40
+         ],
+         "creates":[
+            127841,
+            1,
+            1
+         ],
+         "displayName":"Skystep Potion",
+         "id":188319,
+         "learnedat":20,
+         "level":0,
+         "name":"Skystep Potion",
+         "nskillup":1,
+         "quality":1,
+         "reagents":[
+            [
+               124105,
+               4
+            ],
+            [
+               127836,
+               1
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            171
+         ],
+         "source":[
+            5
+         ]
+      },
+      {
+         "cat":2479,
+         "colors":[
+            0,
+            40,
+            50,
+            60
+         ],
+         "creates":[
+            127841,
+            1,
+            1
+         ],
+         "displayName":"Skystep Potion",
+         "id":188320,
+         "learnedat":40,
+         "level":0,
+         "name":"Skystep Potion",
+         "nskillup":1,
+         "quality":1,
+         "reagents":[
+            [
+               124105,
+               4
+            ],
+            [
+               127836,
+               1
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            171
+         ],
+         "source":[
+            4
+         ]
+      },
+      {
+         "cat":2479,
+         "colors":[
+            0,
+            60,
+            70,
+            80
+         ],
+         "creates":[
+            127841,
+            1,
+            1
+         ],
+         "displayName":"Skystep Potion",
+         "id":188321,
+         "learnedat":60,
+         "level":0,
+         "name":"Skystep Potion",
+         "nskillup":1,
+         "quality":1,
+         "reagents":[
+            [
+               124105,
+               4
+            ],
+            [
+               127836,
+               1
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            171
+         ]
+      },
+      {
+         "cat":2479,
+         "colors":[
+            0,
+            40,
+            50,
+            60
+         ],
+         "creates":[
             127842,
+            1,
             1
          ],
-         [
-            151568,
-            3
+         "displayName":"Infernal Alchemist Stone",
+         "id":188322,
+         "learnedat":40,
+         "level":0,
+         "name":"Infernal Alchemist Stone",
+         "nskillup":1,
+         "quality":4,
+         "reagents":[
+            [
+               124444,
+               1
+            ],
+            [
+               124106,
+               5
+            ],
+            [
+               124124,
+               3
+            ]
          ],
-         [
-            null,
-            null
+         "schools":1,
+         "skill":[
+            171
          ],
-         [
-            null,
-            null
-         ],
-         [
-            null,
-            null
+         "source":[
+            5
          ]
-      ],
-      "schools": 1,
-      "skill": [
-         171
-      ],
-      "source": [
-         5
-      ],
-      "rank": "",
-      "trainingcost": null
-   }
-},
- {
-   "data": {
-      "cat": 2479,
-      "colors": [
-         0,
-         20,
-         50,
-         80
-      ],
-      "creates": [
-         151568,
-         1,
-         1
-      ],
-      "displayName": "Transmute: Primal Sargerite",
-      "id": 247701,
-      "learnedat": 20,
-      "level": 0,
-      "name": "Transmute: Primal Sargerite",
-      "nskillup": 3,
-      "quality": 3,
-      "reagents": [
-         [
+      },
+      {
+         "cat":2479,
+         "colors":[
+            0,
+            60,
+            70,
+            80
+         ],
+         "creates":[
+            127842,
+            1,
+            1
+         ],
+         "displayName":"Infernal Alchemist Stone",
+         "id":188323,
+         "learnedat":60,
+         "level":0,
+         "name":"Infernal Alchemist Stone",
+         "nskillup":1,
+         "quality":4,
+         "reagents":[
+            [
+               124444,
+               1
+            ],
+            [
+               124106,
+               5
+            ],
+            [
+               124124,
+               3
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            171
+         ],
+         "source":[
+            2
+         ]
+      },
+      {
+         "cat":2479,
+         "colors":[
+            0,
+            80,
+            90,
+            100
+         ],
+         "creates":[
+            127842,
+            1,
+            1
+         ],
+         "displayName":"Infernal Alchemist Stone",
+         "id":188324,
+         "learnedat":80,
+         "level":0,
+         "name":"Infernal Alchemist Stone",
+         "nskillup":1,
+         "quality":4,
+         "reagents":[
+            [
+               124444,
+               1
+            ],
+            [
+               124106,
+               4
+            ],
+            [
+               124124,
+               2
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            171
+         ]
+      },
+      {
+         "cat":2479,
+         "colors":[
+            0,
+            40,
+            50,
+            60
+         ],
+         "creates":[
+            127843,
+            1,
+            1
+         ],
+         "displayName":"Potion of Deadly Grace",
+         "id":188325,
+         "learnedat":40,
+         "level":0,
+         "name":"Potion of Deadly Grace",
+         "nskillup":1,
+         "quality":1,
+         "reagents":[
+            [
+               124105,
+               1
+            ],
+            [
+               124104,
+               2
+            ],
+            [
+               124102,
+               2
+            ],
+            [
+               3371,
+               1
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            171
+         ],
+         "source":[
+            5
+         ]
+      },
+      {
+         "cat":2479,
+         "colors":[
+            0,
+            60,
+            70,
+            80
+         ],
+         "creates":[
+            127843,
+            1,
+            1
+         ],
+         "displayName":"Potion of Deadly Grace",
+         "id":188326,
+         "learnedat":60,
+         "level":0,
+         "name":"Potion of Deadly Grace",
+         "nskillup":1,
+         "quality":1,
+         "reagents":[
+            [
+               124105,
+               1
+            ],
+            [
+               124104,
+               2
+            ],
+            [
+               124102,
+               2
+            ],
+            [
+               3371,
+               1
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            171
+         ],
+         "source":[
+            2
+         ]
+      },
+      {
+         "cat":2479,
+         "colors":[
+            0,
+            80,
+            90,
+            100
+         ],
+         "creates":[
+            127843,
+            1,
+            1
+         ],
+         "displayName":"Potion of Deadly Grace",
+         "id":188327,
+         "learnedat":80,
+         "level":0,
+         "name":"Potion of Deadly Grace",
+         "nskillup":1,
+         "quality":1,
+         "reagents":[
+            [
+               124105,
+               1
+            ],
+            [
+               124104,
+               2
+            ],
+            [
+               124102,
+               2
+            ],
+            [
+               3371,
+               1
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            171
+         ]
+      },
+      {
+         "cat":2479,
+         "colors":[
+            0,
+            40,
+            50,
+            60
+         ],
+         "creates":[
+            127844,
+            1,
+            1
+         ],
+         "displayName":"Potion of the Old War",
+         "id":188328,
+         "learnedat":40,
+         "level":0,
+         "name":"Potion of the Old War",
+         "nskillup":1,
+         "quality":1,
+         "reagents":[
+            [
+               124105,
+               1
+            ],
+            [
+               124103,
+               2
+            ],
+            [
+               124104,
+               2
+            ],
+            [
+               3371,
+               1
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            171
+         ],
+         "source":[
+            5
+         ]
+      },
+      {
+         "cat":2479,
+         "colors":[
+            0,
+            60,
+            70,
+            80
+         ],
+         "creates":[
+            127844,
+            1,
+            1
+         ],
+         "displayName":"Potion of the Old War",
+         "id":188329,
+         "learnedat":60,
+         "level":0,
+         "name":"Potion of the Old War",
+         "nskillup":1,
+         "quality":1,
+         "reagents":[
+            [
+               124105,
+               1
+            ],
+            [
+               124103,
+               2
+            ],
+            [
+               124104,
+               2
+            ],
+            [
+               3371,
+               1
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            171
+         ],
+         "source":[
+            2
+         ]
+      },
+      {
+         "cat":2479,
+         "colors":[
+            0,
+            80,
+            90,
+            100
+         ],
+         "creates":[
+            127844,
+            1,
+            1
+         ],
+         "displayName":"Potion of the Old War",
+         "id":188330,
+         "learnedat":80,
+         "level":0,
+         "name":"Potion of the Old War",
+         "nskillup":1,
+         "quality":1,
+         "reagents":[
+            [
+               124105,
+               1
+            ],
+            [
+               124103,
+               2
+            ],
+            [
+               124104,
+               2
+            ],
+            [
+               3371,
+               1
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            171
+         ]
+      },
+      {
+         "cat":2479,
+         "colors":[
+            0,
+            40,
+            50,
+            60
+         ],
+         "creates":[
+            127845,
+            1,
+            1
+         ],
+         "displayName":"Unbending Potion",
+         "id":188331,
+         "learnedat":40,
+         "level":0,
+         "name":"Unbending Potion",
+         "nskillup":1,
+         "quality":1,
+         "reagents":[
+            [
+               124105,
+               1
+            ],
+            [
+               124101,
+               2
+            ],
+            [
+               124103,
+               2
+            ],
+            [
+               3371,
+               1
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            171
+         ],
+         "source":[
+            5
+         ]
+      },
+      {
+         "cat":2479,
+         "colors":[
+            0,
+            60,
+            70,
+            80
+         ],
+         "creates":[
+            127845,
+            1,
+            1
+         ],
+         "displayName":"Unbending Potion",
+         "id":188332,
+         "learnedat":60,
+         "level":0,
+         "name":"Unbending Potion",
+         "nskillup":1,
+         "quality":1,
+         "reagents":[
+            [
+               124105,
+               1
+            ],
+            [
+               124101,
+               2
+            ],
+            [
+               124103,
+               2
+            ],
+            [
+               3371,
+               1
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            171
+         ],
+         "source":[
+            2
+         ]
+      },
+      {
+         "cat":2479,
+         "colors":[
+            0,
+            80,
+            90,
+            100
+         ],
+         "creates":[
+            127845,
+            1,
+            1
+         ],
+         "displayName":"Unbending Potion",
+         "id":188333,
+         "learnedat":80,
+         "level":0,
+         "name":"Unbending Potion",
+         "nskillup":1,
+         "quality":1,
+         "reagents":[
+            [
+               124105,
+               1
+            ],
+            [
+               124101,
+               2
+            ],
+            [
+               124103,
+               2
+            ],
+            [
+               3371,
+               1
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            171
+         ]
+      },
+      {
+         "cat":2479,
+         "colors":[
+            0,
+            40,
+            50,
+            60
+         ],
+         "creates":[
+            127846,
+            1,
+            1
+         ],
+         "displayName":"Leytorrent Potion",
+         "id":188334,
+         "learnedat":40,
+         "level":0,
+         "name":"Leytorrent Potion",
+         "nskillup":1,
+         "quality":1,
+         "reagents":[
+            [
+               124105,
+               1
+            ],
+            [
+               124101,
+               2
+            ],
+            [
+               124102,
+               2
+            ],
+            [
+               3371,
+               1
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            171
+         ],
+         "source":[
+            5
+         ]
+      },
+      {
+         "cat":2479,
+         "colors":[
+            0,
+            60,
+            70,
+            80
+         ],
+         "creates":[
+            127846,
+            1,
+            1
+         ],
+         "displayName":"Leytorrent Potion",
+         "id":188335,
+         "learnedat":60,
+         "level":0,
+         "name":"Leytorrent Potion",
+         "nskillup":1,
+         "quality":1,
+         "reagents":[
+            [
+               124105,
+               1
+            ],
+            [
+               124101,
+               2
+            ],
+            [
+               124102,
+               2
+            ],
+            [
+               3371,
+               1
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            171
+         ],
+         "source":[
+            2
+         ]
+      },
+      {
+         "cat":2479,
+         "colors":[
+            0,
+            80,
+            90,
+            100
+         ],
+         "creates":[
+            127846,
+            1,
+            1
+         ],
+         "displayName":"Leytorrent Potion",
+         "id":188336,
+         "learnedat":80,
+         "level":0,
+         "name":"Leytorrent Potion",
+         "nskillup":1,
+         "quality":1,
+         "reagents":[
+            [
+               124105,
+               1
+            ],
+            [
+               124101,
+               2
+            ],
+            [
+               124102,
+               2
+            ],
+            [
+               3371,
+               1
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            171
+         ]
+      },
+      {
+         "cat":2479,
+         "colors":[
+            0,
+            60,
+            70,
+            80
+         ],
+         "creates":[
+            127847,
+            1,
+            1
+         ],
+         "displayName":"Flask of the Whispered Pact",
+         "id":188337,
+         "learnedat":60,
+         "level":0,
+         "name":"Flask of the Whispered Pact",
+         "nskillup":1,
+         "quality":1,
+         "reagents":[
+            [
+               124105,
+               7
+            ],
+            [
+               124104,
+               10
+            ],
+            [
+               124102,
+               10
+            ],
+            [
+               3371,
+               1
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            171
+         ],
+         "source":[
+            5
+         ]
+      },
+      {
+         "cat":2479,
+         "colors":[
+            0,
+            80,
+            90,
+            100
+         ],
+         "creates":[
+            127847,
+            1,
+            1
+         ],
+         "displayName":"Flask of the Whispered Pact",
+         "id":188338,
+         "learnedat":80,
+         "level":0,
+         "name":"Flask of the Whispered Pact",
+         "nskillup":1,
+         "quality":1,
+         "reagents":[
+            [
+               124105,
+               7
+            ],
+            [
+               124104,
+               10
+            ],
+            [
+               124102,
+               10
+            ],
+            [
+               3371,
+               1
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            171
+         ],
+         "source":[
+            2
+         ]
+      },
+      {
+         "cat":2479,
+         "colors":[
+            0,
+            100,
+            100,
+            100
+         ],
+         "creates":[
+            127847,
+            1,
+            1
+         ],
+         "displayName":"Flask of the Whispered Pact",
+         "id":188339,
+         "learnedat":100,
+         "level":0,
+         "name":"Flask of the Whispered Pact",
+         "nskillup":1,
+         "quality":1,
+         "reagents":[
+            [
+               124105,
+               7
+            ],
+            [
+               124104,
+               10
+            ],
+            [
+               124102,
+               10
+            ],
+            [
+               3371,
+               1
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            171
+         ]
+      },
+      {
+         "cat":2479,
+         "colors":[
+            0,
+            60,
+            70,
+            80
+         ],
+         "creates":[
+            127848,
+            1,
+            1
+         ],
+         "displayName":"Flask of the Seventh Demon",
+         "id":188340,
+         "learnedat":60,
+         "level":0,
+         "name":"Flask of the Seventh Demon",
+         "nskillup":1,
+         "quality":1,
+         "reagents":[
+            [
+               124105,
+               7
+            ],
+            [
+               124103,
+               10
+            ],
+            [
+               124104,
+               10
+            ],
+            [
+               3371,
+               1
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            171
+         ],
+         "source":[
+            5
+         ]
+      },
+      {
+         "cat":2479,
+         "colors":[
+            0,
+            80,
+            90,
+            100
+         ],
+         "creates":[
+            127848,
+            1,
+            1
+         ],
+         "displayName":"Flask of the Seventh Demon",
+         "id":188341,
+         "learnedat":80,
+         "level":0,
+         "name":"Flask of the Seventh Demon",
+         "nskillup":1,
+         "quality":1,
+         "reagents":[
+            [
+               124105,
+               7
+            ],
+            [
+               124103,
+               10
+            ],
+            [
+               124104,
+               10
+            ],
+            [
+               3371,
+               1
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            171
+         ],
+         "source":[
+            2
+         ]
+      },
+      {
+         "cat":2479,
+         "colors":[
+            0,
+            100,
+            100,
+            100
+         ],
+         "creates":[
+            127848,
+            1,
+            1
+         ],
+         "displayName":"Flask of the Seventh Demon",
+         "id":188342,
+         "learnedat":100,
+         "level":0,
+         "name":"Flask of the Seventh Demon",
+         "nskillup":1,
+         "quality":1,
+         "reagents":[
+            [
+               124105,
+               7
+            ],
+            [
+               124103,
+               10
+            ],
+            [
+               124104,
+               10
+            ],
+            [
+               3371,
+               1
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            171
+         ]
+      },
+      {
+         "cat":2479,
+         "colors":[
+            0,
+            60,
+            70,
+            80
+         ],
+         "creates":[
+            127849,
+            1,
+            1
+         ],
+         "displayName":"Flask of the Countless Armies",
+         "id":188343,
+         "learnedat":60,
+         "level":0,
+         "name":"Flask of the Countless Armies",
+         "nskillup":1,
+         "quality":1,
+         "reagents":[
+            [
+               124105,
+               7
+            ],
+            [
+               124101,
+               10
+            ],
+            [
+               124103,
+               10
+            ],
+            [
+               3371,
+               1
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            171
+         ],
+         "source":[
+            5
+         ]
+      },
+      {
+         "cat":2479,
+         "colors":[
+            0,
+            80,
+            90,
+            100
+         ],
+         "creates":[
+            127849,
+            1,
+            1
+         ],
+         "displayName":"Flask of the Countless Armies",
+         "id":188344,
+         "learnedat":80,
+         "level":0,
+         "name":"Flask of the Countless Armies",
+         "nskillup":1,
+         "quality":1,
+         "reagents":[
+            [
+               124105,
+               7
+            ],
+            [
+               124101,
+               10
+            ],
+            [
+               124103,
+               10
+            ],
+            [
+               3371,
+               1
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            171
+         ],
+         "source":[
+            2
+         ]
+      },
+      {
+         "cat":2479,
+         "colors":[
+            0,
+            100,
+            100,
+            100
+         ],
+         "creates":[
+            127849,
+            1,
+            1
+         ],
+         "displayName":"Flask of the Countless Armies",
+         "id":188345,
+         "learnedat":100,
+         "level":0,
+         "name":"Flask of the Countless Armies",
+         "nskillup":1,
+         "quality":1,
+         "reagents":[
+            [
+               124105,
+               7
+            ],
+            [
+               124101,
+               10
+            ],
+            [
+               124103,
+               10
+            ],
+            [
+               3371,
+               1
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            171
+         ]
+      },
+      {
+         "cat":2479,
+         "colors":[
+            0,
+            60,
+            70,
+            80
+         ],
+         "creates":[
+            127850,
+            1,
+            1
+         ],
+         "displayName":"Flask of Ten Thousand Scars",
+         "id":188346,
+         "learnedat":60,
+         "level":0,
+         "name":"Flask of Ten Thousand Scars",
+         "nskillup":1,
+         "quality":1,
+         "reagents":[
+            [
+               124105,
+               7
+            ],
+            [
+               124101,
+               10
+            ],
+            [
+               124102,
+               10
+            ],
+            [
+               3371,
+               1
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            171
+         ],
+         "source":[
+            5
+         ]
+      },
+      {
+         "cat":2479,
+         "colors":[
+            0,
+            80,
+            90,
+            100
+         ],
+         "creates":[
+            127850,
+            1,
+            1
+         ],
+         "displayName":"Flask of Ten Thousand Scars",
+         "id":188347,
+         "learnedat":80,
+         "level":0,
+         "name":"Flask of Ten Thousand Scars",
+         "nskillup":1,
+         "quality":1,
+         "reagents":[
+            [
+               124105,
+               7
+            ],
+            [
+               124101,
+               10
+            ],
+            [
+               124102,
+               10
+            ],
+            [
+               3371,
+               1
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            171
+         ],
+         "source":[
+            2
+         ]
+      },
+      {
+         "cat":2479,
+         "colors":[
+            0,
+            100,
+            100,
+            100
+         ],
+         "creates":[
+            127850,
+            1,
+            1
+         ],
+         "displayName":"Flask of Ten Thousand Scars",
+         "id":188348,
+         "learnedat":100,
+         "level":0,
+         "name":"Flask of Ten Thousand Scars",
+         "nskillup":1,
+         "quality":1,
+         "reagents":[
+            [
+               124105,
+               7
+            ],
+            [
+               124101,
+               10
+            ],
+            [
+               124102,
+               10
+            ],
+            [
+               3371,
+               1
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            171
+         ]
+      },
+      {
+         "cat":2479,
+         "colors":[
+            0,
+            60,
+            70,
+            80
+         ],
+         "creates":[
+            127851,
+            1,
+            1
+         ],
+         "displayName":"Spirit Cauldron",
+         "id":188349,
+         "learnedat":60,
+         "level":0,
+         "name":"Spirit Cauldron",
+         "nskillup":1,
+         "quality":1,
+         "reagents":[
+            [
+               127847,
+               5
+            ],
+            [
+               127848,
+               5
+            ],
+            [
+               127849,
+               5
+            ],
+            [
+               127850,
+               5
+            ],
+            [
+               124124,
+               1
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            171
+         ],
+         "source":[
+            5
+         ]
+      },
+      {
+         "cat":2479,
+         "colors":[
+            0,
+            80,
+            90,
+            100
+         ],
+         "creates":[
+            127851,
+            1,
+            1
+         ],
+         "displayName":"Spirit Cauldron",
+         "id":188350,
+         "learnedat":80,
+         "level":0,
+         "name":"Spirit Cauldron",
+         "nskillup":1,
+         "quality":1,
+         "reagents":[
+            [
+               127847,
+               5
+            ],
+            [
+               127848,
+               5
+            ],
+            [
+               127849,
+               5
+            ],
+            [
+               127850,
+               5
+            ],
+            [
+               124124,
+               1
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            171
+         ],
+         "source":[
+            2
+         ]
+      },
+      {
+         "cat":2479,
+         "colors":[
+            0,
+            100,
+            100,
+            100
+         ],
+         "creates":[
+            127851,
+            1,
+            1
+         ],
+         "displayName":"Spirit Cauldron",
+         "id":188351,
+         "learnedat":100,
+         "level":0,
+         "name":"Spirit Cauldron",
+         "nskillup":1,
+         "quality":1,
+         "reagents":[
+            [
+               127847,
+               5
+            ],
+            [
+               127848,
+               5
+            ],
+            [
+               127849,
+               5
+            ],
+            [
+               127850,
+               5
+            ],
+            [
+               124124,
+               1
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            171
+         ]
+      },
+      {
+         "cat":2479,
+         "colors":[
+            0,
+            20,
+            50,
+            80
+         ],
+         "creates":[
+            141323,
+            1,
+            1
+         ],
+         "displayName":"Wild Transmutation",
+         "id":188800,
+         "learnedat":20,
+         "level":0,
+         "name":"Wild Transmutation",
+         "nskillup":1,
+         "quality":1,
+         "reagents":[
+            [
+               124101,
+               10
+            ],
+            [
+               124102,
+               10
+            ],
+            [
+               124103,
+               10
+            ],
+            [
+               124104,
+               10
+            ],
+            [
+               124105,
+               1
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            171
+         ],
+         "source":[
+            5
+         ]
+      },
+      {
+         "cat":2479,
+         "colors":[
+            0,
+            20,
+            50,
+            80
+         ],
+         "creates":[
+            141323,
+            1,
+            1
+         ],
+         "displayName":"Wild Transmutation",
+         "id":188801,
+         "learnedat":20,
+         "level":0,
+         "name":"Wild Transmutation",
+         "nskillup":1,
+         "quality":1,
+         "reagents":[
+            [
+               124101,
+               7
+            ],
+            [
+               124102,
+               7
+            ],
+            [
+               124103,
+               7
+            ],
+            [
+               124104,
+               7
+            ],
+            [
+               124105,
+               1
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            171
+         ]
+      },
+      {
+         "cat":2479,
+         "colors":[
+            0,
+            20,
+            50,
+            80
+         ],
+         "creates":[
+            141323,
+            1,
+            1
+         ],
+         "displayName":"Wild Transmutation",
+         "id":188802,
+         "learnedat":20,
+         "level":0,
+         "name":"Wild Transmutation",
+         "nskillup":1,
+         "quality":1,
+         "reagents":[
+            [
+               124101,
+               5
+            ],
+            [
+               124102,
+               5
+            ],
+            [
+               124103,
+               5
+            ],
+            [
+               124104,
+               5
+            ],
+            [
+               124105,
+               1
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            171
+         ]
+      },
+      {
+         "cat":2479,
+         "colors":[
+            0,
+            20,
+            50,
+            80
+         ],
+         "creates":[
+            137590,
+            1,
+            1
+         ],
+         "displayName":"Transmute: Ore to Cloth",
+         "id":213248,
+         "learnedat":20,
+         "level":0,
+         "name":"Transmute: Ore to Cloth",
+         "nskillup":1,
+         "quality":1,
+         "reagents":[
+            [
+               123918,
+               5
+            ],
+            [
+               123919,
+               5
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            171
+         ]
+      },
+      {
+         "cat":2479,
+         "colors":[
+            0,
+            20,
+            50,
+            80
+         ],
+         "creates":[
+            137591,
+            1,
+            1
+         ],
+         "displayName":"Transmute: Cloth to Skins",
+         "id":213249,
+         "learnedat":20,
+         "level":0,
+         "name":"Transmute: Cloth to Skins",
+         "nskillup":1,
+         "quality":1,
+         "reagents":[
+            [
+               124437,
+               10
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            171
+         ]
+      },
+      {
+         "cat":2479,
+         "colors":[
+            0,
+            20,
+            50,
+            80
+         ],
+         "creates":[
+            137592,
+            1,
+            1
+         ],
+         "displayName":"Transmute: Skins to Ore",
+         "id":213250,
+         "learnedat":20,
+         "level":0,
+         "name":"Transmute: Skins to Ore",
+         "nskillup":1,
+         "quality":1,
+         "reagents":[
+            [
+               124113,
+               5
+            ],
+            [
+               124115,
+               5
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            171
+         ]
+      },
+      {
+         "cat":2479,
+         "colors":[
+            0,
+            20,
+            50,
+            80
+         ],
+         "creates":[
+            137593,
+            1,
+            1
+         ],
+         "displayName":"Transmute: Ore to Herbs",
+         "id":213251,
+         "learnedat":20,
+         "level":0,
+         "name":"Transmute: Ore to Herbs",
+         "nskillup":1,
+         "quality":1,
+         "reagents":[
+            [
+               123918,
+               5
+            ],
+            [
+               123919,
+               5
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            171
+         ]
+      },
+      {
+         "cat":2479,
+         "colors":[
+            0,
+            20,
+            50,
+            80
+         ],
+         "creates":[
+            137593,
+            1,
+            1
+         ],
+         "displayName":"Transmute: Cloth to Herbs",
+         "id":213252,
+         "learnedat":20,
+         "level":0,
+         "name":"Transmute: Cloth to Herbs",
+         "nskillup":1,
+         "quality":1,
+         "reagents":[
+            [
+               124437,
+               10
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            171
+         ]
+      },
+      {
+         "cat":2479,
+         "colors":[
+            0,
+            20,
+            50,
+            80
+         ],
+         "creates":[
+            137593,
+            1,
+            1
+         ],
+         "displayName":"Transmute: Skins to Herbs",
+         "id":213253,
+         "learnedat":20,
+         "level":0,
+         "name":"Transmute: Skins to Herbs",
+         "nskillup":1,
+         "quality":1,
+         "reagents":[
+            [
+               124113,
+               5
+            ],
+            [
+               124115,
+               5
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            171
+         ]
+      },
+      {
+         "cat":2479,
+         "colors":[
+            0,
+            20,
+            50,
+            80
+         ],
+         "creates":[
+            137594,
+            1,
+            1
+         ],
+         "displayName":"Transmute: Fish to Gems",
+         "id":213254,
+         "learnedat":20,
+         "level":0,
+         "name":"Transmute: Fish to Gems",
+         "nskillup":1,
+         "quality":1,
+         "reagents":[
+            [
+               124107,
+               5
+            ],
+            [
+               124108,
+               5
+            ],
+            [
+               124109,
+               5
+            ],
+            [
+               124110,
+               5
+            ],
+            [
+               124111,
+               5
+            ],
+            [
+               124112,
+               5
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            171
+         ]
+      },
+      {
+         "cat":2479,
+         "colors":[
+            0,
+            20,
+            50,
+            80
+         ],
+         "creates":[
+            137600,
+            1,
+            1
+         ],
+         "displayName":"Transmute: Meat to Pants",
+         "id":213255,
+         "learnedat":20,
+         "level":0,
+         "name":"Transmute: Meat to Pants",
+         "nskillup":1,
+         "quality":1,
+         "reagents":[
+            [
+               124117,
+               5
+            ],
+            [
+               124118,
+               5
+            ],
+            [
+               124119,
+               5
+            ],
+            [
+               124120,
+               5
+            ],
+            [
+               124121,
+               5
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            171
+         ]
+      },
+      {
+         "cat":2479,
+         "colors":[
+            0,
+            20,
+            50,
+            80
+         ],
+         "creates":[
+            137599,
+            1,
+            1
+         ],
+         "displayName":"Transmute: Meat to Pet",
+         "id":213256,
+         "learnedat":20,
+         "level":0,
+         "name":"Transmute: Meat to Pet",
+         "nskillup":1,
+         "quality":2,
+         "reagents":[
+            [
+               124118,
+               3
+            ],
+            [
+               124438,
+               20
+            ],
+            [
+               124439,
+               20
+            ],
+            [
+               137595,
+               1
+            ],
+            [
+               137596,
+               1
+            ],
+            [
+               137597,
+               1
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            171
+         ]
+      },
+      {
+         "cat":2479,
+         "colors":[
+            0,
+            20,
+            50,
+            80
+         ],
+         "creates":[
             124124,
-            25
-         ],
-         [
-            null,
-            null
-         ],
-         [
-            null,
-            null
-         ],
-         [
-            null,
-            null
-         ],
-         [
-            null,
-            null
-         ],
-         [
-            null,
-            null
-         ]
-      ],
-      "schools": 1,
-      "skill": [
-         171
-      ],
-      "source": [
-         5
-      ],
-      "rank": "",
-      "trainingcost": null
-   }
-},
- {
-   "data": {
-      "cat": 2479,
-      "colors": [
-         0,
-         80,
-         90,
-         100
-      ],
-      "creates": [
-         152615,
-         1,
-         1
-      ],
-      "displayName": "Astral Healing Potion",
-      "id": 251658,
-      "learnedat": 80,
-      "level": 0,
-      "name": "Astral Healing Potion",
-      "nskillup": 1,
-      "quality": 1,
-      "reagents": [
-         [
-            151565,
-            15
-         ],
-         [
-            3371,
+            1,
             1
          ],
-         [
-            null,
-            null
+         "displayName":"Transmute: Blood of Sargeras",
+         "id":213257,
+         "learnedat":20,
+         "level":0,
+         "name":"Transmute: Blood of Sargeras",
+         "nskillup":1,
+         "quality":3,
+         "reagents":[
+            [
+               137596,
+               5
+            ],
+            [
+               137595,
+               4
+            ],
+            [
+               137597,
+               3
+            ]
          ],
-         [
-            null,
-            null
-         ],
-         [
-            null,
-            null
-         ],
-         [
-            null,
-            null
+         "schools":1,
+         "skill":[
+            171
          ]
-      ],
-      "schools": 1,
-      "skill": [
-         171
-      ],
-      "source": [
-         5
-      ],
-      "rank": "",
-      "trainingcost": null
-   }
-},
- {
-   "data": {
-      "cat": 2479,
-      "colors": [
-         0,
-         60,
-         70,
-         80
-      ],
-      "creates": [
-         152615,
-         1,
-         1
-      ],
-      "displayName": "Astral Healing Potion",
-      "id": 251651,
-      "learnedat": 60,
-      "level": 0,
-      "name": "Astral Healing Potion",
-      "nskillup": 1,
-      "quality": 1,
-      "reagents": [
-         [
-            151565,
-            15
+      },
+      {
+         "cat":2479,
+         "colors":[
+            0,
+            60,
+            70,
+            80
          ],
-         [
-            3371,
+         "creates":[
+            142117,
+            10,
+            10
+         ],
+         "displayName":"Potion of Prolonged Power",
+         "id":229217,
+         "learnedat":60,
+         "level":0,
+         "name":"Potion of Prolonged Power",
+         "nskillup":1,
+         "quality":1,
+         "reagents":[
+            [
+               124124,
+               1
+            ],
+            [
+               3371,
+               10
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            171
+         ],
+         "source":[
+            2
+         ]
+      },
+      {
+         "cat":2479,
+         "colors":[
+            0,
+            80,
+            90,
+            100
+         ],
+         "creates":[
+            142117,
+            10,
+            10
+         ],
+         "displayName":"Potion of Prolonged Power",
+         "id":229218,
+         "learnedat":80,
+         "level":0,
+         "name":"Potion of Prolonged Power",
+         "nskillup":1,
+         "quality":1,
+         "reagents":[
+            [
+               124124,
+               1
+            ],
+            [
+               3371,
+               10
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            171
+         ],
+         "source":[
+            5
+         ]
+      },
+      {
+         "cat":2479,
+         "colors":[
+            0,
+            100,
+            100,
+            100
+         ],
+         "creates":[
+            142117,
+            10,
+            10
+         ],
+         "displayName":"Potion of Prolonged Power",
+         "id":229220,
+         "learnedat":100,
+         "level":0,
+         "name":"Potion of Prolonged Power",
+         "nskillup":1,
+         "quality":1,
+         "reagents":[
+            [
+               124124,
+               1
+            ],
+            [
+               3371,
+               10
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            171
+         ],
+         "source":[
+            2
+         ]
+      },
+      {
+         "cat":2479,
+         "colors":[
+            0,
+            80,
+            90,
+            100
+         ],
+         "creates":[
+            151608,
+            1,
             1
          ],
-         [
-            null,
-            null
+         "displayName":"Lightblood Elixir",
+         "id":247619,
+         "learnedat":80,
+         "level":0,
+         "name":"Lightblood Elixir",
+         "nskillup":1,
+         "quality":1,
+         "reagents":[
+            [
+               151565,
+               25
+            ],
+            [
+               151568,
+               1
+            ],
+            [
+               3371,
+               1
+            ]
          ],
-         [
-            null,
-            null
-         ],
-         [
-            null,
-            null
-         ],
-         [
-            null,
-            null
+         "schools":1,
+         "skill":[
+            171
          ]
-      ],
-      "schools": 1,
-      "skill": [
-         171
-      ],
-      "source": [
-         null
-      ],
-      "rank": "",
-      "trainingcost": null
-   }
-},
- {
-   "data": {
-      "cat": 2479,
-      "colors": [
-         0,
-         40,
-         50,
-         60
-      ],
-      "creates": [
-         152615,
-         1,
-         1
-      ],
-      "displayName": "Astral Healing Potion",
-      "id": 251646,
-      "learnedat": 40,
-      "level": 0,
-      "name": "Astral Healing Potion",
-      "nskillup": 1,
-      "quality": 1,
-      "reagents": [
-         [
-            151565,
-            20
+      },
+      {
+         "cat":2479,
+         "colors":[
+            0,
+            80,
+            90,
+            100
          ],
-         [
-            3371,
+         "creates":[
+            151608,
+            1,
             1
          ],
-         [
-            null,
-            null
+         "displayName":"Lightblood Elixir",
+         "id":247620,
+         "learnedat":80,
+         "level":0,
+         "name":"Lightblood Elixir",
+         "nskillup":1,
+         "quality":1,
+         "reagents":[
+            [
+               151565,
+               20
+            ],
+            [
+               3371,
+               1
+            ]
          ],
-         [
-            null,
-            null
+         "schools":1,
+         "skill":[
+            171
          ],
-         [
-            null,
-            null
-         ],
-         [
-            null,
-            null
+         "source":[
+            4
          ]
-      ],
-      "schools": 1,
-      "skill": [
-         171
-      ],
-      "source": [
-         5
-      ],
-      "rank": "",
-      "trainingcost": null
-   }
-},
- {
-   "data": {
-      "cat": 2479,
-      "colors": [
-         0,
-         40,
-         50,
-         60
-      ],
-      "creates": [
-         136653,
-         1,
-         1
-      ],
-      "displayName": "Silvery Salve",
-      "id": 221690,
-      "learnedat": 40,
-      "level": 0,
-      "name": "Silvery Salve",
-      "nskillup": 1,
-      "quality": 1,
-      "reagents": [
-         [
-            133607,
+      },
+      {
+         "cat":2479,
+         "colors":[
+            0,
+            80,
+            90,
+            100
+         ],
+         "creates":[
+            151608,
+            1,
+            1
+         ],
+         "displayName":"Lightblood Elixir",
+         "id":247622,
+         "learnedat":80,
+         "level":0,
+         "name":"Lightblood Elixir",
+         "nskillup":1,
+         "quality":1,
+         "reagents":[
+            [
+               151565,
+               15
+            ],
+            [
+               3371,
+               1
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            171
+         ]
+      },
+      {
+         "cat":2479,
+         "colors":[
+            0,
+            80,
+            90,
+            100
+         ],
+         "creates":[
+            151609,
+            1,
+            1
+         ],
+         "displayName":"Tears of the Naaru",
+         "id":247688,
+         "learnedat":80,
+         "level":0,
+         "name":"Tears of the Naaru",
+         "nskillup":1,
+         "quality":1,
+         "reagents":[
+            [
+               151565,
+               20
+            ],
+            [
+               151568,
+               1
+            ],
+            [
+               3371,
+               1
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            171
+         ]
+      },
+      {
+         "cat":2479,
+         "colors":[
+            0,
+            80,
+            90,
+            100
+         ],
+         "creates":[
+            151609,
+            1,
+            1
+         ],
+         "displayName":"Tears of the Naaru",
+         "id":247690,
+         "learnedat":80,
+         "level":0,
+         "name":"Tears of the Naaru",
+         "nskillup":1,
+         "quality":1,
+         "reagents":[
+            [
+               151565,
+               15
+            ],
+            [
+               3371,
+               1
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            171
+         ],
+         "source":[
+            4
+         ]
+      },
+      {
+         "cat":2479,
+         "colors":[
+            0,
+            80,
+            90,
+            100
+         ],
+         "creates":[
+            151609,
+            1,
+            1
+         ],
+         "displayName":"Tears of the Naaru",
+         "id":247691,
+         "learnedat":80,
+         "level":0,
+         "name":"Tears of the Naaru",
+         "nskillup":1,
+         "quality":1,
+         "reagents":[
+            [
+               151565,
+               10
+            ],
+            [
+               3371,
+               1
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            171
+         ]
+      },
+      {
+         "cat":2479,
+         "colors":[
+            0,
+            90,
+            95,
+            100
+         ],
+         "creates":[
+            151607,
+            1,
+            1
+         ],
+         "displayName":"Astral Alchemist Stone",
+         "id":247694,
+         "learnedat":90,
+         "level":0,
+         "name":"Astral Alchemist Stone",
+         "nskillup":1,
+         "quality":4,
+         "reagents":[
+            [
+               151565,
+               75
+            ],
+            [
+               127842,
+               1
+            ],
+            [
+               151568,
+               5
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            171
+         ]
+      },
+      {
+         "cat":2479,
+         "colors":[
+            0,
+            90,
+            95,
+            100
+         ],
+         "creates":[
+            151607,
+            1,
+            1
+         ],
+         "displayName":"Astral Alchemist Stone",
+         "id":247695,
+         "learnedat":90,
+         "level":0,
+         "name":"Astral Alchemist Stone",
+         "nskillup":1,
+         "quality":4,
+         "reagents":[
+            [
+               151565,
+               60
+            ],
+            [
+               127842,
+               1
+            ],
+            [
+               151568,
+               4
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            171
+         ],
+         "source":[
+            5
+         ]
+      },
+      {
+         "cat":2479,
+         "colors":[
+            0,
+            90,
+            95,
+            100
+         ],
+         "creates":[
+            151607,
+            1,
+            1
+         ],
+         "displayName":"Astral Alchemist Stone",
+         "id":247696,
+         "learnedat":90,
+         "level":0,
+         "name":"Astral Alchemist Stone",
+         "nskillup":1,
+         "quality":4,
+         "reagents":[
+            [
+               151565,
+               50
+            ],
+            [
+               127842,
+               1
+            ],
+            [
+               151568,
+               3
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            171
+         ],
+         "source":[
+            5
+         ]
+      },
+      {
+         "cat":2479,
+         "colors":[
+            0,
+            20,
+            50,
+            80
+         ],
+         "creates":[
+            151568,
+            1,
+            1
+         ],
+         "displayName":"Transmute: Primal Sargerite",
+         "id":247701,
+         "learnedat":20,
+         "level":0,
+         "name":"Transmute: Primal Sargerite",
+         "nskillup":3,
+         "quality":3,
+         "reagents":[
+            [
+               124124,
+               25
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            171
+         ],
+         "source":[
+            5
+         ]
+      },
+      {
+         "cat":2479,
+         "colors":[
+            0,
+            80,
+            90,
+            100
+         ],
+         "creates":[
+            152615,
+            1,
+            1
+         ],
+         "displayName":"Astral Healing Potion",
+         "id":251658,
+         "learnedat":80,
+         "level":0,
+         "name":"Astral Healing Potion",
+         "nskillup":1,
+         "quality":1,
+         "reagents":[
+            [
+               151565,
+               15
+            ],
+            [
+               3371,
+               1
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            171
+         ],
+         "source":[
+            5
+         ]
+      },
+      {
+         "cat":2479,
+         "colors":[
+            0,
+            60,
+            70,
+            80
+         ],
+         "creates":[
+            152615,
+            1,
+            1
+         ],
+         "displayName":"Astral Healing Potion",
+         "id":251651,
+         "learnedat":60,
+         "level":0,
+         "name":"Astral Healing Potion",
+         "nskillup":1,
+         "quality":1,
+         "reagents":[
+            [
+               151565,
+               15
+            ],
+            [
+               3371,
+               1
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            171
+         ]
+      },
+      {
+         "cat":2479,
+         "colors":[
+            0,
+            40,
+            50,
+            60
+         ],
+         "creates":[
+            152615,
+            1,
+            1
+         ],
+         "displayName":"Astral Healing Potion",
+         "id":251646,
+         "learnedat":40,
+         "level":0,
+         "name":"Astral Healing Potion",
+         "nskillup":1,
+         "quality":1,
+         "reagents":[
+            [
+               151565,
+               20
+            ],
+            [
+               3371,
+               1
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            171
+         ],
+         "source":[
+            5
+         ]
+      },
+      {
+         "cat":2479,
+         "colors":[
+            0,
+            40,
+            50,
+            60
+         ],
+         "creates":[
+            136653,
+            1,
+            1
+         ],
+         "displayName":"Silvery Salve",
+         "id":221690,
+         "learnedat":40,
+         "level":0,
+         "name":"Silvery Salve",
+         "nskillup":1,
+         "quality":1,
+         "rank":"Rank 1",
+         "reagents":[
+            [
+               133607,
+               5
+            ]
+         ],
+         "schools":1,
+         "skill":[
+            171
+         ],
+         "source":[
             5
          ],
-         [
-            null,
-            null
-         ],
-         [
-            null,
-            null
-         ],
-         [
-            null,
-            null
-         ],
-         [
-            null,
-            null
-         ],
-         [
-            null,
-            null
-         ]
-      ],
-      "schools": 1,
-      "skill": [
-         171
-      ],
-      "source": [
-         5
-      ],
-      "rank": "Rank 1",
-      "trainingcost": 150000
-   }
+         "trainingcost":150000
+      }
+   ]
 }
-]
