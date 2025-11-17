@@ -1,1788 +1,2210 @@
-{
-   "data":[
-      {
-         "cat":11,
-         "colors":[
-            0,
-            50,
-            55,
-            60
-         ],
-         "creates":[
-            109123,
-            1,
-            1
-         ],
-         "displayName":"Crescent Oil",
-         "id":156585,
-         "learnedat":50,
-         "level":0,
-         "name":"Crescent Oil",
-         "nskillup":1,
-         "quality":1,
-         "reagents":[
-            [
-               109137,
-               3
-            ]
-         ],
-         "schools":1,
-         "skill":[
-            171
-         ],
-         "source":[
-            7
-         ]
-      },
-      {
-         "cat":11,
-         "colors":[
-            0,
-            1,
-            50,
-            100
-         ],
-         "creates":[
-            108996,
-            1,
-            1
-         ],
-         "displayName":"Alchemical Catalyst",
-         "id":156587,
-         "learnedat":1,
-         "level":0,
-         "name":"Alchemical Catalyst",
-         "nskillup":1,
-         "quality":2,
-         "reagents":[
-            [
-               109124,
-               20
-            ],
-            [
-               109118,
-               10
-            ]
-         ],
-         "schools":1,
-         "skill":[
-            171
-         ],
-         "source":[
-            7
-         ]
-      },
-      {
-         "cat":11,
-         "colors":[
-            0,
-            100,
-            100,
-            100
-         ],
-         "creates":[
-            109262,
-            1,
-            1
-         ],
-         "displayName":"Draenic Philosopher's Stone",
-         "id":156560,
-         "learnedat":100,
-         "level":0,
-         "name":"Draenic Philosopher's Stone",
-         "nskillup":1,
-         "quality":3,
-         "reagents":[
-            [
-               108996,
-               5
-            ],
-            [
-               109119,
-               1
-            ]
-         ],
-         "schools":1,
-         "skill":[
-            171
-         ],
-         "source":[
-            5
-         ]
-      },
-      {
-         "cat":11,
-         "colors":[
-            0,
-            100,
-            100,
-            100
-         ],
-         "creates":[
-            109145,
-            1,
-            1
-         ],
-         "displayName":"Draenic Agility Flask",
-         "id":156561,
-         "learnedat":100,
-         "level":0,
-         "name":"Draenic Agility Flask",
-         "nskillup":1,
-         "quality":1,
-         "reagents":[
-            [
-               3371,
-               1
-            ],
-            [
-               109125,
-               4
-            ],
-            [
-               109127,
-               4
-            ]
-         ],
-         "schools":1,
-         "skill":[
-            171
-         ],
-         "source":[
-            5
-         ]
-      },
-      {
-         "cat":11,
-         "colors":[
-            0,
-            100,
-            100,
-            100
-         ],
-         "creates":[
-            109147,
-            1,
-            1
-         ],
-         "displayName":"Draenic Intellect Flask",
-         "id":156563,
-         "learnedat":100,
-         "level":0,
-         "name":"Draenic Intellect Flask",
-         "nskillup":1,
-         "quality":1,
-         "reagents":[
-            [
-               3371,
-               1
-            ],
-            [
-               109127,
-               4
-            ],
-            [
-               109129,
-               4
-            ]
-         ],
-         "schools":1,
-         "skill":[
-            171
-         ],
-         "source":[
-            5
-         ]
-      },
-      {
-         "cat":11,
-         "colors":[
-            0,
-            100,
-            100,
-            100
-         ],
-         "creates":[
-            109148,
-            1,
-            1
-         ],
-         "displayName":"Draenic Strength Flask",
-         "id":156564,
-         "learnedat":100,
-         "level":0,
-         "name":"Draenic Strength Flask",
-         "nskillup":1,
-         "quality":1,
-         "reagents":[
-            [
-               3371,
-               1
-            ],
-            [
-               109128,
-               4
-            ],
-            [
-               109126,
-               4
-            ]
-         ],
-         "schools":1,
-         "skill":[
-            171
-         ],
-         "source":[
-            5
-         ]
-      },
-      {
-         "cat":11,
-         "colors":[
-            0,
-            100,
-            100,
-            100
-         ],
-         "creates":[
-            109152,
-            1,
-            1
-         ],
-         "displayName":"Draenic Stamina Flask",
-         "id":156568,
-         "learnedat":100,
-         "level":0,
-         "name":"Draenic Stamina Flask",
-         "nskillup":1,
-         "quality":1,
-         "reagents":[
-            [
-               3371,
-               1
-            ],
-            [
-               109129,
-               4
-            ],
-            [
-               109128,
-               4
-            ]
-         ],
-         "schools":1,
-         "skill":[
-            171
-         ],
-         "source":[
-            5
-         ]
-      },
-      {
-         "cat":11,
-         "colors":[
-            0,
-            100,
-            100,
-            100
-         ],
-         "creates":[
-            109153,
-            5,
-            5
-         ],
-         "displayName":"Greater Draenic Agility Flask",
-         "id":156569,
-         "learnedat":100,
-         "level":0,
-         "name":"Greater Draenic Agility Flask",
-         "nskillup":1,
-         "quality":1,
-         "reagents":[
-            [
-               108996,
-               5
-            ],
-            [
-               113262,
-               1
-            ],
-            [
-               109145,
-               5
-            ]
-         ],
-         "schools":1,
-         "skill":[
-            171
-         ],
-         "source":[
-            5
-         ]
-      },
-      {
-         "cat":11,
-         "colors":[
-            0,
-            100,
-            100,
-            100
-         ],
-         "creates":[
-            109155,
-            5,
-            5
-         ],
-         "displayName":"Greater Draenic Intellect Flask",
-         "id":156571,
-         "learnedat":100,
-         "level":0,
-         "name":"Greater Draenic Intellect Flask",
-         "nskillup":1,
-         "quality":1,
-         "reagents":[
-            [
-               108996,
-               5
-            ],
-            [
-               113261,
-               1
-            ],
-            [
-               109147,
-               5
-            ]
-         ],
-         "schools":1,
-         "skill":[
-            171
-         ],
-         "source":[
-            5
-         ]
-      },
-      {
-         "cat":11,
-         "colors":[
-            0,
-            100,
-            100,
-            100
-         ],
-         "creates":[
-            109156,
-            5,
-            5
-         ],
-         "displayName":"Greater Draenic Strength Flask",
-         "id":156572,
-         "learnedat":100,
-         "level":0,
-         "name":"Greater Draenic Strength Flask",
-         "nskillup":1,
-         "quality":1,
-         "reagents":[
-            [
-               108996,
-               5
-            ],
-            [
-               113261,
-               1
-            ],
-            [
-               109148,
-               5
-            ]
-         ],
-         "schools":1,
-         "skill":[
-            171
-         ],
-         "source":[
-            5
-         ]
-      },
-      {
-         "cat":11,
-         "colors":[
-            0,
-            100,
-            100,
-            100
-         ],
-         "creates":[
-            109160,
-            5,
-            5
-         ],
-         "displayName":"Greater Draenic Stamina Flask",
-         "id":156576,
-         "learnedat":100,
-         "level":0,
-         "name":"Greater Draenic Stamina Flask",
-         "nskillup":1,
-         "quality":1,
-         "reagents":[
-            [
-               108996,
-               5
-            ],
-            [
-               113262,
-               1
-            ],
-            [
-               109152,
-               5
-            ]
-         ],
-         "schools":1,
-         "skill":[
-            171
-         ],
-         "source":[
-            5
-         ]
-      },
-      {
-         "cat":11,
-         "colors":[
-            0,
-            50,
-            55,
-            60
-         ],
-         "creates":[
-            109217,
-            1,
-            1
-         ],
-         "displayName":"Draenic Agility Potion",
-         "id":156577,
-         "learnedat":50,
-         "level":0,
-         "name":"Draenic Agility Potion",
-         "nskillup":1,
-         "quality":1,
-         "reagents":[
-            [
-               3371,
-               1
-            ],
-            [
-               109125,
-               3
-            ]
-         ],
-         "schools":1,
-         "skill":[
-            171
-         ],
-         "source":[
-            5
-         ]
-      },
-      {
-         "cat":11,
-         "colors":[
-            0,
-            50,
-            55,
-            60
-         ],
-         "creates":[
-            109218,
-            1,
-            1
-         ],
-         "displayName":"Draenic Intellect Potion",
-         "id":156578,
-         "learnedat":50,
-         "level":0,
-         "name":"Draenic Intellect Potion",
-         "nskillup":1,
-         "quality":1,
-         "reagents":[
-            [
-               3371,
-               1
-            ],
-            [
-               109129,
-               3
-            ]
-         ],
-         "schools":1,
-         "skill":[
-            171
-         ],
-         "source":[
-            5
-         ]
-      },
-      {
-         "cat":11,
-         "colors":[
-            0,
-            50,
-            55,
-            60
-         ],
-         "creates":[
-            109219,
-            1,
-            1
-         ],
-         "displayName":"Draenic Strength Potion",
-         "id":156579,
-         "learnedat":50,
-         "level":0,
-         "name":"Draenic Strength Potion",
-         "nskillup":1,
-         "quality":1,
-         "reagents":[
-            [
-               3371,
-               1
-            ],
-            [
-               109128,
-               3
-            ]
-         ],
-         "schools":1,
-         "skill":[
-            171
-         ],
-         "source":[
-            5
-         ]
-      },
-      {
-         "cat":11,
-         "colors":[
-            0,
-            50,
-            55,
-            60
-         ],
-         "creates":[
-            109220,
-            1,
-            1
-         ],
-         "displayName":"Draenic Versatility Potion",
-         "id":156580,
-         "learnedat":50,
-         "level":0,
-         "name":"Draenic Versatility Potion",
-         "nskillup":1,
-         "quality":1,
-         "reagents":[
-            [
-               3371,
-               1
-            ],
-            [
-               109124,
-               3
-            ]
-         ],
-         "schools":1,
-         "skill":[
-            171
-         ],
-         "source":[
-            5
-         ]
-      },
-      {
-         "cat":11,
-         "colors":[
-            0,
-            50,
-            55,
-            60
-         ],
-         "creates":[
-            109221,
-            1,
-            1
-         ],
-         "displayName":"Draenic Channeled Mana Potion",
-         "id":156581,
-         "learnedat":50,
-         "level":0,
-         "name":"Draenic Channeled Mana Potion",
-         "nskillup":1,
-         "quality":1,
-         "reagents":[
-            [
-               3371,
-               1
-            ],
-            [
-               109127,
-               3
-            ]
-         ],
-         "schools":1,
-         "skill":[
-            171
-         ],
-         "source":[
-            5
-         ]
-      },
-      {
-         "cat":11,
-         "colors":[
-            0,
-            50,
-            55,
-            60
-         ],
-         "creates":[
-            109222,
-            1,
-            1
-         ],
-         "displayName":"Draenic Mana Potion",
-         "id":156582,
-         "learnedat":50,
-         "level":0,
-         "name":"Draenic Mana Potion",
-         "nskillup":1,
-         "quality":1,
-         "reagents":[
-            [
-               3371,
-               1
-            ],
-            [
-               109126,
-               3
-            ]
-         ],
-         "schools":1,
-         "skill":[
-            171
-         ],
-         "source":[
-            7
-         ]
-      },
-      {
-         "cat":11,
-         "colors":[
-            0,
-            50,
-            55,
-            60
-         ],
-         "creates":[
-            112090,
-            3,
+[
+ {
+   "data": {
+      "cat": 2480,
+      "colors": [
+         0,
+         50,
+         55,
+         60
+      ],
+      "creates": [
+         109123,
+         1,
+         1
+      ],
+      "displayName": "Crescent Oil",
+      "id": 156585,
+      "learnedat": 50,
+      "level": 0,
+      "name": "Crescent Oil",
+      "nskillup": 1,
+      "quality": 1,
+      "reagents": [
+         [
+            109137,
             3
          ],
-         "displayName":"Transmorphic Tincture",
-         "id":162403,
-         "learnedat":50,
-         "level":0,
-         "name":"Transmorphic Tincture",
-         "nskillup":1,
-         "quality":1,
-         "reagents":[
-            [
-               109123,
-               1
-            ],
-            [
-               109124,
-               5
-            ]
+         [
+            null,
+            null
          ],
-         "schools":1,
-         "skill":[
-            171
+         [
+            null,
+            null
          ],
-         "source":[
+         [
+            null,
+            null
+         ]
+      ],
+      "schools": 1,
+      "skill": [
+         171
+      ],
+      "source": [
+         7
+      ]
+   }
+},
+ {
+   "data": {
+      "cat": 2480,
+      "colors": [
+         0,
+         1,
+         50,
+         100
+      ],
+      "creates": [
+         108996,
+         1,
+         1
+      ],
+      "displayName": "Alchemical Catalyst",
+      "id": 156587,
+      "learnedat": 1,
+      "level": 0,
+      "name": "Alchemical Catalyst",
+      "nskillup": 1,
+      "quality": 2,
+      "reagents": [
+         [
+            109124,
+            20
+         ],
+         [
+            109118,
+            10
+         ],
+         [
+            null,
+            null
+         ],
+         [
+            null,
+            null
+         ]
+      ],
+      "schools": 1,
+      "skill": [
+         171
+      ],
+      "source": [
+         7
+      ]
+   }
+},
+ {
+   "data": {
+      "cat": 2480,
+      "colors": [
+         0,
+         100,
+         100,
+         100
+      ],
+      "creates": [
+         109262,
+         1,
+         1
+      ],
+      "displayName": "Draenic Philosopher's Stone",
+      "id": 156560,
+      "learnedat": 100,
+      "level": 0,
+      "name": "Draenic Philosopher's Stone",
+      "nskillup": 1,
+      "quality": 3,
+      "reagents": [
+         [
+            108996,
             5
-         ]
-      },
-      {
-         "cat":11,
-         "colors":[
-            0,
-            50,
-            55,
-            60
          ],
-         "creates":[
-            109226,
-            1,
+         [
+            109119,
             1
          ],
-         "displayName":"Draenic Rejuvenation Potion",
-         "id":156584,
-         "learnedat":50,
-         "level":0,
-         "name":"Draenic Rejuvenation Potion",
-         "nskillup":1,
-         "quality":1,
-         "reagents":[
-            [
-               109223,
-               1
-            ],
-            [
-               109222,
-               1
-            ]
+         [
+            null,
+            null
          ],
-         "schools":1,
-         "skill":[
-            171
+         [
+            null,
+            null
+         ]
+      ],
+      "schools": 1,
+      "skill": [
+         171
+      ],
+      "source": [
+         5
+      ]
+   }
+},
+ {
+   "data": {
+      "cat": 2480,
+      "colors": [
+         0,
+         100,
+         100,
+         100
+      ],
+      "creates": [
+         109145,
+         1,
+         1
+      ],
+      "displayName": "Draenic Agility Flask",
+      "id": 156561,
+      "learnedat": 100,
+      "level": 0,
+      "name": "Draenic Agility Flask",
+      "nskillup": 1,
+      "quality": 1,
+      "reagents": [
+         [
+            3371,
+            1
          ],
-         "source":[
+         [
+            109125,
+            4
+         ],
+         [
+            109127,
+            4
+         ],
+         [
+            null,
+            null
+         ]
+      ],
+      "schools": 1,
+      "skill": [
+         171
+      ],
+      "source": [
+         5
+      ]
+   }
+},
+ {
+   "data": {
+      "cat": 2480,
+      "colors": [
+         0,
+         100,
+         100,
+         100
+      ],
+      "creates": [
+         109147,
+         1,
+         1
+      ],
+      "displayName": "Draenic Intellect Flask",
+      "id": 156563,
+      "learnedat": 100,
+      "level": 0,
+      "name": "Draenic Intellect Flask",
+      "nskillup": 1,
+      "quality": 1,
+      "reagents": [
+         [
+            3371,
+            1
+         ],
+         [
+            109127,
+            4
+         ],
+         [
+            109129,
+            4
+         ],
+         [
+            null,
+            null
+         ]
+      ],
+      "schools": 1,
+      "skill": [
+         171
+      ],
+      "source": [
+         5
+      ]
+   }
+},
+ {
+   "data": {
+      "cat": 2480,
+      "colors": [
+         0,
+         100,
+         100,
+         100
+      ],
+      "creates": [
+         109148,
+         1,
+         1
+      ],
+      "displayName": "Draenic Strength Flask",
+      "id": 156564,
+      "learnedat": 100,
+      "level": 0,
+      "name": "Draenic Strength Flask",
+      "nskillup": 1,
+      "quality": 1,
+      "reagents": [
+         [
+            3371,
+            1
+         ],
+         [
+            109128,
+            4
+         ],
+         [
+            109126,
+            4
+         ],
+         [
+            null,
+            null
+         ]
+      ],
+      "schools": 1,
+      "skill": [
+         171
+      ],
+      "source": [
+         5
+      ]
+   }
+},
+ {
+   "data": {
+      "cat": 2480,
+      "colors": [
+         0,
+         100,
+         100,
+         100
+      ],
+      "creates": [
+         109152,
+         1,
+         1
+      ],
+      "displayName": "Draenic Stamina Flask",
+      "id": 156568,
+      "learnedat": 100,
+      "level": 0,
+      "name": "Draenic Stamina Flask",
+      "nskillup": 1,
+      "quality": 1,
+      "reagents": [
+         [
+            3371,
+            1
+         ],
+         [
+            109129,
+            4
+         ],
+         [
+            109128,
+            4
+         ],
+         [
+            null,
+            null
+         ]
+      ],
+      "schools": 1,
+      "skill": [
+         171
+      ],
+      "source": [
+         5
+      ]
+   }
+},
+ {
+   "data": {
+      "cat": 2480,
+      "colors": [
+         0,
+         100,
+         100,
+         100
+      ],
+      "creates": [
+         109153,
+         5,
+         5
+      ],
+      "displayName": "Greater Draenic Agility Flask",
+      "id": 156569,
+      "learnedat": 100,
+      "level": 0,
+      "name": "Greater Draenic Agility Flask",
+      "nskillup": 1,
+      "quality": 1,
+      "reagents": [
+         [
+            108996,
             5
-         ]
-      },
-      {
-         "cat":11,
-         "colors":[
-            0,
-            50,
-            55,
-            60
          ],
-         "creates":[
-            116266,
-            1,
-            1
-         ],
-         "displayName":"Draenic Swiftness Potion",
-         "id":175853,
-         "learnedat":50,
-         "level":0,
-         "name":"Draenic Swiftness Potion",
-         "nskillup":1,
-         "quality":1,
-         "reagents":[
-            [
-               109123,
-               1
-            ],
-            [
-               109144,
-               3
-            ]
-         ],
-         "schools":1,
-         "skill":[
-            171
-         ],
-         "source":[
-            7
-         ]
-      },
-      {
-         "cat":11,
-         "colors":[
-            0,
-            50,
-            55,
-            60
-         ],
-         "creates":[
-            116268,
-            1,
-            1
-         ],
-         "displayName":"Draenic Invisibility Potion",
-         "id":175865,
-         "learnedat":50,
-         "level":0,
-         "name":"Draenic Invisibility Potion",
-         "nskillup":1,
-         "quality":1,
-         "reagents":[
-            [
-               109123,
-               1
-            ],
-            [
-               109138,
-               3
-            ]
-         ],
-         "schools":1,
-         "skill":[
-            171
-         ],
-         "source":[
-            7
-         ]
-      },
-      {
-         "cat":11,
-         "colors":[
-            0,
-            50,
-            55,
-            60
-         ],
-         "creates":[
-            116271,
-            1,
-            1
-         ],
-         "displayName":"Draenic Water Breathing Elixir",
-         "id":175866,
-         "learnedat":50,
-         "level":0,
-         "name":"Draenic Water Breathing Elixir",
-         "nskillup":1,
-         "quality":1,
-         "reagents":[
-            [
-               109123,
-               1
-            ],
-            [
-               109143,
-               3
-            ]
-         ],
-         "schools":1,
-         "skill":[
-            171
-         ],
-         "source":[
-            7
-         ]
-      },
-      {
-         "cat":11,
-         "colors":[
-            0,
-            50,
-            55,
-            60
-         ],
-         "creates":[
-            116276,
-            1,
-            1
-         ],
-         "displayName":"Draenic Living Action Potion",
-         "id":175867,
-         "learnedat":50,
-         "level":0,
-         "name":"Draenic Living Action Potion",
-         "nskillup":1,
-         "quality":1,
-         "reagents":[
-            [
-               109123,
-               1
-            ],
-            [
-               109139,
-               3
-            ]
-         ],
-         "schools":1,
-         "skill":[
-            171
-         ],
-         "source":[
-            7
-         ]
-      },
-      {
-         "cat":11,
-         "colors":[
-            0,
-            50,
-            55,
-            60
-         ],
-         "creates":[
-            118704,
-            1,
-            1
-         ],
-         "displayName":"Pure Rage Potion",
-         "id":175868,
-         "learnedat":50,
-         "level":0,
-         "name":"Pure Rage Potion",
-         "nskillup":1,
-         "quality":1,
-         "reagents":[
-            [
-               109123,
-               1
-            ],
-            [
-               109141,
-               3
-            ]
-         ],
-         "schools":1,
-         "skill":[
-            171
-         ],
-         "source":[
-            7
-         ]
-      },
-      {
-         "cat":11,
-         "colors":[
-            0,
-            50,
-            55,
-            60
-         ],
-         "creates":[
-            118711,
-            1,
-            1
-         ],
-         "displayName":"Draenic Water Walking Elixir",
-         "id":175869,
-         "learnedat":50,
-         "level":0,
-         "name":"Draenic Water Walking Elixir",
-         "nskillup":1,
-         "quality":1,
-         "reagents":[
-            [
-               109123,
-               1
-            ],
-            [
-               109140,
-               3
-            ]
-         ],
-         "schools":1,
-         "skill":[
-            171
-         ],
-         "source":[
-            7
-         ]
-      },
-      {
-         "cat":11,
-         "colors":[
-            0,
-            1,
-            50,
-            100
-         ],
-         "creates":[
-            118700,
-            1,
-            1
-         ],
-         "displayName":"Secrets of Draenor Alchemy",
-         "id":175880,
-         "learnedat":1,
-         "level":0,
-         "name":"Secrets of Draenor Alchemy",
-         "nskillup":1,
-         "quality":1,
-         "reagents":[
-            [
-               109124,
-               5
-            ]
-         ],
-         "schools":1,
-         "skill":[
-            171
-         ],
-         "source":[
-            7
-         ]
-      },
-      {
-         "cat":11,
-         "colors":[
-            0,
-            100,
-            100,
-            100
-         ],
-         "creates":[
-            113264,
-            10,
-            10
-         ],
-         "displayName":"Transmute: Sorcerous Earth to Air",
-         "id":181631,
-         "learnedat":100,
-         "level":0,
-         "name":"Transmute: Sorcerous Earth to Air",
-         "nskillup":1,
-         "quality":2,
-         "reagents":[
-            [
-               113263,
-               10
-            ],
-            [
-               108996,
-               4
-            ]
-         ],
-         "schools":1,
-         "skill":[
-            171
-         ],
-         "source":[
-            7
-         ]
-      },
-      {
-         "cat":11,
-         "colors":[
-            0,
-            100,
-            100,
-            100
-         ],
-         "creates":[
-            113261,
-            10,
-            10
-         ],
-         "displayName":"Transmute: Sorcerous Air to Fire",
-         "id":181633,
-         "learnedat":100,
-         "level":0,
-         "name":"Transmute: Sorcerous Air to Fire",
-         "nskillup":1,
-         "quality":2,
-         "reagents":[
-            [
-               113264,
-               10
-            ],
-            [
-               108996,
-               4
-            ]
-         ],
-         "schools":1,
-         "skill":[
-            171
-         ],
-         "source":[
-            7
-         ]
-      },
-      {
-         "cat":11,
-         "colors":[
-            0,
-            100,
-            100,
-            100
-         ],
-         "creates":[
-            113264,
-            10,
-            10
-         ],
-         "displayName":"Transmute: Sorcerous Water to Air",
-         "id":181630,
-         "learnedat":100,
-         "level":0,
-         "name":"Transmute: Sorcerous Water to Air",
-         "nskillup":1,
-         "quality":2,
-         "reagents":[
-            [
-               113262,
-               10
-            ],
-            [
-               108996,
-               4
-            ]
-         ],
-         "schools":1,
-         "skill":[
-            171
-         ],
-         "source":[
-            7
-         ]
-      },
-      {
-         "cat":11,
-         "colors":[
-            0,
-            100,
-            100,
-            100
-         ],
-         "creates":[
-            113261,
-            10,
-            10
-         ],
-         "displayName":"Transmute: Sorcerous Water to Fire",
-         "id":181634,
-         "learnedat":100,
-         "level":0,
-         "name":"Transmute: Sorcerous Water to Fire",
-         "nskillup":1,
-         "quality":2,
-         "reagents":[
-            [
-               113262,
-               10
-            ],
-            [
-               108996,
-               4
-            ]
-         ],
-         "schools":1,
-         "skill":[
-            171
-         ],
-         "source":[
-            7
-         ]
-      },
-      {
-         "cat":11,
-         "colors":[
-            0,
-            100,
-            100,
-            100
-         ],
-         "creates":[
+         [
             113262,
-            10,
-            10
+            1
          ],
-         "displayName":"Transmute: Sorcerous Fire to Water",
-         "id":181628,
-         "learnedat":100,
-         "level":0,
-         "name":"Transmute: Sorcerous Fire to Water",
-         "nskillup":1,
-         "quality":2,
-         "reagents":[
-            [
-               113261,
-               10
-            ],
-            [
-               108996,
-               4
-            ]
+         [
+            109145,
+            5
          ],
-         "schools":1,
-         "skill":[
-            171
-         ],
-         "source":[
-            7
+         [
+            null,
+            null
          ]
-      },
-      {
-         "cat":11,
-         "colors":[
-            0,
-            100,
-            100,
-            100
+      ],
+      "schools": 1,
+      "skill": [
+         171
+      ],
+      "source": [
+         5
+      ]
+   }
+},
+ {
+   "data": {
+      "cat": 2480,
+      "colors": [
+         0,
+         100,
+         100,
+         100
+      ],
+      "creates": [
+         109155,
+         5,
+         5
+      ],
+      "displayName": "Greater Draenic Intellect Flask",
+      "id": 156571,
+      "learnedat": 100,
+      "level": 0,
+      "name": "Greater Draenic Intellect Flask",
+      "nskillup": 1,
+      "quality": 1,
+      "reagents": [
+         [
+            108996,
+            5
          ],
-         "creates":[
-            113264,
-            10,
-            10
-         ],
-         "displayName":"Transmute: Sorcerous Fire to Air",
-         "id":181627,
-         "learnedat":100,
-         "level":0,
-         "name":"Transmute: Sorcerous Fire to Air",
-         "nskillup":1,
-         "quality":2,
-         "reagents":[
-            [
-               113261,
-               10
-            ],
-            [
-               108996,
-               4
-            ]
-         ],
-         "schools":1,
-         "skill":[
-            171
-         ],
-         "source":[
-            7
-         ]
-      },
-      {
-         "cat":11,
-         "colors":[
-            0,
-            100,
-            100,
-            100
-         ],
-         "creates":[
-            113263,
-            10,
-            10
-         ],
-         "displayName":"Transmute: Sorcerous Fire to Earth",
-         "id":181625,
-         "learnedat":100,
-         "level":0,
-         "name":"Transmute: Sorcerous Fire to Earth",
-         "nskillup":1,
-         "quality":2,
-         "reagents":[
-            [
-               113261,
-               10
-            ],
-            [
-               108996,
-               4
-            ]
-         ],
-         "schools":1,
-         "skill":[
-            171
-         ],
-         "source":[
-            7
-         ]
-      },
-      {
-         "cat":11,
-         "colors":[
-            0,
-            100,
-            100,
-            100
-         ],
-         "creates":[
-            113262,
-            10,
-            10
-         ],
-         "displayName":"Transmute: Sorcerous Earth to Water",
-         "id":181635,
-         "learnedat":100,
-         "level":0,
-         "name":"Transmute: Sorcerous Earth to Water",
-         "nskillup":1,
-         "quality":2,
-         "reagents":[
-            [
-               113263,
-               10
-            ],
-            [
-               108996,
-               4
-            ]
-         ],
-         "schools":1,
-         "skill":[
-            171
-         ],
-         "source":[
-            7
-         ]
-      },
-      {
-         "cat":11,
-         "colors":[
-            0,
-            100,
-            100,
-            100
-         ],
-         "creates":[
-            113262,
-            10,
-            10
-         ],
-         "displayName":"Transmute: Sorcerous Air to Water",
-         "id":181636,
-         "learnedat":100,
-         "level":0,
-         "name":"Transmute: Sorcerous Air to Water",
-         "nskillup":1,
-         "quality":2,
-         "reagents":[
-            [
-               113264,
-               10
-            ],
-            [
-               108996,
-               4
-            ]
-         ],
-         "schools":1,
-         "skill":[
-            171
-         ],
-         "source":[
-            7
-         ]
-      },
-      {
-         "cat":11,
-         "colors":[
-            0,
-            100,
-            100,
-            100
-         ],
-         "creates":[
+         [
             113261,
-            10,
-            10
+            1
          ],
-         "displayName":"Transmute: Sorcerous Earth to Fire",
-         "id":181632,
-         "learnedat":100,
-         "level":0,
-         "name":"Transmute: Sorcerous Earth to Fire",
-         "nskillup":1,
-         "quality":2,
-         "reagents":[
-            [
-               113263,
-               10
-            ],
-            [
-               108996,
-               4
-            ]
+         [
+            109147,
+            5
          ],
-         "schools":1,
-         "skill":[
-            171
-         ],
-         "source":[
-            7
+         [
+            null,
+            null
          ]
-      },
-      {
-         "cat":11,
-         "colors":[
-            0,
-            100,
-            100,
-            100
+      ],
+      "schools": 1,
+      "skill": [
+         171
+      ],
+      "source": [
+         5
+      ]
+   }
+},
+ {
+   "data": {
+      "cat": 2480,
+      "colors": [
+         0,
+         100,
+         100,
+         100
+      ],
+      "creates": [
+         109156,
+         5,
+         5
+      ],
+      "displayName": "Greater Draenic Strength Flask",
+      "id": 156572,
+      "learnedat": 100,
+      "level": 0,
+      "name": "Greater Draenic Strength Flask",
+      "nskillup": 1,
+      "quality": 1,
+      "reagents": [
+         [
+            108996,
+            5
          ],
-         "creates":[
+         [
+            113261,
+            1
+         ],
+         [
+            109148,
+            5
+         ],
+         [
+            null,
+            null
+         ]
+      ],
+      "schools": 1,
+      "skill": [
+         171
+      ],
+      "source": [
+         5
+      ]
+   }
+},
+ {
+   "data": {
+      "cat": 2480,
+      "colors": [
+         0,
+         100,
+         100,
+         100
+      ],
+      "creates": [
+         109160,
+         5,
+         5
+      ],
+      "displayName": "Greater Draenic Stamina Flask",
+      "id": 156576,
+      "learnedat": 100,
+      "level": 0,
+      "name": "Greater Draenic Stamina Flask",
+      "nskillup": 1,
+      "quality": 1,
+      "reagents": [
+         [
+            108996,
+            5
+         ],
+         [
+            113262,
+            1
+         ],
+         [
+            109152,
+            5
+         ],
+         [
+            null,
+            null
+         ]
+      ],
+      "schools": 1,
+      "skill": [
+         171
+      ],
+      "source": [
+         5
+      ]
+   }
+},
+ {
+   "data": {
+      "cat": 2480,
+      "colors": [
+         0,
+         50,
+         55,
+         60
+      ],
+      "creates": [
+         109217,
+         1,
+         1
+      ],
+      "displayName": "Draenic Agility Potion",
+      "id": 156577,
+      "learnedat": 50,
+      "level": 0,
+      "name": "Draenic Agility Potion",
+      "nskillup": 1,
+      "quality": 1,
+      "reagents": [
+         [
+            3371,
+            1
+         ],
+         [
+            109125,
+            3
+         ],
+         [
+            null,
+            null
+         ],
+         [
+            null,
+            null
+         ]
+      ],
+      "schools": 1,
+      "skill": [
+         171
+      ],
+      "source": [
+         5
+      ]
+   }
+},
+ {
+   "data": {
+      "cat": 2480,
+      "colors": [
+         0,
+         50,
+         55,
+         60
+      ],
+      "creates": [
+         109218,
+         1,
+         1
+      ],
+      "displayName": "Draenic Intellect Potion",
+      "id": 156578,
+      "learnedat": 50,
+      "level": 0,
+      "name": "Draenic Intellect Potion",
+      "nskillup": 1,
+      "quality": 1,
+      "reagents": [
+         [
+            3371,
+            1
+         ],
+         [
+            109129,
+            3
+         ],
+         [
+            null,
+            null
+         ],
+         [
+            null,
+            null
+         ]
+      ],
+      "schools": 1,
+      "skill": [
+         171
+      ],
+      "source": [
+         5
+      ]
+   }
+},
+ {
+   "data": {
+      "cat": 2480,
+      "colors": [
+         0,
+         50,
+         55,
+         60
+      ],
+      "creates": [
+         109219,
+         1,
+         1
+      ],
+      "displayName": "Draenic Strength Potion",
+      "id": 156579,
+      "learnedat": 50,
+      "level": 0,
+      "name": "Draenic Strength Potion",
+      "nskillup": 1,
+      "quality": 1,
+      "reagents": [
+         [
+            3371,
+            1
+         ],
+         [
+            109128,
+            3
+         ],
+         [
+            null,
+            null
+         ],
+         [
+            null,
+            null
+         ]
+      ],
+      "schools": 1,
+      "skill": [
+         171
+      ],
+      "source": [
+         5
+      ]
+   }
+},
+ {
+   "data": {
+      "cat": 2480,
+      "colors": [
+         0,
+         50,
+         55,
+         60
+      ],
+      "creates": [
+         109220,
+         1,
+         1
+      ],
+      "displayName": "Draenic Versatility Potion",
+      "id": 156580,
+      "learnedat": 50,
+      "level": 0,
+      "name": "Draenic Versatility Potion",
+      "nskillup": 1,
+      "quality": 1,
+      "reagents": [
+         [
+            3371,
+            1
+         ],
+         [
+            109124,
+            3
+         ],
+         [
+            null,
+            null
+         ],
+         [
+            null,
+            null
+         ]
+      ],
+      "schools": 1,
+      "skill": [
+         171
+      ],
+      "source": [
+         5
+      ]
+   }
+},
+ {
+   "data": {
+      "cat": 2480,
+      "colors": [
+         0,
+         50,
+         55,
+         60
+      ],
+      "creates": [
+         109221,
+         1,
+         1
+      ],
+      "displayName": "Draenic Channeled Mana Potion",
+      "id": 156581,
+      "learnedat": 50,
+      "level": 0,
+      "name": "Draenic Channeled Mana Potion",
+      "nskillup": 1,
+      "quality": 1,
+      "reagents": [
+         [
+            3371,
+            1
+         ],
+         [
+            109127,
+            3
+         ],
+         [
+            null,
+            null
+         ],
+         [
+            null,
+            null
+         ]
+      ],
+      "schools": 1,
+      "skill": [
+         171
+      ],
+      "source": [
+         5
+      ]
+   }
+},
+ {
+   "data": {
+      "cat": 2480,
+      "colors": [
+         0,
+         50,
+         55,
+         60
+      ],
+      "creates": [
+         109222,
+         1,
+         1
+      ],
+      "displayName": "Draenic Mana Potion",
+      "id": 156582,
+      "learnedat": 50,
+      "level": 0,
+      "name": "Draenic Mana Potion",
+      "nskillup": 1,
+      "quality": 1,
+      "reagents": [
+         [
+            3371,
+            1
+         ],
+         [
+            109126,
+            3
+         ],
+         [
+            null,
+            null
+         ],
+         [
+            null,
+            null
+         ]
+      ],
+      "schools": 1,
+      "skill": [
+         171
+      ],
+      "source": [
+         7
+      ]
+   }
+},
+ {
+   "data": {
+      "cat": 2480,
+      "colors": [
+         0,
+         50,
+         55,
+         60
+      ],
+      "creates": [
+         112090,
+         3,
+         3
+      ],
+      "displayName": "Transmorphic Tincture",
+      "id": 162403,
+      "learnedat": 50,
+      "level": 0,
+      "name": "Transmorphic Tincture",
+      "nskillup": 1,
+      "quality": 1,
+      "reagents": [
+         [
+            109123,
+            1
+         ],
+         [
+            109124,
+            5
+         ],
+         [
+            null,
+            null
+         ],
+         [
+            null,
+            null
+         ]
+      ],
+      "schools": 1,
+      "skill": [
+         171
+      ],
+      "source": [
+         5
+      ]
+   }
+},
+ {
+   "data": {
+      "cat": 2480,
+      "colors": [
+         0,
+         50,
+         55,
+         60
+      ],
+      "creates": [
+         109226,
+         1,
+         1
+      ],
+      "displayName": "Draenic Rejuvenation Potion",
+      "id": 156584,
+      "learnedat": 50,
+      "level": 0,
+      "name": "Draenic Rejuvenation Potion",
+      "nskillup": 1,
+      "quality": 1,
+      "reagents": [
+         [
+            109223,
+            1
+         ],
+         [
+            109222,
+            1
+         ],
+         [
+            null,
+            null
+         ],
+         [
+            null,
+            null
+         ]
+      ],
+      "schools": 1,
+      "skill": [
+         171
+      ],
+      "source": [
+         5
+      ]
+   }
+},
+ {
+   "data": {
+      "cat": 2480,
+      "colors": [
+         0,
+         50,
+         55,
+         60
+      ],
+      "creates": [
+         116266,
+         1,
+         1
+      ],
+      "displayName": "Draenic Swiftness Potion",
+      "id": 175853,
+      "learnedat": 50,
+      "level": 0,
+      "name": "Draenic Swiftness Potion",
+      "nskillup": 1,
+      "quality": 1,
+      "reagents": [
+         [
+            109123,
+            1
+         ],
+         [
+            109144,
+            3
+         ],
+         [
+            null,
+            null
+         ],
+         [
+            null,
+            null
+         ]
+      ],
+      "schools": 1,
+      "skill": [
+         171
+      ],
+      "source": [
+         7
+      ]
+   }
+},
+ {
+   "data": {
+      "cat": 2480,
+      "colors": [
+         0,
+         50,
+         55,
+         60
+      ],
+      "creates": [
+         116268,
+         1,
+         1
+      ],
+      "displayName": "Draenic Invisibility Potion",
+      "id": 175865,
+      "learnedat": 50,
+      "level": 0,
+      "name": "Draenic Invisibility Potion",
+      "nskillup": 1,
+      "quality": 1,
+      "reagents": [
+         [
+            109123,
+            1
+         ],
+         [
+            109138,
+            3
+         ],
+         [
+            null,
+            null
+         ],
+         [
+            null,
+            null
+         ]
+      ],
+      "schools": 1,
+      "skill": [
+         171
+      ],
+      "source": [
+         7
+      ]
+   }
+},
+ {
+   "data": {
+      "cat": 2480,
+      "colors": [
+         0,
+         50,
+         55,
+         60
+      ],
+      "creates": [
+         116271,
+         1,
+         1
+      ],
+      "displayName": "Draenic Water Breathing Elixir",
+      "id": 175866,
+      "learnedat": 50,
+      "level": 0,
+      "name": "Draenic Water Breathing Elixir",
+      "nskillup": 1,
+      "quality": 1,
+      "reagents": [
+         [
+            109123,
+            1
+         ],
+         [
+            109143,
+            3
+         ],
+         [
+            null,
+            null
+         ],
+         [
+            null,
+            null
+         ]
+      ],
+      "schools": 1,
+      "skill": [
+         171
+      ],
+      "source": [
+         7
+      ]
+   }
+},
+ {
+   "data": {
+      "cat": 2480,
+      "colors": [
+         0,
+         50,
+         55,
+         60
+      ],
+      "creates": [
+         116276,
+         1,
+         1
+      ],
+      "displayName": "Draenic Living Action Potion",
+      "id": 175867,
+      "learnedat": 50,
+      "level": 0,
+      "name": "Draenic Living Action Potion",
+      "nskillup": 1,
+      "quality": 1,
+      "reagents": [
+         [
+            109123,
+            1
+         ],
+         [
+            109139,
+            3
+         ],
+         [
+            null,
+            null
+         ],
+         [
+            null,
+            null
+         ]
+      ],
+      "schools": 1,
+      "skill": [
+         171
+      ],
+      "source": [
+         7
+      ]
+   }
+},
+ {
+   "data": {
+      "cat": 2480,
+      "colors": [
+         0,
+         50,
+         55,
+         60
+      ],
+      "creates": [
+         118704,
+         1,
+         1
+      ],
+      "displayName": "Pure Rage Potion",
+      "id": 175868,
+      "learnedat": 50,
+      "level": 0,
+      "name": "Pure Rage Potion",
+      "nskillup": 1,
+      "quality": 1,
+      "reagents": [
+         [
+            109123,
+            1
+         ],
+         [
+            109141,
+            3
+         ],
+         [
+            null,
+            null
+         ],
+         [
+            null,
+            null
+         ]
+      ],
+      "schools": 1,
+      "skill": [
+         171
+      ],
+      "source": [
+         7
+      ]
+   }
+},
+ {
+   "data": {
+      "cat": 2480,
+      "colors": [
+         0,
+         50,
+         55,
+         60
+      ],
+      "creates": [
+         118711,
+         1,
+         1
+      ],
+      "displayName": "Draenic Water Walking Elixir",
+      "id": 175869,
+      "learnedat": 50,
+      "level": 0,
+      "name": "Draenic Water Walking Elixir",
+      "nskillup": 1,
+      "quality": 1,
+      "reagents": [
+         [
+            109123,
+            1
+         ],
+         [
+            109140,
+            3
+         ],
+         [
+            null,
+            null
+         ],
+         [
+            null,
+            null
+         ]
+      ],
+      "schools": 1,
+      "skill": [
+         171
+      ],
+      "source": [
+         7
+      ]
+   }
+},
+ {
+   "data": {
+      "cat": 2480,
+      "colors": [
+         0,
+         1,
+         50,
+         100
+      ],
+      "creates": [
+         118700,
+         1,
+         1
+      ],
+      "displayName": "Secrets of Draenor Alchemy",
+      "id": 175880,
+      "learnedat": 1,
+      "level": 0,
+      "name": "Secrets of Draenor Alchemy",
+      "nskillup": 1,
+      "quality": 1,
+      "reagents": [
+         [
+            109124,
+            5
+         ],
+         [
+            null,
+            null
+         ],
+         [
+            null,
+            null
+         ],
+         [
+            null,
+            null
+         ]
+      ],
+      "schools": 1,
+      "skill": [
+         171
+      ],
+      "source": [
+         7
+      ]
+   }
+},
+ {
+   "data": {
+      "cat": 2480,
+      "colors": [
+         0,
+         100,
+         100,
+         100
+      ],
+      "creates": [
+         113264,
+         10,
+         10
+      ],
+      "displayName": "Transmute: Sorcerous Earth to Air",
+      "id": 181631,
+      "learnedat": 100,
+      "level": 0,
+      "name": "Transmute: Sorcerous Earth to Air",
+      "nskillup": 1,
+      "quality": 2,
+      "reagents": [
+         [
             113263,
-            10,
             10
          ],
-         "displayName":"Transmute: Sorcerous Water to Earth",
-         "id":181629,
-         "learnedat":100,
-         "level":0,
-         "name":"Transmute: Sorcerous Water to Earth",
-         "nskillup":1,
-         "quality":2,
-         "reagents":[
-            [
-               113262,
-               10
-            ],
-            [
-               108996,
-               4
-            ]
+         [
+            108996,
+            4
          ],
-         "schools":1,
-         "skill":[
-            171
+         [
+            null,
+            null
          ],
-         "source":[
-            7
+         [
+            null,
+            null
          ]
-      },
-      {
-         "cat":11,
-         "colors":[
-            0,
-            1,
-            3,
-            5
+      ],
+      "schools": 1,
+      "skill": [
+         171
+      ],
+      "source": [
+         7
+      ]
+   }
+},
+ {
+   "data": {
+      "cat": 2480,
+      "colors": [
+         0,
+         100,
+         100,
+         100
+      ],
+      "creates": [
+         113261,
+         10,
+         10
+      ],
+      "displayName": "Transmute: Sorcerous Air to Fire",
+      "id": 181633,
+      "learnedat": 100,
+      "level": 0,
+      "name": "Transmute: Sorcerous Air to Fire",
+      "nskillup": 1,
+      "quality": 2,
+      "reagents": [
+         [
+            113264,
+            10
          ],
-         "creates":[
+         [
+            108996,
+            4
+         ],
+         [
+            null,
+            null
+         ],
+         [
+            null,
+            null
+         ]
+      ],
+      "schools": 1,
+      "skill": [
+         171
+      ],
+      "source": [
+         7
+      ]
+   }
+},
+ {
+   "data": {
+      "cat": 2480,
+      "colors": [
+         0,
+         100,
+         100,
+         100
+      ],
+      "creates": [
+         113264,
+         10,
+         10
+      ],
+      "displayName": "Transmute: Sorcerous Water to Air",
+      "id": 181630,
+      "learnedat": 100,
+      "level": 0,
+      "name": "Transmute: Sorcerous Water to Air",
+      "nskillup": 1,
+      "quality": 2,
+      "reagents": [
+         [
+            113262,
+            10
+         ],
+         [
+            108996,
+            4
+         ],
+         [
+            null,
+            null
+         ],
+         [
+            null,
+            null
+         ]
+      ],
+      "schools": 1,
+      "skill": [
+         171
+      ],
+      "source": [
+         7
+      ]
+   }
+},
+ {
+   "data": {
+      "cat": 2480,
+      "colors": [
+         0,
+         100,
+         100,
+         100
+      ],
+      "creates": [
+         113261,
+         10,
+         10
+      ],
+      "displayName": "Transmute: Sorcerous Water to Fire",
+      "id": 181634,
+      "learnedat": 100,
+      "level": 0,
+      "name": "Transmute: Sorcerous Water to Fire",
+      "nskillup": 1,
+      "quality": 2,
+      "reagents": [
+         [
+            113262,
+            10
+         ],
+         [
+            108996,
+            4
+         ],
+         [
+            null,
+            null
+         ],
+         [
+            null,
+            null
+         ]
+      ],
+      "schools": 1,
+      "skill": [
+         171
+      ],
+      "source": [
+         7
+      ]
+   }
+},
+ {
+   "data": {
+      "cat": 2480,
+      "colors": [
+         0,
+         100,
+         100,
+         100
+      ],
+      "creates": [
+         113262,
+         10,
+         10
+      ],
+      "displayName": "Transmute: Sorcerous Fire to Water",
+      "id": 181628,
+      "learnedat": 100,
+      "level": 0,
+      "name": "Transmute: Sorcerous Fire to Water",
+      "nskillup": 1,
+      "quality": 2,
+      "reagents": [
+         [
+            113261,
+            10
+         ],
+         [
+            108996,
+            4
+         ],
+         [
+            null,
+            null
+         ],
+         [
+            null,
+            null
+         ]
+      ],
+      "schools": 1,
+      "skill": [
+         171
+      ],
+      "source": [
+         7
+      ]
+   }
+},
+ {
+   "data": {
+      "cat": 2480,
+      "colors": [
+         0,
+         100,
+         100,
+         100
+      ],
+      "creates": [
+         113264,
+         10,
+         10
+      ],
+      "displayName": "Transmute: Sorcerous Fire to Air",
+      "id": 181627,
+      "learnedat": 100,
+      "level": 0,
+      "name": "Transmute: Sorcerous Fire to Air",
+      "nskillup": 1,
+      "quality": 2,
+      "reagents": [
+         [
+            113261,
+            10
+         ],
+         [
+            108996,
+            4
+         ],
+         [
+            null,
+            null
+         ],
+         [
+            null,
+            null
+         ]
+      ],
+      "schools": 1,
+      "skill": [
+         171
+      ],
+      "source": [
+         7
+      ]
+   }
+},
+ {
+   "data": {
+      "cat": 2480,
+      "colors": [
+         0,
+         100,
+         100,
+         100
+      ],
+      "creates": [
+         113263,
+         10,
+         10
+      ],
+      "displayName": "Transmute: Sorcerous Fire to Earth",
+      "id": 181625,
+      "learnedat": 100,
+      "level": 0,
+      "name": "Transmute: Sorcerous Fire to Earth",
+      "nskillup": 1,
+      "quality": 2,
+      "reagents": [
+         [
+            113261,
+            10
+         ],
+         [
+            108996,
+            4
+         ],
+         [
+            null,
+            null
+         ],
+         [
+            null,
+            null
+         ]
+      ],
+      "schools": 1,
+      "skill": [
+         171
+      ],
+      "source": [
+         7
+      ]
+   }
+},
+ {
+   "data": {
+      "cat": 2480,
+      "colors": [
+         0,
+         100,
+         100,
+         100
+      ],
+      "creates": [
+         113262,
+         10,
+         10
+      ],
+      "displayName": "Transmute: Sorcerous Earth to Water",
+      "id": 181635,
+      "learnedat": 100,
+      "level": 0,
+      "name": "Transmute: Sorcerous Earth to Water",
+      "nskillup": 1,
+      "quality": 2,
+      "reagents": [
+         [
             113263,
-            10,
             10
          ],
-         "displayName":"Transmute: Sorcerous Air to Earth",
-         "id":181637,
-         "learnedat":1,
-         "level":0,
-         "name":"Transmute: Sorcerous Air to Earth",
-         "nskillup":1,
-         "quality":2,
-         "reagents":[
-            [
-               113264,
-               10
-            ],
-            [
-               108996,
-               4
-            ]
+         [
+            108996,
+            4
          ],
-         "schools":1,
-         "skill":[
-            171
+         [
+            null,
+            null
          ],
-         "source":[
-            7
+         [
+            null,
+            null
          ]
-      },
-      {
-         "cat":11,
-         "colors":[
-            0,
-            5,
-            7,
+      ],
+      "schools": 1,
+      "skill": [
+         171
+      ],
+      "source": [
+         7
+      ]
+   }
+},
+ {
+   "data": {
+      "cat": 2480,
+      "colors": [
+         0,
+         100,
+         100,
+         100
+      ],
+      "creates": [
+         113262,
+         10,
+         10
+      ],
+      "displayName": "Transmute: Sorcerous Air to Water",
+      "id": 181636,
+      "learnedat": 100,
+      "level": 0,
+      "name": "Transmute: Sorcerous Air to Water",
+      "nskillup": 1,
+      "quality": 2,
+      "reagents": [
+         [
+            113264,
             10
          ],
-         "creates":[
-            118472,
-            1,
-            1
+         [
+            108996,
+            4
          ],
-         "displayName":"Transmute: Savage Blood",
-         "id":181643,
-         "learnedat":5,
-         "level":0,
-         "name":"Transmute: Savage Blood",
-         "nskillup":1,
-         "quality":2,
-         "reagents":[
-            [
-               108996,
-               50
-            ],
-            [
-               109123,
-               7
-            ]
+         [
+            null,
+            null
          ],
-         "schools":1,
-         "skill":[
-            171
-         ],
-         "source":[
-            5
+         [
+            null,
+            null
          ]
-      },
-      {
-         "cat":11,
-         "colors":[
-            0,
-            1,
-            3,
-            5
+      ],
+      "schools": 1,
+      "skill": [
+         171
+      ],
+      "source": [
+         7
+      ]
+   }
+},
+ {
+   "data": {
+      "cat": 2480,
+      "colors": [
+         0,
+         100,
+         100,
+         100
+      ],
+      "creates": [
+         113261,
+         10,
+         10
+      ],
+      "displayName": "Transmute: Sorcerous Earth to Fire",
+      "id": 181632,
+      "learnedat": 100,
+      "level": 0,
+      "name": "Transmute: Sorcerous Earth to Fire",
+      "nskillup": 1,
+      "quality": 2,
+      "reagents": [
+         [
+            113263,
+            10
          ],
-         "creates":[
-            122601,
-            1,
-            1
+         [
+            108996,
+            4
          ],
-         "displayName":"Stone of Wind",
-         "id":181647,
-         "learnedat":1,
-         "level":0,
-         "name":"Stone of Wind",
-         "nskillup":1,
-         "quality":4,
-         "reagents":[
-            [
-               108996,
-               100
-            ],
-            [
-               113264,
-               5
-            ]
+         [
+            null,
+            null
          ],
-         "schools":1,
-         "skill":[
-            171
-         ],
-         "source":[
-            7
+         [
+            null,
+            null
          ]
-      },
-      {
-         "cat":11,
-         "colors":[
-            0,
-            2,
-            3,
-            5
+      ],
+      "schools": 1,
+      "skill": [
+         171
+      ],
+      "source": [
+         7
+      ]
+   }
+},
+ {
+   "data": {
+      "cat": 2480,
+      "colors": [
+         0,
+         100,
+         100,
+         100
+      ],
+      "creates": [
+         113263,
+         10,
+         10
+      ],
+      "displayName": "Transmute: Sorcerous Water to Earth",
+      "id": 181629,
+      "learnedat": 100,
+      "level": 0,
+      "name": "Transmute: Sorcerous Water to Earth",
+      "nskillup": 1,
+      "quality": 2,
+      "reagents": [
+         [
+            113262,
+            10
          ],
-         "creates":[
-            122602,
-            1,
-            1
+         [
+            108996,
+            4
          ],
-         "displayName":"Stone of the Earth",
-         "id":181648,
-         "learnedat":2,
-         "level":0,
-         "name":"Stone of the Earth",
-         "nskillup":1,
-         "quality":4,
-         "reagents":[
-            [
-               108996,
-               70
-            ],
-            [
-               118472,
-               15
-            ],
-            [
-               122601,
-               1
-            ],
-            [
-               113263,
-               15
-            ]
+         [
+            null,
+            null
          ],
-         "schools":1,
-         "skill":[
-            171
-         ],
-         "source":[
-            7
+         [
+            null,
+            null
          ]
-      },
-      {
-         "cat":11,
-         "colors":[
-            0,
-            3,
-            4,
-            5
+      ],
+      "schools": 1,
+      "skill": [
+         171
+      ],
+      "source": [
+         7
+      ]
+   }
+},
+ {
+   "data": {
+      "cat": 2480,
+      "colors": [
+         0,
+         1,
+         3,
+         5
+      ],
+      "creates": [
+         113263,
+         10,
+         10
+      ],
+      "displayName": "Transmute: Sorcerous Air to Earth",
+      "id": 181637,
+      "learnedat": 1,
+      "level": 0,
+      "name": "Transmute: Sorcerous Air to Earth",
+      "nskillup": 1,
+      "quality": 2,
+      "reagents": [
+         [
+            113264,
+            10
          ],
-         "creates":[
-            122603,
-            1,
-            1
+         [
+            108996,
+            4
          ],
-         "displayName":"Stone of the Waters",
-         "id":181649,
-         "learnedat":3,
-         "level":0,
-         "name":"Stone of the Waters",
-         "nskillup":1,
-         "quality":4,
-         "reagents":[
-            [
-               108996,
-               70
-            ],
-            [
-               118472,
-               15
-            ],
-            [
-               122602,
-               1
-            ],
-            [
-               113262,
-               15
-            ]
+         [
+            null,
+            null
          ],
-         "schools":1,
-         "skill":[
-            171
-         ],
-         "source":[
-            7
+         [
+            null,
+            null
          ]
-      },
-      {
-         "cat":11,
-         "colors":[
-            0,
-            4,
-            4,
-            5
-         ],
-         "creates":[
-            122604,
-            1,
-            1
-         ],
-         "displayName":"Stone of Fire",
-         "id":181650,
-         "learnedat":4,
-         "level":0,
-         "name":"Stone of Fire",
-         "nskillup":1,
-         "quality":4,
-         "reagents":[
-            [
-               108996,
-               70
-            ],
-            [
-               118472,
-               15
-            ],
-            [
-               122603,
-               1
-            ],
-            [
-               113261,
-               15
-            ]
-         ],
-         "schools":1,
-         "skill":[
-            171
-         ],
-         "source":[
-            7
-         ]
-      },
-      {
-         "cat":11,
-         "colors":[
-            0,
-            75,
-            87,
-            100
-         ],
-         "creates":[
-            116981,
-            1,
-            1
-         ],
-         "displayName":"Fire Ammonite Oil",
-         "id":172542,
-         "learnedat":75,
-         "level":0,
-         "name":"Fire Ammonite Oil",
-         "nskillup":1,
-         "quality":1,
-         "reagents":[
-            [
-               109141,
-               10
-            ]
-         ],
-         "schools":1,
-         "skill":[
-            171
-         ],
-         "source":[
-            7
-         ]
-      },
-      {
-         "cat":11,
-         "colors":[
-            0,
-            50,
-            75,
-            100
-         ],
-         "creates":[
-            116979,
-            1,
-            1
-         ],
-         "displayName":"Blackwater Anti-Venom",
-         "id":172541,
-         "learnedat":50,
-         "level":0,
-         "name":"Blackwater Anti-Venom",
-         "nskillup":1,
-         "quality":1,
-         "reagents":[
-            [
-               109144,
-               10
-            ]
-         ],
-         "schools":1,
-         "skill":[
-            171
-         ],
-         "source":[
-            7
-         ]
-      },
-      {
-         "cat":11,
-         "colors":[
-            0,
-            1,
-            25,
+      ],
+      "schools": 1,
+      "skill": [
+         171
+      ],
+      "source": [
+         7
+      ]
+   }
+},
+ {
+   "data": {
+      "cat": 2480,
+      "colors": [
+         0,
+         5,
+         7,
+         10
+      ],
+      "creates": [
+         118472,
+         1,
+         1
+      ],
+      "displayName": "Transmute: Savage Blood",
+      "id": 181643,
+      "learnedat": 5,
+      "level": 0,
+      "name": "Transmute: Savage Blood",
+      "nskillup": 1,
+      "quality": 2,
+      "reagents": [
+         [
+            108996,
             50
          ],
-         "creates":[
-            109223,
-            1,
+         [
+            109123,
+            7
+         ],
+         [
+            null,
+            null
+         ],
+         [
+            null,
+            null
+         ]
+      ],
+      "schools": 1,
+      "skill": [
+         171
+      ],
+      "source": [
+         5
+      ]
+   }
+},
+ {
+   "data": {
+      "cat": 2480,
+      "colors": [
+         0,
+         1,
+         3,
+         5
+      ],
+      "creates": [
+         122601,
+         1,
+         1
+      ],
+      "displayName": "Stone of Wind",
+      "id": 181647,
+      "learnedat": 1,
+      "level": 0,
+      "name": "Stone of Wind",
+      "nskillup": 1,
+      "quality": 4,
+      "reagents": [
+         [
+            108996,
+            100
+         ],
+         [
+            113264,
+            5
+         ],
+         [
+            null,
+            null
+         ],
+         [
+            null,
+            null
+         ]
+      ],
+      "schools": 1,
+      "skill": [
+         171
+      ],
+      "source": [
+         7
+      ]
+   }
+},
+ {
+   "data": {
+      "cat": 2480,
+      "colors": [
+         0,
+         2,
+         3,
+         5
+      ],
+      "creates": [
+         122602,
+         1,
+         1
+      ],
+      "displayName": "Stone of the Earth",
+      "id": 181648,
+      "learnedat": 2,
+      "level": 0,
+      "name": "Stone of the Earth",
+      "nskillup": 1,
+      "quality": 4,
+      "reagents": [
+         [
+            108996,
+            70
+         ],
+         [
+            118472,
+            15
+         ],
+         [
+            122601,
             1
          ],
-         "displayName":"Healing Tonic",
-         "id":172540,
-         "learnedat":1,
-         "level":0,
-         "name":"Healing Tonic",
-         "nskillup":1,
-         "quality":1,
-         "reagents":[
-            [
-               109142,
-               10
-            ]
-         ],
-         "schools":1,
-         "skill":[
-            171
-         ],
-         "source":[
-            7
+         [
+            113263,
+            15
          ]
-      }
-   ]
+      ],
+      "schools": 1,
+      "skill": [
+         171
+      ],
+      "source": [
+         7
+      ]
+   }
+},
+ {
+   "data": {
+      "cat": 2480,
+      "colors": [
+         0,
+         3,
+         4,
+         5
+      ],
+      "creates": [
+         122603,
+         1,
+         1
+      ],
+      "displayName": "Stone of the Waters",
+      "id": 181649,
+      "learnedat": 3,
+      "level": 0,
+      "name": "Stone of the Waters",
+      "nskillup": 1,
+      "quality": 4,
+      "reagents": [
+         [
+            108996,
+            70
+         ],
+         [
+            118472,
+            15
+         ],
+         [
+            122602,
+            1
+         ],
+         [
+            113262,
+            15
+         ]
+      ],
+      "schools": 1,
+      "skill": [
+         171
+      ],
+      "source": [
+         7
+      ]
+   }
+},
+ {
+   "data": {
+      "cat": 2480,
+      "colors": [
+         0,
+         4,
+         4,
+         5
+      ],
+      "creates": [
+         122604,
+         1,
+         1
+      ],
+      "displayName": "Stone of Fire",
+      "id": 181650,
+      "learnedat": 4,
+      "level": 0,
+      "name": "Stone of Fire",
+      "nskillup": 1,
+      "quality": 4,
+      "reagents": [
+         [
+            108996,
+            70
+         ],
+         [
+            118472,
+            15
+         ],
+         [
+            122603,
+            1
+         ],
+         [
+            113261,
+            15
+         ]
+      ],
+      "schools": 1,
+      "skill": [
+         171
+      ],
+      "source": [
+         7
+      ]
+   }
+},
+ {
+   "data": {
+      "cat": 2480,
+      "colors": [
+         0,
+         75,
+         87,
+         100
+      ],
+      "creates": [
+         116981,
+         1,
+         1
+      ],
+      "displayName": "Fire Ammonite Oil",
+      "id": 172542,
+      "learnedat": 75,
+      "level": 0,
+      "name": "Fire Ammonite Oil",
+      "nskillup": 1,
+      "quality": 1,
+      "reagents": [
+         [
+            109141,
+            10
+         ],
+         [
+            null,
+            null
+         ],
+         [
+            null,
+            null
+         ],
+         [
+            null,
+            null
+         ]
+      ],
+      "schools": 1,
+      "skill": [
+         171
+      ],
+      "source": [
+         7
+      ]
+   }
+},
+ {
+   "data": {
+      "cat": 2480,
+      "colors": [
+         0,
+         50,
+         75,
+         100
+      ],
+      "creates": [
+         116979,
+         1,
+         1
+      ],
+      "displayName": "Blackwater Anti-Venom",
+      "id": 172541,
+      "learnedat": 50,
+      "level": 0,
+      "name": "Blackwater Anti-Venom",
+      "nskillup": 1,
+      "quality": 1,
+      "reagents": [
+         [
+            109144,
+            10
+         ],
+         [
+            null,
+            null
+         ],
+         [
+            null,
+            null
+         ],
+         [
+            null,
+            null
+         ]
+      ],
+      "schools": 1,
+      "skill": [
+         171
+      ],
+      "source": [
+         7
+      ]
+   }
+},
+ {
+   "data": {
+      "cat": 2480,
+      "colors": [
+         0,
+         1,
+         25,
+         50
+      ],
+      "creates": [
+         109223,
+         1,
+         1
+      ],
+      "displayName": "Healing Tonic",
+      "id": 172540,
+      "learnedat": 1,
+      "level": 0,
+      "name": "Healing Tonic",
+      "nskillup": 1,
+      "quality": 1,
+      "reagents": [
+         [
+            109142,
+            10
+         ],
+         [
+            null,
+            null
+         ],
+         [
+            null,
+            null
+         ],
+         [
+            null,
+            null
+         ]
+      ],
+      "schools": 1,
+      "skill": [
+         171
+      ],
+      "source": [
+         7
+      ]
+   }
 }
+]
